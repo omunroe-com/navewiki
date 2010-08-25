@@ -32,9 +32,9 @@ and sure enough we can see our header merged to the output. In case you are wond
 
     $ coffee -epr ./ext.coffee '1 + 1'
 
-The path to the file is resolved using node.js hence the need to prepend it with `./`. If you want to avoid that, you can try:
+The path to the file is resolved using node.js hence the need to prepend it with `./`. If you want to avoid that, you can:
 
-  * Create all extensions under `~/.node_libraries/`
-  * Create a new directory under your profile `coffee_libraries` and add it to your `NODE_PATH`:
+  * create all extensions under `~/.node_libraries/`
+  * create a new directory under your profile `coffee_libraries` and add it to your `NODE_PATH`:
 
         export NODE_PATH="/home/your_username/.coffee_libraries:$NODE_PATH"
