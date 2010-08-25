@@ -1,4 +1,4 @@
-Welcome to the coffee-script wiki! Topics are organised by category below:
+Welcome to the Coffee-Script Wiki!
 
 ## Extensibility
 
