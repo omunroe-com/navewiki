@@ -28,13 +28,17 @@ In the script above we modify the `output` property before it is printed to `std
       1 + 1;
     })();
 
-and sure enough we can see our header merged to the output. In case you are wondering `-ep` is a shorthand for `--eval --print`. You can merge `--require` in there too:
+and sure enough we can see our header merged to the output. In case you are wondering what `-ep` is, it is a shorthand for `--eval --print`. You can also short-type `--require`:
 
     $ coffee -epr ./ext.coffee '1 + 1'
 
-The path to the file is resolved using node.js hence the need to prepend it with `./`. If you want to avoid that, you can:
+The path to `ext.coffee` is resolved using node.js hence the need to prepend it with `./`. If you want to avoid that, you can:
 
   * create all extensions under `~/.node_libraries/`
   * create a new directory under your profile `coffee_libraries` and add it to your `NODE_PATH`:
 
         export NODE_PATH="/home/your_username/.coffee_libraries:$NODE_PATH"
+
+If you do any of the above, you can omit the `.coffee` extension as well:
+
+    $ coffee -epr ext '1 + 1'
