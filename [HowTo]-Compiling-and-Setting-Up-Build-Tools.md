@@ -83,6 +83,38 @@ The `build` task launches the command we used earlier and waits for it to comple
 
 ## Concatenating Files (client-side applications)
 
-If you are working on a browser application, you may want to concatenate all your files into one and serve that instead. The caveat here is you should concatenate all your source `*.coffee` files before you compile them. If you simply concatenate the resulting `*.js` files, you end up with a closure for each file and duplication of utility functions (CoffeeScript produces these when extending classes, binding functions, etc.)
+If you are working on a browser application you may want to concatenate all your files into one and serve that instead. The caveat here is you should concatenate all your source `*.coffee` files before you compile them. If you simply concatenate the resulting `*.js` files, you end up with a closure for each file and duplication of utility functions (CoffeeScript produces these when extending classes, binding functions, etc.)
 
-When we are dealing with multiple files, ordering usually matters unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define a list of files we want to process to build our application file.
+When we are dealing with multiple files, ordering usually matters unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define a list of files we want to process to build our application file:
+
+```coffeescript
+
+fs     = require 'fs'
+{exec} = require 'child_process'
+
+appFiles  = [
+  'content/scripts/statusbar'
+  'content/scripts/command/quickMacro'
+  'content/scripts/command/selectionTools/general'
+]
+
+task 'build', 'Build single application file from source files', ->
+  available   = 0
+  appContents = new Array appFiles.length
+  for file, index in appFiles
+    fs.readFile "src/#{file}.coffee", 'utf8', (err, fileContents) ->
+      throw err if err
+      appContents[index] = fileContents
+      process() if ++available is appFiles.length
+  process = ->
+    fs.writeFile 'lib/app.coffee', appContents.join('\n\n'), 'utf8', (err) ->
+      throw err if err
+      exec 'coffee --compile lib/app.coffee', (err, stdout, stderr) ->
+        throw err if err
+        print stdout + stderr
+        fs.unlink 'lib/app.coffee', (err) ->
+          throw err if err
+          puts 'Done.'
+```
+
+We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
