@@ -1,3 +1,5 @@
+<font color="#888888">**What is this page about?**</font> In this article you will learn how to set up your own build tools for either the server- or client-side. In the process, we will automate the task of compiling your `*.js` files from `*.coffee`. You will also learn how to concatenate, compile and minify your application so it results in one very optimised file you can serve to browsers.</font> 
+
 ## Prerequisites
 
 `cake` is `coffee`'s little sister (or so I picture things). If you installed CoffeeScript using `npm` then you should already have access to it. If you used `cake install` you have in fact had first-hand experience with the tool.
