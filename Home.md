@@ -24,7 +24,7 @@ include =  (klass, mixin) ->
   extend klass.prototype, mixin
 ```
 
-    Solution (2) courtesy of [sethaurus](http://github.com/sethaurus):
+  Solution (2) courtesy of [sethaurus](http://github.com/sethaurus):
 
 ```coffeescript
 implementing = (mixins..., classReference) ->
@@ -37,4 +37,4 @@ Button = implementing Options, Events, class _Button
   onClick: -> # do stuff
 ```
 
-    If you are thinking of opening up a new issue, please read these first: #218, #327, #344, #452 and #636.
+  If you are thinking of opening up a new issue, please read these first: #218, #327, #344, #452 and #636.
