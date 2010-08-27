@@ -13,7 +13,9 @@ Welcome to the CoffeeScript Wiki!
 
   * **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
 
-    **A:** The short answer is **no**. You can do any of the above using helpers, some of which have been listed below:
+    **A:** The short answer is **no**. You can do any of the above using helpers.
+
+  Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
 
 ```coffeescript
 extend = (obj, mixin) ->
