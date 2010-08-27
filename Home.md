@@ -40,8 +40,8 @@ Button = implementing Options, Events, class _Button
 ```
 
   If you are thinking of opening up a new issue, please read these first: 
-[http://github.com/jashkenas/coffee-script/issues/218](#218), 
-[http://github.com/jashkenas/coffee-script/issues/327](#327), 
-[http://github.com/jashkenas/coffee-script/issues/344](#344), 
-[http://github.com/jashkenas/coffee-script/issues/452](#452) and 
-[http://github.com/jashkenas/coffee-script/issues/636](#636).
+[#218](http://github.com/jashkenas/coffee-script/issues/218), 
+[#327](http://github.com/jashkenas/coffee-script/issues/327), 
+[#344](http://github.com/jashkenas/coffee-script/issues/344), 
+[#452](http://github.com/jashkenas/coffee-script/issues/452) and 
+[#636](http://github.com/jashkenas/coffee-script/issues/636).
