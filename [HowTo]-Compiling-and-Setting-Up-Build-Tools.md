@@ -71,10 +71,12 @@ Let's move on and create our compile task inside a new `Cakefile` under our proj
 
 Paste the following code inside:
 
-    {exec} = require 'child_process'
-    task 'build', 'Build project from src/*.coffee to lib/*.js', ->
-      exec 'coffee --compile --output lib/ src/', (err, stdout, stderr) ->
-        throw err if err
-        print stdout + stderr
+```coffeescript
+{exec} = require 'child_process'
+task 'build', 'Build project from src/*.coffee to lib/*.js', ->
+  exec 'coffee --compile --output lib/ src/', (err, stdout, stderr) ->
+    throw err if err
+    print stdout + stderr
+```
 
 The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (usually none so add your own) or throws an exception should `coffee` have exited with a status code greater than **0** (indicating a compilation failure).
