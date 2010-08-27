@@ -1,4 +1,4 @@
-<font color="#888888">**What is this page about?**</font> In this article you will learn how to set up your own build tools for either the server- or client-side. In the process, we will automate the task of compiling your `*.js` files from `*.coffee`. You will also learn how to concatenate, compile and minify your application so it results in one very optimised file you can serve to browsers.</font> 
+<font color="#888888">**What is this page about?**</font> In this article you will learn how to set up your own build tools for either the server- or client-side. In the process we will automate the task of compiling your `*.js` files from `*.coffee`. You will also learn how to concatenate, compile and minify your application so it results in one very optimised file you can serve to browsers.</font> 
 
 ## Prerequisites
 
