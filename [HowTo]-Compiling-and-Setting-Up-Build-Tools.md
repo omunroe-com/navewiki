@@ -30,15 +30,15 @@ This should return immediately without printing anything to `stdout`.
 
 ## Hello World!
 
-Yes, we are going for the infamous *Hello World* example, but with a spin -- inside a `Cakefile`. If you have worked with `rake` or `make` then you should already have an idea of how things work. You define a task and use `cake [task name]` to execute it. Let's get started:
+Yes, we are doing the infamous *Hello World* example but with a spin -- inside a `Cakefile`. If you have worked with `rake` or `make` then you should already have an idea of how things work. You define a task and use `cake [task name]` to execute it. Let's get started:
 
     $ cd ~
     $ vim Cakefile
 
-Define our task as `say:hello`:
+Define the task as `say:hello`:
 
 ```coffeescript
-task 'say:hello', 'Description of task say:hello', ->
+task 'say:hello', 'Description of task', ->
   puts 'Hello World!'
 ```
 
@@ -47,10 +47,34 @@ Save and exit back to the shell. Next, let's run our newly created task:
     $ cake say:hello
     Hello World!
 
-If you run `cake` without any arguments, i.e., no task name you would get a list of all available tasks and their description, neat!
+Running `cake` again but without any arguments you get a list of all available tasks and their description:
 
     $ cake
 
-    cake say:hello             # Description of task say:hello
+    cake say:hello             # Description of task
 
-Try running `cake` inside CoffeeScript's main directory, observe the same behaviour (but different tasks).
+Try running `cake` inside CoffeeScript's main directory, observe the output.
+
+## Setting Up a Task to Compile Scripts
+
+Using `coffee` on the command-line allows you to compile a directory recursively and output all resulting JavaScript files to another directory. Let's see how we can do that:
+
+    $ cd ~/public/coffee-script
+    $ coffee --compile --output lib/ src/
+
+The above command will compile all `src/*.coffee` files to `lib/*.js`. While working on your application you may have different directories from the ones used above, but for the sake of this example we will assume `src` and `lib`.
+
+Let's move on and create our compile task inside a new `Cakefile` under our project's main directory:
+
+    $ cd ~/projects/my-coffee-script-project
+    $ vim Cakefile
+
+Paste the following code inside:
+
+    {exec} = require 'child_process'
+    task 'build', 'Build project from src/*.coffee to lib/*.js', ->
+      exec 'coffee --compile --output lib/ src/', (err, stdout, stderr) ->
+        throw err if err
+        print stdout + stderr
+
+The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (usually none so add your own) or throws an exception should `coffee` have exited with a status code greater than **0** (indicating a compilation failure).
