@@ -1,5 +1,7 @@
 Want to help out making CoffeeScript even better? May we suggest some areas where you can help CoffeeScript.
 
+<font color="red">**This page requires attention. Topics covered below lack detail and need further clarification. Please consider editing this page and help us out in improving the Wiki!**</font>
+
 ## Simple stuff
 
 * Learn CoffeeScript and blog about it
