@@ -1,6 +1,6 @@
 Welcome to the CoffeeScript Wiki!
 
-[[Want to help CoffeeScript? Read about contributing!|Contributing]]
+[[Want to help CoffeeScript? Read about contributing!|[Contributing] Want to help CoffeeScript?]]
 
 
 ## Extensibility
