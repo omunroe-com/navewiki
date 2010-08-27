@@ -1,3 +1,5 @@
+<font color="red">**This page is work-in-progress. Please check back later**</font>
+
 ## Prerequisites
 
 `cake` is `coffee`'s little sister (or so I picture things). If you installed CoffeeScript using `npm` then you should already have access to it. If you used `cake install` you have in fact had first-hand experience with the tool.
@@ -8,9 +10,9 @@ If you have symlinked `bin/coffee` to a new location on your `$PATH` then you sh
 
 The above assumes `/usr/local/bin` is in your `$PATH`.
 
-## A basic Cakefile
+## An empty Cakefile
 
-Running `cake` outside of Coffee's home directory is much likely to end up throwing an exception and printing out a stack trace. If you look closely, you can see why things don't work just yet:
+Running `cake` outside of CoffeeScript's main directory is much likely to end up throwing an exception and printing out a stack trace. If you look closely, you can see why things don't work just yet:
 
     Error: Cakefile not found in /home/stan/
 
