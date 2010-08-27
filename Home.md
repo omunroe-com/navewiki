@@ -5,7 +5,7 @@ Welcome to the CoffeeScript Wiki!
 
 ## How-to's
 
- * [[Compiling, concatenating and creating build tools using `Cakefile`|[How-to] Compiling & Build Tools]]
+ * [[Compiling, concatenating and creating build tools using cake|[How-to] Compiling & Build Tools]]
 
 
 ## Extensibility
