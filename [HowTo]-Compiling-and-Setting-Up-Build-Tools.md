@@ -129,3 +129,7 @@ task 'minify', 'Minify the resulting application file after build', ->
 ```
 
 The above executes [Google's Closure Compiler](http://code.google.com/closure/compiler/). You can easily tweak it to call the [YUI Compressor](http://developer.yahoo.com/yui/compressor/) or any other command-line utility.
+
+## Task Options
+
+Tasks in `Cakefile`s can have options. This is important if you want to be able to provide parameters such as the target environment (production, development, etc.), source or target directory, etc. For more information, [check out CoffeeScript's own Cakefile](http://github.com/jashkenas/coffee-script/blob/master/Cakefile#L21).
