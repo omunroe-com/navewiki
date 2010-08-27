@@ -1,5 +1,3 @@
-<font color="red">**This page is work-in-progress. Please check back later**</font>
-
 ## Prerequisites
 
 `cake` is `coffee`'s little sister (or so I picture things). If you installed CoffeeScript using `npm` then you should already have access to it. If you used `cake install` you have in fact had first-hand experience with the tool.
@@ -133,3 +131,9 @@ The above executes [Google's Closure Compiler](http://code.google.com/closure/co
 ## Task Options
 
 Tasks in `Cakefile`s can have options. This is important if you want to be able to provide parameters such as the target environment (production, development, etc.), source or target directory, etc. For more information, [check out CoffeeScript's own Cakefile](http://github.com/jashkenas/coffee-script/blob/master/Cakefile#L21).
+
+## Conclusion
+
+You should be fairly comfortable writing your own `Cakefile`s at this point. Study the `coffee` binary and all its available options (`coffee --help`). By using node.js and the `child_process.exec` method you can automate much/all of your build process.
+
+If you find this page to be missing information on a particular topic or an issue you are running into, please feel free to edit it.
