@@ -39,9 +39,9 @@ Button = implementing Options, Events, class _Button
   onClick: -> # do stuff
 ```
 
-  If you are thinking of opening up a new issue, please read these first: 
+  If you want to learn more, please read these issues on the tracker: 
 [#218](http://github.com/jashkenas/coffee-script/issues/218), 
 [#327](http://github.com/jashkenas/coffee-script/issues/327), 
 [#344](http://github.com/jashkenas/coffee-script/issues/344), 
 [#452](http://github.com/jashkenas/coffee-script/issues/452) and 
-[#636](http://github.com/jashkenas/coffee-script/issues/636).
+[#636](http://github.com/jashkenas/coffee-script/issues/636). They should have all the pros and cons and why mixins are not part of the core language.
