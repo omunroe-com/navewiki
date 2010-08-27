@@ -3,7 +3,7 @@ Welcome to the CoffeeScript Wiki!
 [[Want to help CoffeeScript? Read about contributing!|[Contributing] Help CoffeeScript]]
 
 
-## How-to's
+## How-To's
 
  * [[Compiling, Concatenating and Setting Up Build Tools Using Cake|[HowTo] Compiling and Setting Up Build Tools]]
 
