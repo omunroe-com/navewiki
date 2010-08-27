@@ -24,6 +24,12 @@ for name, method of mixin
 
 include =  (klass, mixin) ->
   extend klass.prototype, mixin
+
+class Button
+  onClick: -> # do stuff
+
+include Button, Options
+include Button, Events
 ```
 
   Solution (2) courtesy of [sethaurus](http://github.com/sethaurus):
