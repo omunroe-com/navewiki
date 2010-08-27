@@ -5,12 +5,12 @@ Welcome to the CoffeeScript Wiki!
 
 ## How-to's
 
- * [[Compiling, concatenating and setting up build tools using cake|[HowTo] Compiling and Setting Up Build Tools]]
+ * [[Compiling, Concatenating and Setting Up Build Tools Using Cake|[HowTo] Compiling and Setting Up Build Tools]]
 
 
 ## Extensibility
 
- * [[Hooking into the command-line compiler|[Extensibility] Hooking into the command-line compiler]]
+ * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
 
 
 ## FAQs
