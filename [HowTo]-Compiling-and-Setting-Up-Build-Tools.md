@@ -47,7 +47,7 @@ Save and exit back to the shell. Next, let's run our newly created task:
     $ cake say:hello
     Hello World!
 
-Running `cake` again but without any arguments you get a list of all available tasks and their description:
+Running `cake` again but without any arguments, you get a list of all available tasks and their description:
 
     $ cake
 
@@ -57,19 +57,19 @@ Try running `cake` inside CoffeeScript's main directory, observe the output.
 
 ## Setting Up a Task to Compile Scripts (server-side applications)
 
-Using `coffee` on the command-line allows you to compile a directory recursively and output all resulting JavaScript files to another directory. Let's see how we can do that:
+Using `coffee` on the command-line allows you to compile a directory recursively and output all resulting JavaScript files to another directory while preserving the structure. Let's see how we can do that:
 
     $ cd ~/public/coffee-script
     $ coffee --compile --output lib/ src/
 
 The above command will compile all `src/*.coffee` files to `lib/*.js`. While working on your application you may have different directories from the ones used above, but for the sake of this example we will assume `src` and `lib`.
 
-Let's move on and create our compile task inside a new `Cakefile` under our project's main directory:
+Let's move on. Create our compile task inside a new `Cakefile` under our project's main directory:
 
     $ cd ~/projects/my-coffee-script-project
     $ vim Cakefile
 
-Paste the following code inside:
+Paste the following code:
 
 ```coffeescript
 {exec} = require 'child_process'
@@ -79,19 +79,20 @@ task 'build', 'Build project from src/*.coffee to lib/*.js', ->
     print stdout + stderr
 ```
 
-The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (usually none so add your own) or throws an exception should `coffee` have exited with a status code greater than **0** (indicating a compilation failure).
+The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (nothing usually so add your own indicators) or throws an exception should `coffee` have exited with a status code greater than *0* indicating a compilation failure.
 
 ## Concatenating Files (client-side applications)
 
 If you are working on a browser application you may want to concatenate all your files into one and serve that instead. The caveat here is you should concatenate all your source `*.coffee` files before you compile them. If you simply concatenate the resulting `*.js` files, you end up with a closure for each file and duplication of utility functions (CoffeeScript produces these when extending classes, binding functions, etc.)
 
-When we are dealing with multiple files, ordering usually matters unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define a list of files we want to process to build our application file:
+When we are dealing with multiple files, ordering usually matters unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define an ordered list of files we want to process to build our application file:
 
 ```coffeescript
 fs     = require 'fs'
 {exec} = require 'child_process'
 
 appFiles  = [
+  # omit src/ and .coffee to make the below lines a little shorter
   'content/scripts/statusbar'
   'content/scripts/command/quickMacro'
   'content/scripts/command/selectionTools/general'
@@ -117,7 +118,7 @@ task 'build', 'Build single application file from source files', ->
 
 We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
 
-## Minifications/Compress Your Files
+## Minify/Compress Your Files
 
 You can easily extend your `Cakefile` to include a task which calls to a compression utility once your `*.js` files have been generated:
 
@@ -132,7 +133,12 @@ The above executes [Google's Closure Compiler](http://code.google.com/closure/co
 
 ## Task Options
 
-Tasks in `Cakefile`s can have options. This is important if you want to be able to provide parameters such as the target environment (production, development, etc.), source or target directory, etc. For more information, [check out CoffeeScript's own Cakefile](http://github.com/jashkenas/coffee-script/blob/master/Cakefile#L21).
+Tasks in `Cakefile`s can take options. This is important if you want to be able to provide parameters such as the target environment (e.g., *production* or *development*), source or target directory, etc. For more information, [check out CoffeeScript's own Cakefile](http://github.com/jashkenas/coffee-script/blob/master/Cakefile#L21). If you rely on options, make sure you always have sensible defaults in place:
+
+```coffeescript
+task 'task:withDefaults', 'Description of task', (options) ->
+  options.environment or= 'production'
+```
 
 ## Conclusion
 
