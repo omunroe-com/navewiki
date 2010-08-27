@@ -88,7 +88,6 @@ If you are working on a browser application you may want to concatenate all your
 When we are dealing with multiple files, ordering usually matters unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define a list of files we want to process to build our application file:
 
 ```coffeescript
-
 fs     = require 'fs'
 {exec} = require 'child_process'
 
@@ -99,13 +98,12 @@ appFiles  = [
 ]
 
 task 'build', 'Build single application file from source files', ->
-  available   = 0
-  appContents = new Array appFiles.length
+  appContents = new Array remaining = appFiles.length
   for file, index in appFiles
     fs.readFile "src/#{file}.coffee", 'utf8', (err, fileContents) ->
       throw err if err
       appContents[index] = fileContents
-      process() if ++available is appFiles.length
+      process() if --remaining is 0
   process = ->
     fs.writeFile 'lib/app.coffee', appContents.join('\n\n'), 'utf8', (err) ->
       throw err if err
@@ -118,3 +116,16 @@ task 'build', 'Build single application file from source files', ->
 ```
 
 We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
+
+## Minifications/Compress Your Files
+
+You can easily extend your `Cakefile` to include a task which calls to a compression utility once your `*.js` files have been generated:
+
+```coffeescript
+task 'minify', 'Minify the resulting application file after build', ->
+  exec 'java -jar "/home/stan/public/compiler.jar" --js lib/app.js --js_output_file lib/app.production.js', (err, stdout, stderr) ->
+    throw err if err
+    print stdout + stderr
+```
+
+The above executes [Google's Closure Compiler](http://code.google.com/closure/compiler/). You can easily tweak it to call the [YUI Compressor](http://developer.yahoo.com/yui/compressor/) or any other command-line utility.
