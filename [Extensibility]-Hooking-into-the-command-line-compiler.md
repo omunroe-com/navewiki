@@ -1,3 +1,5 @@
+<font color="#888888">**What is this page about?**</font> In this article you will learn how you can listen for various events at compile time. Using the information here you can build scripts that connect CoffeeScript in watch mode with utilities such as Growl.</font>
+ 
 ## Compatibility
 
 Since version [0.9.1](http://github.com/jashkenas/coffee-script/tree/0.9.1) the compiler takes a `--require` flag, which specifies files to include before compilation. 
