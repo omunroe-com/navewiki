@@ -14,6 +14,7 @@ Welcome to the CoffeeScript Wiki!
 
 
 ## Community
+
 * [[Libraries using CoffeeScript][Libraries] Libraries using CoffeeScript]]
 
 ## FAQs
