@@ -13,9 +13,6 @@ Welcome to the CoffeeScript Wiki!
 * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
 
 
-## Community
-* [[Libraries using CoffeeScript]]
-
 ## FAQs
 *(these will be separated in a new page as content gets added)*
 
