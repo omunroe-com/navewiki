@@ -82,7 +82,7 @@ class Options
   set: (key, value) -> @[key] = value
 
 class Huggable
-  @owner: '<null>'
+  owner: '<null>'
   hug:    -> @say "#{@name} hugs #{@owner}."
 
 Cat = Class Animal, implements [Options, Huggable]
