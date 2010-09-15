@@ -52,7 +52,7 @@ This compiles to fairly simple JavaScript:
 
 ```javascript
 extend(a, using(b));
-````
+```
 
 To implement this we only need a few lines of CoffeeScript:
 
@@ -60,4 +60,36 @@ To implement this we only need a few lines of CoffeeScript:
 # Implementation
 using  = (obj) -> obj
 extend = (obj, using) -> (obj[key] = value) for key, value of using
+```
+
+### Going a step further
+
+With just a few tips and you can already start building your own awesome DSL. How about classes with mixins?
+
+```coffeescript
+implements = (list) -> item:: for item in list
+Class = (base, implements) -> (properties) ->
+  class _ extends base
+  (_::[name] = value) for name, value of properties if properties
+  (_::[name] = value) for name, value of item for item in implements if implements
+  _
+
+class Animal
+  name: '<Animal>'
+  say:  (what) -> puts what
+
+class Options
+  set: (key, value) -> @[key] = value
+
+class Huggable
+  @owner: '<null>'
+  hug:    -> @say "#{@name} hugs #{@owner}."
+
+Cat = Class Animal, implements [Options, Huggable]
+  name: '<Cat>'
+
+molly = new Cat
+molly.set 'name', 'Molly'
+molly.set 'owner', 'Stan'
+molly.hug()  # Molly hugs Stan.
 ```
