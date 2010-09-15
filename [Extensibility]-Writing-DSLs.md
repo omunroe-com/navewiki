@@ -1,3 +1,5 @@
+<font color="red">**This page requires attention. Please help by fixing typos, broken examples, rewriting bits of text, etc. Consider editing this page and help us out in improving the Wiki!**</font>
+
 The CoffeeScript grammar is pretty flexible when it comes to writing a DSL. Implicit parentheses, commas and objects combine to give you an expressive language which compiles to good old JavaScript. The examples on this page assume a good level of knowledge of CoffeeScript.
 
 ### Implicit objects can be nested below a function call
@@ -67,13 +69,15 @@ extend = (obj, using) -> (obj[key] = value) for key, value of using
 With just a few tips and you can already start building your own awesome DSL. How about classes with mixins?
 
 ```coffeescript
+# Implementation
 implements = (list) -> item:: for item in list
 Class = (base, implements) -> (properties) ->
   class _ extends base
-  (_::[name] = value) for name, value of properties if properties
   (_::[name] = value) for name, value of item for item in implements if implements
+  (_::[name] = value) for name, value of properties if properties
   _
 
+# Usage
 class Animal
   name: '<Animal>'
   say:  (what) -> puts what
@@ -85,9 +89,11 @@ class Huggable
   owner: '<null>'
   hug:    -> @say "#{@name} hugs #{@owner}."
 
+# DSL
 Cat = Class Animal, implements [Options, Huggable]
   name: '<Cat>'
 
+# Usage
 molly = new Cat
 molly.set 'name', 'Molly'
 molly.set 'owner', 'Stan'
