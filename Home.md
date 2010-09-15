@@ -11,6 +11,7 @@ Welcome to the CoffeeScript Wiki!
 ## Extensibility
 
 * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
+* [[Writing DSLs|[Extensibility] Writing DSLs]]
 
 
 ## FAQs
