@@ -13,7 +13,7 @@ describe 'Whiskey'
   brand: 'Jack'
 
 # Usage
-glass = new Whiskey()
+glass = new Whiskey
 puts glass.age  # 18
 ```
 
