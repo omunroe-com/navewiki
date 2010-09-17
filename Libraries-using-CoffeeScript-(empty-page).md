@@ -1,1 +1,3 @@
-<font color="red">**This page requires attention. Please add some content before linking here from the main page.**</font>
+# Libraries Using CoffeeScript
+
+ * [node-ec2](http://bigeasy.github.com/node-ec2/) - Evended Node.js bindings to the EC2 Query API.
