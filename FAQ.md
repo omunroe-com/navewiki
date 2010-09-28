@@ -4,12 +4,6 @@
    **A:** No, there is no easy and quick way to allow negative variables b/c `array[i]` could really be `object[property]`. Example of the problem:
 
 ```coffeescript
-last: array[-1]
-```
-
-The above works, but below does not...
-
-```coffeescript
 i: -1
 last: array[i]
 ```
