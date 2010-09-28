@@ -1,5 +1,24 @@
-## Classes & Objects
-   **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
+Welcome to the CoffeeScript Wiki!
+
+[[Want to help CoffeeScript? Read about contributing!|[Contributing] Help CoffeeScript]]
+
+
+## How-To's
+
+* [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
+
+
+## Extensibility
+
+* [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
+* [[Writing DSLs|[Extensibility] Writing DSLs]]
+
+
+## FAQs
+*(these will be separated in a new page as content gets added)*
+
+  * **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
+
     **A:** The short answer is **no**. You can do any of the above using helpers.
 
   Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
