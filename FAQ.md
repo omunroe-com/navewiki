@@ -8,21 +8,21 @@ Considering proposing a feature for Coffeescript? Great! We'd love to hear your 
 
   **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
 
-  ```coffeescript
-  index = -1
-  last = array[index]
-  ```
+```coffeescript
+index = -1
+last = array[index]
+```
 
   Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is an Array or not.
   
-  * **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
+* **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
 
-    **A:** For consistency's sake, no. And if the value of `index` is negative itself, things start getting awfully confusing.
+  **A:** For consistency's sake, no. And if the value of `index` is negative itself, things start getting awfully confusing.
 
-Read the following issues for earlier discussion:
-[#272](http://github.com/jashkenas/coffee-script/issues/272), 
-[#681](http://github.com/jashkenas/coffee-script/issues/681),
-[#621](http://github.com/jashkenas/coffee-script/issues/621)
+  Read the following issues for earlier discussion:
+  [#272](http://github.com/jashkenas/coffee-script/issues/272), 
+  [#681](http://github.com/jashkenas/coffee-script/issues/681),
+  [#621](http://github.com/jashkenas/coffee-script/issues/621)
 
 ## Functions
 
