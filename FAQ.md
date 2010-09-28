@@ -1,19 +1,28 @@
-## Misc
-   **Q:** Can I use negative array indices?
+Considering proposing a feature for Coffeescript? Great! We'd love to hear your thoughts on how the language could be improved. However, it's important that you make sure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
 
-   **A:** No, there is no easy and quick way to allow negative variables b/c `array[i]` could really be `object[property]`. Example of the problem:
+## Static Analysis
+
+Coffeescript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.
+
+  * **Q:** Can I use negative array indices as in Ruby and Python?
+  
+  **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
 
 ```coffeescript
-i = -1
-last = array[i]
+index = -1
+last = array[index]
 ```
+  
+  * **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
+  
+  **A:** For consistency's sake, no. Especially if the value of `index` is negative itself.
 
-Read the following issues for more information: 
+Read the following issues for earlier discussion: #272
 [#272](http://github.com/jashkenas/coffee-script/issues/272), 
 [#681](http://github.com/jashkenas/coffee-script/issues/681),
 [#621](http://github.com/jashkenas/coffee-script/issues/621)
 
-
+## Misc
    **Q:** Can I use default parameters like `func = (param = 1) -> `?
   
    **A:** No,  because they would significantly complicate the grammar and have the potential to look really confusing within function assignments. The following issues highlight the confusion/complications: [#30](http://github.com/jashkenas/coffee-script/issues/30), 
