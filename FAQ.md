@@ -46,7 +46,10 @@ This is a much clearer format. These issues highlight the primary arguments for 
     **A:** There was, but it was removed. It was decided that binding belonged outside of the realm of the language. Use an appropriate library like Prototype's `Function::bind`, or roll your own:
 
 ```coffeescript
-bind = (fn, cxt, defargs...) -> (args...) -> fn.apply cxt, defargs.concat args
+unless Function::bind?
+  Function::bind = (scope,args...) ->
+    self = this
+    -> self.apply scope, args.concat.apply(args,arguments)
 ```
 
 ## Misc
