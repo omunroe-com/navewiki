@@ -4,16 +4,16 @@ Considering proposing a feature for Coffeescript? Great! We'd love to hear your 
 
 *Coffeescript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.*
 
-  * **Q:** Can I use negative array indices as in Ruby and Python?
+* **Q:** Can I use negative array indices as in Ruby and Python?
 
-    **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
+  **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
 
-```coffeescript
-index = -1
-last = array[index]
-```
+  ```coffeescript
+  index = -1
+  last = array[index]
+  ```
 
-Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is an Array or not.
+  Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is an Array or not.
   
   * **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
 
