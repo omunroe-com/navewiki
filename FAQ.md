@@ -2,11 +2,11 @@ Considering proposing a feature for Coffeescript? Great! We'd love to hear your 
 
 ## Static Analysis
 
-Coffeescript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.
+*Coffeescript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.*
 
   * **Q:** Can I use negative array indices as in Ruby and Python?
   
-  **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
+    **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
 
 ```coffeescript
 index = -1
@@ -15,9 +15,9 @@ last = array[index]
   
   * **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
   
-  **A:** For consistency's sake, no. Especially if the value of `index` is negative itself.
+    **A:** For consistency's sake, no. Especially if the value of `index` is negative itself.
 
-Read the following issues for earlier discussion: #272
+Read the following issues for earlier discussion:
 [#272](http://github.com/jashkenas/coffee-script/issues/272), 
 [#681](http://github.com/jashkenas/coffee-script/issues/681),
 [#621](http://github.com/jashkenas/coffee-script/issues/621)
