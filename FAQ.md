@@ -81,12 +81,12 @@ Button = implementing Options, Events, class _Button
 * Private properties
 
 
-## Unsupported features due to platform specificity
+## Unsupported features
    **Q:** Will you add feature X where feature X depends on a platform?
  
-   **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). The following represents a non-inclusive list of features that will not be implemented:
+   **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
 
-* forEach
-* getters & setters
-* Function#bind
-* yield
+   **Q:** What about extending native objects to allow for things such as `forEach` and `Function.bind` ?
+
+   **A:** The rule here is to not extend native objects.
+
