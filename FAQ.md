@@ -4,8 +4,8 @@
    **A:** No, there is no easy and quick way to allow negative variables b/c `array[i]` could really be `object[property]`. Example of the problem:
 
 ```coffeescript
-i: -1
-last: array[i]
+i = -1
+last = array[i]
 ```
 
 Read the following issues for more information: 
@@ -53,7 +53,7 @@ include Button, Events
 implementing = (mixins..., classReference) ->
   for mixin in mixins
     for key, value of mixin::
-      (classReference::)[key] = value
+      classReference::[key] = value
   classReference
 
 Button = implementing Options, Events, class _Button
@@ -86,7 +86,7 @@ Button = implementing Options, Events, class _Button
  
    **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
 
-   **Q:** What about extending native objects to allow for things such as `forEach` and `Function.bind` ?
+   **Q:** What about extending native objects to allow for things such as `Array#forEach` and `Function#bind` ?
 
    **A:** The rule here is to not extend native objects.
 
