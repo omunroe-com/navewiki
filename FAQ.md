@@ -1,0 +1,98 @@
+## Misc
+   **Q:** Can I use negative array indices?
+
+   **A:** No, there is no easy and quick way to allow negative variables b/c `array[i]` could really be `object[property]`. Example of the problem:
+
+```coffeescript
+last: array[-1]
+```
+
+The above works, but below does not...
+
+```coffeescript
+i: -1
+last: array[i]
+```
+
+Read the following issues for more information: 
+[#272](http://github.com/jashkenas/coffee-script/issues/272), 
+[#681](http://github.com/jashkenas/coffee-script/issues/681),
+[#621](http://github.com/jashkenas/coffee-script/issues/621)
+
+
+   **Q:** Can I use default parameters like `func = (param = 1) -> `?
+  
+   **A:** No,  because they would significantly complicate the grammar and have the potential to look really confusing within function assignments. The following issues highlight the confusion/complications: [#30](http://github.com/jashkenas/coffee-script/issues/30), 
+[#16](http://github.com/jashkenas/coffee-script/issues/16),
+[#92](http://github.com/jashkenas/coffee-script/issues/92)
+
+   **Q:** Why can't I use `with`?
+
+   **A:** [Because Douglas Crockford says so](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) and [#344](http://github.com/jashkenas/coffee-script/issues/344), 
+[#620](http://github.com/jashkenas/coffee-script/issues/620)
+
+## Classes
+   **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
+
+   **A:** The short answer is **no**. You can do any of the above using helpers.
+
+  Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
+
+```coffeescript
+extend = (obj, mixin) ->
+  for name, method of mixin
+    obj[name] = method
+
+include =  (klass, mixin) ->
+  extend klass.prototype, mixin
+
+class Button
+  onClick: -> # do stuff
+
+include Button, Options
+include Button, Events
+```
+
+  Solution (2) courtesy of [sethaurus](http://github.com/sethaurus):
+
+```coffeescript
+implementing = (mixins..., classReference) ->
+  for mixin in mixins
+    for key, value of mixin::
+      (classReference::)[key] = value
+  classReference
+
+Button = implementing Options, Events, class _Button
+  onClick: -> # do stuff
+```
+
+  If you want to learn more, please read these issues on the tracker: 
+[#218](http://github.com/jashkenas/coffee-script/issues/218), 
+[#327](http://github.com/jashkenas/coffee-script/issues/327), 
+[#344](http://github.com/jashkenas/coffee-script/issues/344), 
+[#452](http://github.com/jashkenas/coffee-script/issues/452) and 
+[#636](http://github.com/jashkenas/coffee-script/issues/636). They should have all the pros and cons and why mixins are not part of the core language.
+
+
+### 
+
+
+   **Q:** Do class methods work with inheritance?
+
+   **A:** No, class methods do not get inherited b/c JS has no prototype chain for class methods, only for object methods. You can add a simple hook to mimic class-method inheritance, however, by defining an "extended" method on your class.
+
+ **TODO:** Add the following
+
+* Executable class bodies
+* Private properties
+
+
+## Unsupported features due to platform specificity
+   **Q:** Will you add feature X where feature X depends on a platform?
+ 
+   **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). The following represents a non-inclusive list of features that will not be implemented:
+
+* forEach
+* getters & setters
+* Function#bind
+* yield
