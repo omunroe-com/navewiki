@@ -12,6 +12,8 @@ Considering proposing a feature for Coffeescript? Great! We'd love to hear your 
 index = -1
 last = array[index]
 ```
+
+Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is even an Array or not.
   
   * **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
   
