@@ -1,5 +1,6 @@
 Considering proposing a feature for Coffeescript? Great! We'd love to hear your thoughts on how the language could be improved. However, it's important that you make sure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
 
+
 ## Static Analysis
 
 *Coffeescript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.*
@@ -24,6 +25,7 @@ last = array[index]
   [#681](http://github.com/jashkenas/coffee-script/issues/681),
   [#621](http://github.com/jashkenas/coffee-script/issues/621)
 
+
 ## Functions
 
 *Coffeescript's syntax is big on reducing the size of function declarations, as evidenced by the replacing of the `function` keyword with the much shorter `->` glyph. Take this into consideration if you plan to propose anything around this declaration syntax.*
@@ -47,22 +49,36 @@ This is a much clearer format. These issues highlight the primary arguments for 
 
 ```coffeescript
 unless Function::bind?
-  Function::bind = (scope,args...) ->
-    self = this
-    -> self.apply scope, args.concat.apply(args,arguments)
+  Function::bind = (scope, args...) ->
+    => @apply scope, args.concat.apply(args,arguments)
 ```
 
-## Misc
+  **TODO:** Find the issues relating to this and post them here.
 
-   **Q:** Why can't I use `with`?
 
-   **A:** [Because Douglas Crockford says so](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) and [#344](http://github.com/jashkenas/coffee-script/issues/344), 
-[#620](http://github.com/jashkenas/coffee-script/issues/620)
+## Variable Importing
+
+*It's difficult to deal with Javascript variables that aren't defined at compile time, so most forms of generic importing are off the table. Remember that you can always import specific values from an object using a destructuring assignment: `{compact, flatten} = require './helpers'`*
+
+  * **Q:** Is there statement equivalent to Javascript's `with`?
+
+  **A:** No. [Douglas Crockford's advice](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) should outline the main reason why, and you can view these older issues for the original discussions: [#344](http://github.com/jashkenas/coffee-script/issues/344), 
+[#620](http://github.com/jashkenas/coffee-script/issues/620).
+
+  * **Q:** Is there any way to import every variable from an object into the local scope?
+
+  **A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. Use of `eval` will place the variable in the global scope, which is bad. You can read more about importing suggestions in these issues:
+
+  **TODO:** Find issues relating to importing.
+
 
 ## Classes
-   **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
 
-   **A:** The short answer is **no**. You can do any of the above using helpers.
+*It's important to keep in mind that Coffeescript's classes are syntactic sugar only, and are intended only as a light wrapper of the prototypal concepts of Javascript. There is a long history and issue trail relating to classes in this language, and there have been many suggestions on how they should work. We've chosen a style that matches up to the expectations of a classic OO programmer, with almost every aspect mapping directly to a Javascript operation on a prototype or function. Overly complicated class semantics that add only a small amount of functionality are not what we're looking for.*
+
+  * **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
+
+  **A:** No. You can do any of the above using helpers.
 
   Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
 
@@ -71,7 +87,7 @@ extend = (obj, mixin) ->
   for name, method of mixin
     obj[name] = method
 
-include =  (klass, mixin) ->
+include = (klass, mixin) ->
   extend klass.prototype, mixin
 
 class Button
@@ -94,20 +110,19 @@ Button = implementing Options, Events, class _Button
   onClick: -> # do stuff
 ```
 
-  If you want to learn more, please read these issues on the tracker: 
+These issues should cover the discussion on mixins:
 [#218](http://github.com/jashkenas/coffee-script/issues/218), 
 [#327](http://github.com/jashkenas/coffee-script/issues/327), 
 [#344](http://github.com/jashkenas/coffee-script/issues/344), 
 [#452](http://github.com/jashkenas/coffee-script/issues/452) and 
-[#636](http://github.com/jashkenas/coffee-script/issues/636). They should have all the pros and cons and why mixins are not part of the core language.
+[#636](http://github.com/jashkenas/coffee-script/issues/636).
 
 
-### 
+  * **Q:** Do class (static) properties get inherited?
 
+  **A:** No, because Javascript doesn't work that way. Only things on the prototype get inherited. You can add a simple hook to mimic class-method inheritance, however, by defining an `extended` method on your class.
 
-   **Q:** Do class methods work with inheritance?
-
-   **A:** No, class methods do not get inherited b/c JS has no prototype chain for class methods, only for object methods. You can add a simple hook to mimic class-method inheritance, however, by defining an "extended" method on your class.
+**TODO:** Find the issues on static property inheritance.
 
  **TODO:** Add the following
 
