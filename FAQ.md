@@ -62,12 +62,14 @@ unless Function::bind?
 
   * **Q:** Is there statement equivalent to Javascript's `with`?
 
-  **A:** No. [Douglas Crockford's advice](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) should outline the main reason why, and you can view these older issues for the original discussions: [#344](http://github.com/jashkenas/coffee-script/issues/344), 
+    **A:** No. [Douglas Crockford's advice](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) should outline the main reasons why you should never use this statement, and you can view these older issues for the original discussions:
+[#344](http://github.com/jashkenas/coffee-script/issues/344), 
 [#620](http://github.com/jashkenas/coffee-script/issues/620).
+
 
   * **Q:** Is there any way to import every variable from an object into the local scope?
 
-  **A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. Use of `eval` will place the variable in the global scope, which is bad. You can read more about importing suggestions in these issues:
+    **A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. Use of `eval` will place the variable in the global scope, which is bad. You can read more about importing suggestions in these issues:
 
   **TODO:** Find issues relating to importing.
 
@@ -78,7 +80,7 @@ unless Function::bind?
 
   * **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
 
-  **A:** No. You can do any of the above using helpers.
+    **A:** No. You can do any of the above using helpers.
 
   Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
 
@@ -120,11 +122,11 @@ These issues should cover the discussion on mixins:
 
   * **Q:** Do class (static) properties get inherited?
 
-  **A:** No, because Javascript doesn't work that way. Only things on the prototype get inherited. You can add a simple hook to mimic class-method inheritance, however, by defining an `extended` method on your class.
+    **A:** No, because Javascript doesn't work that way. Only things on the prototype get inherited. You can add a simple hook to mimic class-method inheritance, however, by defining an `extended` method on your class.
 
 **TODO:** Find the issues on static property inheritance.
 
- **TODO:** Add the following
+**TODO:** Add the following
 
 * Executable class bodies
 * Private properties
