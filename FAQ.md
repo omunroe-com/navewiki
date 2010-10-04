@@ -143,6 +143,7 @@ These issues should cover the discussion on mixins:
 
 ## Grammar
 **Q:** How do I directly pass a function to another function that requires other arguments after it?
+
 **A:** You can use parenthesis around the function or a leading comma after it. i.e.:
 ```coffeescript
 setTimeout (-> alert 42 ), 99
