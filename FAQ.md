@@ -55,7 +55,7 @@ unless Function::bind?
 
   **TODO:** Find the issues relating to this and post them here.
 
-    * **Q:** Is there any way to name functions, for reflection and recursion?
+  * **Q:** Is there any way to name functions, for reflection and recursion?
 
     **A:** Blame Microsoft for this one. Originally every function that could have a sensible name retrieved for it was given one, but IE versions 8 and down have scoping issues where the named function is treated as both a declaration and an expression. See [this](http://kangax.github.com/nfe/#jscript-memory-management) for more information. You can assign the function to a local variable if you want to safely work with recursion, like so:
 
