@@ -55,6 +55,27 @@ unless Function::bind?
 
   **TODO:** Find the issues relating to this and post them here.
 
+    * **Q:** Is there any way to name functions, for reflection and recursion?
+
+    **A:** Blame Microsoft for this one. Originally every function that could have a sensible name retrieved for it was given one, but IE versions 8 and down have scoping issues where the named function is treated as both a declaration and an expression. See [this](http://kangax.github.com/nfe/#jscript-memory-management) for more information. You can assign the function to a local variable if you want to safely work with recursion, like so:
+
+```coffeescript
+exports.func = func = (arg) -> func arg - 1 if arg > 0
+```
+
+Note that there is a solution to the scoping issue, and it is employed for class constructors, primarily for reflection purposes, but the resulting code is too verbose to use for every function.
+
+The issue that originally brought about named functions was: [#15](http://github.com/jashkenas/coffee-script/issues/closed#issue/15)
+
+The issue that saw them go:  [#366](http://github.com/jashkenas/coffee-script/issues/closed#issue/366)
+
+Other related issues and proposals:
+[#494](http://github.com/jashkenas/coffee-script/issues/closed#issue/494),
+[#714](http://github.com/jashkenas/coffee-script/issues/closed#issue/714),
+[#729](http://github.com/jashkenas/coffee-script/issues/closed#issue/729),
+[#732](http://github.com/jashkenas/coffee-script/issues/closed#issue/732),
+[#758](http://github.com/jashkenas/coffee-script/issues/closed#issue/758)
+
 
 ## Variable Importing
 
