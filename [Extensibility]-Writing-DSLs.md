@@ -8,7 +8,7 @@ Let's look at an example of what we are trying to accomplish before we get start
 
 ```coffeescript
 # DSL
-describe 'Whiskey'
+describe('Whiskey')
   age: 18
   brand: 'Jack'
 
