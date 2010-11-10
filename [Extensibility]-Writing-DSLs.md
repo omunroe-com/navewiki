@@ -20,7 +20,7 @@ puts glass.age  # 18
 To implement our custom `describe` function let's first look at the generated JavaScript for it:
 
 ```javascript
-describe 'Whiskey', {
+describe('Whiskey', {
   age: 18,
   brand: 'Jack'
 });
