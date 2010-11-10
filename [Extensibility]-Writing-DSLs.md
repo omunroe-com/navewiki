@@ -8,7 +8,7 @@ Let's look at an example of what we are trying to accomplish before we get start
 
 ```coffeescript
 # DSL
-describe('Whiskey')
+describe 'Whiskey'
   age: 18
   brand: 'Jack'
 
@@ -20,7 +20,7 @@ puts glass.age  # 18
 To implement our custom `describe` function let's first look at the generated JavaScript for it:
 
 ```javascript
-describe('Whiskey')({
+describe 'Whiskey', {
   age: 18,
   brand: 'Jack'
 });
@@ -30,10 +30,10 @@ We have a call to the function itself and a following one to its returned value.
 
 ```coffeescript
 # Implementation
-describe = (name) -> (properties) ->
+describe = (name, properties) ->
   window[name] = class
     constructor: ->
-      (@[name] = value) for name, value of properties
+      @[name] = value for all name, value of properties
 ```
 
 ### Implicit parentheses turn code into natural language
@@ -70,11 +70,11 @@ With just a few tips and you can already start building your own awesome DSL. Ho
 
 ```coffeescript
 # Implementation
-implements = (list) -> item:: for item in list
+implements = (list) -> item.prototype for item in list
 Class = (base, implements) -> (properties) ->
   class _ extends base
-  (_::[name] = value) for name, value of item for item in implements if implements
-  (_::[name] = value) for name, value of properties if properties
+  _::[name] = value for name, value of item for item in implements if implements
+  _::[name] = value for name, value of properties if properties
   _
 
 # Usage
