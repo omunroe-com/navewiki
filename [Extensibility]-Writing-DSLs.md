@@ -26,7 +26,7 @@ describe('Whiskey', {
 });
 ```
 
-We have a call to the function itself and a following one to its returned value. CoffeeScript makes it easy to implement such chaining:
+The implicit object below the function call is concatenated to the arguments list. Simple enough:
 
 ```coffeescript
 # Implementation
@@ -62,6 +62,16 @@ To implement this we only need a few lines of CoffeeScript:
 # Implementation
 using  = (obj) -> obj
 extend = (obj, using) -> (obj[key] = value) for key, value of using
+```
+
+You can go crazy with functional-style programming using this technique:
+
+```coffeescript
+# Query database for all users above the age between the age of 18 and 64
+SELECT (each) -> { name: each.name }, 
+FROM   db.Users, 
+WHERE  (each) -> each.age > 18 and
+                 each.age < 64
 ```
 
 ### Going a step further
