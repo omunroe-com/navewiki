@@ -67,11 +67,14 @@ extend = (obj, using) -> (obj[key] = value) for key, value of using
 You can go crazy with functional-style programming using this technique:
 
 ```coffeescript
-# Query database for all users above the age between the age of 18 and 64
-SELECT (each) -> { name: each.name }, 
-FROM   db.Users, 
-WHERE  (each) -> each.age > 18 and
-                 each.age < 64
+SELECT = (map, results) -> map.call each for each in results
+FROM   = (list, reduce) -> each for each in list when reduce each
+WHERE  = (reduce)       -> (each) -> reduce.call each
+
+# Find users between the age of 18 and 64
+SELECT -> { @name }, 
+FROM   Users, 
+WHERE  -> @age > 18 and @age < 64
 ```
 
 ### Going a step further
