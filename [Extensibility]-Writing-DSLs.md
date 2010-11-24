@@ -14,7 +14,7 @@ describe 'Whiskey'
 
 # Usage
 glass = new Whiskey
-puts glass.age  # 18
+console.log glass.age  # 18
 ```
 
 To implement our custom `describe` function let's first look at the generated JavaScript for it:
@@ -30,10 +30,11 @@ The implicit object below the function call is concatenated to the arguments lis
 
 ```coffeescript
 # Implementation
+top = this  # usually window
 describe = (name, properties) ->
-  window[name] = class
+  top[name] = class
     constructor: ->
-      @[name] = value for all name, value of properties
+      this[name] = value for all name, value of properties
 ```
 
 ### Implicit parentheses turn code into natural language
@@ -42,18 +43,18 @@ Example:
 
 ```coffeescript
 # DSL and usage
-a = keyA: 'valueA'
-b = keyB: 'valueB'
+foo = foo: 'I said foo!'
+bar = bar: 'I said what?!'
 
-extend b, using a
+extend bar, using foo
 
-puts b.keyA  # 'valueA'
+console.log bar.foo  # 'I said foo!'
 ```
 
 This compiles to fairly simple JavaScript:
 
 ```javascript
-extend(a, using(b));
+extend(bar, using(foo));
 ```
 
 To implement this we only need a few lines of CoffeeScript:
@@ -64,7 +65,7 @@ using  = (obj) -> obj
 extend = (obj, using) -> (obj[key] = value) for key, value of using
 ```
 
-You can go crazy with functional-style programming using this technique:
+You can really go crazy with functional-style programming using the implicit nature of the language:
 
 ```coffeescript
 SELECT = (map, results) -> map.call each for each in results
@@ -84,7 +85,7 @@ With just a few tips and you can already start building your own awesome DSL. Ho
 ```coffeescript
 # Implementation
 implements = (list) -> item.prototype for item in list
-Class = (base, implements) -> (properties) ->
+Class = (base, implements, properties) ->
   class _ extends base
   _::[name] = value for name, value of item for item in implements if implements
   _::[name] = value for name, value of properties if properties
@@ -92,19 +93,19 @@ Class = (base, implements) -> (properties) ->
 
 # Usage
 class Animal
-  name: '<Animal>'
-  say:  (what) -> puts what
+  name: 'Animal'
+  say:  (what) -> console.log what
 
 class Options
-  set: (key, value) -> @[key] = value
+  set: (key, value) -> this[key] = value
 
 class Huggable
-  owner: '<null>'
+  owner: 'none'
   hug:    -> @say "#{@name} hugs #{@owner}."
 
 # DSL
-Cat = Class Animal, implements [Options, Huggable]
-  name: '<Cat>'
+Cat = Class Animal, implements [Options, Huggable],
+  name: 'Cat'
 
 # Usage
 molly = new Cat
