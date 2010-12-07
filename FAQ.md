@@ -1,9 +1,13 @@
-Considering proposing a feature for Coffeescript? Great! We'd love to hear your thoughts on how the language could be improved. However, it's important that you make sure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
+Considering proposing a feature for CoffeeScript? Great! We'd love to hear your thoughts on how the language could be improved. 
+
+However, it's important that you make sure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
 
 
 ## Static Analysis
 
-*Coffeescript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.*
+*CoffeeScript uses a straight source-to-source compiler. No type checking is performed, and we can't work out if a variable even exists or not. This means that we can't implement features that other languages can build in natively without costly runtime checks. As a result, any feature which relies on this kind of analysis won't be considered.*
+
+----
 
 * **Q:** Can I use negative array indices as in Ruby and Python?
 
@@ -15,7 +19,9 @@ last = array[index]
 ```
 
   Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is an Array or not.
-  
+
+----  
+
 * **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
 
   **A:** For consistency's sake, no. And if the value of `index` is negative itself, things start getting awfully confusing.
@@ -25,23 +31,28 @@ last = array[index]
   [#681](http://github.com/jashkenas/coffee-script/issues/681),
   [#621](http://github.com/jashkenas/coffee-script/issues/621)
 
+----
 
 ## Functions
 
-*Coffeescript's syntax is big on reducing the size of function declarations, as evidenced by the replacing of the `function` keyword with the much shorter `->` glyph. Take this into consideration if you plan to propose anything around this declaration syntax.*
+*CoffeeScript's syntax is big on reducing the size of function declarations, as evidenced by the replacing of the `function` keyword with the much shorter `->` glyph. Take this into consideration if you plan to propose anything around this declaration syntax.*
+
+----
 
   * **Q:** Can I use default parameters like `(arg: 1) ->` or `(arg = 1) ->`?
 
-    **A:** No. Adding these adds too much potential for assignment confusion and bulks out the arguments list too much. Use the following instead:
+    **A:** Yes, however note `null` is also interpreted as a missing value and will receive the default:
 
 ```coffeescript
-(arg) ->
-  arg or= 1
+fn = (arg = 'default value') ->
+  console.log arg
 ```
 
 This is a much clearer format. These issues highlight the primary arguments for and against:
 [#16](http://github.com/jashkenas/coffee-script/issues/16),
 [#92](http://github.com/jashkenas/coffee-script/issues/92)
+
+----
 
   * **Q:** Is there language support for function binding or currying?
 
@@ -54,6 +65,8 @@ unless Function::bind?
 ```
 
   **TODO:** Find the issues relating to this and post them here.
+
+----
 
   * **Q:** Is there any way to name functions, for reflection and recursion?
 
@@ -76,10 +89,13 @@ Other related issues and proposals:
 [#732](http://github.com/jashkenas/coffee-script/issues/closed#issue/732),
 [#758](http://github.com/jashkenas/coffee-script/issues/closed#issue/758)
 
+----
 
 ## Variable Importing
 
 *It's difficult to deal with Javascript variables that aren't defined at compile time, so most forms of generic importing are off the table. Remember that you can always import specific values from an object using a destructuring assignment: `{compact, flatten} = require './helpers'`*
+
+----
 
   * **Q:** Is there statement equivalent to Javascript's `with`?
 
@@ -87,6 +103,7 @@ Other related issues and proposals:
 [#344](http://github.com/jashkenas/coffee-script/issues/344), 
 [#620](http://github.com/jashkenas/coffee-script/issues/620).
 
+----
 
   * **Q:** Is there any way to import every variable from an object into the local scope?
 
@@ -94,10 +111,13 @@ Other related issues and proposals:
 
   **TODO:** Find issues relating to importing.
 
+----
 
 ## Classes
 
-*It's important to keep in mind that Coffeescript's classes are syntactic sugar only, and are intended only as a light wrapper of the prototypal concepts of Javascript. There is a long history and issue trail relating to classes in this language, and there have been many suggestions on how they should work. We've chosen a style that matches up to the expectations of a classic OO programmer, with almost every aspect mapping directly to a Javascript operation on a prototype or function. Overly complicated class semantics that add only a small amount of functionality are not what we're looking for.*
+*It's important to keep in mind that CoffeeScript's classes are syntactic sugar only, and are intended only as a light wrapper of the prototypal concepts of Javascript. There is a long history and issue trail relating to classes in this language, and there have been many suggestions on how they should work. We've chosen a style that matches up to the expectations of a classic OO programmer, with almost every aspect mapping directly to a Javascript operation on a prototype or function. Overly complicated class semantics that add only a small amount of functionality are not what we're looking for.*
+
+----
 
   * **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
 
@@ -140,6 +160,7 @@ These issues should cover the discussion on mixins:
 [#452](http://github.com/jashkenas/coffee-script/issues/452) and 
 [#636](http://github.com/jashkenas/coffee-script/issues/636).
 
+----
 
   * **Q:** Do class (static) properties get inherited?
 
@@ -152,26 +173,65 @@ These issues should cover the discussion on mixins:
 * Executable class bodies
 * Private properties
 
+----
 
 ## Unsupported features
-   **Q:** Will you add feature X where feature X depends on a platform?
+
+----
+
+  * **Q:** Will you add feature **X** where feature **X** depends on a platform?
  
-   **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
+    **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
 
-   **Q:** What about extending native objects to allow for things such as `Array#forEach` and `Function#bind` ?
+----
 
-   **A:** The rule here is to not extend native objects.
+  * **Q:** I need namespaces/modules, man!
+
+    **A:** Then you shall have them:
+
+```coffeescript
+# Code:
+#
+namespace = (target, name, block) ->
+  [target, name, block] = [(if typeof exports isnt 'undefined' then exports else window), arguments...] if arguments.length < 3
+  top    = target
+  target = target[item] or= {} for item in name.split '.'
+  block target, top
+
+# Usage:
+#
+namespace 'Hello.World', (exports) ->
+  # `exports` is where you attach namespace members
+  exports.hi = -> console.log 'Hi World!'
+
+namespace 'Say.Hello', (exports, top) ->
+  # `top` is a reference to the main namespace
+  exports.fn = -> top.Hello.World.hi()
+
+Say.Hello.fn()  # prints 'Hi World!'
+```
+----
+
+  * **Q:** What about extending native objects to allow for things such as `Array#forEach` and `Function#bind` ?
+
+    **A:** The rule here is to not extend native objects.
+
+----
 
 ## Grammar
-**Q:** How do I directly pass a function to another function that requires other arguments after it?
 
-**A:** You can use parenthesis around the function or a leading comma after it. i.e.:
+----
+
+  * **Q:** How do I directly pass a function to another function that requires other arguments after it?
+
+    **A:** You can use parenthesis around the function or a leading comma after it. i.e.:
+
 ```coffeescript
-setTimeout (-> alert 42 ), 99
+setTimeout (-> alert 'Woohoo!' ), 1000
 
 navigator.geolocation.getCurrentPosition (pos) ->
   console.dir pos
 , (err) ->
   console.log err.message
-, enableHighAccuracy: on, timeout: 5e3
+, enableHighAccuracy: on, timeout: 5000
 ```
