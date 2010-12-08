@@ -78,16 +78,17 @@ exports.func = func = (arg) -> func arg - 1 if arg > 0
 
 Note that there is a solution to the scoping issue, and it is employed for class constructors, primarily for reflection purposes, but the resulting code is too verbose to use for every function.
 
-The issue that originally brought about named functions was: [#15](http://github.com/jashkenas/coffee-script/issues/closed#issue/15)
+The issue that originally brought about named functions was: [#15](http://github.com/jashkenas/coffee-script/issues/15)
 
-The issue that saw them go:  [#366](http://github.com/jashkenas/coffee-script/issues/closed#issue/366)
+The issue that saw them go:  [#366](http://github.com/jashkenas/coffee-script/issues/366)
 
 Other related issues and proposals:
-[#494](http://github.com/jashkenas/coffee-script/issues/closed#issue/494),
-[#714](http://github.com/jashkenas/coffee-script/issues/closed#issue/714),
-[#729](http://github.com/jashkenas/coffee-script/issues/closed#issue/729),
-[#732](http://github.com/jashkenas/coffee-script/issues/closed#issue/732),
-[#758](http://github.com/jashkenas/coffee-script/issues/closed#issue/758)
+[#494](http://github.com/jashkenas/coffee-script/issues/494),
+[#714](http://github.com/jashkenas/coffee-script/issues/714),
+[#729](http://github.com/jashkenas/coffee-script/issues/729),
+[#732](http://github.com/jashkenas/coffee-script/issues/732),
+[#758](http://github.com/jashkenas/coffee-script/issues/758),
+[#907](http://github.com/jashkenas/coffee-script/issues/907)
 
 ----
 
