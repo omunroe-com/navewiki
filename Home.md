@@ -18,4 +18,4 @@ Welcome to the CoffeeScript Wiki!
 * [[Here|FAQ]]
 
 ## In The Wild
-* [[Examples of CoffeeScript being used in projes|[[In The Wild]]
+* [[CoffeeScript in real projects|In The Wild]]
