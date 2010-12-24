@@ -16,3 +16,6 @@ Welcome to the CoffeeScript Wiki!
 
 ## FAQ
 * [[Here|FAQ]]
+
+## In The Wild
+* [[Examples of CoffeeScript being used in projes|[[In The Wild]]
