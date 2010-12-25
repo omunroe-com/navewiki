@@ -1,4 +1,6 @@
-# Tools
+# CoffeeScript In The Wild
+
+### Tools and Frameworks
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
@@ -7,6 +9,6 @@
 
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
-# Applications
+### Applications
 [cortex](http://github.com/feisty) - MMO game platform written on node.js and WebGL
 
