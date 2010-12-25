@@ -75,7 +75,7 @@ WHERE  = (reduce)       -> (each) -> reduce.call each
 # Find users between the age of 18 and 64
 SELECT -> { @name }, 
 FROM   Users, 
-WHERE  -> @age > 18 and @age < 64
+WHERE  -> 18 < @age < 64
 ```
 
 ### Going a step further
