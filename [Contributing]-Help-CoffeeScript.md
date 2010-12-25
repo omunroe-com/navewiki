@@ -7,7 +7,7 @@ Want to help out making CoffeeScript even better? May we suggest some areas wher
 * Learn CoffeeScript and blog about it
 * Suggest new ideas on the issue tracker
 * Tell your friends and help them learn it
-* Find bugs on post them on the issue tracker
+* Find bugs and post them on the issue tracker
 
 ## Less simple stuff
 
