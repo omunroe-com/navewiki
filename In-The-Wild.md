@@ -31,3 +31,7 @@
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript
 
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
+
+[draft](https://draft.37signals.com)
+
+[Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8)
