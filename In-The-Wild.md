@@ -32,6 +32,6 @@
 
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
 
-[draft](https://draft.37signals.com)
+[Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad
 
-[Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8)
+[Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
