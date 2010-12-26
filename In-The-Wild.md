@@ -27,4 +27,5 @@
 
 ## Applications
 [cortex](http://github.com/feisty) - MMO game platform written on node.js and WebGL
+
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript
