@@ -36,4 +36,4 @@
 
 [Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
 
-[Gates of Olympus](http://gatesofolympus.com) - A 3d tower defense game for your browser, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
+[Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
