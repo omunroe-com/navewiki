@@ -37,3 +37,5 @@
 [Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
 
 [Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
+
+[HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
