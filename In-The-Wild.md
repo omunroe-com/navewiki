@@ -1,5 +1,20 @@
 # CoffeeScript In The Wild
 
+## Applications
+[cortex](http://github.com/feisty) - MMO game platform written on node.js and WebGL
+
+[diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript
+
+[camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
+
+[Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad
+
+[Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
+
+[Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
+
+[HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
+
 ## Tools and Frameworks
 
 ### Documentation Generators
@@ -22,20 +37,4 @@
 
 [courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
-## Libraries
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
-
-## Applications
-[cortex](http://github.com/feisty) - MMO game platform written on node.js and WebGL
-
-[diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript
-
-[camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
-
-[Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad
-
-[Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
-
-[Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
-
-[HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
