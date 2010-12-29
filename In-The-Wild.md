@@ -15,6 +15,8 @@
 
 [HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
 
+[WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble
+
 ## Tools and Frameworks
 
 ### Design Patterns
