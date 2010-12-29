@@ -1,4 +1,5 @@
 # CoffeeScript In The Wild
+(Please use only a single line and try keep things in alphanumerical order) :)
 
 ## Applications
 [Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
