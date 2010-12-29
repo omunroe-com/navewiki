@@ -33,6 +33,7 @@
 
 ### Testing
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
+[CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
 ### CommonJS Module loaders
 [requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
