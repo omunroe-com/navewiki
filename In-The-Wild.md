@@ -17,6 +17,9 @@
 
 ## Tools and Frameworks
 
+### Design Patterns
+[WebActors](http://github.com/mental/webactors) - Actors for JavaScript
+
 ### Documentation Generators
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
