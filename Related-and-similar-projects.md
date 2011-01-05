@@ -7,9 +7,13 @@ Far
 
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
-* [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation
+* [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
-* [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP)
-* [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, Javascript, Perl 5, C, Java, CL)
-* [[Pyjamas|http://pyjs.org/]] Python to JS
-* [[Ur|http://impredicative.com/ur/]] Haskell-like
+* [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
+* [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
+* [[Pyjamas|http://pyjs.org/]] Python to JS.
+* [[Ur|http://impredicative.com/ur/]] Haskell-like.
+* [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
+* [[rb2js|http://rb2js.rubyforge.org/]] converts Ruby to JavaScript.
+* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
+* [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to Javascript.
