@@ -1,3 +1,3 @@
-* [[Coco|https://github.com/satyr/coco]] a CoffeeScript dialect that aims to be more radical, also acts a lot as a test bed for features that get imported in CoffeeScript
+* [[Coco|https://github.com/satyr/coco]] a CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
 * [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] is CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
-* [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript
+* [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
