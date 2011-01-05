@@ -16,4 +16,6 @@ Far
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [[rb2js|http://rb2js.rubyforge.org/]] converts Ruby to JavaScript.
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
-* [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to Javascript.
+* [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
+* [[Parenscript|http://common-lisp.net/project/parenscript/]] subset of Common Lisp to JS.
+* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
