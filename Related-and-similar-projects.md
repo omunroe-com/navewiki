@@ -19,3 +19,5 @@
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[Parenscript|http://common-lisp.net/project/parenscript/]] subset of Common Lisp to JS.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
+* [[Sibilant|http://sibilantjs.info]] Javascript with a lisp
+* [[Red|https://github.com/jessesielaff/red]] writes like Ruby and runs like JavaScript
