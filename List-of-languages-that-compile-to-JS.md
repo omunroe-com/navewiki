@@ -1,4 +1,4 @@
-*Rules: tag all commercial projects with [commercial], try to preserve the existent taxonomy by use of tagging [tag]*
+*Rules: tag all commercial projects with [commercial], try to preserve the existent taxonomy by use of tagging [tag]*  
 *Notice: try not to override other people contributions (race condition)*
 
 #### CoffeeScript Family (& Friends)
