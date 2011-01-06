@@ -43,7 +43,7 @@ subset of Clojure.
 
 #### OCaml
 
-* [[OCaml|https://github.com/jaked/ocamljs] OCaml to JS
+* [[Ocamljs|https://github.com/jaked/ocamljs]] OCaml to JS
 
 #### Haskell
 
