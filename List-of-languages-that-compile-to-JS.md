@@ -40,6 +40,7 @@ subset of Clojure.
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
+* [[Fantom|http://fantom.org/]] Write code portable to the Java VM, .NET CLR, and JavaScript in the browser.
 
 #### Others
 
