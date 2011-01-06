@@ -50,9 +50,9 @@ subset of Clojure.
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 
-
 ###### Heavyweight (static types)
 
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
+* [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
 
