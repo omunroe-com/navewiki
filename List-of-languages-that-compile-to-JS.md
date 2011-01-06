@@ -44,13 +44,13 @@ subset of Clojure.
 #### Others
 
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
-* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 
 ###### Heavyweight (static types)
 
+* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 
