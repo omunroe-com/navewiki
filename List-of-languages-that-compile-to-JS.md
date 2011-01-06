@@ -60,6 +60,6 @@ subset of Clojure.
 * [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
 
 ###### Comercial
-
+* [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
 * [[OPA|http://mlstate.com]] An industrial programming language for client, server, db, realtime, distribution.
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
