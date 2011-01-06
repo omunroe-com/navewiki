@@ -14,17 +14,20 @@
 
 #### Tierless languages (produce both client & server)
 * [[OPA|http://mlstate.com]] industrial programming language for high-security distributed web applications.
-* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps
+* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
 * [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 
-#### Ruby, Python
+#### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [[rb2js|http://rb2js.rubyforge.org/]] converts Ruby to JavaScript.
 * [[Red|https://github.com/jessesielaff/red]] writes like Ruby and runs like JavaScript
+
+#### Python
+
 * [[PYXC-PJ|http://pyxc.org/]] Python to JS
 * [[Pyjamas|http://pyjs.org/]] Python to JS.
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
