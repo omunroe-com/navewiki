@@ -222,3 +222,18 @@ navigator.geolocation.getCurrentPosition (pos) ->
   console.log err.message
 , enableHighAccuracy: on, timeout: 5000
 ```
+
+
+----
+
+  * **Q:** How do I denote an array of implicit objects?
+
+    **A:** Use an outdented comma:
+
+```coffeescript
+[
+  foo: 0
+,
+  bar: 1
+]    
+```
