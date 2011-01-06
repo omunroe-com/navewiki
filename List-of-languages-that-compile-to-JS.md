@@ -41,6 +41,10 @@
 subset of Clojure.
 * [[Scriptjure|https://github.com/arohner/scriptjure]] library for generating javascript from Clojure forms.
 
+#### OCaml
+
+* [[OCaml|https://github.com/jaked/ocamljs] OCaml to JS
+
 #### Haskell
 
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
