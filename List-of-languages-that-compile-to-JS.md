@@ -1,3 +1,5 @@
+*Rules: tag all commercial projects with [commercial], try to preserve the existent taxonomy by use of tagging [tag]*
+
 #### CoffeeScript Family (& Friends)
 
 * [[CoffeeScript|http://coffeescript.com]] Unfancy JavaScript
@@ -46,7 +48,7 @@ subset of Clojure.
 * [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 
 #### Tierless languages (produce both client & server)
-* [[OPA|http://mlstate.com]] industrial programming language for high-security distributed web applications.
+* [[One Pot Application|http://mlstate.com]] [free for non commercial] industrial programming language for high-security distributed web applications.
 * [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
 * [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
@@ -56,14 +58,14 @@ subset of Clojure.
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] a port of Io to Javascript
-* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
+* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 
-###### Heavyweight (static types)
+###### Static typed
 
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] compiles C# to JS.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
