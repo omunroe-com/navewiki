@@ -30,6 +30,7 @@
 * [[PYXC-PJ|http://pyxc.org/]] [CS friend] Python to JS. Can generate a (line/col)-number mappings file.
 * [[Pyjamas|http://pyjs.org/]] Python to JS.
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
+* [[PyCow|https://github.com/p2k/PyCow]] Python to MooTools JS.
 
 #### Lisp, Scheme
 
@@ -73,7 +74,6 @@ subset of Clojure.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
-* [[haXe|http://haxe.org/]] Multiplatform language that can compile to Javascript, Flash (10, 9, 8), Neko VM, PHP, C++, and soon C# and Java. Supports type inference, optional static typing, and other nice things.  
 
 ###### Static typed
 
