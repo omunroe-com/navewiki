@@ -76,6 +76,7 @@ subset of Clojure.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
+* [[JS2|https://github.com/jeffsu/js2]] Object Oriented Javascript with syntactic sugar (curry, foreach, property).  Released as a rubygem.
 
 ###### Static typed
 
