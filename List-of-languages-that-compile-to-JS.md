@@ -27,7 +27,7 @@
 
 #### Python
 
-* [[PYXC-PJ|http://pyxc.org/]] Python to JS. Can generate a (line/col)-number mappings file.
+* [[PYXC-PJ|http://pyxc.org/]] [CS friend] Python to JS. Can generate a (line/col)-number mappings file.
 * [[Pyjamas|http://pyjs.org/]] Python to JS.
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
 
