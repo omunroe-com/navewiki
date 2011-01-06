@@ -4,8 +4,6 @@
 * [[Coco|https://github.com/satyr/coco]] a CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
 * [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] is CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
 
-### Lanaguages
-
 #### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
