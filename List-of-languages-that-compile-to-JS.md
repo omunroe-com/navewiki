@@ -70,7 +70,7 @@ subset of Clojure.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 
-###### Heavyweight (static types)
+###### Static typed
 
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] compiles C# to JS.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
