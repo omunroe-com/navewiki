@@ -12,6 +12,14 @@
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 
+#### Tierless languages (produce both client & server)
+* [[OPA|http://mlstate.com]] industrial programming language for high-security distributed web applications.
+* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
+* [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
+* [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
+* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
+* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
+
 #### Ruby, Python
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
@@ -35,7 +43,6 @@ subset of Clojure.
 
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
-* [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
 
 #### Multitarget
 
@@ -50,16 +57,12 @@ subset of Clojure.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
-* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 
 ###### Heavyweight (static types)
 
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
-* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
 
 ###### Comercial
-* [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
-* [[OPA|http://mlstate.com]] An industrial programming language for client, server, db, realtime, distribution.
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
