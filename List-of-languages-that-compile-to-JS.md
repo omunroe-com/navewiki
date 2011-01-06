@@ -39,6 +39,7 @@ subset of Clojure.
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
+* [[OPA|http://mlstate.com]] compiles to several platforms at once (Native, Database, JS)
 
 #### Others
 
