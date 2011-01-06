@@ -12,14 +12,6 @@
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 
-#### Tierless languages (produce both client & server)
-* [[OPA|http://mlstate.com]] industrial programming language for high-security distributed web applications.
-* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
-* [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
-* [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
-* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
-* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
-
 #### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
@@ -52,6 +44,14 @@ subset of Clojure.
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 * [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
+
+#### Tierless languages (produce both client & server)
+* [[OPA|http://mlstate.com]] industrial programming language for high-security distributed web applications.
+* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
+* [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
+* [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
+* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
+* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 
 #### Others
 
