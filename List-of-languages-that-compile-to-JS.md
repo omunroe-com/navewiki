@@ -52,7 +52,7 @@ subset of Clojure.
 
 #### Others
 
-* [[Fun|https://github.com/stevedekorte/oia]] a port of Io to Javascript
+* [[Oia|https://github.com/stevedekorte/oia]] a port of Io to Javascript
 * [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
