@@ -34,6 +34,10 @@ subset of Clojure.
 
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
+
+#### Tierless (compile to complete applications)
+* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
+* [[OPA|http://mlstate.com]] higher-order language, compiles to native + JS + database.
 * [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
 
 #### Multitarget
@@ -50,9 +54,8 @@ subset of Clojure.
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 
-###### Heavyweight (static types)
+#### Heavyweight (static types)
 
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
-* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
 
