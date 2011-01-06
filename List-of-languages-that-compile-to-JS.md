@@ -40,7 +40,7 @@ subset of Clojure.
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
-* [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs.
+* [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 
 #### Others
 
