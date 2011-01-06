@@ -14,7 +14,7 @@
 
 #### JavaScript
 
-* [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate source-to-source mappings.
+* [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
 
 #### Ruby
 
@@ -24,7 +24,7 @@
 
 #### Python
 
-* [[PYXC-PJ|http://pyxc.org/]] Python to JS
+* [[PYXC-PJ|http://pyxc.org/]] Python to JS. Can generate a (line/col)-number mappings file.
 * [[Pyjamas|http://pyjs.org/]] Python to JS.
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
 
