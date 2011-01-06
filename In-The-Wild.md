@@ -20,25 +20,28 @@
 
 ## Tools and Frameworks
 
+### Build and Deployment
+[settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
+
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
 
 ### Documentation Generators
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
+### Module Loaders - CommonJS
+[requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
+
 ### Templating
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
-
-### node.js web app frameworks
-[zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
 ### Testing
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
-[CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
+### Web App Frameworks - Node.js
+[zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
-### CommonJS Module loaders
-[requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
+[CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
 ### Miscellaneous
 [tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
