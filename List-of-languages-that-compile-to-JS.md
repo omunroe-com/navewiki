@@ -40,18 +40,19 @@ subset of Clojure.
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
-* [[Fantom|http://fantom.org/]] Write code portable to the Java VM, .NET CLR, and JavaScript in the browser.
+* [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs.
 
 #### Others
 
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
+* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 
+
 ###### Heavyweight (static types)
 
-* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 
