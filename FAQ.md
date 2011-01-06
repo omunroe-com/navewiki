@@ -228,12 +228,19 @@ navigator.geolocation.getCurrentPosition (pos) ->
 
   * **Q:** How do I denote an array of implicit objects?
 
-    **A:** Use an outdented comma:
+    **A:** Use an outdented comma or explicit termination via semicolon
 
 ```coffeescript
 [
   foo: 0
-,
   bar: 1
-]    
+,
+  baz: 2
+]
+
+[
+  foo: 0
+  bar: 1;
+  baz: 2
+]
 ```
