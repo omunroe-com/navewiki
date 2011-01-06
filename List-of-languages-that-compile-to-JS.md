@@ -16,6 +16,8 @@
 #### Lisp, Scheme
 
 * [[Parenscript|http://common-lisp.net/project/parenscript/]] subset of Common Lisp to JS.
+* [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] translates code written in a very small
+subset of Clojure.
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
 * [[Sibilant|http://sibilantjs.info]] Javascript with a lisp
 
