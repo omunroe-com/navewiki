@@ -58,6 +58,7 @@ subset of Clojure.
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
+* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 
 ###### Heavyweight (static types)
 
