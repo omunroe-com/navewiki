@@ -31,6 +31,7 @@
 
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[Ur|http://impredicative.com/ur/]] Haskell-like.
+* [[Jack|https://github.com/creationix/jack]] Making programming playful.
 
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
