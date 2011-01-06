@@ -43,7 +43,7 @@ subset of Clojure.
 
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
-
+* [[ghcjs|https://github.com/sviperll/ghcjs]] (Glasgow Haskell Compiler) A backend for the GHC compiler to generate JavaScript.
 #### Multitarget
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
