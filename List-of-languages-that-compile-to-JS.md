@@ -36,7 +36,8 @@ subset of Clojure.
 * [[Scriptjure|https://github.com/arohner/scriptjure]] library for generating javascript from Clojure forms.
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
 * [[Sibilant|http://sibilantjs.info]] Javascript with a lisp.
-*[[Scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] compile Scheme to JS.
+* [[Scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] compile Scheme to JS.
+* [[CyberLisp|https://github.com/manuel/cyberlisp/]] is a Lisp to JS compiler.
 
 #### Haskell
 
