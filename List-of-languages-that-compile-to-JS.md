@@ -14,7 +14,7 @@
 
 #### Tierless languages (produce both client & server)
 * [[OPA|http://mlstate.com]] industrial programming language for high-security distributed web applications.
-* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps
+* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
 * [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
@@ -62,6 +62,7 @@ subset of Clojure.
 
 ###### Heavyweight (static types)
 
+* [[Script#|http://projects.nikhilk.net/ScriptSharp]] compiles C# to JS.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
 
