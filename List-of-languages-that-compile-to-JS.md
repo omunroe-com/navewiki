@@ -25,11 +25,12 @@
 #### Lisp, Scheme
 
 * [[Parenscript|http://common-lisp.net/project/parenscript/]] subset of Common Lisp to JS.
+* [[Sibilant|http://sibilantjs.info]] Javascript with a lisp
+* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
+* [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript
 * [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] translates code written in a very small
 subset of Clojure.
 * [[Scriptjure|https://github.com/arohner/scriptjure]] library for generating javascript from Clojure forms.
-* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
-* [[Sibilant|http://sibilantjs.info]] Javascript with a lisp
 
 #### Haskell
 
