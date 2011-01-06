@@ -12,6 +12,7 @@
 * [[Red|https://github.com/jessesielaff/red]] writes like Ruby and runs like JavaScript
 
 * [[Pyjamas|http://pyjs.org/]] Python to JS.
+* [[Skulpt|http://www.skulpt.org/]] Python. Client side.
 
 #### Lisp, Scheme
 
@@ -28,7 +29,6 @@ subset of Clojure.
 
 #### Others
 
-* [[Fun|https://github.com/marcuswestin/fun/]] A programming language for realtime web applications - compiles to client-side and server-side JS
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
