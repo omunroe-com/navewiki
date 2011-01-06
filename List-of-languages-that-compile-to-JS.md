@@ -56,7 +56,6 @@ subset of Clojure.
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] a port of Io to Javascript
-* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
@@ -69,6 +68,3 @@ subset of Clojure.
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] compiles C# to JS.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
-
-###### Comercial
-* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
