@@ -2,15 +2,16 @@
 
 * [[CoffeeScript|http://coffeescript.com]] Unfancy JavaScript
 
-###### Family
+###### Family (share genes with CoffeeScript)
 
 * [[Coco|https://github.com/satyr/coco]] a CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
 * [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] is CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
 
-###### Friends
+###### Friends (philosophically related)
 
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
+* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 
 #### Ruby, Python
 
@@ -39,16 +40,16 @@ subset of Clojure.
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
-* [[OPA|http://mlstate.com]] compiles to several platforms at once (Native, Database, JS)
 
 #### Others
 
-* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
+
+###### Heavyweight (static types)
 
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
