@@ -5,7 +5,7 @@
 * [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] is CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
 
-#### Ruby & Python
+#### Ruby, Python
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [[rb2js|http://rb2js.rubyforge.org/]] converts Ruby to JavaScript.
