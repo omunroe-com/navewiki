@@ -244,3 +244,15 @@ navigator.geolocation.getCurrentPosition (pos) ->
   baz: 2
 ]
 ```
+
+----
+
+  * **Q:** How do I get index in `for` loop?
+
+    **A:** Use `for key, value in collection`
+
+```coffeescript
+languages = ["CoffeeScript", "JavaScript", "Ruby"]
+for lang, i in languages
+  alert "#{i} = #{lang}"
+```
