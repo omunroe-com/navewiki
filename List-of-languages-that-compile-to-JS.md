@@ -20,6 +20,16 @@
 
 * [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
 
+###### Security enforcing JavaScript
+
+* [[Caja|http://code.google.com/p/google-caja/]] Compiles ES5/strict to ES3 and supports object-capabilities
+* [[ADsafe|http://www.adsafe.org/] Client-side static verifier and API, making third party scripts safe.
+* [[FBJS|http://developers.facebook.com/docs/fbjs]] Facebook JavaScript, used for scripting FBML (Facebook Markup Language) gadgets.
+* [[Jacaranda|http://jacaranda.org/]] Static verifier supporting object-capabilities.
+* [[Microsoft Web Sandbox|http://websandbox.livelabs.com/]] a technology preview of securing web content through isolation.
+* [[Gatekeeper|http://research.microsoft.com/en-us/projects/gatekeeper/]] a Microsoft Research project.
+* [[Dojo Secure|http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/]] a framework for building secure mashups.
+
 #### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
@@ -59,12 +69,14 @@ subset of Clojure.
 * [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 
 #### Tierless languages (produce both client & server)
+
 * [[One Pot Application|http://mlstate.com]] [free for non commercial] industrial programming language for high-security distributed web applications.
 * [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
 * [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
 * [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
+* [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 
 #### Others
 
