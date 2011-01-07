@@ -90,6 +90,7 @@ subset of Clojure.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
 * [[JS2|https://github.com/jeffsu/js2]] Object Oriented Javascript with syntactic sugar (curry, foreach, property).  Released as a rubygem.
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] recompile your .net assembly to javascript, actionscript, php or java
+* [[jwacs|http://chumsley.org/jwacs/]] Javascript With Advanced Continuation Support
 
 ###### Static typed
 
