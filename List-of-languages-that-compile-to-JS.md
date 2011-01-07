@@ -89,6 +89,7 @@ subset of Clojure.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
 * [[JS2|https://github.com/jeffsu/js2]] Object Oriented Javascript with syntactic sugar (curry, foreach, property).  Released as a rubygem.
+* [[jsc|http://jsc.sourceforge.net/]] http://jsc.sourceforge.net/
 
 ###### Static typed
 
