@@ -97,3 +97,4 @@ subset of Clojure.
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] compiles C# to JS.
 * [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS.
 * [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
+* [[WebSharper|http://http://websharper.com/]] a web framework that compiles F# to JS via annotations.
