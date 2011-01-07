@@ -23,7 +23,7 @@
 ###### Security enforcing JavaScript
 
 * [[Caja|http://code.google.com/p/google-caja/]] Compiles ES5/strict to ES3 and supports object-capabilities
-* [[ADsafe|http://www.adsafe.org/] Client-side static verifier and API, making third party scripts safe.
+* [[ADsafe|http://www.adsafe.org/]] Client-side static verifier and API, making third party scripts safe.
 * [[FBJS|http://developers.facebook.com/docs/fbjs]] Facebook JavaScript, used for scripting FBML (Facebook Markup Language) gadgets.
 * [[Jacaranda|http://jacaranda.org/]] Static verifier supporting object-capabilities.
 * [[Microsoft Web Sandbox|http://websandbox.livelabs.com/]] a technology preview of securing web content through isolation.
