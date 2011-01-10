@@ -99,21 +99,26 @@ appFiles  = [
 ]
 
 task 'build', 'Build single application file from source files', ->
-  appContents = new Array remaining = appFiles.length
-  for file, index in appFiles
+  appContents = '';  remaining = appFiles.length
+  for file in appFiles
     fs.readFile "src/#{file}.coffee", 'utf8', (err, fileContents) ->
       throw err if err
-      appContents[index] = fileContents
-      process() if --remaining is 0
-  process = ->
-    fs.writeFile 'lib/app.coffee', appContents.join('\n\n'), 'utf8', (err) ->
+      appContents += fileContents + '\n\n'
+      process(appContents, afterProcess) if --remaining is 0
+
+  afterProcess = (fileName) ->
+    log "Compiled: #{fileName}"
+
+  process = (content, completeFunc) ->
+    fs.writeFile 'lib/app.coffee', content, 'utf8', (err) ->
       throw err if err
       exec 'coffee --compile lib/app.coffee', (err, stdout, stderr) ->
         throw err if err
-        print stdout + stderr
+        log stdout + stderr
         fs.unlink 'lib/app.coffee', (err) ->
           throw err if err
-          puts 'Done.'
+          log 'Done.'
+        completeFunc?('lib/app.coffee')
 ```
 
 We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
