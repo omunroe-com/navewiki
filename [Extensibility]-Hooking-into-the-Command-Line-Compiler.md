@@ -17,6 +17,7 @@ Paste the following contents into `ext.coffee`:
 
 ```coffeescript
 # This is the file that gets required by the compiler
+CoffeeScript = require 'coffee-script'
 CoffeeScript.on 'success', (task) ->
   task.output = """
     // The MIT License
