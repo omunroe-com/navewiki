@@ -4,6 +4,8 @@
 
 Since version [0.9.1](http://github.com/jashkenas/coffee-script/tree/0.9.1) the compiler takes a `--require` flag, which specifies files to include before compilation. 
 
+Note: Doesn't [work](https://github.com/jashkenas/coffee-script/issues#issue/1023) on the lastest version (1.0.0),
+
 ## Example
 
 Let's create a simple script that would prepend a license header when code is compiled successfully (either via the command-line, `stdin` or a file):
