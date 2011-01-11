@@ -6,17 +6,19 @@
 
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
 
-[Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad
+[Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad.
 
-[cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL
+[cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL.
 
-[diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript
+[diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
 
 [Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
 
 [HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
 
-[WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble
+[WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble.
+
+[HelpShelf](http://helpshelf.com/) - Winner of the IndexTank Holiday Hacks competition.
 
 ## Tools and Frameworks
 
