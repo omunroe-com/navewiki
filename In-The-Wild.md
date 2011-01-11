@@ -14,11 +14,13 @@
 
 [Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
 
+[HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
+
+[Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
+
 [HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
 
 [WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble.
-
-[HelpShelf](http://helpshelf.com/) - Winner of the IndexTank Holiday Hacks competition.
 
 [Widescript](http://widescript.com) - Digital textbook platform
 
