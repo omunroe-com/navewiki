@@ -76,7 +76,7 @@ Paste the following code:
 task 'build', 'Build project from src/*.coffee to lib/*.js', ->
   exec 'coffee --compile --output lib/ src/', (err, stdout, stderr) ->
     throw err if err
-    print stdout + stderr
+    console.log stdout + stderr
 ```
 
 The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (nothing usually so add your own indicators) or throws an exception should `coffee` have exited with a status code greater than *0* indicating a compilation failure.
@@ -99,26 +99,21 @@ appFiles  = [
 ]
 
 task 'build', 'Build single application file from source files', ->
-  appContents = '';  remaining = appFiles.length
-  for file in appFiles
+  appContents = new Array remaining = appFiles.length
+  for file, index in appFiles then do (file, index) ->
     fs.readFile "src/#{file}.coffee", 'utf8', (err, fileContents) ->
       throw err if err
-      appContents += fileContents + '\n\n'
-      process(appContents, afterProcess) if --remaining is 0
-
-  afterProcess = (fileName) ->
-    log "Compiled: #{fileName}"
-
-  process = (content, completeFunc) ->
-    fs.writeFile 'lib/app.coffee', content, 'utf8', (err) ->
+      appContents[index] = fileContents
+      process() if --remaining is 0
+  process = ->
+    fs.writeFile 'lib/app.coffee', appContents.join('\n\n'), 'utf8', (err) ->
       throw err if err
       exec 'coffee --compile lib/app.coffee', (err, stdout, stderr) ->
         throw err if err
-        log stdout + stderr
+        console.log stdout + stderr
         fs.unlink 'lib/app.coffee', (err) ->
           throw err if err
-          log 'Done.'
-        completeFunc?('lib/app.coffee')
+          console.log 'Done.'
 ```
 
 We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
@@ -131,7 +126,7 @@ You can easily extend your `Cakefile` to include a task which calls to a compres
 task 'minify', 'Minify the resulting application file after build', ->
   exec 'java -jar "/home/stan/public/compiler.jar" --js lib/app.js --js_output_file lib/app.production.js', (err, stdout, stderr) ->
     throw err if err
-    print stdout + stderr
+    console.log stdout + stderr
 ```
 
 The above executes [Google's Closure Compiler](http://code.google.com/closure/compiler/). You can easily tweak it to call the [YUI Compressor](http://developer.yahoo.com/yui/compressor/) or any other command-line utility.
