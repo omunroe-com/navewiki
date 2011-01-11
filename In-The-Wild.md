@@ -20,10 +20,16 @@
 
 [HelpShelf](http://helpshelf.com/) - Winner of the IndexTank Holiday Hacks competition.
 
+[Widescript](http://widescript.com) - Digital textbook platform
+
 ## Tools and Frameworks
 
 ### Build and Deployment
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
+
+### Database
+
+[riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
 
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
