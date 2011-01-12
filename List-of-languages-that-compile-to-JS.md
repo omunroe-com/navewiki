@@ -52,6 +52,7 @@
 * [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript
 * [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] translates code written in a very small
 subset of Clojure.
+* [[clojurejs|https://github.com/kriyative/clojurejs]] subset of clojure to JS
 * [[Scriptjure|https://github.com/arohner/scriptjure]] library for generating javascript from Clojure forms.
 
 #### OCaml
