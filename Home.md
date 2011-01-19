@@ -19,3 +19,6 @@ Welcome to the CoffeeScript Wiki!
 
 ## In The Wild
 * [[CoffeeScript in real projects|In The Wild]]
+* [[Libraries using CoffeeScript]]
+* [[List of languages that compile to JS]]
+
