@@ -39,6 +39,7 @@
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [[rb2js|http://rb2js.rubyforge.org/]] converts Ruby to JavaScript.
 * [[Red|https://github.com/jessesielaff/red]] writes like Ruby and runs like JavaScript
+* [[Quby|http://www.playmycode.com/docs/quby]] used for game coding site, not open source.
 
 #### Python
 
