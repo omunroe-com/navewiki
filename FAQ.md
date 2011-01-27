@@ -223,6 +223,13 @@ navigator.geolocation.getCurrentPosition (pos) ->
 , enableHighAccuracy: on, timeout: 5000
 ```
 
+----
+
+  * **Q:** Why does `a + b` mean something different than `a +b`?
+
+    **A:** Because in both JavaScript and CoffeeScript, `+str` converts `str` to a number. CoffeeScript therefore interprets `+str` as a function argument: `func +str` means the same thing as `func(+str)`.
+    
+    See discussion at issue [1036](https://github.com/jashkenas/coffee-script/issues/issue/1036).
 
 ----
 
@@ -247,9 +254,9 @@ navigator.geolocation.getCurrentPosition (pos) ->
 
 ----
 
-  * **Q:** How do I get index in `for` loop?
+  * **Q:** How do I get an index in a `for-in` loop?
 
-    **A:** Use `for key, value in collection`
+    **A:** Use `for value, index in array`
 
 ```coffeescript
 languages = ["CoffeeScript", "JavaScript", "Ruby"]
