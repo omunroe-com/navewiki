@@ -1,7 +1,3 @@
-*Rules: tag all commercial projects with [commercial], try to preserve the existent taxonomy by use of tagging [tag]*  
-*Notice: try not to override other people contributions (race condition)*  
-*[[List of languages that compile to PHP|http://news.ycombinator.com/item?id=2075493]]*  
-
 #### CoffeeScript Family (& Friends)
 
 * [[CoffeeScript|http://coffeescript.com]] Unfancy JavaScript
