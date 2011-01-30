@@ -235,7 +235,7 @@ navigator.geolocation.getCurrentPosition (pos) ->
 
   * **Q:** How do I denote an array of implicit objects?
 
-    **A:** Use an outdented comma or explicit termination via semicolon
+    **A:** Use an outdented comma or explicit braces
 
 ```coffeescript
 [
