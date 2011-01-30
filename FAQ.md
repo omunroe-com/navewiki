@@ -246,9 +246,13 @@ navigator.geolocation.getCurrentPosition (pos) ->
 ]
 
 [
-  foo: 0
-  bar: 1;
-  baz: 2
+  {
+    foo: 0
+    bar: 1
+  },
+  {
+    baz: 2
+  }
 ]
 ```
 
