@@ -6,6 +6,7 @@ Welcome to the CoffeeScript Wiki!
 ## How-To's
 
 * [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
+* [[Sequential Execution]]
 
 
 ## Extensibility
