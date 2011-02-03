@@ -17,7 +17,9 @@ Thus, assuming that, and that sync functions are rarely used in `Step()` (and ca
 
     Next = (context, steps...) ->
     	next = (err, result) ->
-    		throw err if not steps.length and err
+    		unless steps.length
+    			throw err if err
+    			return
     		fn = steps.shift()
     		try
     			fn.call context, err, result, next
