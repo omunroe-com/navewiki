@@ -101,5 +101,5 @@ subset of Clojure.
 ###### Static typed
 
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]]  [commercial] compiles C# to JS.
-* [[MileScript|http://milescript.org/]]  a strongly-typed language similar to C# and Java, but which compiles to JS. Not open source, free for non-profit, educational use, commercial otherwise.
-* [[Mascara|http://www.mascaraengine.com/]] enhances JavaScript with powerful features like classes, namespaces and type-checking
+* [[MileScript|http://milescript.org/]]  [commercial] a strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
+* [[Mascara|http://www.mascaraengine.com/]] [commercial] enhances JavaScript with powerful features like classes, namespaces and type-checking
