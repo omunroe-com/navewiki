@@ -100,6 +100,7 @@ subset of Clojure.
 
 ###### Static typed
 
+* Some of the ones listed above are statically typed, such as mobl, GWT, NS Basic, Haxe
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]]  [commercial] compiles C# to JS.
 * [[MileScript|http://milescript.org/]]  [commercial] a strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] enhances JavaScript with powerful features like classes, namespaces and type-checking
