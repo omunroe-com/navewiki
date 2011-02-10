@@ -1,4 +1,4 @@
-Considering proposing a feature for CoffeeScript? Great! We'd love to hear your thoughts on how the language could be improved. 
+Considering proposing a feature for CoffeeScript? Great! We'd love to hear your thoughts on how the language could be improved.
 
 However, it's important that you make sure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
 
@@ -9,9 +9,9 @@ However, it's important that you make sure the proposal hasn't already been rais
 
 ----
 
-* **Q:** Can I use negative array indices as in Ruby and Python?
+**Q:** Can I use negative array indices as in Ruby and Python?
 
-  **A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
+**A:** No. In order to work out if the index passed was negative, we would have to perform a runtime check.
 
 ```coffeescript
 index = -1
@@ -20,16 +20,16 @@ last = array[index]
 
   Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is an Array or not.
 
-----  
+----
 
-* **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
+**Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
 
-  **A:** For consistency's sake, no. And if the value of `index` is negative itself, things start getting awfully confusing.
+**A:** For consistency's sake, no. And if the value of `index` is negative itself, things start getting awfully confusing.
 
-  Read the following issues for earlier discussion:
-  [#272](http://github.com/jashkenas/coffee-script/issues/272), 
-  [#681](http://github.com/jashkenas/coffee-script/issues/681),
-  [#621](http://github.com/jashkenas/coffee-script/issues/621)
+Read the following issues for earlier discussion:
+[#272](http://github.com/jashkenas/coffee-script/issues/272),
+[#681](http://github.com/jashkenas/coffee-script/issues/681),
+[#621](http://github.com/jashkenas/coffee-script/issues/621)
 
 ----
 
@@ -39,9 +39,9 @@ last = array[index]
 
 ----
 
-  * **Q:** Can I use default parameters like `(arg: 1) ->` or `(arg = 1) ->`?
+**Q:** Can I use default parameters like `(arg: 1) ->` or `(arg = 1) ->`?
 
-    **A:** Yes, however note `null` is also interpreted as a missing value and will receive the default:
+**A:** Yes, however note `null` is also interpreted as a missing value and will receive the default:
 
 ```coffeescript
 fn = (arg = 'default value') ->
@@ -54,9 +54,9 @@ This is a much clearer format. These issues highlight the primary arguments for 
 
 ----
 
-  * **Q:** Is there any way to name functions, for reflection and recursion?
+**Q:** Is there any way to name functions, for reflection and recursion?
 
-    **A:** Blame Microsoft for this one. Originally every function that could have a sensible name retrieved for it was given one, but IE versions 8 and down have scoping issues where the named function is treated as both a declaration and an expression. See [this](http://kangax.github.com/nfe/#jscript-memory-management) for more information. You can assign the function to a local variable if you want to safely work with recursion, like so:
+**A:** Blame Microsoft for this one. Originally every function that could have a sensible name retrieved for it was given one, but IE versions 8 and down have scoping issues where the named function is treated as both a declaration and an expression. See [this](http://kangax.github.com/nfe/#jscript-memory-management) for more information. You can assign the function to a local variable if you want to safely work with recursion, like so:
 
 ```coffeescript
 exports.func = func = (arg) -> func arg - 1 if arg > 0
@@ -84,19 +84,19 @@ Other related issues and proposals:
 
 ----
 
-  * **Q:** Is there statement equivalent to Javascript's `with`?
+**Q:** Is there statement equivalent to Javascript's `with`?
 
-    **A:** No. [Douglas Crockford's advice](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) should outline the main reasons why you should never use this statement, and you can view these older issues for the original discussions:
-[#344](http://github.com/jashkenas/coffee-script/issues/344), 
+**A:** No. [Douglas Crockford's advice](http://yuiblog.com/blog/2006/04/11/with-statement-considered-harmful/) should outline the main reasons why you should never use this statement, and you can view these older issues for the original discussions:
+[#344](http://github.com/jashkenas/coffee-script/issues/344),
 [#620](http://github.com/jashkenas/coffee-script/issues/620).
 
 ----
 
-  * **Q:** Is there any way to import every variable from an object into the local scope?
+**Q:** Is there any way to import every variable from an object into the local scope?
 
-    **A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. Use of `eval` will place the variable in the global scope, which is bad. You can read more about importing suggestions in these issues:
+**A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. Use of `eval` will place the variable in the global scope, which is bad. You can read more about importing suggestions in these issues:
 
-  **TODO:** Find issues relating to importing.
+**TODO:** Find issues relating to importing.
 
 ----
 
@@ -106,11 +106,11 @@ Other related issues and proposals:
 
 ----
 
-  * **Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
+**Q:** Will you support multiple inheritance/mixins/imports/interfaces/traits or any other fancy class extensions?
 
-    **A:** No. You can do any of the above using helpers.
+**A:** No. You can do any of the above using helpers.
 
-  Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
+Solution (1) courtesy of [jashkenas](http://github.com/jashkenas):
 
 ```coffeescript
 extend = (obj, mixin) ->
@@ -127,7 +127,7 @@ include Button, Options
 include Button, Events
 ```
 
-  Solution (2) courtesy of [sethaurus](http://github.com/sethaurus):
+Solution (2) courtesy of [sethaurus](http://github.com/sethaurus):
 
 ```coffeescript
 implementing = (mixins..., classReference) ->
@@ -141,17 +141,17 @@ Button = implementing Options, Events, class _Button
 ```
 
 These issues should cover the discussion on mixins:
-[#218](http://github.com/jashkenas/coffee-script/issues/218), 
-[#327](http://github.com/jashkenas/coffee-script/issues/327), 
-[#344](http://github.com/jashkenas/coffee-script/issues/344), 
-[#452](http://github.com/jashkenas/coffee-script/issues/452) and 
+[#218](http://github.com/jashkenas/coffee-script/issues/218),
+[#327](http://github.com/jashkenas/coffee-script/issues/327),
+[#344](http://github.com/jashkenas/coffee-script/issues/344),
+[#452](http://github.com/jashkenas/coffee-script/issues/452) and
 [#636](http://github.com/jashkenas/coffee-script/issues/636).
 
 ----
 
-  * **Q:** Do class (static) properties get inherited?
+**Q:** Do class (static) properties get inherited?
 
-    **A:** No, because Javascript doesn't work that way. Only things on the prototype get inherited. You can add a simple hook to mimic class-method inheritance, however, by defining an `extended` method on your class.
+**A:** No, because Javascript doesn't work that way. Only things on the prototype get inherited. You can add a simple hook to mimic class-method inheritance, however, by defining an `extended` method on your class.
 
 **TODO:** Find the issues on static property inheritance.
 
@@ -166,15 +166,15 @@ These issues should cover the discussion on mixins:
 
 ----
 
-  * **Q:** Will you add feature **X** where feature **X** depends on a platform?
- 
-    **A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
+**Q:** Will you add feature **X** where feature **X** depends on a platform?
+
+**A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
 
 ----
 
-  * **Q:** I need namespaces/modules, man!
+**Q:** I need namespaces/modules, man!
 
-    **A:** Then you shall have them:
+**A:** Then you shall have them:
 
 ```coffeescript
 # Code:
@@ -199,9 +199,9 @@ Say.Hello.fn()  # prints 'Hi World!'
 ```
 ----
 
-  * **Q:** What about extending native objects to allow for things such as `Array#forEach` and `Function#bind` ?
+**Q:** What about extending native objects to allow for things such as `Array#forEach` and `Function#bind` ?
 
-    **A:** The rule here is to not extend native objects.
+**A:** The rule here is to not extend native objects.
 
 ----
 
@@ -209,9 +209,9 @@ Say.Hello.fn()  # prints 'Hi World!'
 
 ----
 
-  * **Q:** How do I directly pass a function to another function that requires other arguments after it?
+**Q:** How do I directly pass a function to another function that requires other arguments after it?
 
-    **A:** You can use parenthesis around the function or a leading comma after it. i.e.:
+**A:** You can use parenthesis around the function or a leading comma after it. i.e.:
 
 ```coffeescript
 setTimeout (-> alert 'Woohoo!' ), 1000
@@ -225,17 +225,17 @@ navigator.geolocation.getCurrentPosition (pos) ->
 
 ----
 
-  * **Q:** Why does `a + b` mean something different than `a +b`?
+**Q:** Why does `a + b` mean something different than `a +b`?
 
-    **A:** Because in both JavaScript and CoffeeScript, `+str` converts `str` to a number. CoffeeScript therefore interprets `+str` as a function argument: `func +str` means the same thing as `func(+str)`.
-    
-    See discussion at issue [1036](https://github.com/jashkenas/coffee-script/issues/issue/1036).
+**A:** Because in both JavaScript and CoffeeScript, `+str` converts `str` to a number. CoffeeScript therefore interprets `+str` as a function argument: `func +str` means the same thing as `func(+str)`.
+
+See discussion at issue [1036](https://github.com/jashkenas/coffee-script/issues/issue/1036).
 
 ----
 
-  * **Q:** How do I denote an array of implicit objects?
+**Q:** How do I denote an array of implicit objects?
 
-    **A:** Use an outdented comma or explicit braces
+**A:** Use an outdented comma or explicit braces
 
 ```coffeescript
 [
@@ -254,13 +254,18 @@ navigator.geolocation.getCurrentPosition (pos) ->
     baz: 2
   }
 ]
+
+[
+  {} = foo: 0, bar: 1
+  {} = baz: 2
+]
 ```
 
 ----
 
-  * **Q:** How do I get an index in a `for-in` loop?
+**Q:** How do I get an index in a `for-in` loop?
 
-    **A:** Use `for value, index in array`
+**A:** Use `for value, index in array`
 
 ```coffeescript
 languages = ["CoffeeScript", "JavaScript", "Ruby"]
