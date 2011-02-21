@@ -99,6 +99,7 @@ subset of Clojure.
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] recompile your .net assembly to javascript, actionscript, php or java
 * [[jwacs|http://chumsley.org/jwacs/]] Javascript With Advanced Continuation Support
 * [[j2js|http://www.j2js.com/]] Java Bytecode to JavaScript
+* [[jangaroo|http://www.jangaroo.net/home/]] as3 (actionscript) to javascript
 
 ###### Static typed
 
