@@ -50,7 +50,7 @@
 ### Testing
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
-[CoffeeSpec](http://github.com/kitgoncharov/Spec/tree/coffeespec) - An event-driven CoffeeScript unit testing library.
+[Spec](http://github.com/kitgoncharov/Spec) - An event-driven unit testing library.
 
 ### Web App Frameworks - Node.js
 [zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
