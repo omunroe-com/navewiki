@@ -4,6 +4,8 @@
 ## Applications
 [Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
 
+[Basecamp Mobile](http://basecamphq.com/mobile/) - Mobile web version of 37signals' Basecamp (Backbone + CoffeeScript + Eco)
+
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
 
 [Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad.
