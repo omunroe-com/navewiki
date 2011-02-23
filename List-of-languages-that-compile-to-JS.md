@@ -85,13 +85,17 @@ subset of Clojure.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 
+#### Smalltalk
+
+* [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
+* [[http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser
+
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] a port of Io to Javascript
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
-* [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
