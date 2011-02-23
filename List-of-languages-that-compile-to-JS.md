@@ -88,7 +88,7 @@ subset of Clojure.
 #### Smalltalk
 
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
-* [[Silver Smalltalk.com/]] [commercial] Smalltalk in the browser
+* [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser
 
 #### Others
 
