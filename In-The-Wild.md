@@ -45,7 +45,13 @@
 ### Documentation Generators
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
+### Flow Control
+
+[seq](http://github.com/substack/node-seq) - chainable asynchronous flow control; written in javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
+
 ### Module Loaders - CommonJS
+[browserify](http://github.com/substack/browserify) - Mix and match coffee and javascript in your browser-side require()s
+
 [requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
 
 ### Templating
