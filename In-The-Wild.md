@@ -54,6 +54,8 @@
 
 [requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
 
+[nibjs](http://github.com/blambeau/nib.js) - Compile and Concatenate your CoffeeScript files for the browser
+
 ### Templating
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 
