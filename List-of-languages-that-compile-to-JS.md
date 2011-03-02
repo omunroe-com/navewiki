@@ -32,7 +32,7 @@
 * [[Dojo Secure|http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/]] a framework for building secure mashups.
 
 ###### Synchronous to Asynchronous Javascript Compilers (CPS)
-* [[https://github.com/Sage/streamlinejs|Streamline.js]] - uses underscore (_) to stand for callbacks. This [[https://github.com/willconant/streamlinejs|fork]] preserves line numbers for debugging.
+* [[Streamline.js|https://github.com/Sage/streamlinejs]] - uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
 * [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
