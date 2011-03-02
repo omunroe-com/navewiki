@@ -31,6 +31,13 @@
 * [[Gatekeeper|http://research.microsoft.com/en-us/projects/gatekeeper/]] a Microsoft Research project.
 * [[Dojo Secure|http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/]] a framework for building secure mashups.
 
+###### Synchronous to Asynchronous Javascript Compilers (CPS)
+* [[https://github.com/Sage/streamlinejs|Streamline.js]] - uses underscore (_) to stand for callbacks. This [[https://github.com/willconant/streamlinejs|fork]] preserves line numbers for debugging.
+* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
+* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
+* [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
+* [[jwacs|http://chumsley.org/jwacs/]] Javascript With Advanced Continuation Support
+
 #### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
@@ -69,6 +76,11 @@ subset of Clojure.
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
 
+#### Smalltalk
+
+* [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
+* [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser
+
 #### Multitarget
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
@@ -85,11 +97,6 @@ subset of Clojure.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 
-#### Smalltalk
-
-* [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
-* [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser
-
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] a port of Io to Javascript
@@ -97,11 +104,8 @@ subset of Clojure.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
 * [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
-* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
-* [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
 * [[JS2|https://github.com/jeffsu/js2]] Object Oriented Javascript with syntactic sugar (curry, foreach, property).  Released as a rubygem.
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] recompile your .net assembly to javascript, actionscript, php or java
-* [[jwacs|http://chumsley.org/jwacs/]] Javascript With Advanced Continuation Support
 * [[j2js|http://www.j2js.com/]] Java Bytecode to JavaScript
 * [[jangaroo|http://www.jangaroo.net/home/]] as3 (actionscript) to javascript
 
