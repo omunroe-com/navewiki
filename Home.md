@@ -10,7 +10,7 @@ Welcome to the CoffeeScript Wiki!
 * [[Build tools]] (for compiling/packaging CoffeeScript)
 
 
-## How-To's
+## How-Tos
 
 * [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
 * [[Sequential Execution]]
