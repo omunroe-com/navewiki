@@ -80,6 +80,7 @@ subset of Clojure.
 
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser
+* [[JTalk|http://nicolaspetton.github.com/jtalk/]] Jtalk is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
 
 #### Multitarget
 
