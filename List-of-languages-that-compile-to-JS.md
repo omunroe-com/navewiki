@@ -4,18 +4,18 @@
 
 ###### Family (share genes with CoffeeScript)
 
-* [[Coco|https://github.com/satyr/coco]] a CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
-* [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] is CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
+* [[Coco|https://github.com/satyr/coco]] A CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
+* [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
 
 ###### Friends (philosophically related)
 
-* [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for Javascript.
+* [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language
 
 #### JavaScript
 
-* [[Narcissus|https://github.com/mozilla/narcissus/]] Experimental javascript compiler in javascript by Brendan Eich and others.  
+* [[Narcissus|https://github.com/mozilla/narcissus/]] Experimental JavaScript compiler in JavaScript by Brendan Eich and others.  
     * [[CommonJS version in DoctorJS|https://github.com/pcwalton/doctorjs/tree/master/lib/jsctags/narcissus]]
     * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
 * [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
@@ -27,23 +27,23 @@
 * [[ADsafe|http://www.adsafe.org/]] Client-side static verifier and API, making third party scripts safe.
 * [[FBJS|http://developers.facebook.com/docs/fbjs]] Facebook JavaScript, used for scripting FBML (Facebook Markup Language) gadgets.
 * [[Jacaranda|http://jacaranda.org/]] Static verifier supporting object-capabilities.
-* [[Microsoft Web Sandbox|http://websandbox.livelabs.com/]] a technology preview of securing web content through isolation.
-* [[Gatekeeper|http://research.microsoft.com/en-us/projects/gatekeeper/]] a Microsoft Research project.
-* [[Dojo Secure|http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/]] a framework for building secure mashups.
+* [[Microsoft Web Sandbox|http://websandbox.livelabs.com/]] Technology preview of securing web content through isolation.
+* [[Gatekeeper|http://research.microsoft.com/en-us/projects/gatekeeper/]] Microsoft Research project.
+* [[Dojo Secure|http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/]] Framework for building secure mashups.
 
-###### Synchronous to Asynchronous Javascript Compilers (CPS)
-* [[Streamline.js|https://github.com/Sage/streamlinejs]] - uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
-* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
+###### Synchronous to Asynchronous JavaScript Compilers (CPS)
+* [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
+* [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
-* [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] Javascript extension with asynchronous futures and promises.
-* [[jwacs|http://chumsley.org/jwacs/]] Javascript With Advanced Continuation Support
+* [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] JavaScript extension with asynchronous futures and promises.
+* [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
 
 #### Ruby
 
-* [[HotRuby|http://hotruby.yukoba.jp/]] runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
-* [[rb2js|http://rb2js.rubyforge.org/]] converts Ruby to JavaScript.
-* [[Red|https://github.com/jessesielaff/red]] writes like Ruby and runs like JavaScript
-* [[Quby|http://www.playmycode.com/docs/quby]] used for game coding site, not open source.
+* [[HotRuby|http://hotruby.yukoba.jp/]] Runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
+* [[rb2js|http://rb2js.rubyforge.org/]] Converts Ruby to JavaScript.
+* [[Red|https://github.com/jessesielaff/red]] Writes like Ruby and runs like JavaScript
+* [[Quby|http://www.playmycode.com/docs/quby]] Used for game coding site, not open source.
 * [[Opal|https://github.com/adambeynon/opal]] Ruby to Javascript compiler.
 
 #### Python
@@ -56,20 +56,19 @@
 
 #### Lisp, Scheme
 
-* [[Parenscript|http://common-lisp.net/project/parenscript/]] subset of Common Lisp to JS.
-* [[Sibilant|http://sibilantjs.info]] Javascript with a lisp
-* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] a Scheme running in JS.
-* [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript
-* [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] translates code written in a very small
-subset of Clojure.
-* [[clojurejs|https://github.com/kriyative/clojurejs]] subset of clojure to JS
-* [[Scriptjure|https://github.com/arohner/scriptjure]] library for generating javascript from Clojure forms.
+* [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
+* [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
+* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
+* [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript.
+* [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
+* [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
+* [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
 
 #### OCaml
 
-* [[Ocamljs|https://github.com/jaked/ocamljs]] OCaml to JS
-* [[O'Browser|http://www.pps.jussieu.fr/~canou/obrowser/tutorial/]] OCaml bytecode interpreter in JS
-* [[Js_of_ocaml|http://ocsigen.org/js_of_ocaml/]] OCaml bytecode to JS compiler
+* [[Ocamljs|https://github.com/jaked/ocamljs]] OCaml to JS.
+* [[O'Browser|http://www.pps.jussieu.fr/~canou/obrowser/tutorial/]] OCaml bytecode interpreter in JS.
+* [[Js_of_ocaml|http://ocsigen.org/js_of_ocaml/]] OCaml bytecode to JS compiler.
 
 #### Haskell
 
@@ -79,40 +78,40 @@ subset of Clojure.
 #### Smalltalk
 
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
-* [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser
-* [[JTalk|http://nicolaspetton.github.com/jtalk/]] is an implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
+* [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
+* [[JTalk|http://nicolaspetton.github.com/jtalk/]] An implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
 
 #### Multitarget
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
-* [[Fantom|http://fantom.org/]] Evolutionary Object Oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
+* [[Fantom|http://fantom.org/]] Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 
 #### Tierless languages (produce both client & server)
 
-* [[One Pot Application|http://mlstate.com]] [free for non commercial] industrial programming language for high-security distributed web applications.
-* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS
-* [[Ur|http://impredicative.com/ur/]]  in the tradition of ML and Haskell.
-* [[WebSharper|http://www.websharper.com/]] lets you compile F# to JS
-* [[mobl|http://www.mobl-lang.org]] the new language for programming the mobile web.
+* [[One Pot Application|http://mlstate.com]] [free for non commercial] Industrial programming language for high-security distributed web applications.
+* [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS.
+* [[Ur|http://impredicative.com/ur/]] In the tradition of ML and Haskell.
+* [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
+* [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 
 #### Others
 
-* [[Oia|https://github.com/stevedekorte/oia]] a port of Io to Javascript
-* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to Javascript compiler. Includes IDE. Targets iOS and Android.
-* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to Javascript compiler
-* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
+* [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
+* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to JavaScript compiler. Includes IDE. Targets iOS and Android.
+* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
+* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] Shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
-* [[JS2|https://github.com/jeffsu/js2]] Object Oriented Javascript with syntactic sugar (curry, foreach, property).  Released as a rubygem.
-* [[jsc|http://jsc.sourceforge.net/]] [experimental] recompile your .net assembly to javascript, actionscript, php or java
-* [[j2js|http://www.j2js.com/]] Java Bytecode to JavaScript
-* [[jangaroo|http://www.jangaroo.net/home/]] as3 (actionscript) to javascript
+* [[JS2|https://github.com/jeffsu/js2]] Object-oriented JavaScript with syntactic sugar (curry, foreach, property). Released as a Ruby gem.
+* [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
+* [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
+* [[jangaroo|http://www.jangaroo.net/home/]] AS3 (ActionScript) to JavaScript.
 
 ###### Static typed
 
-* Some of the ones listed above are statically typed, such as mobl, GWT, NS Basic, Haxe
-* [[Script#|http://projects.nikhilk.net/ScriptSharp]]  [commercial] compiles C# to JS.
-* [[MileScript|http://milescript.org/]]  [commercial] a strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
-* [[Mascara|http://www.mascaraengine.com/]] [commercial] enhances JavaScript with powerful features like classes, namespaces and type-checking
+* Some of the ones listed above are statically typed, such as mobl, GWT, NS Basic, and Haxe.
+* [[Script#|http://projects.nikhilk.net/ScriptSharp]] [commercial] Compiles C# to JS.
+* [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
+* [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
