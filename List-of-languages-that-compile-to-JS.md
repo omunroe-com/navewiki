@@ -16,7 +16,7 @@
 #### JavaScript
 
 * [[Narcissus|https://github.com/mozilla/narcissus/]] Experimental JavaScript compiler in JavaScript by Brendan Eich and others.  
-    * [[CommonJS version in DoctorJS|https://github.com/pcwalton/doctorjs/tree/master/lib/jsctags/narcissus]]
+    * [[CommonJS version in DoctorJS|https://github.com/mozilla/doctorjs/tree/master/lib/jsctags/narcissus]]
     * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
 * [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
 * [[UglifyJS|https://github.com/mishoo/UglifyJS]]
