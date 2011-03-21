@@ -112,6 +112,7 @@
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 * [[newspeak|http://gbracha.blogspot.com/2011/03/truthiness-is-out-there.html]] in progress, converting compiler from java to javascript
+* [[OMeta|http://tinlizzie.org/ometa-js/#Sample_Project] metacompiler for many languages to many targets, including js.
 
 ###### Static typed
 
