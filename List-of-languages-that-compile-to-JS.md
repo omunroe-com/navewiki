@@ -38,6 +38,12 @@
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] JavaScript extension with asynchronous futures and promises.
 * [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
 
+###### JavaScript Language Extensions
+
+* [[Objective-J|http://en.wikipedia.org/wiki/Objective-J]] Shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
+* [[JS2|https://github.com/jeffsu/js2]] Object-oriented JavaScript with syntactic sugar (curry, foreach, property). Released as a Ruby gem.
+* [[jangaroo|http://www.jangaroo.net/home/]] AS3 (ActionScript) to JavaScript.
+
 #### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] Runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
@@ -102,12 +108,9 @@
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to JavaScript compiler. Includes IDE. Targets iOS and Android.
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
-* [[Objective J|http://en.wikipedia.org/wiki/Objective-J]] Shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
-* [[JS2|https://github.com/jeffsu/js2]] Object-oriented JavaScript with syntactic sugar (curry, foreach, property). Released as a Ruby gem.
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
-* [[jangaroo|http://www.jangaroo.net/home/]] AS3 (ActionScript) to JavaScript.
 
 ###### Static typed
 
