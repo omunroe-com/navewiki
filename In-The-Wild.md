@@ -22,6 +22,8 @@
 
 [HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
 
+[Kodingen](http://kodingen.com/) - Cloud Development Environment with php/ruby/perl/python support.
+
 [Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
