@@ -20,6 +20,7 @@
     * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
 * [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
 * [[UglifyJS|https://github.com/mishoo/UglifyJS]]
+* [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
 
 ###### Security enforcing JavaScript
 
@@ -34,7 +35,7 @@
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
 * [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
-* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
+* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.  See also apollo on that site.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] JavaScript extension with asynchronous futures and promises.
 * [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
 
@@ -44,6 +45,7 @@
 * [[Objective-J|http://en.wikipedia.org/wiki/Objective-J]] Shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
 * [[JS2|https://github.com/jeffsu/js2]] Object-oriented JavaScript with syntactic sugar (curry, foreach, property). Released as a Ruby gem.
 * [[jangaroo|http://www.jangaroo.net/home/]] AS3 (ActionScript) to JavaScript.
+* [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 
 #### Ruby
 
@@ -88,6 +90,17 @@
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
 * [[JTalk|http://nicolaspetton.github.com/jtalk/]] An implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
+* [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser
+
+#### C/C++
+
+* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
+* [[mala|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
+
+#### Basic
+
+* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to JavaScript compiler. Includes IDE. Targets iOS and Android.
+* [[qb.js|http://stevehanov.ca/blog/index.php?id=92]] An implementation of QBASIC in Javascript
 
 #### Multitarget
 
@@ -104,17 +117,17 @@
 * [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
 * [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
+* [[Sugar|https://github.com/sebastien/sugar]] new programming language designed to replace JavaScript
+for client-side (and server-side) web development
+* [[Logo Interpreter|http://www.calormen.com/logo/]]
 
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
-* [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to JavaScript compiler. Includes IDE. Targets iOS and Android.
-* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
-* [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 * [[newspeak|http://gbracha.blogspot.com/2011/03/truthiness-is-out-there.html]] in progress, converting compiler from java to javascript
-* [[OMeta|http://tinlizzie.org/ometa-js/#Sample_Project]] metacompiler for many languages to many targets, including js.
+* [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
 
 ###### Static typed
 
@@ -122,3 +135,27 @@
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] [commercial] Compiles C# to JS.
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
+
+
+#### Tools for Compiler Writers
+
+###### Javascript Parser Generators
+
+* [[jison|https://github.com/zaach/jison]] Bison in javascript, used by Coffeescript
+* [[OMeta/JS|http://tinlizzie.org/ometa-js/#Sample_Project]] ([[source|https://github.com/veged/ometa-js]]) metacompiler for many languages to many targets, including js.
+* [[JS/CC|http://jscc.jmksf.com/]] LALR(1) parser generator
+* PEG Parsers
+** [[PEG.js|http://pegjs.majda.cz/]] parser generator for JavaScript based on the parsing expression grammar formalism
+** [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus.  Depends on JS.Class library.
+* Parser Combinators
+** [[jsparse|https://github.com/doublec/jsparse]]
+** [[ReParse|https://github.com/weaver/ReParse]] parser combinator library for Javascript like Haskell's Parsec
+* [[p4js|https://github.com/asmyczek/p4js]] Monadic parser library for JavaScript
+* GLR
+** [[JSGLR|http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right]] Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript
+* [[antlr|https://github.com/antlr/examples-v3]] has a javascript target
+* [[Cruiser.Parse|http://code.google.com/p/cruiser/wiki/Parse]] LL(k) parser
+
+###### Javascript AST
+* [[Closure Compiler AST Documentation|https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf]]
+* [[JsonML AST|http://code.google.com/p/es-lab/wiki/JsonMLASTFormat]] format used by the es5 parser 
