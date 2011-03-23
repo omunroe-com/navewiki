@@ -63,6 +63,12 @@
 * [[PyCow|https://github.com/p2k/PyCow]] Python to MooTools JS.
 * [[PyvaScript|http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser]] Python-like syntax to JavaScript.
 
+#### Java
+
+* [[GWT|http://code.google.com/webtoolkit/]] Google Web Toolkit, compiles java to javascript
+* [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and javaScript version of SWT
+* [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
+
 #### Lisp, Scheme
 
 * [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
@@ -115,7 +121,6 @@
 * [[Ur|http://impredicative.com/ur/]] In the tradition of ML and Haskell.
 * [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
 * [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
-* [[GWT|http://code.google.com/webtoolkit/]] Java to JS.
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 * [[Sugar|https://github.com/sebastien/sugar]] new programming language designed to replace JavaScript
 for client-side (and server-side) web development
@@ -125,7 +130,6 @@ for client-side (and server-side) web development
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
-* [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 * [[newspeak|http://gbracha.blogspot.com/2011/03/truthiness-is-out-there.html]] in progress, converting compiler from java to javascript
 * [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
 
