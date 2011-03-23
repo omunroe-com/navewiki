@@ -143,16 +143,13 @@ for client-side (and server-side) web development
 
 * [[jison|https://github.com/zaach/jison]] Bison in javascript, used by Coffeescript
 * [[OMeta/JS|http://tinlizzie.org/ometa-js/#Sample_Project]] ([[source|https://github.com/veged/ometa-js]]) metacompiler for many languages to many targets, including js.
+* [[PEG.js|http://pegjs.majda.cz/]] parser generator for JavaScript based on the parsing expression grammar formalism
+* [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus.  Depends on JS.Class library
 * [[JS/CC|http://jscc.jmksf.com/]] LALR(1) parser generator
-* PEG Parsers
-** [[PEG.js|http://pegjs.majda.cz/]] parser generator for JavaScript based on the parsing expression grammar formalism
-** [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus.  Depends on JS.Class library.
-* Parser Combinators
-** [[jsparse|https://github.com/doublec/jsparse]]
-** [[ReParse|https://github.com/weaver/ReParse]] parser combinator library for Javascript like Haskell's Parsec
+* [[jsparse|https://github.com/doublec/jsparse]]
+* [[ReParse|https://github.com/weaver/ReParse]] parser combinator library for Javascript like Haskell's Parsec
 * [[p4js|https://github.com/asmyczek/p4js]] Monadic parser library for JavaScript
-* GLR
-** [[JSGLR|http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right]] Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript
+* [[JSGLR|http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right]] Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript
 * [[antlr|https://github.com/antlr/examples-v3]] has a javascript target
 * [[Cruiser.Parse|http://code.google.com/p/cruiser/wiki/Parse]] LL(k) parser
 
