@@ -66,7 +66,7 @@
 #### Java
 
 * [[GWT|http://code.google.com/webtoolkit/]] Google Web Toolkit, compiles java to javascript
-* [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and javaScript version of SWT
+* [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and JavaScript version of SWT
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 
 #### Lisp, Scheme
