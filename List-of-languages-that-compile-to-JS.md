@@ -102,6 +102,7 @@
 
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
 * [[mala|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
+* [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 
 #### Basic
 
@@ -111,8 +112,9 @@
 #### Multitarget
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
-* [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 * [[Fantom|http://fantom.org/]] Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
+* [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
+* [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 
 #### Tierless languages (produce both client & server)
 
@@ -124,14 +126,13 @@
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 * [[Sugar|https://github.com/sebastien/sugar]] new programming language designed to replace JavaScript
 for client-side (and server-side) web development
-* [[Logo Interpreter|http://www.calormen.com/logo/]]
 
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
-* [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[newspeak|http://gbracha.blogspot.com/2011/03/truthiness-is-out-there.html]] in progress, converting compiler from java to javascript
 * [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
+* [[Logo Interpreter|http://www.calormen.com/logo/]]
 
 ###### Static typed
 
