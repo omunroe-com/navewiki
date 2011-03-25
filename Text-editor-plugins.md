@@ -4,6 +4,8 @@
 
 * gedit: **wavded**'s [gedit-coffeescript](http://github.com/wavded/gedit-coffeescript) — provides syntax highlighting.
 
+* Kate: **max99x**'s [kate-coffeescript](https://github.com/max99x/kate-coffeescript) — provides syntax highlighting.
+
 * IntelliJ IDEA/RubyMine: **yeungda**'s [coffeescript-idea](http://yeungda.github.com/coffeescript-idea/) — provides syntax highlighting.
 
 * jEdit: **dhotson**'s and **balazstth**'s [coffeescript-jedit](https://github.com/dhotson/coffeescript-jedit) — which provides syntax highlighting and indentation support in jEdit.
