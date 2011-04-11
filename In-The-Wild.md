@@ -10,6 +10,8 @@
 
 [Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad.
 
+[Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway's Game of Life.
+
 [cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL.
 
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
