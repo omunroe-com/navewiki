@@ -1,4 +1,11 @@
 Welcome to the CoffeeScript Wiki!
+Discussions and questions about CoffeeScript should go to:
+
+* [[Google Groups|https://groups.google.com/forum/#!forum/coffeescript]]
+* [[#coffeescript|http://webchat.freenode.net]] at Freenode IRC
+
+ 
+
 
 [[Want to help CoffeeScript? Read about contributing!|[Contributing] Help CoffeeScript]]
 
