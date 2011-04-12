@@ -1,5 +1,7 @@
 # Text editor plugins
 
+* Cloud9IDE: **tanepiper**'s [Cloud9IDE CoffeeScript Live extension](https://github.com/tanepiper/cloud9-livecoffee-ext) - provides a live debug environment for .coffee files in Cloud9.  Of course, written in CoffeeScript too!
+
 * Emacs: **defunkt**'s [CoffeeScript Major Mode](http://github.com/defunkt/coffee-mode) — provides syntax highlighting, indentation support, and some bonus commands.
 
 * gedit: **wavded**'s [gedit-coffeescript](http://github.com/wavded/gedit-coffeescript) — provides syntax highlighting.
