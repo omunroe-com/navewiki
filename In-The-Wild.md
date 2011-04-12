@@ -10,7 +10,7 @@
 
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
 
-[Chalk](https://chalk.37signals.com) - A simple drawing application for the iPad.
+[Chalk](http://chalk.37signals.com) - A simple drawing application for the iPad.
 
 [Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway's Game of Life.
 
