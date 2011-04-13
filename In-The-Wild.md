@@ -44,7 +44,6 @@
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
-
 [riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
 
 ### Design Patterns
@@ -54,15 +53,14 @@
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
 ### Flow Control
-
 [seq](http://github.com/substack/node-seq) - chainable asynchronous flow control; written in javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
 ### Module Loaders - CommonJS
 [browserify](http://github.com/substack/browserify) - Mix and match coffee and javascript in your browser-side require()s
 
-[requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
-
 [nibjs](http://github.com/blambeau/nib.js) - Compile and Concatenate your CoffeeScript files for the browser
+
+[requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
 
 [Stitch](http://github.com/sstephenson/stitch) - Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
 
@@ -70,20 +68,20 @@
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 
 ### Testing
-[Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
-
 [Spec](http://github.com/kitgoncharov/Spec) - An event-driven unit testing library.
 
-### Web App Frameworks - Node.js
-[zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
+[Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
+### Web App Frameworks - Node.js
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
-### Miscellaneous
-[tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
+[zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
+### Miscellaneous
 [courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
 
 [nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
+
+[tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
