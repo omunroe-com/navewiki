@@ -12,6 +12,8 @@
 
 [Chalk](http://chalk.37signals.com) - A simple drawing application for the iPad.
 
+[CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
+
 [Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway's Game of Life.
 
 [cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL.
