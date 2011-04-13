@@ -34,7 +34,7 @@ top = this  # usually window
 describe = (name, properties) ->
   top[name] = class
     constructor: ->
-      this[name] = value for all name, value of properties
+      this[name] = value for own name, value of properties
 ```
 
 ### Implicit parentheses turn code into natural language
