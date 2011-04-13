@@ -30,6 +30,8 @@
 
 [Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
 
+[Pow](http://pow.cx/) - Rack web server for Mac OS X, from 37signals
+
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
 [WordSquared](http://wordsquared.com) - Massively multiplAayer online scrabble.
@@ -62,6 +64,8 @@
 
 [nibjs](http://github.com/blambeau/nib.js) - Compile and Concatenate your CoffeeScript files for the browser
 
+[Stitch](http://github.com/sstephenson/stitch) - Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
+
 ### Templating
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 
@@ -81,3 +85,5 @@
 [courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
+
+[nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
