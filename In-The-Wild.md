@@ -32,6 +32,8 @@
 
 [Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
 
+[PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
+
 [Pow](http://pow.cx/) - Rack web server for Mac OS X, from 37signals
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
