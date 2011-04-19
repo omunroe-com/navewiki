@@ -162,3 +162,4 @@ for client-side (and server-side) web development
 ###### Javascript AST
 * [[Closure Compiler AST Documentation|https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf]]
 * [[JsonML AST|http://code.google.com/p/es-lab/wiki/JsonMLASTFormat]] format used by the es5 parser 
+* [[treehugger|https://github.com/zefhemel/treehugger]] Javascript AST transformation tools
