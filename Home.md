@@ -2,11 +2,18 @@
 
 For general discussions and questions about CoffeeScript see the [[Google Group|https://groups.google.com/forum/#!forum/coffeescript]], or the Freenode IRC room [[#coffeescript|http://webchat.freenode.net]].
 
-### Tools
+### Resources
 
 * [[Text editor plugins]]
 * [[Web framework plugins]]
 * [[Build tools]] (for compiling/packaging CoffeeScript)
+
+### FAQ
+* [[The CoffeeScript FAQ|FAQ]]
+
+### In The Wild
+* [[CoffeeScript in real projects|In The Wild]]
+* [[List of languages that compile to JS]]
 
 ### How-Tos
 
@@ -17,10 +24,3 @@ For general discussions and questions about CoffeeScript see the [[Google Group|
 
 * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
 * [[Writing DSLs|[Extensibility] Writing DSLs]]
-
-### FAQ
-* [[The CoffeeScript FAQ|FAQ]]
-
-### In The Wild
-* [[CoffeeScript in real projects|In The Wild]]
-* [[List of languages that compile to JS]]
