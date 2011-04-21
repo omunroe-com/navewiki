@@ -2,7 +2,7 @@
 
 For general discussions and questions about CoffeeScript see the [[Google Group|https://groups.google.com/forum/#!forum/coffeescript]], or the Freenode IRC room [[#coffeescript|http://webchat.freenode.net]].
 
-## Tools
+### Tools
 
 * [[Text editor plugins]]
 * [[Web framework plugins]]
