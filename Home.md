@@ -8,23 +8,19 @@ For general discussions and questions about CoffeeScript see the [[Google Group|
 * [[Web framework plugins]]
 * [[Build tools]] (for compiling/packaging CoffeeScript)
 
-
-## How-Tos
+### How-Tos
 
 * [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
 * [[Sequential Execution]]
 
-
-## Extensibility
+### Extensibility
 
 * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
 * [[Writing DSLs|[Extensibility] Writing DSLs]]
 
-
-## FAQ
+### FAQ
 * [[Here|FAQ]]
 
-## In The Wild
+### In The Wild
 * [[CoffeeScript in real projects|In The Wild]]
 * [[List of languages that compile to JS]]
-
