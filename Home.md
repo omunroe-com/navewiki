@@ -19,7 +19,7 @@ For general discussions and questions about CoffeeScript see the [[Google Group|
 * [[Writing DSLs|[Extensibility] Writing DSLs]]
 
 ### FAQ
-* [[Here|FAQ]]
+* [[The CoffeeScript FAQ|FAQ]]
 
 ### In The Wild
 * [[CoffeeScript in real projects|In The Wild]]
