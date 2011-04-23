@@ -38,6 +38,8 @@
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
+[Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
+
 [WordSquared](http://wordsquared.com) - Massively multiplAayer online scrabble.
 
 [Widescript](http://widescript.com) - Digital textbook platform
