@@ -9,9 +9,10 @@
 
 ###### Friends (philosophically related)
 
+* [[JS11|https://github.com/dxgriffiths/JS11/]] Beautiful like CoffeeScript but far more conventional, in case you have no interest in Ruby-like syntax. Also debugs line-for-line as JS.
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
-* [[move|https://github.com/rsms/move]] A simpler and cleaner programming language
+* [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
 
 #### JavaScript
 
