@@ -79,7 +79,8 @@
 * [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
 * [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
-* [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy
+* [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
+* [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
 
 #### OCaml
 
