@@ -6,6 +6,8 @@
 
 * Kohana: **DanHulton**'s [kohana-coffeescript](http://github.com/DanHulton/kohana-coffeescript) — a runtime compiler and minifier for the PHP framework.
 
+* Symfony: **tyaga**'s [sfCoffeeScriptPlugin](http://github.com/tyaga/sfCoffeeScriptPlugin) — a runtime compiler for the Symfony PHP framework.
+
 * Python: **miracle2k**'s [webassets](http://github.com/miracle2k/webassets) - a Python asset manager that supports CoffeeScript.
 
 * Rack: **mattly**'s [rack-coffee](http://github.com/mattly/rack-coffee) — a small Rack middleware for serving CoffeeScript files as compiled JavaScript on the fly.
