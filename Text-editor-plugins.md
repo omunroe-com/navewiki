@@ -17,3 +17,5 @@
 * Vim: **kchmck**'s [Vim CoffeeScript](http://github.com/kchmck/vim-coffee-script) — adds Vim syntax highlighting and indentation support.
 
 * Vim snippets collections **carlosvillu**'s [CoffeeScript Vim Snippets](https://github.com/carlosvillu/coffeScript-VIM-Snippets) - add snippets to be used with the snippets vim plugin.
+
+* Sublime Text 2: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) above provides syntax highlighting and snippet expansion.
