@@ -137,6 +137,7 @@ for client-side (and server-side) web development
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
 * [[newspeak|http://gbracha.blogspot.com/2011/03/truthiness-is-out-there.html]] in progress, converting compiler from java to javascript
 * [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
+* [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]]
 
