@@ -12,6 +12,8 @@
 
 * jEdit: **dhotson**'s and **balazstth**'s [coffeescript-jedit](https://github.com/dhotson/coffeescript-jedit) — which provides syntax highlighting and indentation support in jEdit.
 
+* NetBeans: **dstepanov**'s [coffeescript-netbeans](https://github.com/dstepanov/coffeescript-netbeans) - compiles coffeescript files without Node.js, advanced syntax highlighting, error checking by background compilation and autocompilation
+
 * TextMate: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) — provides syntax highlighting, snippet expansion, and the ability to run bits of CoffeeScript from within TextMate itself.
 
 * Vim: **kchmck**'s [Vim CoffeeScript](http://github.com/kchmck/vim-coffee-script) — adds Vim syntax highlighting and indentation support.
