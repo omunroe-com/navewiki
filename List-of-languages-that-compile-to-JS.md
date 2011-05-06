@@ -13,7 +13,6 @@
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
-* [[Traceur|http://code.google.com/p/traceur-compiler]] Google's vehicle for Javascript Language Design Experimentation
 
 #### JavaScript
 
