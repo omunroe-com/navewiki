@@ -75,16 +75,17 @@
 
 #### Lisp, Scheme
 
-* [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
-* [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
-* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
-* [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript.
-* [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
-* [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
-* [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
+* [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
+* [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
 * [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
+* [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
+* [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
 * [[Ralph|https://github.com/turbolent/ralph]] Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
+* [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript.
+* [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
+* [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
+* [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
 
 #### OCaml
 
