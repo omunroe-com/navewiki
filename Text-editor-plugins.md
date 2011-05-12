@@ -8,7 +8,10 @@
 
 * Kate: **max99x**'s [kate-coffeescript](https://github.com/max99x/kate-coffeescript) — provides syntax highlighting.
 
-* IntelliJ IDEA/RubyMine: **yeungda**'s [coffeescript-idea](http://yeungda.github.com/coffeescript-idea/) — provides syntax highlighting.
+* IntelliJ IDEA/RubyMine/PyCharm/PHPStorm/WebStorm:
+  * **yeungda**'s [coffeescript-idea](http://yeungda.github.com/coffeescript-idea/) — provides syntax highlighting. development halted: see next item.
+  * **netzpirat**'s [CoffeeBrew](https://github.com/netzpirat/coffee-brew) — an extensive refactoring and improvement upon coffeescript-idea. development halted: see next item.
+  * [Official Support](http://youtrack.jetbrains.net/issue/RUBY-5943) is *planned* for RubyMine 4, using CoffeeBrew as a base. Whether or not this support will be more widely available is currently up in the air. Please add your comments to the bug tracker if you would like to see CoffeeScript support in other jetbrains products than just RubyMine, with all of the features one would expect from a jetbrains product (completion, investigations, auto-fix, go-to-definition, etc).
 
 * jEdit: **dhotson**'s and **balazstth**'s [coffeescript-jedit](https://github.com/dhotson/coffeescript-jedit) — which provides syntax highlighting and indentation support in jEdit.
 
