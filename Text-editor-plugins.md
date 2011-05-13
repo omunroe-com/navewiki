@@ -24,3 +24,5 @@
 * Vim snippets collections **carlosvillu**'s [CoffeeScript Vim Snippets](https://github.com/carlosvillu/coffeScript-VIM-Snippets) - add snippets to be used with the snippets vim plugin.
 
 * Sublime Text 2: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) above provides syntax highlighting and snippet expansion.
+
+* Coda/SubEthaEdit: **nfiniteset**'s [CoffeeScript Coda/SubEthaEdit mode](http://github.com/nfiniteset/CoffeeScript.mode) — A syntax mode that provides syntax coloring.
