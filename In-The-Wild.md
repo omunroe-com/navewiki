@@ -40,7 +40,7 @@
 
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
-[WordSquared](http://wordsquared.com) - Massively multiplAayer online scrabble.
+[WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble.
 
 [Widescript](http://widescript.com) - Digital textbook platform
 
