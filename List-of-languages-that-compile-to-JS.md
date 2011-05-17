@@ -22,7 +22,10 @@
 * [[Traceur|http://code.google.com/p/traceur-compiler/]] Google's vehicle for Javascript Language Design Experimentation
 * [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
 * [[UglifyJS|https://github.com/mishoo/UglifyJS]]
+* [[EcmaScript 5 Parser (es-lab)|http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html]]
+* [[EcmaScript 5 Parser (qfox)|http://esparser.qfox.nl/]]
 * [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
+* [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
 
 ###### Security enforcing JavaScript
 
