@@ -21,6 +21,8 @@
 
 * Sublime Text 2: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) above provides syntax highlighting and snippet expansion.
 
+* Textadept: **rgieseke**'s [CoffeeScript Textadept module](http://rgieseke.github.com/textadept-coffeescript) — provides snippets, additional key commands and indentation support.
+
 * TextMate: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) — provides syntax highlighting, snippet expansion, and the ability to run bits of CoffeeScript from within TextMate itself.
 
 * Vim: **kchmck**'s [Vim CoffeeScript](http://github.com/kchmck/vim-coffee-script) — adds Vim syntax highlighting and indentation support.
