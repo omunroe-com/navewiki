@@ -39,7 +39,7 @@ Define the task as `say:hello`:
 
 ```coffeescript
 task 'say:hello', 'Description of task', ->
-  puts 'Hello World!'
+  console.log 'Hello World!'
 ```
 
 Save and exit back to the shell. Next, let's run our newly created task:
