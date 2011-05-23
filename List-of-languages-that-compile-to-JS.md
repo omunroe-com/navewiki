@@ -128,7 +128,6 @@
 
 #### Tierless languages (produce both client & server)
 
-* [[One Pot Application|http://mlstate.com]] [free for non commercial] Industrial programming language for high-security distributed web applications.
 * [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS.
 * [[Ur|http://impredicative.com/ur/]] In the tradition of ML and Haskell.
 * [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
@@ -136,6 +135,7 @@
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 * [[Sugar|https://github.com/sebastien/sugar]] new programming language designed to replace JavaScript
 for client-side (and server-side) web development
+* [[Opa|http://www.opalang.org/]] (in private beta) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 
 #### Others
 
