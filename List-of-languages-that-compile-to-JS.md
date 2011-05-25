@@ -175,3 +175,9 @@ for client-side (and server-side) web development
 * [[JsonML AST|http://code.google.com/p/es-lab/wiki/JsonMLASTFormat]] format used by the es5 parser 
 * [[treehugger|https://github.com/zefhemel/treehugger]] Javascript AST transformation tools
 * [[JavaScript Shaper|http://jsshaper.org/]] JavaScript syntax tree shaping
+
+
+#### See Also
+
+* [[altJS|http://altjs.org/]] - [[google group|http://groups.google.com/group/altjs]], [[#altjs|irc://irc.freenode.net/altJS]] IRC channel for those interested in alternative languages for javascript  ('transpilers')
+* [[jswiki|https://github.com/bebraw/jswiki/wiki]] another github wiki with listings of various javascript libraries
