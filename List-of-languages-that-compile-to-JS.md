@@ -179,5 +179,5 @@ for client-side (and server-side) web development
 
 #### See Also
 
-* [[altJS|http://altjs.org/]] [[Google group|http://groups.google.com/group/altjs]] and #altjs IRC channel for those interested in alternative languages for javascript  ('transpilers')
+* [[altJS|http://altjs.org/]] a [[Google group|http://groups.google.com/group/altjs]] and #altjs IRC channel for those interested in alternative languages for javascript  ('transpilers')
 * [[jswiki|https://github.com/bebraw/jswiki/wiki]] another github wiki with listings of various javascript libraries
