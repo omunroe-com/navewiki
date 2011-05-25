@@ -93,3 +93,5 @@
 [nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
 
 [tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
+
+[cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
