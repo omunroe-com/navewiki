@@ -22,6 +22,8 @@
 
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
 
+[DocPad](http://github.com/balupton/docpad) - The easiest way to generate static websites. Port of Jekyll to Node.js
+
 [Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
 
 [HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
@@ -49,6 +51,7 @@
 ## Tools and Frameworks
 
 ### Build and Deployment
+[Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
@@ -81,17 +84,23 @@
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
 ### Web App Frameworks - Node.js
+[Coffee4Clients](http://github.com/balupton/coffee4clients.npm) - Renders .coffee files into javascript when requested on a Express.js server
+
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
 [zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
 ### Miscellaneous
-[courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
+[Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
+
+[FilePad](http://github.com/balupton/filepad) - Edit your local files in your browser with realtime collaboration
 
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
 
-[nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
+[Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
 
-[tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
+[NowPad](http://github.com/balupton/nowpad) - Realtime Text Collaboration for Node.js apps
 
-[cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
+[Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
+
+[Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
