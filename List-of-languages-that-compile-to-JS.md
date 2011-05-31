@@ -76,6 +76,12 @@
 * [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and JavaScript version of SWT
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 
+#### C#, .NET
+
+* [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
+* [[JSIL|https://github.com/kevingadd/JSIL]] MSIL (.NET bytecode) to Javascript
+* [[Script#|http://projects.nikhilk.net/ScriptSharp]] [commercial] Compiles C# to JS.
+
 #### Lisp, Scheme
 
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
@@ -124,7 +130,6 @@
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Fantom|http://fantom.org/]] Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
-* [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[LZX (Laszlo XML)|http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes]] LZX is [[OpenLaszlo's|http://www.openlaszlo.org]] declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3.
 
 #### Tierless languages (produce both client & server)
@@ -146,12 +151,10 @@ for client-side (and server-side) web development
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]]
-* [[JSIL|https://github.com/kevingadd/JSIL]] MSIL (.NET bytecode) to Javascript
 
 ###### Static typed
 
-* Some of the ones listed above are statically typed, such as mobl, GWT, NS Basic, and Haxe.
-* [[Script#|http://projects.nikhilk.net/ScriptSharp]] [commercial] Compiles C# to JS.
+* Some of the ones listed above are statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
 
