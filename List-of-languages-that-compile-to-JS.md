@@ -146,7 +146,7 @@ for client-side (and server-side) web development
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]]
-* [[JSIL|https://github.com/kevingadd/JSIL] MSIL (.NET bytecode) to Javascript
+* [[JSIL|https://github.com/kevingadd/JSIL]] MSIL (.NET bytecode) to Javascript
 
 ###### Static typed
 
