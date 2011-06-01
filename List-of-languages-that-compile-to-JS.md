@@ -64,6 +64,7 @@
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[jLang|http://jlang.org/]] adds object oriented syntax, namespaces, operators overriding
 * [[Restrict Mode|http://restrictmode.org/]]
+* [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]] gentle extension of JavaScript
 
 #### Ruby
 
@@ -162,7 +163,7 @@ for client-side (and server-side) web development
 * [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
-* [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]]
+* [[p2js|https://github.com/urandom/p2js]] perl to javascript converter
 
 #### Tools for Compiler Writers
 
