@@ -14,18 +14,21 @@
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
 
-#### JavaScript
+#### JavaScript Parsers
 
 * [[Narcissus|https://github.com/mozilla/narcissus/]] Mozilla's experimental JavaScript compiler in JavaScript by Brendan Eich and others.  
     * [[CommonJS version in DoctorJS|https://github.com/mozilla/doctorjs/tree/master/lib/jsctags/narcissus]]
     * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
 * [[Traceur|http://code.google.com/p/traceur-compiler/]] Google's vehicle for Javascript Language Design Experimentation
-* [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
-* [[UglifyJS|https://github.com/mishoo/UglifyJS]]
 * [[EcmaScript 5 Parser (es-lab)|http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html]]
 * [[EcmaScript 5 Parser (qfox)|http://esparser.qfox.nl/]]
 * [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
 * [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
+
+##### Javascript Optimizers
+
+* [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
+* [[UglifyJS|https://github.com/mishoo/UglifyJS]]
 
 ###### Security enforcing JavaScript
 
@@ -37,13 +40,20 @@
 * [[Gatekeeper|http://research.microsoft.com/en-us/projects/gatekeeper/]] Microsoft Research project.
 * [[Dojo Secure|http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/]] Framework for building secure mashups.
 
+###### Static typing
+
+* Some of the ones listed below are also statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
+* [[SafeJS|https://github.com/safejs/SafeJS]]
+* [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
+* [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
+
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
 * [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.  See also apollo on that site.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] JavaScript extension with asynchronous futures and promises.
 * [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
-* [[Jscex|https://github.com/JeffreyZhao/jscex]] Write simple JavaScript code, execute it asynchronously by compiling to monadic form. Works in any ECMAScript 3 engines directly.
+* [[Jscex|https://github.com/JeffreyZhao/jscex]] Write simple JavaScript code, execute it asynchronously by compiling to monadic form.
 
 ###### JavaScript Language Extensions
 
@@ -53,6 +63,7 @@
 * [[jangaroo|http://www.jangaroo.net/home/]] AS3 (ActionScript) to JavaScript.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[jLang|http://jlang.org/]] adds object oriented syntax, namespaces, operators overriding
+* [[Restrict Mode|http://restrictmode.org/]]
 
 #### Ruby
 
@@ -130,8 +141,8 @@
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
 * [[Fantom|http://fantom.org/]] Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
-* [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 * [[LZX (Laszlo XML)|http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes]] LZX is [[OpenLaszlo's|http://www.openlaszlo.org]] declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3.
+* Clue and jsc above target multiple runtimes in addition to javascript
 
 #### Tierless languages (produce both client & server)
 
@@ -152,13 +163,6 @@ for client-side (and server-side) web development
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]]
-
-###### Static typed
-
-* Some of the ones listed above are statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
-* [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
-* [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
-
 
 #### Tools for Compiler Writers
 
