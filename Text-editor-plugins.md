@@ -31,3 +31,4 @@
 
 * Vim snippets collections **carlosvillu**'s [CoffeeScript Vim Snippets](https://github.com/carlosvillu/coffeScript-VIM-Snippets) - add snippets to be used with the snippets vim plugin.
 
+* BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
