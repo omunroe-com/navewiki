@@ -88,6 +88,10 @@
 * [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and JavaScript version of SWT
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 
+#### Scala
+
+* [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as java) plus scala to jribble.
+
 #### C#, .NET
 
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
