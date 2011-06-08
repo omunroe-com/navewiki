@@ -133,7 +133,6 @@
 
 #### C/C++
 
-* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
 * [[mala|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 
@@ -168,6 +167,7 @@ for client-side (and server-side) web development
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[p2js|https://github.com/urandom/p2js]] perl to javascript converter
+* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
 
 #### Tools for Compiler Writers
 
