@@ -94,6 +94,8 @@
 
 [zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
+[coffeemate](http://github.com/coffeemate/coffeemate) - the coffee creamer! Push coffeescript into web development.
+
 ### Miscellaneous
 [Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
