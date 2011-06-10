@@ -5,3 +5,5 @@
 * Haml: **inem** and **gerad**'s [coffee-haml-filter](http://github.com/gerad/coffee-haml-filter) — a custom filter for rendering CoffeeScript inline within Haml templates.
 
 * Java: **yeungda**'s [JCoffeeScript](http://github.com/yeungda/jcoffeescript) — uses Rhino to compile CoffeeScript, allowing compilation within Java projects or on systems that Node.js doesn't support.
+
+* **johtso**'s [CoffeeMarklet](http://johtso.github.com/CoffeeMarklet/) — a simple tool that allows you to quickly generate bookmarklets from CoffeeScript.
