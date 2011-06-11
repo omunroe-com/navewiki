@@ -99,6 +99,8 @@
 ### Miscellaneous
 [Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
+[Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
+
 [FilePad](http://github.com/balupton/filepad) - Edit your local files in your browser with realtime collaboration
 
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
