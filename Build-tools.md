@@ -6,4 +6,6 @@
 
 * Java: **yeungda**'s [JCoffeeScript](http://github.com/yeungda/jcoffeescript) — uses Rhino to compile CoffeeScript, allowing compilation within Java projects or on systems that Node.js doesn't support.
 
+* Java: **Web Resource Optimizer for Java** [wro4j] (https://github.com/alexo/wro4j) - uses Rhino for compilation of coffeeScript. Provides a runtime solution (using servlet filter), build time solution (maven plugin) and a command line tool. 
+
 * **johtso**'s [CoffeeMarklet](http://johtso.github.com/CoffeeMarklet/) — a simple tool that allows you to quickly generate bookmarklets from CoffeeScript.
