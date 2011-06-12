@@ -106,6 +106,7 @@
 * [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
 * [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
+* [[nconc|https://github.com/patrickdlogan/nconc]] scheme interpreter in javascript with stack-friendly tail calls and full call/cc
 * [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
 * [[Ralph|https://github.com/turbolent/ralph]] Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
 * [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript.
