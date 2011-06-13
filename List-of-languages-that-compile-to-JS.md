@@ -135,6 +135,7 @@
 
 #### C/C++
 
+* See Enscriptem below. C/C++ code can be compiled to LLVM bytecode, which enscriptem can convert to javascript.
 * [[mala|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 
@@ -164,7 +165,6 @@ for client-side (and server-side) web development
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
-* [[newspeak|http://gbracha.blogspot.com/2011/03/truthiness-is-out-there.html]] in progress, converting compiler from java to javascript
 * [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
@@ -178,6 +178,7 @@ for client-side (and server-side) web development
 * [[jison|https://github.com/zaach/jison]] Bison in javascript, used by Coffeescript
 * [[OMeta/JS|http://tinlizzie.org/ometa-js/#Sample_Project]] ([[source|https://github.com/veged/ometa-js]]) metacompiler for many languages to many targets, including js.
 * [[PEG.js|http://pegjs.majda.cz/]] parser generator for JavaScript based on the parsing expression grammar formalism
+* [[languagejs|https://github.com/tolmasky/language]] - PEG parser written in JavaScript with first class errors
 * [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus.  Depends on JS.Class library
 * [[JS/CC|http://jscc.jmksf.com/]] LALR(1) parser generator
 * [[jsparse|https://github.com/doublec/jsparse]]
