@@ -85,6 +85,8 @@
 ### Testing
 [Spec](http://github.com/kitgoncharov/Spec) - An event-driven unit testing library.
 
+[Twerp](http://github.com/philjackson/twerp) - Synchronous class-based unit testing framework.
+
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
 ### Web App Frameworks - Node.js
