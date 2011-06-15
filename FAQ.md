@@ -211,7 +211,7 @@ Say.Hello.fn()  # prints 'Hi World!'
 
 **Q:** How do I directly pass a function to another function that requires other arguments after it?
 
-**A:** You can use parenthesis around the function or a leading comma after it. i.e.:
+**A:** You can use parentheses around the function or a leading comma after it. i.e.:
 
 ```coffeescript
 setTimeout (-> alert 'Woohoo!' ), 1000
