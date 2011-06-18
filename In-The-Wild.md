@@ -46,6 +46,8 @@
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
+[ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
+
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
 [WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble.
