@@ -135,7 +135,7 @@
 
 #### C/C++
 
-* See Enscriptem below. C/C++ code can be compiled to LLVM bytecode, which enscriptem can convert to javascript.
+* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.  LLVM is "an aggressive open-source compiler for C and C++," as well as other languages.
 * [[mala|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 
@@ -169,7 +169,7 @@ for client-side (and server-side) web development
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[p2js|https://github.com/urandom/p2js]] perl to javascript converter
-* [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.
+* [[Reb2Static|https://github.com/jankom/RebToStatic]] Rebol to Javascript
 
 #### Tools for Compiler Writers
 
