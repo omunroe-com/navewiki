@@ -31,6 +31,8 @@
 
 * Vim snippets collections **carlosvillu**'s [CoffeeScript Vim Snippets](https://github.com/carlosvillu/coffeScript-VIM-Snippets) - add snippets to be used with the snippets vim plugin.
 
+* Vim: **claco**'s plugin for jasmine testing in vim with support for CoffeeScript [Jasmine/CoffeeSCript Vim Plugin](https://github.com/claco/jasmine.vim)
+
 * Vim: **clvv**'s fork of [a.vim](https://github.com/clvv/a.vim) - support for switching between .coffee and compiled .js files.
 
 * BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
