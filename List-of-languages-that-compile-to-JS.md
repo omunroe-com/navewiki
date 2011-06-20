@@ -170,6 +170,7 @@ for client-side (and server-side) web development
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
 * [[p2js|https://github.com/urandom/p2js]] perl to javascript converter
 * [[Reb2Static|https://github.com/jankom/RebToStatic]] Rebol to Javascript
+* [[RPN|https://github.com/adrusi/rpn]] Interpreter for a language with a Reverse Polish Notation syntax.
 
 #### Tools for Compiler Writers
 
