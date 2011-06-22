@@ -46,6 +46,7 @@
 * [[SafeJS|https://github.com/safejs/SafeJS]]
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
+* [[Roy|http://roy.brianmckenna.org/]] tries to meld JavaScript semantics with some features common in static functional languages
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
