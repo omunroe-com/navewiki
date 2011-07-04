@@ -35,4 +35,6 @@
 
 * Vim: **clvv**'s fork of [a.vim](https://github.com/clvv/a.vim) - support for switching between .coffee and compiled .js files.
 
+* Visual Studio: [CoffeeLite](https://github.com/chrisdunelm/CoffeeLite)
+
 * BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
