@@ -75,6 +75,7 @@
 * [[Red|https://github.com/jessesielaff/red]] Writes like Ruby and runs like JavaScript
 * [[Quby|http://www.playmycode.com/docs/quby]] Used for game coding site, not open source.
 * [[Opal|https://github.com/adambeynon/opal]] Ruby to Javascript compiler.
+* [[8ball|https://github.com/mattknox/8ball]] ruby-to-javascript source-to-source transformer
 
 #### Python
 
@@ -172,6 +173,7 @@ for client-side (and server-side) web development
 * [[p2js|https://github.com/urandom/p2js]] perl to javascript converter
 * [[Reb2Static|https://github.com/jankom/RebToStatic]] Rebol to Javascript
 * [[RPN|https://github.com/adrusi/rpn]] Interpreter for a language with a Reverse Polish Notation syntax.
+* [[phype|http://code.google.com/p/phype/]] run PHP code directly in your browser
 
 #### Tools for Compiler Writers
 
