@@ -24,6 +24,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
 * [[Sequential Execution]]
 * [[Easy-modules-with-coffeescript]]
+* [Nodetuts in Coffeescript](http://jaigouk.github.com/nodetuts-coffeescript/)
 
 ### Extensibility
 
