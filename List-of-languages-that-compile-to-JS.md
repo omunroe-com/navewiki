@@ -165,6 +165,11 @@
 for client-side (and server-side) web development
 * [[Opa|http://www.opalang.org/]] (in private beta) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 
+#### Visual, Blocks-based Languages
+* [[Waterbear|http://waterbearlang.com/]]
+* [[JsMorphic|http://chirp.scratchr.org/dl/experimental/JsMorphic/]] - [[demo|http://chirp.scratchr.org/dl/experimental/JsMorphic/snap.html]]
+* [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
+
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
