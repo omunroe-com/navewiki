@@ -203,6 +203,7 @@ for client-side (and server-side) web development
 * [[JsonML AST|http://code.google.com/p/es-lab/wiki/JsonMLASTFormat]] format used by the es5 parser 
 * [[treehugger|https://github.com/zefhemel/treehugger]] Javascript AST transformation tools
 * [[JavaScript Shaper|http://jsshaper.org/]] JavaScript syntax tree shaping
+* [[js-traverse|https://github.com/substack/js-traverse]] - see [[this post|http://substack.net/posts/eed898]] for more info, as well as [[node-stackedy|https://github.com/substack/node-stackedy]] for an example and [[node-browserify|https://github.com/substack/node-browserify]] for running it in a browser instead of node
 
 
 #### See Also
