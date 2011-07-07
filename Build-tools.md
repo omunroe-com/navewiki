@@ -10,4 +10,4 @@
 
 * **johtso**'s [CoffeeMarklet](http://johtso.github.com/CoffeeMarklet/) — a simple tool that allows you to quickly generate bookmarklets from CoffeeScript.
 
-* **jtmueller**'s [CoffeeScript Monitor](http://coffeemonitor.codeplex.com/) - a Windows system tray app that monitors one or more folders for new or changed CoffeeScript files, displaying any compiler errors in a system tray balloon tip.
+* .NET: **jtmueller**'s [CoffeeScript Monitor](http://coffeemonitor.codeplex.com/) - a Windows system tray app that monitors one or more folders for new or changed CoffeeScript files, displaying any compiler errors in a system tray balloon tip.
