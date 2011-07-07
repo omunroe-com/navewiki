@@ -10,8 +10,6 @@
 
 [Basecamp Mobile](http://basecamphq.com/mobile/) - Mobile web version of 37signals' Basecamp (Backbone + CoffeeScript + Eco)
 
-[Blocky](https://github.com/zmcartor/Blocky) - Clientside QR code generation
-
 [BusyConf](http://busyconf.com/) - Making great conferences even better (CoffeeScript + jQuery + Sencha Touch)
 
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
@@ -103,6 +101,8 @@
 [coffeemate](http://github.com/coffeemate/coffeemate) - the coffee creamer! Push coffeescript into web development.
 
 ### Miscellaneous
+[Blocky](https://github.com/zmcartor/Blocky) - Clientside QR code generation
+
 [Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
 [Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
