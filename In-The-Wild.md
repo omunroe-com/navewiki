@@ -10,6 +10,8 @@
 
 [Basecamp Mobile](http://basecamphq.com/mobile/) - Mobile web version of 37signals' Basecamp (Backbone + CoffeeScript + Eco)
 
+[Blocky](https://github.com/zmcartor/Blocky) - Clientside QR code generation
+
 [BusyConf](http://busyconf.com/) - Making great conferences even better (CoffeeScript + jQuery + Sencha Touch)
 
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
