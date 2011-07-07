@@ -1,6 +1,6 @@
 #### CoffeeScript Family (& Friends)
 
-* [[CoffeeScript|http://coffeescript.com]] Unfancy JavaScript
+* [[CoffeeScript|http://jashkenas.github.com/coffee-script/]] Unfancy JavaScript
 
 ###### Family (share genes with CoffeeScript)
 
