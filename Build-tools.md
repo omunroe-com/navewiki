@@ -9,3 +9,5 @@
 * Java: **Web Resource Optimizer for Java** [wro4j] (https://github.com/alexo/wro4j) - uses Rhino for compilation of coffeeScript. Provides a runtime solution (using servlet filter), build time solution (maven plugin) and a command line tool. 
 
 * **johtso**'s [CoffeeMarklet](http://johtso.github.com/CoffeeMarklet/) — a simple tool that allows you to quickly generate bookmarklets from CoffeeScript.
+
+* **jtmueller**'s [CoffeeScript Monitor](http://coffeemonitor.codeplex.com/) - a Windows system tray app that monitors one or more folders for new or changed CoffeeScript files, displaying any compiler errors in a system tray balloon tip.
