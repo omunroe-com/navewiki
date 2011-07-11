@@ -115,6 +115,8 @@
 
 [NowPad](http://github.com/balupton/nowpad) - Realtime Text Collaboration for Node.js apps
 
+[PDFKit](http://devongovett.github.com/pdfkit/) - A powerful PDF generation library for Node.js
+
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
 
 [Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
