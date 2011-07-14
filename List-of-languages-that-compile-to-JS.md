@@ -191,7 +191,7 @@ for client-side (and server-side) web development
 * [[languagejs|https://github.com/tolmasky/language]] - PEG parser written in JavaScript with first class errors
 * [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus.  Depends on JS.Class library
 * [[JS/CC|http://jscc.jmksf.com/]] LALR(1) parser generator
-* [[jsparse|https://github.com/doublec/jsparse]]
+* [[jsparse|https://github.com/doublec/jsparse]] PEG by Grandmaster Chris Double
 * [[ReParse|https://github.com/weaver/ReParse]] parser combinator library for Javascript like Haskell's Parsec
 * [[p4js|https://github.com/asmyczek/p4js]] Monadic parser library for JavaScript
 * [[JSGLR|http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right]] Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript
