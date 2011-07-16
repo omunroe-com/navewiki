@@ -174,6 +174,6 @@ To build the documentation from the source templates.  Note that this spawns a c
 
 ## 12. Guidelines for submitting changes back to the master repository
 
-1. Don't submit the rebuilt `extras/coffee-script.js` file.  It will be rebuilt by the CoffeeScript team when a release is tagged
-2. Similarly, don't submit the rebuild `index.html` documentation file.  It will also be build when a release is tagged
-3. Changes without tests will generally not be excepted unless it's a fix to a regression or you can make the argument that a test is more trouble than it's worth
+1. Don't submit the `extras/coffee-script.js` file.  It will be rebuilt by the CoffeeScript team when a release is tagged
+2. Similarly, don't submit the `index.html` documentation file.  It will also be built when a release is tagged
+3. Changes without tests will generally not be accepted unless it's a fix to a regression or you can make the argument that a test is more trouble than it's worth
