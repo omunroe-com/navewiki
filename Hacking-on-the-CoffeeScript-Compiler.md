@@ -1,4 +1,4 @@
-If you would like to help with CoffeeScript development, or would just like to play around with the compiler to see how it works, follow this guide to compare your system.
+If you would like to help with CoffeeScript development, or would just like to play around with the compiler to see how it works, follow this guide to prepare your system.
 
 *Note: This has only been tested on Mac OS X.  Details may vary for your particular platform.*
 
