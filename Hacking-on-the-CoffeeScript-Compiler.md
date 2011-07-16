@@ -61,7 +61,7 @@ What this does is run `cake build` twice so that the compiler compiles itself wi
 
 ## 6. Backing out bad changes
 
-When you're working with a self-hosted compiler and using the latest version of the compiler to compile yourself, as CoffeeScript does, it's easy to run into a situation where you can't compile anymore because the compiler you just built has a fatal bug that you've introduced.  When this occurs, it will usually manifest itself as the `cake build` process suddenly throwing errors, the resulting compiler failing tests during `cake test` or `cake build:full`, or (even more insidiously), CoffeeScript or some other program you're using to test your changes starts behaving weirdly.
+When you're working with a self-hosted compiler and using the latest version of the compiler to compile yourself, as CoffeeScript does, it's easy to run into a situation where you can't compile anymore because the compiler you just built has a fatal bug that you've introduced.  When this occurs, it will usually manifest itself as the `cake build` process suddenly throwing errors, failed tests during `cake test` or `cake build:full`, or (even more insidiously), weird behaviors in CoffeeScript or some other program you're using to test.
 
 If this happens, don't panic, and **don't start all over** by blowing away your local repository and giving up!  Just run 
 
