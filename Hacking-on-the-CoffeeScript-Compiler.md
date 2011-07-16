@@ -91,7 +91,7 @@ As you are hacking on the source, it's a good idea to make sure you haven't brok
 
     cake test
 
-periodically for a sanity check.  If you intent to submit a patch to the main CoffeeScript repository, make sure you add new tests to the `test/` folder as necessary.  Just follow an example that's closest to what you are trying to do.  The new tests will be picked up automatically by `cake`.
+periodically for a sanity check.  If you intend to submit a patch to the main CoffeeScript repository, make sure you add new tests to the `test/` folder as necessary.  Just follow an example that's closest to what you are trying to do.  The new tests will be picked up automatically by `cake`.
 
 ## 9. Installation
 
