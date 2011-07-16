@@ -171,3 +171,9 @@ If all the prerequisites are met, you should be able to run
     cake doc:site
 
 To build the documentation from the source templates.  Note that this spawns a continuous Rake task that watches the file system for changes to the documentation template and rebuilds the target HTML on demand.  You can always call `cake doc:site`, wait a few seconds, and then `ctrl+c` out of it if you just want to call it to build it once.
+
+## 12. Guidelines for submitting changes back to the master repository
+
+1. Don't submit the rebuilt `extras/coffee-script.js` file.  It will be rebuilt by the CoffeeScript team when a release is tagged
+2. Similarly, don't submit the rebuild `index.html` documentation file.  It will also be build when a release is tagged
+3. Changes without tests will generally not be excepted unless it's a fix to a regression or you can make the argument that a test is more trouble than it's worth
