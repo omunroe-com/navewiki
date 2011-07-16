@@ -65,7 +65,7 @@ When you're working with a self-hosted compiler and using the latest version of 
 
 If this happens, don't panic, and **don't start all over** by blowing away your local repository and giving up!  Just run 
 
-    git checkout lib/* && git checkout/bin*
+    git checkout lib
 
 This will revert the "built" CoffeeScript back to the way it was in the main repository.  From here, you can look for what caused the problem and try to fix it.  Just keep running the above command to get a working compiler until your compiler starts working, too.
 
