@@ -105,7 +105,7 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
 
 You've probably noticed that there is a Rakefile in addition to the Cakefile.  The Rakefile serves two purposes:
 
-1. It builds the main index.html page (the page that you see when you go to the CoffeeScript home page) from the `documentation/index.html.erb" template
+1. It builds the main index.html page (the page that you see when you go to the CoffeeScript home page) from the `documentation/index.html.erb` template
 2. It creates (but does not publish) the CoffeeScript Ruby Gem
 
 If you don't need to do either of these things, then you don't have to worry about the Rakefile.  If you would like to change the documentation, however, read on...
