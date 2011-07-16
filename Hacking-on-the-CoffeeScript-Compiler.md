@@ -30,6 +30,16 @@ CoffeeScript is *self-hosting*.  This means that the CoffeeScript compiler is wr
 
 If you intend to mess around with the actual grammar rules (in `src/grammar.coffee`), you'll need to install the Jison parser generator.  CoffeeScript's parser is not hand-written; instead, Jison is used to convert the `src/grammer.coffee` grammar definition DSL into an LALR parser.  This is equivalent to what Yacc/Bison does, but the resulting code is JavaScript rather than C.
 
+### [Uglify-js](https://github.com/mishoo/UglifyJS)
+
+    npm install uglify-js
+
+Used to compress the CoffeeScript compiler to a minified JS file for running CoffeeScript in the browser.  Needed only if you need to run
+
+    cake build:browser
+
+to build the browser version of CoffeeScript.
+
 ## 2. Fetch the source
 
     cd your_projects_dir
