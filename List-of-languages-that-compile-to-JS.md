@@ -134,7 +134,7 @@
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
 * [[JTalk|http://nicolaspetton.github.com/jtalk/]] An implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
-* [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser
+* [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser.  See also [[Avocado|http://avocadojs.com/]], built on top of it.
 
 #### C/C++
 
@@ -198,12 +198,13 @@ for client-side (and server-side) web development
 * [[antlr|https://github.com/antlr/examples-v3]] has a javascript target
 * [[Cruiser.Parse|http://code.google.com/p/cruiser/wiki/Parse]] LL(k) parser
 
-###### Javascript AST
+###### Javascript AST, Semantics
 * [[Closure Compiler AST Documentation|https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf]]
 * [[JsonML AST|http://code.google.com/p/es-lab/wiki/JsonMLASTFormat]] format used by the es5 parser 
 * [[treehugger|https://github.com/zefhemel/treehugger]] Javascript AST transformation tools
 * [[JavaScript Shaper|http://jsshaper.org/]] JavaScript syntax tree shaping
 * [[burrito|https://github.com/substack/node-burrito]] & [[js-traverse|https://github.com/substack/js-traverse]] - see [[this post|http://substack.net/posts/eed898]] for more info, as well as [[node-stackedy|https://github.com/substack/node-stackedy]] for an example and [[node-browserify|https://github.com/substack/node-browserify]] for running it in a browser instead of node
+* [[javascript types|http://cs.brown.edu/~joe/public/types/types.html]] - lambdajs, flow typing
 
 
 #### See Also
