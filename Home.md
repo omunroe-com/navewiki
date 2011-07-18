@@ -25,7 +25,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Sequential Execution]]
 * [[Easy-modules-with-coffeescript]]
 * [Nodetuts in Coffeescript](http://jaigouk.github.com/nodetuts-coffeescript/)
-* [[Hacking on the CoffeeScript compiler]|[Howto] Hacking on the CoffeeScript Compiler]]
+* [[Hacking on the CoffeeScript compiler|[Howto] Hacking on the CoffeeScript Compiler]]
 
 ### Extensibility
 
