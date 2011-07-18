@@ -2,6 +2,16 @@ If you would like to help with CoffeeScript development, or would just like to p
 
 *Note: This has only been tested on Mac OS X.  Details may vary for your particular platform.*
 
+## Quick Start
+
+    git clone git://github.com/jashkenas/coffee-script.git
+    cd coffee-script
+    ...make your changes
+    bin/cake build:full
+    bin/coffee <your testing sample code>
+
+For the full details, read on!
+
 ## 1. Prerequisites
 
 Before you can play with the source, you'll need a few things on your system first.
@@ -10,11 +20,11 @@ Before you can play with the source, you'll need a few things on your system fir
 
 You need Node to run the CoffeeScript compiler.  
 
-### [NPM](http://npmjs.org/) (Node Package Manager)
+### [npm](http://npmjs.org/) (Node Package Manager)
 
-NPM is like Ruby Gems for Node.  It will let us download the rest of the packages we need to make all of this work.
+npm is like Ruby Gems for Node.  It will let us download the rest of the packages we need to make all of this work.
 
-*Note: DON'T install NPM using sudo.  Really, don't.  It is designed to be installed and used without sudo.*
+*Note: DON'T install npm using sudo.  Really, don't.  It is designed to be installed and used without sudo.*
 
 ### The CoffeeScript Compiler
 
