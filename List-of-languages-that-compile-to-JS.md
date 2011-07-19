@@ -181,6 +181,7 @@ for client-side (and server-side) web development
 * [[Reb2Static|https://github.com/jankom/RebToStatic]] Rebol to Javascript
 * [[RPN|https://github.com/adrusi/rpn]] Interpreter for a language with a Reverse Polish Notation syntax.
 * [[phype|http://code.google.com/p/phype/]] run PHP code directly in your browser
+* [[OP4JS|http://delphimax.wordpress.com/2011/07/18/op4js-low-level-or-high-level-you-choose/]] object pascal for javascript, in development
 
 #### Tools for Compiler Writers
 
