@@ -22,7 +22,7 @@
 * [[Traceur|http://code.google.com/p/traceur-compiler/]] Google's vehicle for Javascript Language Design Experimentation
 * [[EcmaScript 5 Parser (es-lab)|http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html]]
 * [[EcmaScript 5 Parser (qfox)|http://esparser.qfox.nl/]]
-* [[reflect.js|https://github.com/zaach/reflect.js]] Implementation of Mozilla's Parser API in JavaScript
+* [[reflect.js|https://github.com/zaach/reflect.js]] Implementation of Mozilla's (SpiderMonkey) [[Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]] in JavaScript
 * [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
 * [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
 
@@ -201,6 +201,7 @@ for client-side (and server-side) web development
 
 ###### Javascript AST, Semantics
 * [[Closure Compiler AST Documentation|https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf]]
+* [[Spidermonkey Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]] - see also reflect.js above
 * [[JsonML AST|http://code.google.com/p/es-lab/wiki/JsonMLASTFormat]] format used by the es5 parser 
 * [[treehugger|https://github.com/zefhemel/treehugger]] Javascript AST transformation tools
 * [[JavaScript Shaper|http://jsshaper.org/]] JavaScript syntax tree shaping
