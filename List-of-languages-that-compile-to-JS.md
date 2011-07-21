@@ -105,6 +105,7 @@
 
 #### Lisp, Scheme
 
+* [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
 * [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
 * [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
