@@ -82,7 +82,8 @@
 [Stitch](http://github.com/sstephenson/stitch) - Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
 
 ### Templating
-[eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
+[eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)  
+[CoffeeKup](github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
 
 ### Testing
 [Spec](http://github.com/kitgoncharov/Spec) - An event-driven unit testing library.
