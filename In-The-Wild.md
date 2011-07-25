@@ -64,7 +64,7 @@
 [riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
 
 ### Design Patterns
-[WebActors](http://github.com/mental/webactors) - Actors for JavaScript
+[WebActors](http://github.com/mental/webactors) - Actors for JavaScript  
 [meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
 
 ### Documentation Generators
