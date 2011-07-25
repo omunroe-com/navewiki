@@ -57,14 +57,14 @@
 ## Tools and Frameworks
 
 ### Build and Deployment
-[Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker  
+[Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
 [riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
 
 ### Design Patterns
-[WebActors](http://github.com/mental/webactors) - Actors for JavaScript  
+[WebActors](http://github.com/mental/webactors) - Actors for JavaScript
 [meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
 
 ### Documentation Generators
@@ -83,7 +83,7 @@
 [Stitch](http://github.com/sstephenson/stitch) - Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
 
 ### Templating
-[eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)  
+[eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 [CoffeeKup](github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
 
 ### Testing
