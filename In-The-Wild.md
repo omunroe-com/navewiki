@@ -57,7 +57,7 @@
 ## Tools and Frameworks
 
 ### Build and Deployment
-[Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker
+[Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker  
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
