@@ -65,6 +65,7 @@
 
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
+[meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
 
 ### Documentation Generators
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
