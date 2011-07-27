@@ -34,7 +34,7 @@
 
 [Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
 
-[HotelTonight iPhone application](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  The entire iPhone app is written in Coffeescript, on top of Appcelerator Titanium.  Thus, it is not a web app, but a native, installable app, with great performance and looks great.
+[HotelTonight mobile applications](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  Both the iPhone app and Android app are written in Coffeescript.  For the iPhone app, it is an Appcelerator Titanium based app, and the Android app is an HTML5 app (using Backbone.js and jQuery Mobile).
 
 [Kodingen](http://kodingen.com/) - Cloud Development Environment with php/ruby/perl/python support.
 
