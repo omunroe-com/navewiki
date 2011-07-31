@@ -107,6 +107,8 @@
 
 [Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
+[Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
+
 [Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
 
 [FilePad](http://github.com/balupton/filepad) - Edit your local files in your browser with realtime collaboration
@@ -120,5 +122,3 @@
 [PDFKit](http://devongovett.github.com/pdfkit/) - A powerful PDF generation library for Node.js
 
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
-
-[Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
