@@ -21,3 +21,5 @@
 * **lakshmivyas**'s [Hyde](http://github.com/lakshmivyas/hyde) - a Python static generator with built-in support for CoffeeScript.
 
 * Node.js: **dvv**'s [simple](https://github.com/dvv/simple) -- Simple drop-in JSON REST/RPC server secured by Object Capability
+
+* Perl: [Plack::Middleware::Compile](https://metacpan.org/module/Plack::Middleware::Compile) - a Perl Plack middleware that compiles CoffeeScript to JavaScript on demand
