@@ -28,6 +28,8 @@
 
 [DocPad](http://github.com/balupton/docpad) - The easiest way to generate static websites. Port of Jekyll to Node.js
 
+[Eight Queens](http://shpaml.webfactional.com/misc/game_page.htm) - Eight Queens, animated and annotated
+
 [Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
 
 [HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
