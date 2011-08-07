@@ -31,7 +31,6 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
 * [[Writing DSLs|[Extensibility] Writing DSLs]]
-* [A CoffeeScript fork that emits Google Closure-style JavaScript code](http://bolinfest.com/coffee/)
 
 ### Community
 
