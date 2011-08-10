@@ -211,7 +211,7 @@ for client-side (and server-side) web development
 * [[JavaScript Shaper|http://jsshaper.org/]] JavaScript syntax tree shaping
 * [[burrito|https://github.com/substack/node-burrito]] & [[js-traverse|https://github.com/substack/js-traverse]] - see [[this post|http://substack.net/posts/eed898]] for more info, as well as [[node-stackedy|https://github.com/substack/node-stackedy]] for an example and [[node-browserify|https://github.com/substack/node-browserify]] for running it in a browser instead of node
 * [[javascript types|http://cs.brown.edu/~joe/public/types/types.html]] - lambdajs, flow typing
-
+* [[SourceMap|https://github.com/mozilla/source-map]] - map javascript debugger output to original source 
 
 #### See Also
 
