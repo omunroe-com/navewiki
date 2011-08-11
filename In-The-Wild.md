@@ -70,6 +70,8 @@
 [meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
 
 ### Documentation Generators
+[CoffeeDoc](http://github.com/omarkhan/coffeedoc) - an API documentation generator for CoffeeScript
+
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
 ### Flow Control
