@@ -40,3 +40,5 @@
 * Visual Studio: [CoffeeLite](https://github.com/chrisdunelm/CoffeeLite)
 
 * BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
+
+* Eclipse: [provided by Titanium (Aptana) Studio](http://jira.appcelerator.org/browse/APSTUD-2451). For now just syntax coloring and a basic class/method outline.
