@@ -52,6 +52,8 @@
 
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
+[Viper](https://github.com/bjornharrtell/viper) - Remake of an old Amiga game, a variant of a Snake, using Canvas and WebSockets for multiplayer support.
+
 [WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble.
 
 [Widescript](http://widescript.com) - Digital textbook platform
