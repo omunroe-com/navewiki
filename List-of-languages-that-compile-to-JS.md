@@ -105,6 +105,7 @@
 
 #### Lisp, Scheme
 
+* [[BiwaScheme|http://www.biwascheme.org/]] Scheme in JavaScript
 * [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
 * [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
