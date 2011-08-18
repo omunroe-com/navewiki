@@ -16,6 +16,8 @@
 
 * Rails 3: **sutto**'s [Barista](http://github.com/Sutto/barista) — a successor to BistroCar that integrates well with [Jammit](http://documentcloud.github.com/jammit) and allows you to package CoffeeScript as gems.
 
+* Rails 3.1: **bradphelans**'s [jasminerice](https://github.com/bradphelan/jasminerice) - Pain free testing of coffeescript bringing together jasmine and the rails 3.1 asset pipeline.
+
 * WSGI: **dsc**'s [CoffeeCup](http://github.com/dsc/coffeecup) — a Python WSGI middleware that compiles CoffeeScript to JavaScript on demand.
 
 * **lakshmivyas**'s [Hyde](http://github.com/lakshmivyas/hyde) - a Python static generator with built-in support for CoffeeScript.
