@@ -25,3 +25,5 @@
 * Node.js: **dvv**'s [simple](https://github.com/dvv/simple) -- Simple drop-in JSON REST/RPC server secured by Object Capability
 
 * Perl: [Plack::Middleware::Compile](https://metacpan.org/module/Plack::Middleware::Compile) - a Perl Plack middleware that compiles CoffeeScript to JavaScript on demand
+
+* [RSence](http://rsence.org/): The pre-releases of version 2.2 have built-in support for CoffeeScript.
