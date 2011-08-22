@@ -8,25 +8,24 @@ Use:
 	class Mixin2
 		dynamicMethod : -> "Mixin2 : #{@name}"
 
-	class Class extends AnotherClass
+	class ExampleClass extends AnotherClass
 		@implements Mixin1, Mixin2
 		constructor : (@name) ->
 
-	obj = new Class('Tim')
+	obj = new ExampleClass 'Tim'
 
-	Class.staticProp    == 42
-	obj.dynamicMethod() == 'Mixin2 : Tim'
+	ExampleClass.staticProp is 42
+	obj.dynamicMethod() is 'Mixin2 : Tim'
 
 Implementation:
 
 	implements = (classes...) ->
 		for klass in classes
-			# Statics
+			# static properties
 			for prop of klass
 				@[prop] = klass[prop]
-
-			# Dynamics
-			for prop of klass::
+			# prototype properties
+			for prop of klass.prototype
 				getter = klass::__lookupGetter__(prop)
 				setter = klass::__lookupSetter__(prop)
 
@@ -35,10 +34,9 @@ Implementation:
 					@::__defineSetter__(prop, setter) if setter
 				else
 					@::[prop] = klass::[prop]
-		return @
+		return this
 
 	if Object.defineProperty
-		Object.defineProperty Function.prototype, "implements",
-			value : implements
+		Object.defineProperty Function.prototype, "implements", value : implements
 	else
 		Function::implements = implements
