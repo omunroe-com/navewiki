@@ -11,17 +11,28 @@ I define my modules like below
 	@module "bar", ->
 		class @Amazing
 			toString: "ain't it"
+
+Or as a short-cut, this is equivalent
+
+@module "foo.bar", ->
+	class @Amazing
+    		toString: "ain't it"
 ````
 
 The implementation of the module helper is
 
 ````
-window.module = (name, fn)->
+window.module = (name, fn) ->
+  [name, more...] = name.split "."
   if not @[name]?
     this[name] = {}
   if not @[name].module?
     @[name].module = window.module
-  fn.apply(this[name], [])
+  
+  if more[0] is undefined
+    fn.call(@[name])
+  else
+    @[name].module more.join("."), fn
 ````
 
 which you can put in another source file if you like. You can
