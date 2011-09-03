@@ -23,6 +23,8 @@
 
 * NetBeans: **dstepanov**'s [coffeescript-netbeans](https://github.com/dstepanov/coffeescript-netbeans) - compiles coffeescript files without Node.js, advanced syntax highlighting, error checking by background compilation and autocompilation
 
+* Notepad++: **blakmatrix**'s [CoffeeScript_notepad_UDL](https://github.com/blakmatrix/CoffeeScript_notepad_UDL) - provides syntax highlighting.
+
 * Sublime Text 2: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) above provides syntax highlighting and snippet expansion.
 
 * Textadept: **rgieseke**'s [CoffeeScript Textadept module](http://rgieseke.github.com/ta-coffeescript) — provides snippets, additional key commands and indentation support.
