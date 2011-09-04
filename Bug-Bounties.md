@@ -13,7 +13,7 @@ This wiki page is to be used for offering rewards to developers that are willing
 
 <tr class="completed">
 <td><del><a href="https://github.com/jashkenas/coffee-script/issues/1322">#1322</a></del></td>
-<td>$10.00 USD</td>
+<td>$10.00 AUD</td>
 <td><a href="https://github.com/ghuntley">@ghuntley</a></td>
 <td>forever</td>
 <td><a href="https://github.com/satyr">@satyr</a></td>
