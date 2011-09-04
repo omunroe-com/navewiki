@@ -31,7 +31,6 @@ Read the following issues for earlier discussion:
 [#681](http://github.com/jashkenas/coffee-script/issues/681),
 [#621](http://github.com/jashkenas/coffee-script/issues/621)
 
-----
 
 ## Functions
 
@@ -76,7 +75,6 @@ Other related issues and proposals:
 [#758](http://github.com/jashkenas/coffee-script/issues/758),
 [#907](http://github.com/jashkenas/coffee-script/issues/907)
 
-----
 
 ## Variable Importing
 
@@ -98,7 +96,6 @@ Other related issues and proposals:
 
 **TODO:** Find issues relating to importing.
 
-----
 
 ## Classes
 
@@ -160,7 +157,6 @@ These issues should cover the discussion on mixins:
 * Executable class bodies
 * Private properties
 
-----
 
 ## Unsupported features
 
@@ -203,7 +199,6 @@ Say.Hello.fn()  # prints 'Hi World!'
 
 **A:** The rule here is to not extend native objects.
 
-----
 
 ## Grammar
 
@@ -272,3 +267,17 @@ languages = ["CoffeeScript", "JavaScript", "Ruby"]
 for lang, i in languages
   alert "#{i} = #{lang}"
 ```
+
+## Miscellaneous
+
+--
+
+**Q:** What are CoffeeScript's compilation priorities?
+
+**A:** The output should be (in order from highest to lowest priority):
+
+0. correct
+0. DRY
+0. performant
+0. readable
+0. small (byte-wise)
