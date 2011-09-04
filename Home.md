@@ -6,8 +6,11 @@ For general discussions and questions about CoffeeScript, see the [[Google Group
 
 To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/coffeescript]] on Twitter.
 
-### FAQ
+## Wiki Pages
+
 * [[The CoffeeScript FAQ|FAQ]]
+* [[User Groups]]
+* [[Bug Bounties]]
 
 ### Tools
 
@@ -32,7 +35,3 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 * [[Hooking into the Command-Line Compiler|[Extensibility] Hooking into the Command-Line Compiler]]
 * [[Writing DSLs|[Extensibility] Writing DSLs]]
-
-### Community
-
-* [[User Groups]]
