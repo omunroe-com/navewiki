@@ -12,19 +12,19 @@ This wiki page is to be used for offering rewards to developers that are willing
 </tr>
 
 <tr>
-<td><a href="https://github.com/jashkenas/coffee-script/issues/1656">#1656</a></td>
+<td><a href="https://github.com/jashkenas/coffee-script/issues/1669">#1669</a></td>
 <td>$10.00 AUD</td>
 <td><a href="https://github.com/trevorburnham">@trevorburnham</a></td>
 <td>Oct 1, 2011</td>
 <td><em>open</em></td>
 </tr>
 
-<tr>
-<td><a href="https://github.com/jashkenas/coffee-script/issues/1669">#1669</a></td>
+<tr class="completed">
+<td><del><a href="https://github.com/jashkenas/coffee-script/issues/1656">#1656</a></del></td>
 <td>$10.00 AUD</td>
 <td><a href="https://github.com/trevorburnham">@trevorburnham</a></td>
 <td>Oct 1, 2011</td>
-<td><em>open</em></td>
+<td><a href="https://github.com/satyr">@satyr</a></td>
 </tr>
 
 <tr class="completed">
