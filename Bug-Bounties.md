@@ -28,6 +28,14 @@ This wiki page is to be used for offering rewards to developers that are willing
 </tr>
 
 <tr>
+<td><a href="https://github.com/jashkenas/coffee-script/issues/1073">#1073</a></td>
+<td>$10.00 AUD</td>
+<td><a href="https://github.com/trevorburnham">@trevorburnham</a></td>
+<td>Oct 1, 2011</td>
+<td><em>open</em></td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/jashkenas/coffee-script/issues/1015">#1015</a></td>
 <td>$10.00 AUD</td>
 <td><a href="https://github.com/trevorburnham">@trevorburnham</a></td>
