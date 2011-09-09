@@ -109,7 +109,6 @@
 * [[BiwaScheme|http://www.biwascheme.org/]] Scheme in JavaScript
 * [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
-* [[ClojureScript|https://github.com/clojure/clojure-contrib/tree/master/clojurescript]] Translates code written in a very small subset of Clojure.
 * [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
 * [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
@@ -139,6 +138,7 @@
 * [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
 * [[JTalk|http://nicolaspetton.github.com/jtalk/]] An implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
 * [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser.  See also [[Avocado|http://avocadojs.com/]], built on top of it.
+* [[Dart|http://gotocon.com/aarhus-2011/presentation/Opening%20Keynote:%20Dart,%20a%20new%20programming%20language%20for%20structured%20web%20programming]] - possibly like newspeak
 
 #### C/C++
 
@@ -171,7 +171,7 @@ for client-side (and server-side) web development
 
 #### Visual, Blocks-based Languages
 * [[Waterbear|http://waterbearlang.com/]]
-* [[JsMorphic|http://chirp.scratchr.org/dl/experimental/JsMorphic/]] - [[demo|http://chirp.scratchr.org/dl/experimental/JsMorphic/snap.html]]
+* [[JsMorphic|http://chirp.scratchr.org/dl/experimental/JsMorphic/]] - [[demo|http://chirp.scratchr.org/dl/experimental/JsMorphic/snap.html]] - also called Snap!
 * [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
 
 #### Others
