@@ -2,7 +2,7 @@
 
 This wiki is a work-in-progress containing some useful lists and how-tos on advanced CoffeeScript topics. It does not contain authoritative documentation on the language. If you're just getting started with CoffeeScript, the best free resource is [[the official site|http://jashkenas.github.com/coffee-script/]]. There's also a book, *[[CoffeeScript: Accelerated JavaScript Development|http://pragprog.com/titles/tbcoffee/coffeescript]]*, published by PragProg.
 
-For general discussions and questions about CoffeeScript, see the [[Google Group|https://groups.google.com/forum/#!forum/coffeescript]] or the Freenode IRC room [[#coffeescript|http://webchat.freenode.net]]. [[Stack Overflow|http://stackoverflow.com/tags/coffeescript]] is also a great resource; questions tagged `coffeescript` there are usually answered within a few hours. To file a bug report, use the [[issue tracker|https://github.com/jashkenas/coffee-script/issues]].
+For general discussions and questions about CoffeeScript, see the [[Google Group|https://groups.google.com/forum/#!forum/coffeescript]] or the Freenode IRC room [[#coffeescript|http://webchat.freenode.net/?channels=coffeescript]]. [[Stack Overflow|http://stackoverflow.com/tags/coffeescript]] is also a great resource; questions tagged `coffeescript` there are usually answered within a few hours. To file a bug report, use the [[issue tracker|https://github.com/jashkenas/coffee-script/issues]].
 
 To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/coffeescript]] on Twitter.
 
