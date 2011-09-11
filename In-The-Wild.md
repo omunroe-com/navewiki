@@ -22,6 +22,8 @@
 
 [Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway's Game of Life.
 
+[Conway's Game Of Life](http://willbailey.name/conway/index.html) - Conway's game of life with [annotated source](http://willbailey.name/conway/docs/conway.html).
+
 [cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL.
 
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
