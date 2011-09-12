@@ -121,6 +121,8 @@
 
 [FilePad](http://github.com/balupton/filepad) - Edit your local files in your browser with realtime collaboration
 
+[Jim](http://github.com/misfo/jim) - Vim mode for Ace, the editor in Github & Cloud9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
+
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
 
 [Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
