@@ -2,22 +2,44 @@
 (Please use only a single line and try keep things in alphanumerical order) :)
 
 ## Applications
+
+### Web
+[Apiary.io](http://apiary.io/) - API prototyping & debugging
+
+[BusyConf](http://busyconf.com/) - Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
+
+[CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
+
+[HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
+
+[Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
+
+[Kodingen](http://kodingen.com/) - Cloud Development Environment with php/ruby/perl/python support.
+
+[PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
+
+[Posterous](https://posterous.com/) - Blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
+
+[Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
+
+[Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
+
+[Widescript](http://widescript.com) - Digital textbook platform
+
+[WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble (previously known as Scrabb.ly)
+
+### Mobile (iOS/Android)
 [Album Plus](http://iphone.albumpl.us) - Native iPhone Photo app (Pure CoffeeScript compiled with Titanium)
 
 [Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
 
-[Apiary.io](http://apiary.io/) - API prototyping & debugging
-
 [Basecamp Mobile](http://basecamphq.com/mobile/) - Mobile web version of 37signals' Basecamp (Backbone + CoffeeScript + Eco)
-
-[BusyConf](http://busyconf.com/) - Making great conferences even better (CoffeeScript + jQuery + Sencha Touch)
-
-[camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding
 
 [Chalk](http://chalk.37signals.com) - A simple drawing application for the iPad.
 
-[CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
+[HotelTonight](http://www.hoteltonight.com) - Hotel finder.  Both the iPhone app and Android app are written in CoffeeScript.  For the iPhone app, it is an Appcelerator Titanium based app, and the Android app is an HTML5 app (using Backbone.js and jQuery Mobile).
 
+### Tech Demos
 [Conway's Game Of Life](https://github.com/jhogendorn/Game-of-Life-in-CoffeeScript) - An implementation of Conway's Game of Life using OOP CoffeeScript.
 
 [Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway's Game of Life.
@@ -26,44 +48,19 @@
 
 [cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL.
 
-[diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
-
-[DocPad](http://github.com/balupton/docpad) - The easiest way to generate static websites. Port of Jekyll to Node.js
-
 [Eight Queens](http://shpaml.webfactional.com/misc/game_page.htm) - Eight Queens, animated and annotated
 
 [Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
 
-[HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
-
-[Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
-
-[HotelTonight mobile applications](http://www.hoteltonight.com) - HotelTonight is the best way to book a same-day/last-minute hotel stay.  Both the iPhone app and Android app are written in CoffeeScript.  For the iPhone app, it is an Appcelerator Titanium based app, and the Android app is an HTML5 app (using Backbone.js and jQuery Mobile).
-
-[Kodingen](http://kodingen.com/) - Cloud Development Environment with php/ruby/perl/python support.
-
-[Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
-
-[PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
-
-[Pow](http://pow.cx/) - Rack web server for Mac OS X, from 37signals
-
-[Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
-
-[ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
-
-[Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
-
 [Viper](https://github.com/bjornharrtell/viper) - Remake of an old Amiga game, a variant of a Snake, using Canvas and WebSockets for multiplayer support.
-
-[WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble.
-
-[Widescript](http://widescript.com) - Digital textbook platform
 
 ## Tools and Frameworks
 
 ### Build and Deployment
 [Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker
+
+[DocPad](http://github.com/balupton/docpad) - The easiest way to generate static websites. Port of Jekyll to Node.js
+
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
@@ -91,7 +88,10 @@
 [Stitch](http://github.com/sstephenson/stitch) - Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
 
 ### Templating
+[Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
+
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
+
 [CoffeeKup](github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
 
 ### Testing
@@ -101,21 +101,39 @@
 
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
-### Web App Frameworks - Node.js
+### Node.js Web App Frameworks
 [Coffee4Clients](http://github.com/balupton/coffee4clients.npm) - Renders .coffee files into javascript when requested on a Express.js server
+
+[coffeemate](http://github.com/coffeemate/coffeemate) - the coffee creamer! Push coffeescript into web development.
 
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
+[SocketStream](https://github.com/socketstream/socketstream) - real-time web framework developed by AOL
+
 [zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
-[coffeemate](http://github.com/coffeemate/coffeemate) - the coffee creamer! Push coffeescript into web development.
+### Node.js Server Apps
+[camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding (used internally by GitHub)
+
+[diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
+
+[Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
+
+[Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
+
+[Pow](http://pow.cx/) - Rack web server for Mac OS X, from 37signals
+
+### Other Node.js Libraries
+[Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
+
+[NowPad](http://github.com/balupton/nowpad) - Realtime Text Collaboration for Node.js apps
+
+[PDFKit](http://devongovett.github.com/pdfkit/) - A powerful PDF generation library for Node.js
 
 ### Miscellaneous
 [Blocky](https://github.com/zmcartor/Blocky) - Clientside QR code generation
 
 [Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
-
-[Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
 
 [Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
 
@@ -123,12 +141,6 @@
 
 [Jim](http://github.com/misfo/jim) - Vim mode for Ace, the editor in Github & Cloud9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
 
-[Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
-
-[Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
-
-[NowPad](http://github.com/balupton/nowpad) - Realtime Text Collaboration for Node.js apps
-
-[PDFKit](http://devongovett.github.com/pdfkit/) - A powerful PDF generation library for Node.js
-
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
+
+[ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
