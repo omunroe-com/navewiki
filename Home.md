@@ -24,6 +24,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 ### How-Tos
 
+* [[Using CS for browser applications]]
 * [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
 * [[Sequential Execution]]
 * [[Mixins]]
