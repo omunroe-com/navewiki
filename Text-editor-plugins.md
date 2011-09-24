@@ -8,6 +8,8 @@
   * **nfiniteset**'s [CoffeeScript Coda/SubEthaEdit mode](http://github.com/nfiniteset/CoffeeScript.mode) — A syntax mode that provides syntax coloring.
   * **parkerl**'s [CoffeeScript.codaplugin](https://github.com/parkerl/CoffeeScript.codaplugin) - Rough support for compiling and running in Coda's preview
 
+* CodeMirror: [coffeescript-codemirror-mode](https://github.com/pickhardt/coffeescript-codemirror-mode)
+
 * Emacs: **defunkt**'s [CoffeeScript Major Mode](http://github.com/defunkt/coffee-mode) — provides syntax highlighting, indentation support, and some bonus commands.
 
 * gedit: **wavded**'s [gedit-coffeescript](http://github.com/wavded/gedit-coffeescript) — provides syntax highlighting.
