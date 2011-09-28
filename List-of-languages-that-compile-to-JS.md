@@ -135,11 +135,11 @@
 
 #### Smalltalk
 
+* [[Amber|http://amber-lang.net/]] - formerly known as Jtalk
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
-* [[JTalk|http://nicolaspetton.github.com/jtalk/]] An implementation of the Smalltalk language that runs on top of the JavaScript runtime. 
 * [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser.  See also [[Avocado|http://avocadojs.com/]], built on top of it.
-* [[Dart|http://gotocon.com/aarhus-2011/presentation/Opening%20Keynote:%20Dart,%20a%20new%20programming%20language%20for%20structured%20web%20programming]] - possibly like newspeak
+* [[Dart|http://gotocon.com/aarhus-2011/presentation/Opening%20Keynote:%20Dart,%20a%20new%20programming%20language%20for%20structured%20web%20programming]] - in development by Google, possibly like newspeak
 
 #### C/C++
 
