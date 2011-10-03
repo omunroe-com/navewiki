@@ -108,6 +108,8 @@
 
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
+[Kiss.js](https://github.com/stanislavfeldman/kiss.js) - Web framework for Node.js. Object-oriented, simple and sexy.
+
 [SocketStream](https://github.com/socketstream/socketstream) - real-time web framework developed by AOL
 
 [zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
