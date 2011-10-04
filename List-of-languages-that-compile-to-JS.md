@@ -26,6 +26,7 @@
 * [[reflect.js|https://github.com/zaach/reflect.js]] Implementation of Mozilla's (SpiderMonkey) [[Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]] in JavaScript
 * [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
 * [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
+* [[ZeParser|https://github.com/qfox/ZeParser]]
 
 ###### Javascript Optimizers
 
@@ -214,7 +215,8 @@ for client-side (and server-side) web development
 * [[JavaScript Shaper|http://jsshaper.org/]] JavaScript syntax tree shaping
 * [[burrito|https://github.com/substack/node-burrito]] & [[js-traverse|https://github.com/substack/js-traverse]] - see [[this post|http://substack.net/posts/eed898]] for more info, as well as [[node-stackedy|https://github.com/substack/node-stackedy]] for an example and [[node-browserify|https://github.com/substack/node-browserify]] for running it in a browser instead of node
 * [[javascript types|http://cs.brown.edu/~joe/public/types/types.html]] - lambdajs, flow typing
-* [[SourceMap|https://github.com/mozilla/source-map]] - map javascript debugger output to original source 
+* [[SourceMap|https://github.com/mozilla/source-map]] map javascript debugger output to original source 
+* [[Zeon|https://github.com/qfox/Zeon]] A static visual JavaScript analyzer / editor.  See also [[ZeParser|https://github.com/qfox/ZeParser]].
 
 #### See Also
 
