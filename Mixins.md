@@ -40,5 +40,3 @@ Implementation:
 		Object.defineProperty Function.prototype, "implements", value : implements
 	else
 		Function::implements = implements
-
-**Warning**: the fat arrows in mixins won't work as the constructor of the mixin is not called and so, it can't bind `this`!
