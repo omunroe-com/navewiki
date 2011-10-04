@@ -137,16 +137,12 @@ Button = implementing Options, Events, class _Button
   onClick: -> # do stuff
 ```
 
-Solution (3) is described on the wiki: [[Mixins]]
-
 These issues should cover the discussion on mixins:
 [#218](http://github.com/jashkenas/coffee-script/issues/218),
 [#327](http://github.com/jashkenas/coffee-script/issues/327),
 [#344](http://github.com/jashkenas/coffee-script/issues/344),
 [#452](http://github.com/jashkenas/coffee-script/issues/452) and
 [#636](http://github.com/jashkenas/coffee-script/issues/636).
-
-Please note that fat arrows won't work with mixins!
 
 ----
 
