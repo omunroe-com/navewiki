@@ -48,6 +48,7 @@
 
 * Some of the ones listed below are also statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
 * [[Dart|http://www.dartlang.org/]] by Google. C/Java-like syntax with optional typing.
+* [[JavaScript++|http://jspp.javascript.am/]] adds pluggable type system and type inference, among other features
 * [[SafeJS|https://github.com/safejs/SafeJS]]
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
