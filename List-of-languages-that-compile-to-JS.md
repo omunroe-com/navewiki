@@ -7,7 +7,7 @@
 * [[Coco|https://github.com/satyr/coco]] A CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
 * [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
 * [[Contracts.coffee|https://github.com/disnet/contracts.coffee]] A dialect of CoffeeScript that adds built-in support for contracts.
-* A [[coffeescript extension|https://github.com/jstrachan/coffee-script/blob/master/TypeAnnotations.md]] that you can declare types with. They get converted into google closure type annotation comments that the closure compiler can use to type check your javascript.
+* [[Uberscript|https://github.com/jstrachan/coffee-script/blob/master/TypeAnnotations.md]], a CoffeeScript fork that adds type annotations which are compiled to Google closure compiler type annotation comments.
 
 ###### Friends (philosophically related)
 
@@ -52,7 +52,6 @@
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
 * [[Roy|http://roy.brianmckenna.org/]] tries to meld JavaScript semantics with some features common in static functional languages
-* A [[coffeescript extension|https://github.com/jstrachan/coffee-script/blob/master/TypeAnnotations.md]] that you can declare types with. They get converted into google closure type annotation comments that the closure compiler can use to type check your javascript.
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
