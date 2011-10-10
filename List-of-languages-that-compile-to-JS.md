@@ -46,6 +46,7 @@
 ###### Static typing
 
 * Some of the ones listed below are also statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
+* [[Dart|http://www.dartlang.org/]] by Google. C/Java-like syntax with optional typing.
 * [[SafeJS|https://github.com/safejs/SafeJS]]
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
@@ -140,7 +141,6 @@
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
 * [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser.  See also [[Avocado|http://avocadojs.com/]], built on top of it.
-* [[Dart|http://gotocon.com/aarhus-2011/presentation/Opening%20Keynote:%20Dart,%20a%20new%20programming%20language%20for%20structured%20web%20programming]] - in development by Google, possibly like newspeak
 
 #### C/C++
 
