@@ -4,3 +4,4 @@ If you are interested in starting a local user group, please add your name here.
 * Trevor Burnham, Cambridge/Boston, MA, US, [fullname]@gmail.com
 * Jeff Pickhardt, South Park / San Francisco, CA, US, [lastname]@gmail.com
 * Kit Cambridge, Fort Collins, CO, US, [fullname]@gmail.com
+* David Newell, New York, NY, US, beta@alumni.rice.edu
