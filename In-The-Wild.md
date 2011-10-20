@@ -95,7 +95,7 @@
 [CoffeeKup](github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
 
 ### Testing
-[Spec](http://github.com/kitgoncharov/Spec) - An event-driven unit testing library.
+[coffee-spec](https://github.com/gfxmonk/coffee-spec) - An event-driven unit testing library.
 
 [Twerp](http://github.com/philjackson/twerp) - Synchronous class-based unit testing framework.
 
