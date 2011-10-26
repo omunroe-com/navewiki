@@ -136,7 +136,7 @@ The above executes [Google's Closure Compiler](http://code.google.com/closure/co
 Tasks in `Cakefile`s can take options. This is important if you want to be able to provide parameters such as the target environment (e.g., *production* or *development*), source or target directory, etc. For more information, [check out CoffeeScript's own Cakefile](http://github.com/jashkenas/coffee-script/blob/master/Cakefile#L21). If you rely on options, make sure you always have sensible defaults in place:
 
 ```coffeescript
-option '-e', '--environment ENVIRONMENT_NAME', 'set the environment for `task:withDefaults`'
+option '-e', '--environment [ENVIRONMENT_NAME]', 'set the environment for `task:withDefaults`'
 task 'task:withDefaults', 'Description of task', (options) ->
   options.environment or= 'production'
 ```
