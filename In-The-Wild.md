@@ -104,7 +104,7 @@
 ### Node.js Web App Frameworks
 [Coffee4Clients](http://github.com/balupton/coffee4clients.npm) - Renders .coffee files into javascript when requested on a Express.js server
 
-[coffeemate](http://github.com/coffeemate/coffeemate) - the coffee creamer! Push coffeescript into web development.
+[coffeemate](http://github.com/kadirpekel/coffeemate) - the coffee creamer! Push coffeescript into web development.
 
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
