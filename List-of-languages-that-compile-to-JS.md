@@ -200,6 +200,7 @@ for client-side (and server-side) web development
 * [[OP4JS|http://delphimax.wordpress.com/2011/07/18/op4js-low-level-or-high-level-you-choose/]] object pascal for javascript, in development
 * [[jsForth|http://forthfreak.net/jsforth80x25.html]]
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
+* [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 
 #### Tools for Compiler Writers
 
