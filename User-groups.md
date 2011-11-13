@@ -5,3 +5,4 @@ If you are interested in starting a local user group, please add your name here.
 * Jeff Pickhardt, South Park / San Francisco, CA, US, [lastname]@gmail.com
 * Kit Cambridge, Fort Collins, CO, US, [fullname]@gmail.com
 * David Newell, New York, NY, US, beta@alumni.rice.edu
+* Chris Smith, Salt Lake City, UT, US, Github: quartzmo, Twitter: @quartzmo, [githubusername]@gmail.com
