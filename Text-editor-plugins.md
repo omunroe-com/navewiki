@@ -41,7 +41,9 @@
 
 * Vim: **clvv**'s fork of [a.vim](https://github.com/clvv/a.vim) - support for switching between .coffee and compiled .js files.
 
-* Visual Studio: [CoffeeLite](https://github.com/chrisdunelm/CoffeeLite)
+* Visual Studio: 
+  * [CoffeeLite](https://github.com/chrisdunelm/CoffeeLite)
+  * [Mindscape Web Workbench](http://www.mindscapehq.com/products/web-workbench) - works with CoffeeScript, Sass, and LESS. Free version provides syntax highlighting and compiles CoffeeScript files automatically on save. Pro version adds automatic minification of JavaScript files.
 
 * BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
 
