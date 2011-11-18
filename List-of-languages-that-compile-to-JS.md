@@ -204,6 +204,7 @@ for client-side (and server-side) web development
 * [[jsForth|http://forthfreak.net/jsforth80x25.html]]
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
+* [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
 
 #### Tools for Compiler Writers
 
