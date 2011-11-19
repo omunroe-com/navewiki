@@ -59,6 +59,8 @@
 ### Build and Deployment
 [Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker
 
+[Brunch](http://brunch.io) - a lightweight approach to building HTML5 applications with emphasis on elegance and simplicity on top of Backbone.js, eco, jQuery, Stitch & Stylus.
+
 [DocPad](http://github.com/balupton/docpad) - The easiest way to generate static websites. Port of Jekyll to Node.js
 
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
