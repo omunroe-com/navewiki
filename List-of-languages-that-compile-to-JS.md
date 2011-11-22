@@ -79,6 +79,7 @@
 #### Ruby
 
 * [[HotRuby|http://hotruby.yukoba.jp/]] Runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
+* [[ColdRuby|https://github.com/whitequark/coldruby]] Compiler of Ruby 1.9 MRI bytecode, and a runtime written in JavaScript to aid in execution of Ruby code.
 * [[rb2js|http://rb2js.rubyforge.org/]] Converts Ruby to JavaScript.
 * [[RubyJS|http://www.ntecs.de/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/]] A successor to rb2js
 * [[Red|https://github.com/jessesielaff/red]] Writes like Ruby and runs like JavaScript
@@ -117,7 +118,7 @@
 
 #### Lisp, Scheme
 
-* [[BiwaScheme|http://www.biwascheme.org/]] Scheme in JavaScript
+* [[BiwaScheme|http://www.biwascheme.org/]] Scheme(R6RS) in JavaScript
 * [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
 * [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
