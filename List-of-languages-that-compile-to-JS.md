@@ -186,10 +186,11 @@ The rest of these probably don't work, particularly with code written for the co
 for client-side (and server-side) web development
 * [[Opa|http://www.opalang.org/]] (in private beta) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 
-#### Visual, Blocks-based Languages
+#### Visual programming tools
 * [[Waterbear|http://waterbearlang.com/]]
 * [[JsMorphic|http://chirp.scratchr.org/dl/experimental/JsMorphic/]] - [[demo|http://chirp.scratchr.org/dl/experimental/JsMorphic/snap.html]] - also called Snap!
 * [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
+* [[Illumination|http://radicalbreeze.com/]] [Commercial] Visual, cross-platform tool creates apps for Android, iPhone, iPad, Desktops and HTML5 or Flash websites.  [[The I language|http://blog.radicalbreeze.com/?p=213]] underlies the tool.
 
 #### Others
 
