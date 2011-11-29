@@ -94,7 +94,9 @@
 
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 
-[CoffeeKup](github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
+[CoffeeKup](http://github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
+
+[haml-coffee](https://github.com/9elements/haml-coffee) - Haml templates where you can write inline CoffeeScript.
 
 ### Testing
 [coffee-spec](https://github.com/gfxmonk/coffee-spec) - An event-driven unit testing library.
