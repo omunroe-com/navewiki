@@ -10,7 +10,6 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 * [[The CoffeeScript FAQ|FAQ]]
 * [[User Groups]]
-* [(unofficial) Bug Bounties](https://github.com/TrevorBurnham/coffee-script/wiki/CoffeeScript-Bug-Bounties)
 
 ### Tools
 
