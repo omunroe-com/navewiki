@@ -69,7 +69,7 @@
 
 * [[ContextJS|https://www.hpi.uni-potsdam.de/hirschfeld/trac/Cop/wiki/ContextJS]] is an implementation of [[Context-oriented Programming|http://www.hpi.uni-potsdam.de/hirschfeld/cop/]] for JavaScript.
 * [[Objective-J|http://en.wikipedia.org/wiki/Objective-J]] Shares with JavaScript the same relationship that Objective-C has with the C programming language: that of being a strict, but small, superset.
-* [[JS2|https://github.com/jeffsu/js2]] Object-oriented JavaScript with syntactic sugar (curry, foreach, property). Released as a Ruby gem.
+* [[Mochiscript|https://github.com/jeffsu/mochiscript]] Object-oriented JavaScript with syntactic sugar. Released as a Ruby gem.
 * [[jangaroo|http://www.jangaroo.net/home/]] AS3 (ActionScript) to JavaScript.
 * [[Flapjax|http://flapjax-lang.org/]] Event-driven, reactive evaluation.
 * [[jLang|http://jlang.org/]] adds object oriented syntax, namespaces, operators overriding
