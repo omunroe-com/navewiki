@@ -50,7 +50,7 @@ Below is example:
     catch err
     	console.log 'CAUGHT', err
 
-Feedback and critisism is welcome.
+Feedback and criticism is welcome.
 
 
 Have fun!
