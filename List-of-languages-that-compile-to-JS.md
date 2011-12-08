@@ -30,6 +30,7 @@
 * [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
 * [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
 * [[ZeParser|https://github.com/qfox/ZeParser]]
+* [[Esprima|http://esprima.org]] Educational (but fast) ECMAScript parser with output compatible to [[Mozilla Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]]
 
 ###### Javascript Optimizers
 
