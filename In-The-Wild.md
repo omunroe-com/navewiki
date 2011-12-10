@@ -10,6 +10,8 @@
 
 [CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
 
+[EtherCalc](http://ethercalc.org/) - Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)
+
 [HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
 
 [Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
