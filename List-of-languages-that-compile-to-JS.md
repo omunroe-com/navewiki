@@ -66,6 +66,7 @@
 * [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
 * [[Jscex|https://github.com/JeffreyZhao/jscex]] Write simple JavaScript code, execute it asynchronously by compiling to monadic form.
 * [[TameJS|http://tamejs.org/]] adds new keywords 'twait' and 'mkevent'
+* [[async.js|https://github.com/caolan/async]] Async utilities for node and the browser
 
 ###### JavaScript Language Extensions
 
