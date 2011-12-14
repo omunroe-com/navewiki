@@ -210,6 +210,7 @@ for client-side (and server-side) web development
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 * [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
+* [[SMLtoJs|http://www.smlserver.org/smltojs/]] SML to Javascript compiler
 
 #### Tools for Compiler Writers
 
