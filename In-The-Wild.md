@@ -154,3 +154,5 @@
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
 
 [ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
+
+[Curtains](https://github.com/mirekm/curtains) - A keyframe & event-driven, general purpose animation tool.
