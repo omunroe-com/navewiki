@@ -147,6 +147,8 @@
 
 [Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
 
+[Curtains](https://github.com/mirekm/curtains) - A keyframe & event-driven, general purpose animation tool.
+
 [FilePad](http://github.com/balupton/filepad) - Edit your local files in your browser with realtime collaboration
 
 [Jim](http://github.com/misfo/jim) - Vim mode for Ace, the editor in Github & Cloud9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
@@ -154,5 +156,3 @@
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
 
 [ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
-
-[Curtains](https://github.com/mirekm/curtains) - A keyframe & event-driven, general purpose animation tool.
