@@ -153,6 +153,8 @@
 
 [Jim](http://github.com/misfo/jim) - Vim mode for Ace, the editor in Github & Cloud9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
 
+[Open Tweet Filter](https://github.com/rstuven/OpenTweetFilter) - A browser extension to filter tweets. (CoffeeScript + CoffeeKup + Knockout + jQuery)
+
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
 
 [ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
