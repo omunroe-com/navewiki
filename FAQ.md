@@ -92,7 +92,7 @@ Other related issues and proposals:
 
 **Q:** Is there any way to import every variable from an object into the local scope?
 
-**A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. Use of `eval` will place the variable in the global scope, which is bad. You can read more about importing suggestions in these issues:
+**A:** Not without listing them out manually. In Javascript there is no way to place a variable into a local scope without knowing its name at compile time. You can read more about importing suggestions in these issues:
 
 **TODO:** Find issues relating to importing.
 
