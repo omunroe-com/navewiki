@@ -6,6 +6,8 @@
 ### Web
 [Apiary.io](http://apiary.io/) - API prototyping & debugging
 
+[Annotateit](http://annotateit.org/) - Web annotations and higlights
+
 [BusyConf](http://busyconf.com/) - Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
 
 [CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
