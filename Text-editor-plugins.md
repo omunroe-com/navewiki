@@ -23,7 +23,7 @@
 
 * Kate: **max99x**'s [kate-coffeescript](https://github.com/max99x/kate-coffeescript) — provides syntax highlighting.
 
-* NetBeans: **dstepanov**'s [coffeescript-netbeans](https://github.com/dstepanov/coffeescript-netbeans) - compiles coffeescript files without Node.js, advanced syntax highlighting, error checking by background compilation and autocompilation
+* NetBeans: **dstepanov**'s [coffeescript-netbeans](https://github.com/dstepanov/coffeescript-netbeans) - compiles .coffee files without Node.js, advanced syntax highlighting, error checking by background compilation and autocompilation. Support for indentation, formatting and code folding.
 
 * Notepad++: **blakmatrix**'s [CoffeeScript_notepad_UDL](https://github.com/blakmatrix/CoffeeScript_notepad_UDL) - provides syntax highlighting.
 
