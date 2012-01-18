@@ -96,6 +96,8 @@
 ### Templating
 [Cupcake](http://github.com/twilson63/cupcake) - Web App Template Generator for CoffeeScript
 
+[DOMBrew](http://github.com/glebm/DOMBrew) - Eloquent DOM Builder
+
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 
 [CoffeeKup](http://github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
