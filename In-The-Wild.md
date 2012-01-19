@@ -85,7 +85,7 @@
 [seq](http://github.com/substack/node-seq) - chainable asynchronous flow control; written in javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
 ### Module Loaders - CommonJS
-[browserify](http://github.com/substack/browserify) - Mix and match coffee and javascript in your browser-side require()s
+[browserify](http://github.com/substack/node-browserify) - Mix and match coffee and javascript in your browser-side require()s
 
 [nibjs](http://github.com/blambeau/nib.js) - Compile and Concatenate your CoffeeScript files for the browser
 
