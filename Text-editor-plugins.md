@@ -40,6 +40,7 @@
 * Vim: **claco**'s plugin for jasmine testing in vim with support for CoffeeScript [Jasmine/CoffeeSCript Vim Plugin](https://github.com/claco/jasmine.vim)
 
 * Vim: **clvv**'s fork of [a.vim](https://github.com/clvv/a.vim) - support for switching between .coffee and compiled .js files.
+* Vim: **othree**'s [coffee-check.vim](https://github.com/othree/coffee-check.vim) — Will try to compile coffee file when you save it, and reports compile error.
 
 * Visual Studio: 
   * [CoffeeLite](https://github.com/chrisdunelm/CoffeeLite)
