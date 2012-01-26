@@ -149,6 +149,8 @@
 
 [coffeecoffee](https://github.com/showell/CoffeeCoffee) - CoffeeScript interpreter (no JS compilation required)
 
+[CoffeeLint](http://www.coffeelint.org) - A CoffeeScript style checker.
+
 [Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
 
 [Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
