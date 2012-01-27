@@ -86,6 +86,8 @@
 ### Flow Control
 [seq](http://github.com/substack/node-seq) - chainable asynchronous flow control; written in javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
+[SCION](https://github.com/jbeard4/SCION) - StateCharts Interpretation and Optimization eNgine (SCION) is an implementation of SCXML/Statecharts targeting JavaScript environments.
+
 ### Module Loaders - CommonJS
 [browserify](http://github.com/substack/node-browserify) - Mix and match coffee and javascript in your browser-side require()s
 
