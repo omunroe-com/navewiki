@@ -114,16 +114,17 @@ molly.set 'owner', 'Stan'
 molly.hug()  # Molly hugs Stan.
 ```
 
-Nested classes 
-```coffeescript
+### Nested classes
 
-#Code
+```coffeescript
+# Code
 class AlertMyFriends 
 
 class AlertMyFriends::Show
-      constructor: ->
-          alert "Hello Friends"
-#Usage
+  constructor: ->
+    alert "Hello Friends"
+
+# Usage
 amf = new AlertMyFriends
 
 al = new amf.Show()
