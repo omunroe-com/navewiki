@@ -93,8 +93,6 @@
 
 [nibjs](http://github.com/blambeau/nib.js) - Compile and Concatenate your CoffeeScript files for the browser
 
-[requisition](http://github.com/feisty/requisition) - Server-side module library packer and client-side module loader -- via require()
-
 [Stitch](http://github.com/sstephenson/stitch) - Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
 
 ### Templating
