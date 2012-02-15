@@ -5,6 +5,7 @@ Implicit objects can be nested below a function call
 
 Let's look at an example of what we are trying to accomplish before we get started:
 
+```coffeescript
 # DSL
 describe 'Whiskey'
   age: 18
@@ -13,27 +14,33 @@ describe 'Whiskey'
 # Usage
 glass = new Whiskey
 console.log glass.age  # 18
+```
 
 To implement our custom describe function let's first look at the generated JavaScript for it:
 
+```coffeescript
 describe('Whiskey', {
   age: 18,
   brand: 'Jack'
 });
+```
 
 The implicit object below the function call is concatenated to the arguments list. Simple enough:
 
+```coffeescript
 # Implementation
 top = this  # usually window
 describe = (name, properties) ->
   top[name] = class
     constructor: ->
       this[name] = value for own name, value of properties
+```
 
 Implicit parentheses turn code into natural language
 
 Example:
 
+```coffeescript
 # DSL and usage
 foo = foo: 'I said foo!'
 bar = bar: 'I said what?!'
@@ -41,19 +48,25 @@ bar = bar: 'I said what?!'
 extend bar, using foo
 
 console.log bar.foo  # 'I said foo!'
+```
 
 This compiles to fairly simple JavaScript:
 
+```coffeescript
 extend(bar, using(foo));
+```
 
 To implement this we only need a few lines of CoffeeScript:
 
+```coffeescript
 # Implementation
 using  = (obj) -> obj
 extend = (obj, using) -> (obj[key] = value) for key, value of using
+```
 
 You can really go crazy with functional-style programming using the implicit nature of the language:
 
+```coffeescript
 SELECT = (map, results) -> map.call each for each in results
 FROM   = (list, reduce) -> each for each in list when reduce each
 WHERE  = (reduce)       -> (each) -> reduce.call each
@@ -62,11 +75,13 @@ WHERE  = (reduce)       -> (each) -> reduce.call each
 SELECT -> { @name }, 
 FROM   Users, 
 WHERE  -> 18 < @age < 64
+```
 
 Going a step further
 
 With just a few tips and you can already start building your own awesome DSL. How about classes with mixins?
 
+```coffeescript
 # Implementation
 implements = (list) -> item.prototype for item in list
 Class = (base, implements, properties) ->
@@ -97,7 +112,7 @@ molly.set 'name', 'Molly'
 molly.set 'owner', 'Stan'
 molly.hug()  # Molly hugs Stan.
 
-Nested classes
+# Nested classes
 
 # Code
 class AlertMyFriends 
@@ -110,4 +125,4 @@ class AlertMyFriends::Show
 amf = new AlertMyFriends
 
 al = new amf.Show()
-
+```
