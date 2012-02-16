@@ -43,6 +43,8 @@
 
 [Chalk](http://chalk.37signals.com) - A simple drawing application for the iPad.
 
+[CrowdGame Trivially](http://itunes.apple.com/us/app/crowdgame-trivially/id477571106?mt=8) - Multi-player iPad game. Players interact via their smartphone browsers. Appcelerator-based. Written in CoffeeScript, with an Objective-C HTTP server, which serves pages to remote users written in CoffeeScript.
+
 [HotelTonight](http://www.hoteltonight.com) - Hotel finder.  Both the iPhone app and Android app are written in CoffeeScript.  For the iPhone app, it is an Appcelerator Titanium based app, and the Android app is an HTML5 app (using Backbone.js and jQuery Mobile).
 
 ### Tech Demos
