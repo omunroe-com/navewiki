@@ -4,9 +4,9 @@
 ## Applications
 
 ### Web
-[Apiary.io](http://apiary.io/) - API prototyping & debugging
+{Annotateit](http://annotateit.org/) - Web annotations and higlights
 
-[Annotateit](http://annotateit.org/) - Web annotations and higlights
+[Apiary.io](http://apiary.io/) - API prototyping & debugging
 
 [Bonnevoy](http://bonnevoy.com/) - Dutch travel search engine (CoffeeScript + Spine)
 
