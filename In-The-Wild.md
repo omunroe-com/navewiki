@@ -85,6 +85,8 @@
 
 [Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
+[Codo](http://github.com/netzpirat/codo) - CoffeeScript API documentation generator. It's like YARD but for CoffeeScript!
+
 ### Flow Control
 [seq](http://github.com/substack/node-seq) - chainable asynchronous flow control; written in javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
