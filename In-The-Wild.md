@@ -4,7 +4,7 @@
 ## Applications
 
 ### Web
-{Annotateit](http://annotateit.org/) - Web annotations and higlights
+[Annotateit](http://annotateit.org/) - Web annotations and higlights
 
 [Apiary.io](http://apiary.io/) - API prototyping & debugging
 
