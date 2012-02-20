@@ -190,7 +190,7 @@ The rest of these probably don't work, particularly with code written for the co
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 * [[Sugar|https://github.com/sebastien/sugar]] new programming language designed to replace JavaScript
 for client-side (and server-side) web development
-* [[Opa|http://www.opalang.org/]] (in private beta) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
+* [[Opa|http://www.opalang.org/]] write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 
 #### Visual programming tools
 * [[Waterbear|http://waterbearlang.com/]]
