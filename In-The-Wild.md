@@ -28,6 +28,8 @@
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
+[Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr))
+
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
 [Widescript](http://widescript.com) - Digital textbook platform
