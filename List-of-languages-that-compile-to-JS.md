@@ -5,6 +5,7 @@
 ###### Family (share genes with CoffeeScript)
 
 * [[Coco|https://github.com/satyr/coco]] A CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
+* [[IcedCoffeeScript|http://maxtaco.github.com/coffee-script/]] A CoffeeScript dialect that adds support for `await` and `defer` keywords which simplify async control flow.
 * [[Parsec CoffeeScript|https://github.com/fab13n/parsec-coffee-script]] CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it.
 * [[Contracts.coffee|https://github.com/disnet/contracts.coffee]] A dialect of CoffeeScript that adds built-in support for contracts.
 * [[Uberscript|https://github.com/jstrachan/coffee-script/blob/master/TypeAnnotations.md]], a CoffeeScript fork that adds type annotations which are compiled to Google closure compiler type annotation comments.
