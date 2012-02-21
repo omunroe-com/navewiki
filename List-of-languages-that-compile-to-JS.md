@@ -147,13 +147,13 @@
 
 #### Haskell
 
+* [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[ghcjs|https://github.com/pedromartins/ghcjs]] Compile normal Haskell into JS
-* [[jmacro|http://hackage.haskell.org/package/jmacro]] Quasi-Quoted JS that you can insert Haskell values into, also supports a more haskellish version of javascript.
+* [[jmacro|http://hackage.haskell.org/package/jmacro]] Quasi-Quoted JS that you can insert Haskell values into (there is also [[shakespeare-js|http://hackage.haskell.org/package/shakespeare-js]] for that purpose), but also supports a more haskellish syntactic version of javascript.
 
 The rest of these probably don't work, particularly with code written for the common GHC compiler.
 
 * [[https://github.com/aculich/lambdascript|]] Compile a subset of Haskell into JS
-* [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
 * [[jshaskell|http://code.google.com/p/jshaskell/]]
 
