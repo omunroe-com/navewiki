@@ -1,6 +1,12 @@
 # CoffeeScript build tools
 
+_What should the sorting be for this list? I'm up for alphabetic, though should it arrange by author, or by project name?_
+
 * **tdreyno**'s [Middleman](http://github.com/tdreyno/middleman) — a lightweight framework built on Sinatra that serves lives Haml, Sass and CoffeeScript during development, then compiles, concatenates and minifies them for you when you're ready to deploy.
+
+* **balupton**'s [Buildr](https://github.com/balupton/buildr.npm) - The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)
+
+* **bevry**'s [DocPad](https://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
 
 * Haml: **paulnicholson**'s [coffee-haml-filter](https://github.com/paulnicholson/coffee-filter) — a custom filter for rendering CoffeeScript inline within Haml templates.
 
