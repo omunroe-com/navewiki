@@ -127,7 +127,7 @@
 
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
-[DocPad](http://github.com/balupton/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
+[DocPad](http://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
 
 [Kiss.js](https://github.com/stanislavfeldman/kiss.js) - Web framework for Node.js. Object-oriented, simple and sexy.
 
