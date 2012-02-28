@@ -69,16 +69,15 @@
 ## Tools and Frameworks
 
 ### Build and Deployment
-[Buildr](http://github.com/balupton/buildr.npm) - Javascript Project Builder/Compiler/Bundler/Checker
+[Buildr](http://github.com/balupton/buildr.npm) - The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker) 
 
 [Brunch](http://brunch.io) - a lightweight approach to building HTML5 applications with emphasis on elegance and simplicity on top of Backbone.js, eco, jQuery, Stitch & Stylus.
-
-[DocPad](http://github.com/balupton/docpad) - The easiest way to generate static websites. Port of Jekyll to Node.js
 
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
 [riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
+[query-engine](https://github.com/balupton/query-engine.npm) - A NoSQL (and MongoDB compliant) Query Engine coded in CoffeeScript for Server-Side use with Node.js and Client-Side use with Web-Browsers
 
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
@@ -127,6 +126,8 @@
 [coffeemate](http://github.com/kadirpekel/coffeemate) - the coffee creamer! Push coffeescript into web development.
 
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
+
+[DocPad](http://github.com/balupton/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
 
 [Kiss.js](https://github.com/stanislavfeldman/kiss.js) - Web framework for Node.js. Object-oriented, simple and sexy.
 
