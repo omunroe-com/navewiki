@@ -25,6 +25,7 @@
     * [[CommonJS version in DoctorJS|https://github.com/mozilla/doctorjs/tree/master/lib/jsctags/narcissus]]
     * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
     * [[PyNarcissus|http://code.google.com/p/pynarcissus/]] Narcissus's parser ported to Python (used in [[pyjon|http://code.google.com/p/pyjon/]])
+    * [[rbnarcissus|http://code.google.com/p/rbnarcissus/]] Narcissus' parser ported to Ruby.
 * [[Traceur|http://code.google.com/p/traceur-compiler/]] Google's vehicle for Javascript Language Design Experimentation
 * [[EcmaScript 5 Parser (es-lab)|http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html]]
 * [[EcmaScript 5 Parser (qfox)|http://esparser.qfox.nl/]]
