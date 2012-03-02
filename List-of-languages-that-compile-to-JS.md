@@ -162,7 +162,7 @@ The rest of these probably don't work, particularly with code written for the co
 
 * [[Amber|http://amber-lang.net/]] - formerly known as Jtalk
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
-* [[Silver Smalltalk|http://www.silversmalltalk.com/]] [commercial] Smalltalk in the browser.
+* [[Silver Smalltalk|http://silversmalltalk.wordpress.com/]] [commercial?] Smalltalk in the browser. (Still active?)
 * [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser.  See also [[Avocado|http://avocadojs.com/]], built on top of it.
 
 #### C/C++
