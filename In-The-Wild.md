@@ -32,6 +32,8 @@
 
 [Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr))
 
+[Trello](https://trello.com/) - Trello is a collaboration tool that organizes your projects into boards.
+
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
 [Widescript](http://widescript.com) - Digital textbook platform
