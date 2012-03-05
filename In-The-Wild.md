@@ -117,6 +117,8 @@
 
 [haml-coffee](https://github.com/9elements/haml-coffee) - Haml templates where you can write inline CoffeeScript.
 
+[Milk](https://github.com/pvande/Milk) - Mustache templating in CoffeeScript
+
 ### Testing
 [coffee-spec](https://github.com/gfxmonk/coffee-spec) - An event-driven unit testing library.
 
