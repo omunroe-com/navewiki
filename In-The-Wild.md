@@ -77,6 +77,8 @@
 
 [Brunch](http://brunch.io) - a lightweight approach to building HTML5 applications with emphasis on elegance and simplicity on top of Backbone.js, eco, jQuery, Stitch & Stylus.
 
+[CoffeeScript Project Template](https://github.com/fortes/coffee-script-project-template) - Build system for CoffeeScript projects compiled with Google's Closure Compiler
+
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
