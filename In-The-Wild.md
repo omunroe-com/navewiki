@@ -22,6 +22,8 @@
 
 [Kodingen](http://kodingen.com/) - Cloud Development Environment with php/ruby/perl/python support.
 
+[Newebe](http://newebe.org/) - Distributed social network.
+
 [PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
 
 [Posterous](https://posterous.com/) - Blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
