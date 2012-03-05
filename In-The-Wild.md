@@ -172,6 +172,8 @@
 
 [Open Tweet Filter](https://github.com/rstuven/OpenTweetFilter) - A browser extension to filter tweets. (CoffeeScript + CoffeeKup + Knockout + jQuery)
 
+[Rollups](https://github.com/aviflax/rollups) — Tool/library to “roll up” sets of event timestamps into counts for specified windows of time
+
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
 
 [ToE](https://github.com/feisty/ToE) - Theory of Everything - MMORPG written in CoffeeScript on node.js and HTML (WebGL, WebSocket)
