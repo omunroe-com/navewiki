@@ -20,8 +20,7 @@
 
 [Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
 
-[Kodingen](http://kodingen.com/) - Cloud Development Environment with php/ruby/perl/python support.
-
+[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun/) - Cloud Development Environment with php/ruby/perl/python support. (Coming version is 100% coffee+nodejs)
 [Newebe](http://newebe.org/) - Distributed social network.
 
 [PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
