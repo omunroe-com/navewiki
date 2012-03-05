@@ -6,6 +6,8 @@
 ### Web
 [Annotateit](http://annotateit.org/) - Web annotations and higlights
 
+[API Axle](HTTP://apiaxle.com) - Locally hosted, Mashery style API proxy.
+
 [Apiary.io](http://apiary.io/) - API prototyping & debugging
 
 [Bonnevoy](http://bonnevoy.com/) - Dutch travel search engine (CoffeeScript + Spine)
