@@ -120,6 +120,8 @@
 
 [Zombie.js](http://zombie.labnotes.org) - headless full-stack testing using node.js
 
+[Decaf](https://github.com/limadelic/decaf) - Slim in Coffeescript
+
 ### Node.js Web App Frameworks
 [Coffee4Clients](http://github.com/balupton/coffee4clients.npm) - Renders .coffee files into javascript when requested on a Express.js server
 
