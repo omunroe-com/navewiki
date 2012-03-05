@@ -85,6 +85,8 @@
 [riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
 [query-engine](https://github.com/balupton/query-engine.npm) - A NoSQL (and MongoDB compliant) Query Engine coded in CoffeeScript for Server-Side use with Node.js and Client-Side use with Web-Browsers
 
+[mongo-model] Model for MongoDB (Node.JS) http://bit.ly/mongo-model
+
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
 [meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
