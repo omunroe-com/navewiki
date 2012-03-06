@@ -34,7 +34,7 @@
 
 [Sellaround](http://sellaround.net/) - A social commerce widget written with CoffeeScript and jQuery.
 
-[Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr))
+[Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr/tree/master/app/assets/javascripts))
 
 [Trello](https://trello.com/) - Trello is a collaboration tool that organizes your projects into boards.
 
