@@ -32,6 +32,8 @@
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
+[Sellaround](http://sellaround.net/) - A social commerce widget written with CoffeeScript and jQuery.
+
 [Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr))
 
 [Trello](https://trello.com/) - Trello is a collaboration tool that organizes your projects into boards.
