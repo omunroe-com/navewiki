@@ -26,6 +26,8 @@
 
 [Newebe](http://newebe.org/) - Distributed social network.
 
+[ProcessingCoffeeScript](http://pcsedit.appspot.com/) - Online Editor for processing.js sketches written in CoffeeScript.
+
 [PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
 
 [Posterous](https://posterous.com/) - Blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
