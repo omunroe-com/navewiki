@@ -30,6 +30,8 @@
 
 [Posterous](https://posterous.com/) - Blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
 
+[ShareLaTeX](https://www.sharelatex.com/) - A real time collaborative LaTeX editor inside the browser
+
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
 [Sellaround](http://sellaround.net/) - A social commerce widget written with CoffeeScript and jQuery.
