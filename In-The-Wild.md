@@ -89,6 +89,9 @@
 
 [mongo-model](https://github.com/alexeypetrushin/mongo-model) Model for MongoDB (Node.JS) http://bit.ly/mongo-model
 
+### Debugging
+[CoffeeScriptLineMatcher](https://github.com/showell/CoffeeScriptLineMatcher) Line mappings for CoffeeScript
+
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
 [meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
