@@ -38,6 +38,8 @@
 
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
+[WebGLCraft](https://github.com/danielribeiro/WebGLCraft) - WebGL implementation of Minecraft written in Three.js and Coffeescript.
+
 [Widescript](http://widescript.com) - Digital textbook platform
 
 [WordSquared](http://wordsquared.com) - Massively multiplayer online scrabble (previously known as Scrabb.ly)
