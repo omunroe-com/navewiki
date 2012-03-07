@@ -167,6 +167,8 @@
 
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
 
+[Groove Basin](https://github.com/superjoe30/groovebasin) - no-nonsense music client and server based on mpd and socket.io
+
 [Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
 
 [Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
