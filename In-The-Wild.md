@@ -158,6 +158,8 @@
 
 [SocketStream](https://github.com/socketstream/socketstream) - real-time web framework developed by AOL
 
+[Tower](http://github.com/viatropos/tower) - Full Stack Web Framework for Node.js and the Browser.
+
 [zappa](http://github.com/mauricemach/zappa) - DSL for [CoffeeKup](http://github.com/mauricemach/coffeekup), [socket.io](http://github.com/LearnBoost/Socket.IO), [express](http://github.com/visionmedia/express)
 
 ### Node.js Server Apps
