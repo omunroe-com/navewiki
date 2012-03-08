@@ -59,6 +59,8 @@
 
 [Basecamp Mobile](http://basecamphq.com/mobile/) - Mobile web version of 37signals' Basecamp (Backbone + CoffeeScript + Eco)
 
+[ChainCal](http://chaincalapp.com) - iPhone app for tracking daily goals (Backbone + CoffeeScript + Eco)
+
 [Chalk](http://chalk.37signals.com) - A simple drawing application for the iPad.
 
 [CrowdGame Trivially](http://itunes.apple.com/us/app/crowdgame-trivially/id477571106?mt=8) - Multi-player iPad game. Players interact via their smartphone browsers. Appcelerator-based. Written in CoffeeScript, with an Objective-C HTTP server, which serves pages to remote users written in CoffeeScript.
