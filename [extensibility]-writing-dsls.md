@@ -67,14 +67,15 @@ extend = (obj, using) -> (obj[key] = value) for key, value of using
 You can really go crazy with functional-style programming using the implicit nature of the language:
 
 ```coffeescript
-SELECT = (map, results) -> map.call each for each in results
-FROM   = (list, reduce) -> each for each in list when reduce each
-WHERE  = (reduce)       -> (each) -> reduce.call each
+SELECT = (mapper, results) -> mapper.call eachItem for eachItem in results
+FROM   = (list, reduced) -> fromItem for fromItem in list when reduced fromItem
+WHERE  = (reducer)       -> (whereItem) -> reducer.call whereItem
 
 # Find users between the age of 18 and 64
-SELECT -> { @name }, 
+names = SELECT -> { @name, @age },
 FROM   Users, 
 WHERE  -> 18 < @age < 64
+
 ```
 
 Going a step further
