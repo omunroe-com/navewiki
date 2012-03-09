@@ -68,8 +68,8 @@ You can really go crazy with functional-style programming using the implicit nat
 
 ```coffeescript
 SELECT = (mapper, results) -> mapper.call eachItem for eachItem in results
-FROM   = (list, reduced) -> fromItem for fromItem in list when reduced fromItem
-WHERE  = (reducer)       -> (whereItem) -> reducer.call whereItem
+FROM   = (list, reduced)   -> fromItem for fromItem in list when reduced fromItem
+WHERE  = (reducer)         -> (whereItem) -> reducer.call whereItem
 
 # Find users between the age of 18 and 64
 names = SELECT -> { @name, @age },
