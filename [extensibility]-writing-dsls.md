@@ -85,11 +85,11 @@ With just a few tips and you can already start building your own awesome DSL. Ho
 ```coffeescript
 # Implementation
 implements = (list) -> item.prototype for item in list
-Class = (base, implements, properties) ->
-  class _ extends base
-  _::[name] = value for name, value of item for item in implements if implements
-  _::[name] = value for name, value of properties if properties
-  _
+Class = (base, implemented, properties) ->
+  class SUB extends base
+  SUB::[name] = value for name, value of item for item in implemented if implemented
+  SUB::[name] = value for name, value of properties if properties
+  SUB
 
 # Usage
 class Animal
@@ -100,18 +100,22 @@ class Options
   set: (key, value) -> this[key] = value
 
 class Huggable
-  owner: 'none'
+  owner: 'nobody'
   hug:    -> @say "#{@name} hugs #{@owner}."
 
 # DSL
-Cat = Class Animal, implements [Options, Huggable],
+Cat = Class Animal, implements([Options, Huggable]),
   name: 'Cat'
+  lives: 9
 
 # Usage
 molly = new Cat
 molly.set 'name', 'Molly'
 molly.set 'owner', 'Stan'
 molly.hug()  # Molly hugs Stan.
+
+wildcat = new Cat
+wildcat.hug() # Cat hugs nobody.
 
 # Nested classes
 
