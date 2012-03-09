@@ -1,6 +1,8 @@
-This page requires attention. Please help by fixing typos, broken examples, rewriting bits of text, etc. Consider editing this page and help us out in improving the Wiki!
+_This page requires attention. Please help by fixing typos, broken examples, rewriting bits of text, etc. Consider editing this page and help us out in improving the Wiki!_
 
 The CoffeeScript grammar is pretty flexible when it comes to writing a domain-specific language (DSL). Implicit parentheses, commas and objects combine to give you an expressive language that compiles to good old JavaScript. The examples on this page assume a good level of knowledge of CoffeeScript.
+
+## Implicit Objects ##
 
 Implicit objects can be nested below a function call. Let's look at an example of what we are trying to accomplish before we get started:
 
@@ -36,9 +38,11 @@ describe = (name, properties) ->
       this[name] = value for own name, value of properties
 ```
 
+## Implicit parentheses ##
+
 Implicit parentheses can turn code into natural language (with some of the ambiguity of natural languages as well).
 
-Example:
+### Example: ###
 
 ```coffeescript
 # DSL and usage
@@ -64,6 +68,8 @@ using  = (obj) -> obj
 extend = (obj, using) -> (obj[key] = value) for key, value of using
 ```
 
+### Functional-style programming ###
+
 You can really go crazy with functional-style programming, using the implicit nature of the language:
 
 ```coffeescript
@@ -78,7 +84,7 @@ WHERE  -> 18 < @age < 64
 
 ```
 
-Going a step further
+## Going a step further ##
 
 With just a few tips, you can already start building your own awesome DSL. How about classes with mixins?
 
