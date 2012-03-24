@@ -62,7 +62,7 @@ Using `coffee` on the command-line allows you to compile a directory recursively
     $ cd ~/public/coffee-script
     $ coffee --compile --output lib/ src/
 
-The above command will compile all `src/*.coffee` files to `lib/*.js`. While working on your application you may have different directories from the ones used above, but for the sake of this example we will assume `src` and `lib`.
+The above command will compile all `src/*.coffee` files to `lib/*.js`. While working on your application you may have different directories from the ones used above, but for the sake of this example we will assume `src` and `lib`. Caveat: None of the compiled files will be executable and none will have shebangs.
 
 Let's move on. Create our compile task inside a new `Cakefile` under our project's main directory:
 
