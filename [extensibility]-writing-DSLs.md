@@ -91,12 +91,12 @@ With just a few tips, you can already start building your own awesome DSL. How a
 ```coffeescript
 # Implementation
 implements = (list) -> item.prototype for item in list
+extend = (obj, extensions...) ->
+  (obj[key] = value) for key, value of ext for ext in extensions
+  obj
 
 Class = (base, implemented, properties) ->
-  class SUB extends base
-  SUB::[name] = value for name, value of item for item in implemented if implemented
-  SUB::[name] = value for name, value of properties if properties
-  SUB
+  extend (class extends base)::, implemented..., properties
 
 # Usage
 class Animal
