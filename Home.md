@@ -27,6 +27,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Compiling, Concatenating and Setting Up Build Tools Using cake|[HowTo] Compiling and Setting Up Build Tools]]
 * [Nodetuts in Coffeescript](http://jaigouk.github.com/nodetuts-coffeescript/)
 * [[Hacking on the CoffeeScript compiler|[Howto] Hacking on the CoffeeScript Compiler]]
+* [[Using CS with Java/Rhino]]
 
 ### Extensibility
 
