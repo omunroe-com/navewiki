@@ -102,6 +102,10 @@
 * [[PyCow|https://github.com/p2k/PyCow]] Python to MooTools JS.
 * [[PyvaScript|http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser]] Python-like syntax to JavaScript.
 
+#### Perl
+
+* [[Perlito|https://github.com/fglock/Perlito]] Project to compile Perl 5/6 to JavaScript, Ruby, SBCL, and Go.
+
 #### Java/JVM
 
 * [[GWT|http://code.google.com/webtoolkit/]] Google Web Toolkit, compiles java to javascript
