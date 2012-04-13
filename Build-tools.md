@@ -20,4 +20,6 @@ _What should the sorting be for this list? I'm up for alphabetic, though should 
 
 * .NET: **jtmueller**'s [CoffeeScript Monitor](http://coffeemonitor.codeplex.com/) - a Windows system tray app that monitors one or more folders for new or changed CoffeeScript files, displaying any compiler errors in a system tray balloon tip.
 
+* [Robusta](https://github.com/nikita-volkov/Robusta) — A CoffeeScript extension transcompiler that introduces a packaging system and support for convenient import statements.
+
 * Ruby/JRuby: **netzpirat**'s [Guard::CoffeeScript](https://github.com/netzpirat/guard-coffeescript) — a [Guard](https://github.com/guard/guard) for compiling CoffeeScript based on file system modifications (Supports Mac OS X FSEvents, Linux Inotify, Windows Directory Change Notification and polling). Uses an JavaScript runtime available on your system.
