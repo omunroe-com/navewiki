@@ -6,6 +6,8 @@ _What should the sorting be for this list? I'm up for alphabetic, though should 
 
 * **balupton**'s [Buildr](https://github.com/balupton/buildr.npm) - The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)
 
+* [Brunch](http://brunch.io/) - lightweight approach to build html5 apps with emphasis on elegance and simplicity. Supports a lot of scripting / style languages, templates etc and libnotify / growl.
+
 * **bevry**'s [DocPad](https://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
 
 * Haml: **paulnicholson**'s [coffee-haml-filter](https://github.com/paulnicholson/coffee-filter) — a custom filter for rendering CoffeeScript inline within Haml templates.
