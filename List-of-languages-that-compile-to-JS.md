@@ -249,6 +249,7 @@ for client-side (and server-side) web development
 * [[javascript types|http://cs.brown.edu/~joe/public/types/types.html]] - lambdajs, flow typing
 * [[SourceMap|https://github.com/mozilla/source-map]] map javascript debugger output to original source 
 * [[Zeon|https://github.com/qfox/Zeon]] A static visual JavaScript analyzer / editor.  See also [[ZeParser|https://github.com/qfox/ZeParser]].
+* [[escodegen|https://github.com/Constellation/escodegen]] - Javascript code generator
 
 #### See Also
 
