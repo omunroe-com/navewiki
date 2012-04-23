@@ -34,6 +34,7 @@
 * [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
 * [[ZeParser|https://github.com/qfox/ZeParser]]
 * [[Esprima|http://esprima.org]] Educational (but fast) ECMAScript parser with output compatible to [[Mozilla Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]]
+* [[js.js|https://github.com/jterrace/js.js]] A JavaScript JavaScript interpreter. Instead of trying to create an interpreter from scratch, SpiderMonkey is compiled into LLVM and then emscripten translates the output into JavaScript.
 
 ###### Javascript Optimizers
 
