@@ -204,6 +204,7 @@ for client-side (and server-side) web development
 * [[JsMorphic|http://chirp.scratchr.org/dl/experimental/JsMorphic/]] - [[demo|http://chirp.scratchr.org/dl/experimental/JsMorphic/snap.html]] - also called Snap!
 * [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
 * [[Illumination|http://radicalbreeze.com/]] [Commercial] Visual, cross-platform tool creates apps for Android, iPhone, iPad, Desktops and HTML5 or Flash websites.  [[The I language|http://blog.radicalbreeze.com/?p=213]] underlies the tool.
+* [[Meemoo|http://meemoo.org/]] flow-based visual programming framework for hackable web apps
 
 #### Others
 
