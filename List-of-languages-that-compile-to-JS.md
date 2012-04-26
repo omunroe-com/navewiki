@@ -18,6 +18,7 @@
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
+* [[moescript|https://github.com/be5invis/moescript]] Indent-based language
 
 #### JavaScript Parsers and Extensions
 
