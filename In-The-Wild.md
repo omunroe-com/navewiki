@@ -28,6 +28,8 @@
 
 [Newebe](http://newebe.org/) - Distributed social network.
 
+[nodejs-twitter](https://github.com/tehlulz/nodejs-twitter) - Twitter like engine built with MongoDB
+
 [ProcessingCoffeeScript](http://pcsedit.appspot.com/) - Online Editor for processing.js sketches written in CoffeeScript.
 
 [PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
@@ -47,6 +49,8 @@
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
 [WebGLCraft](https://github.com/danielribeiro/WebGLCraft) - WebGL implementation of Minecraft written in Three.js and Coffeescript.
+
+[web-terminal](https://github.com/tehlulz/web-terminal) - Persistent real time, multi-user terminal for web browser.
 
 [Widescript](http://widescript.com) - Digital textbook platform
 
