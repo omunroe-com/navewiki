@@ -36,13 +36,15 @@
 
 [Posterous](https://posterous.com/) - Blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
 
+[Sellaround](http://sellaround.net/) - A social commerce widget written with CoffeeScript and jQuery.
+
 [ShareLaTeX](https://www.sharelatex.com/) - A real time collaborative LaTeX editor inside the browser
 
 [Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
 
-[Sellaround](http://sellaround.net/) - A social commerce widget written with CoffeeScript and jQuery.
-
 [Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr/tree/master/app/assets/javascripts))
+
+[Strut](http://tantaman.github.com/Strut/client/web/index.html) - ImpressJS GUI / Authoring tool
 
 [Trello](https://trello.com/) - Trello is a collaboration tool that organizes your projects into boards.
 
