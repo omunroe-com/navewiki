@@ -20,6 +20,7 @@
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
 * [[moescript|https://github.com/be5invis/moescript]] Indent-based language
+* [[pogoscript|http://pogoscript.org/]] language that emphasises readability, is friendly to domain specific languages and compiles to regular Javascript
 
 #### JavaScript Parsers and Extensions
 
@@ -178,6 +179,7 @@ The rest of these probably don't work, particularly with code written for the co
 * [[Emscripten|http://code.google.com/p/emscripten/]] LLVM to JavaScript compiler.  LLVM is "an aggressive open-source compiler for C and C++," as well as other languages.
 * [[mala|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
+* [[LLJS|http://lljs.org/]] typed dialect of JavaScript that offers a C-like type system with manual memory management
 
 #### Basic
 
