@@ -12,7 +12,7 @@ The above assumes `/usr/local/bin` is in your `$PATH`.
 
 ## An empty Cakefile
 
-Running `cake` outside of CoffeeScript's main directory is much likely to end up throwing an exception and printing out a stack trace. If you look closely, you can see why things don't work just yet:
+Running `cake` outside of CoffeeScript's main directory is very likely to end up throwing an exception and printing out a stack trace. If you look closely, you can see why things don't work just yet:
 
     Error: Cakefile not found in /home/stan/
 
