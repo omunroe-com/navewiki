@@ -229,6 +229,7 @@ for client-side (and server-side) web development
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 * [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
 * [[SMLtoJs|http://www.smlserver.org/smltojs/]] SML to Javascript compiler
+* [[lua.js|https://github.com/mherkender/lua.js]] Lua parser
 
 #### Tools for Compiler Writers
 
