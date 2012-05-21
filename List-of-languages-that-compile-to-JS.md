@@ -160,9 +160,6 @@
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
 * [[ghcjs|https://github.com/pedromartins/ghcjs]] Compile normal Haskell into JS
 * [[jmacro|http://hackage.haskell.org/package/jmacro]] Quasi-Quoted JS that you can insert Haskell values into (there is also [[shakespeare-js|http://hackage.haskell.org/package/shakespeare-js]] for that purpose), but also supports a more haskellish syntactic version of javascript.
-
-The rest of these probably don't work, particularly with code written for the common GHC compiler.
-
 * [[https://github.com/aculich/lambdascript|]] Compile a subset of Haskell into JS
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
 * [[jshaskell|http://code.google.com/p/jshaskell/]]
@@ -210,8 +207,9 @@ for client-side (and server-side) web development
 * [[JsMorphic|http://chirp.scratchr.org/dl/experimental/JsMorphic/]] - [[demo|http://chirp.scratchr.org/dl/experimental/JsMorphic/snap.html]] - also called Snap!
 * [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
 * [[Illumination|http://radicalbreeze.com/]] [Commercial] Visual, cross-platform tool creates apps for Android, iPhone, iPad, Desktops and HTML5 or Flash websites.  [[The I language|http://blog.radicalbreeze.com/?p=213]] underlies the tool.
-* [[Meemoo|http://meemoo.org/]] flow-based visual programming framework for hackable web apps
 * [[JsMaker|http://jsmaker.com/jsmaker/]] visual JavaScript programming
+* [[Meemoo|http://meemoo.org/]] flow-based visual programming framework for hackable web apps
+* [[NoFlo|http://noflojs.org/]] JavaScript implementation of Flow-Based Programming. Programs (network graphs) can be visually created with [[DrawFBP|http://www.jpaulmorrison.com/cgi-bin/wiki.pl?DrawFBP]]
 
 #### Others
 
