@@ -210,6 +210,7 @@ for client-side (and server-side) web development
 * [[JsMaker|http://jsmaker.com/jsmaker/]] visual JavaScript programming
 * [[Meemoo|http://meemoo.org/]] flow-based visual programming framework for hackable web apps
 * [[NoFlo|http://noflojs.org/]] JavaScript implementation of Flow-Based Programming. Programs (network graphs) can be visually created with [[DrawFBP|http://www.jpaulmorrison.com/cgi-bin/wiki.pl?DrawFBP]]
+* [[Blockly|http://code.google.com/p/google-blockly/]] web-based, graphical programming language. Users can drag blocks together to build an application
 
 #### Others
 
