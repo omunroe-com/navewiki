@@ -238,7 +238,7 @@ for client-side (and server-side) web development
 * [[OMeta/JS|http://tinlizzie.org/ometa-js/#Sample_Project]] ([[source|https://github.com/veged/ometa-js]]) metacompiler for many languages to many targets, including js.
 * [[PEG.js|http://pegjs.majda.cz/]] parser generator for JavaScript based on the parsing expression grammar formalism
 * [[languagejs|https://github.com/tolmasky/language]] - PEG parser written in JavaScript with first class errors
-* [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus.  Depends on JS.Class library
+* [[Canopy|https://github.com/jcoglan/canopy]] Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus
 * [[JS/CC|http://jscc.jmksf.com/]] LALR(1) parser generator
 * [[jsparse|https://github.com/doublec/jsparse]] PEG by Grandmaster Chris Double
 * [[ReParse|https://github.com/weaver/ReParse]] parser combinator library for Javascript like Haskell's Parsec
