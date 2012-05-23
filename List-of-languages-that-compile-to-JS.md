@@ -123,6 +123,7 @@
 #### Scala
 
 * [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as java) plus scala to jribble.
+* [[JavaScript as an embedded DSL in Scala|https://github.com/namin/lms-sandbox]] 
 
 #### C#, .NET
 
