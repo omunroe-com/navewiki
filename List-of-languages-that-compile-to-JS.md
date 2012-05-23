@@ -183,6 +183,12 @@
 * [[NS Basic/App Studio|http://www.nsbasic.com/app/]] [commercial] Visual Basic-style BASIC to JavaScript compiler. Includes IDE. Targets iOS and Android.
 * [[qb.js|http://stevehanov.ca/blog/index.php?id=92]] An implementation of QBASIC in Javascript
 
+#### Pascal
+
+* [[Smart Mobile Studio]|http://op4js.optimalesystemer.no/] [commercial] Compiler for Object Pascal to JS brings classes, inheritance, interfaces and more to JavaScript.
+* [[Elevate Web Builder]|http://www.elevatesoft.com/products?category=ewb] [commercial]  Visual development tool for web applications that compiles standard Object Pascal source code into JavaScript.
+
+
 #### Multitarget
 
 * [[Haxe|http://haxe.org/]] compiles to several platforms (C++, Flash, JS, Neko, PHP).
@@ -222,7 +228,6 @@ for client-side (and server-side) web development
 * [[Reb2Static|https://github.com/jankom/RebToStatic]] Rebol to Javascript
 * [[RPN|https://github.com/adrusi/rpn]] Interpreter for a language with a Reverse Polish Notation syntax.
 * [[phype|http://code.google.com/p/phype/]] run PHP code directly in your browser
-* [[OP4JS|http://delphimax.wordpress.com/2011/07/18/op4js-low-level-or-high-level-you-choose/]] object pascal for javascript, in development
 * [[jsForth|http://forthfreak.net/jsforth80x25.html]]
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
