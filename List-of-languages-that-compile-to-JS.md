@@ -234,6 +234,7 @@ for client-side (and server-side) web development
 * [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
 * [[SMLtoJs|http://www.smlserver.org/smltojs/]] SML to Javascript compiler
 * [[lua.js|https://github.com/mherkender/lua.js]] Lua parser
+* [[Pygmy|http://peterolson.github.com/Pygmy/Docs/index.html]] a dynamic language that compiles to Javascript designed to be readable but concise enough to be competitive in code golf.
 
 #### Tools for Compiler Writers
 
