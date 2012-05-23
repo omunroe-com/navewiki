@@ -118,7 +118,7 @@
 * [[Strongly-Typed Javascript (STJS)|http://st-js.sourceforge.net/]] - Javascript code generator from a Java source. It is built as a Maven plugin.
 * [[BicaJVM|https://github.com/nurv/BicaVM]] Javascript implementation of JVM
 * [[Doppio|http://int3.github.com/doppio/about.html]] JVM interpreter on coffeescript
-
+* [[Processing|http://processingjs.org/]], a java-based visualization language that interprets to Javascript.
 
 #### Scala
 
