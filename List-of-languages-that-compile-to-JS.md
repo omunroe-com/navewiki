@@ -186,7 +186,7 @@
 #### Pascal
 
 * [[Smart Mobile Studio|http://op4js.optimalesystemer.no/]] [commercial] Compiler for Object Pascal to JS brings classes, inheritance, interfaces and more to JavaScript
-* [[Elevate Web Builder|http://www.elevatesoft.com/products?category=ewb/]] [commercial]  Visual development tool for web applications that compiles standard Object Pascal source code into JavaScript
+* [[Elevate Web Builder|http://www.elevatesoft.com/products?category=ewb]] [commercial]  Visual development tool for web applications that compiles standard Object Pascal source code into JavaScript
 
 
 #### Multitarget
