@@ -10,6 +10,8 @@ _What should the sorting be for this list? I'm up for alphabetic, though should 
 
 * **bevry**'s [DocPad](https://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
 
+* [Coffee Script Project Template](https://github.com/fortes/coffee-script-project-template) - Build system for CoffeeScript projects compiled with Google's Closure Compiler and tested with PhantomJS
+
 * node: **hornairs**'s [muffin](https://github.com/hornairs/muffin) - a promise based build tool on top of Cake for CoffeeScript projects featuring automatic watching, growl integration, and [snockets](https://github.com/TrevorBurnham/snockets) support.
 
 * Haml: **paulnicholson**'s [coffee-haml-filter](https://github.com/paulnicholson/coffee-filter) — a custom filter for rendering CoffeeScript inline within Haml templates.
