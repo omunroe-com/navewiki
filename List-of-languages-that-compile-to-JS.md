@@ -149,6 +149,7 @@
 * [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
 * [[Whalesong|http://hashcollision.org/whalesong/]] Racket to JS compiler
 * [[Oppo|https://github.com/benekastah/oppo]] A javascripter's lisp. Inspired by javascript, clojure and coffeescript. Compiler built using [[Jison|http://zaach.github.com/jison/docs/]].
+* [[Outlet|https://github.com/jlongster/outlet]] A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development.
 
 #### OCaml
 
