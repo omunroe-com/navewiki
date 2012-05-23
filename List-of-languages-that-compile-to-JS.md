@@ -112,17 +112,18 @@
 
 #### Java/JVM
 
-* [[GWT|http://code.google.com/webtoolkit/]] Google Web Toolkit, compiles java to javascript
-* [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and JavaScript version of SWT
+* [[GWT|http://code.google.com/webtoolkit/]] Google Web Toolkit, compiles Java to JavaScript.
+* [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and JavaScript version of SWT.
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
-* [[Strongly-Typed Javascript (STJS)|http://st-js.sourceforge.net/]] - Javascript code generator from a Java source. It is built as a Maven plugin.
-* [[BicaJVM|https://github.com/nurv/BicaVM]] Javascript implementation of JVM
-* [[Doppio|http://int3.github.com/doppio/about.html]] JVM interpreter on coffeescript
-* [[Processing|http://processingjs.org/]], a java-based visualization language that interprets to Javascript.
+* [[Strongly-Typed JavaScript (STJS)|http://st-js.sourceforge.net/]] - JavaScript code generator from Java source. It is built as a Maven plugin.
+* [[BicaJVM|https://github.com/nurv/BicaVM]] JavaScript implementation of JVM.
+* [[Doppio|http://int3.github.com/doppio/about.html]] JVM interpreter on Coffeescript.
+* [[Processing|http://processingjs.org/]], a Java-based visualization language that interprets to JavaScript.
+* [[Kotlin|http://confluence.jetbrains.net/display/Kotlin/Welcome]] has a nascent JavaScript backend.
 
 #### Scala
 
-* [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as java) plus scala to jribble.
+* [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.
 * [[JavaScript as an embedded DSL in Scala|https://github.com/namin/lms-sandbox]] 
 
 #### C#, .NET
