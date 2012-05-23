@@ -164,6 +164,7 @@
 * [[https://github.com/aculich/lambdascript|]] Compile a subset of Haskell into JS
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
 * [[jshaskell|http://code.google.com/p/jshaskell/]]
+* [[haste|https://github.com/valderman/haste-compiler]]
 
 #### Smalltalk
 
