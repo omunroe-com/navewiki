@@ -222,6 +222,7 @@ for client-side (and server-side) web development
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
+* [[Plaid|http://www.plaid-lang.org]] A gradually-typed, typestate-oriented language designed as a better Java.
 * [[Quixe|https://github.com/erkyrath/quixe]] a Glulx VM interpreter written in Javascript
 * [[Gnusto|https://github.com/curiousdannii/gnusto]] a Z-Machine VM interpreter written in Javascript
 * [[Logo Interpreter|http://www.calormen.com/logo/]]
