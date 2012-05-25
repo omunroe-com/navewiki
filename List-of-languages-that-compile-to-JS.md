@@ -12,6 +12,7 @@
 * [[Uberscript|https://github.com/jstrachan/coffee-script/blob/master/TypeAnnotations.md]], a CoffeeScript fork that adds type annotations which are compiled to Google closure compiler type annotation comments.
 * [[ToffeeScript|https://github.com/jiangmiao/toffee-script]] A dialect of CoffeeScript that support Asynchronous Syntax, Symbol and Regexp operator =~
 * [[Caffeine|https://github.com/ich/caffeine]] A dialect of CoffeeScript that support packages and classes import, useful for browser applications
+* [[heap.coffee|https://github.com/syg/heap.coffee]] A dialect of CoffeeScript that offers a C-like type system with manual memory management
 
 ###### Friends (philosophically related)
 
