@@ -16,6 +16,8 @@
 
 [CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
 
+[CyQuiz](http://www.cyquiz.com/) - Quiz and Game system (CoffeeScript)
+
 [EtherCalc](http://ethercalc.org/) - Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)
 
 [Grifo](https://github.com/grifotv/grifotv-portfolio) - Opensource portfolio using Google Docs spreadsheet as CMS. (CoffeeScript + Backbone.js)
