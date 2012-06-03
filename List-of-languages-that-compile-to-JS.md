@@ -243,6 +243,8 @@ for client-side (and server-side) web development
 * [[SMLtoJs|http://www.smlserver.org/smltojs/]] SML to Javascript compiler
 * [[lua.js|https://github.com/mherkender/lua.js]] Lua parser
 * [[Pygmy|http://peterolson.github.com/Pygmy/Docs/index.html]] a dynamic language that compiles to Javascript designed to be readable but concise enough to be competitive in code golf.
+* [[browserl|http://svahne.github.com/browserl/]] An Erlang Emulator written in javascript
+* [[ErlyJS|https://github.com/hassy/erlyjs]] (abandoned) Javascript to Erlang compiler
 
 #### Tools for Compiler Writers
 
