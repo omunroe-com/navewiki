@@ -135,6 +135,7 @@
 * [[JSIL|https://github.com/kevingadd/JSIL]] MSIL (.NET bytecode) to Javascript
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] [commercial] Compiles C# to JS.
 * [[Prefix|http://www.toptensoftware.com/prefix/]] in development
+* [[Blade|https://github.com/vannatech/blade]] Visual Studio add-on for converting C# to JavaScript
 
 #### Lisp, Scheme
 
