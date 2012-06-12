@@ -17,6 +17,11 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Web framework plugins]]
 * [[Build tools]] (for compiling/packaging CoffeeScript)
 
+### Coding Standards
+
+* [Bevry's](https://github.com/polarmobile/coffeescript-style-guide)
+* [Polar Mobile's](https://github.com/polarmobile/coffeescript-style-guide)
+
 ### In The Wild
 * [[CoffeeScript in real projects|In The Wild]]
 * [[List of languages that compile to JS]]
