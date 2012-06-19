@@ -136,6 +136,7 @@
 * [[Script#|http://projects.nikhilk.net/ScriptSharp]] [commercial] Compiles C# to JS.
 * [[Prefix|http://www.toptensoftware.com/prefix/]] in development
 * [[Blade|https://github.com/vannatech/blade]] Visual Studio add-on for converting C# to JavaScript
+* [[SharpKit|http://sharpkit.net/]] [commercial] C# to JavaScript Cross-Compiler
 
 #### Lisp, Scheme
 
