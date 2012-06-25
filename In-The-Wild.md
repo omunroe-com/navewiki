@@ -48,6 +48,8 @@
 
 [Strut](http://tantaman.github.com/Strut/client/web/index.html) - ImpressJS GUI / Authoring tool
 
+[The Agile Planner](http://theagileplanner.com) - A rather visual app for agile teams to plan and track their work.
+
 [Trello](https://trello.com/) - Trello is a collaboration tool that organizes your projects into boards.
 
 [Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
