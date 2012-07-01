@@ -18,6 +18,8 @@
 
 [CyQuiz](http://www.cyquiz.com/) - Quiz and Game system (CoffeeScript)
 
+[Dashku](https://dashku.com/) - Dashboard tool (jQuery + underscore + hogan + SocketStream)
+
 [EtherCalc](http://ethercalc.org/) - Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)
 
 [Grifo](https://github.com/grifotv/grifotv-portfolio) - Opensource portfolio using Google Docs spreadsheet as CMS. (CoffeeScript + Backbone.js)
