@@ -4,57 +4,57 @@
 ## Applications
 
 ### Web
-[Annotateit](http://annotateit.org/) - Web annotations and higlights
+[Annotateit](http://annotateit.org) - Web annotations and higlights
 
 [API Axle](HTTP://apiaxle.com) - Locally hosted, Mashery style API proxy.
 
-[Apiary.io](http://apiary.io/) - API prototyping & debugging
+[Apiary.io](http://apiary.io) - API prototyping and debugging
 
-[Bonnevoy](http://bonnevoy.com/) - Dutch travel search engine (CoffeeScript + Spine)
+[Bonnevoy](http://bonnevoy.com) - Dutch travel search engine (CoffeeScript + Spine)
 
-[BusyConf](http://busyconf.com/) - Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
+[BusyConf](http://busyconf.com) - Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
 
 [CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
 
-[CyQuiz](http://www.cyquiz.com/) - Quiz and Game system (CoffeeScript)
+[CyQuiz](http://www.cyquiz.com) - Quiz and Game system (CoffeeScript)
 
-[Dashku](https://dashku.com/) - Dashboard tool (jQuery + underscore + hogan + SocketStream)
+[Dashku](https://dashku.com) - Dashboard tool (jQuery + underscore + hogan + SocketStream)
 
-[EtherCalc](http://ethercalc.org/) - Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)
+[EtherCalc](http://ethercalc.org) - Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)
 
 [Grifo](https://github.com/grifotv/grifotv-portfolio) - Opensource portfolio using Google Docs spreadsheet as CMS. (CoffeeScript + Backbone.js)
 
-[HelpShelf](http://helpshelf.com/) - Upload and Organize your technical PDFs with full text search
+[HelpShelf](http://helpshelf.com) - Upload and Organize your technical PDFs with full text search
 
-[Heroscale](http://heroscale.com/) - Tool that monitors and scales your Heroku dynos/workers
+[Heroscale](http://heroscale.com) - Tool that monitors and scales your Heroku dynos/workers
 
-[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun/) - Cloud Development Environment with php/ruby/perl/python support. (Coming version is 100% coffee+nodejs)
+[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun) - Cloud Development Environment with PHP/Ruby/Perl/Python support. (Coming version is 100% coffee + node.js)
 
-[Newebe](http://newebe.org/) - Distributed social network.
+[Newebe](http://newebe.org) - Distributed social network.
 
 [nodejs-twitter](https://github.com/tehlulz/nodejs-twitter) - Twitter like engine built with MongoDB
 
-[ProcessingCoffeeScript](http://pcsedit.appspot.com/) - Online Editor for processing.js sketches written in CoffeeScript.
+[ProcessingCoffeeScript](http://pcsedit.appspot.com) - Online Editor for processing.js sketches written in CoffeeScript.
 
 [PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
 
-[Posterous](https://posterous.com/) - Blogging platform. Used CoffeeScript to create its revamped "Spaces" front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
+[Posterous](https://posterous.com) - Blogging platform. Used CoffeeScript to create its revamped “Spaces” front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
 
-[Sellaround](http://sellaround.net/) - A social commerce widget written with CoffeeScript and jQuery.
+[Sellaround](http://sellaround.net) - A social commerce widget written with CoffeeScript and jQuery.
 
-[ShareLaTeX](https://www.sharelatex.com/) - A real time collaborative LaTeX editor inside the browser
+[ShareLaTeX](https://www.sharelatex.com) - A real time collaborative LaTeX editor inside the browser
 
-[Showbomber](http://showbomber.com/) - A mash-up of upcoming concerts and videos.
+[Showbomber](http://showbomber.com) - A mash-up of upcoming concerts and videos.
 
-[Solitr](http://www.solitr.com/) - Solitaire game ([GitHub](https://github.com/joliss/solitr/tree/master/app/assets/javascripts))
+[Solitr](http://www.solitr.com) - Solitaire game ([GitHub](https://github.com/joliss/solitr/tree/master/app/assets/javascripts))
 
 [Strut](http://tantaman.github.com/Strut/client/web/index.html) - ImpressJS GUI / Authoring tool
 
 [The Agile Planner](http://theagileplanner.com) - A rather visual app for agile teams to plan and track their work.
 
-[Trello](https://trello.com/) - Trello is a collaboration tool that organizes your projects into boards.
+[Trello](https://trello.com) - Trello is a collaboration tool that organizes your projects into boards.
 
-[Tzigla](http://tzigla.com/) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
+[Tzigla](http://tzigla.com) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
 [WebGLCraft](https://github.com/danielribeiro/WebGLCraft) - WebGL implementation of Minecraft written in Three.js and Coffeescript.
 
@@ -71,28 +71,28 @@
 
 [Ars Technica iPad application](http://itunes.apple.com/us/app/ars-technica/id393859050?mt=8) - Official Ars Technica application for the iPad
 
-[Basecamp Mobile](http://basecamphq.com/mobile/) - Mobile web version of 37signals' Basecamp (Backbone + CoffeeScript + Eco)
+[Basecamp Mobile](http://basecamphq.com/mobile) - Mobile web version of 37signals’ Basecamp (Backbone + CoffeeScript + Eco)
 
 [ChainCal](http://chaincalapp.com) - iPhone app for tracking daily goals (Backbone + CoffeeScript + Eco)
 
 [Chalk](http://chalk.37signals.com) - A simple drawing application for the iPad.
 
-[CrowdGame Trivially](http://itunes.apple.com/us/app/crowdgame-trivially/id477571106?mt=8) - Multi-player iPad game. Players interact via their smartphone browsers. Appcelerator-based. Written in CoffeeScript, with an Objective-C HTTP server, which serves pages to remote users written in CoffeeScript.
+[CrowdGame Trivially](http://itunes.apple.com/us/app/crowdgame-trivially/id477571106?mt=8) - Multiplayer iPad game. Players interact via their smartphone browsers. Appcelerator-based. Written in CoffeeScript, with an Objective-C HTTP server, which serves pages to remote users written in CoffeeScript.
 
 [HotelTonight](http://www.hoteltonight.com) - Hotel finder.  Both the iPhone app and Android app are written in CoffeeScript.  For the iPhone app, it is an Appcelerator Titanium based app, and the Android app is an HTML5 app (using Backbone.js and jQuery Mobile).
 
 ### Tech Demos
-[Conway's Game Of Life](https://github.com/jhogendorn/Game-of-Life-in-CoffeeScript) - An implementation of Conway's Game of Life using OOP CoffeeScript.
+[Conway's Game Of Life](https://github.com/jhogendorn/Game-of-Life-in-CoffeeScript) - An implementation of Conway’s Game of Life using OOP CoffeeScript.
 
-[Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway's Game of Life.
+[Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway’s Game of Life.
 
-[Conway's Game Of Life](http://willbailey.name/conway/index.html) - Conway's game of life with [annotated source](http://willbailey.name/conway/docs/conway.html).
+[Conway's Game Of Life](http://willbailey.name/conway/index.html) - Conway’s game of life with [annotated source](http://willbailey.name/conway/docs/conway.html).
 
 [cortex](http://github.com/feisty) - "core technologies" - MMO game platform written on node.js and WebGL.
 
 [Eight Queens](http://shpaml.webfactional.com/misc/game_page.htm) - Eight Queens, animated and annotated
 
-[Gates of Olympus](http://gatesofolympus.com) - A browser based 3d tower defense game, using webgl ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
+[Gates of Olympus](http://gatesofolympus.com) - A browser based 3D tower defense game, using WebGL ([source](http://github.com/rehno-lindeque/Gates-of-Olympus))
 
 [Viper](https://github.com/bjornharrtell/viper) - Remake of an old Amiga game, a variant of a Snake, using Canvas and WebSockets for multiplayer support.
 
@@ -101,14 +101,15 @@
 ### Build and Deployment
 [Buildr](http://github.com/balupton/buildr.npm) - The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker) 
 
-[Brunch](http://brunch.io) - a lightweight approach to building HTML5 applications with emphasis on elegance and simplicity on top of Backbone.js, eco, jQuery, Stitch & Stylus.
+[Brunch](http://brunch.io) - a lightweight approach to building HTML5 applications with emphasis on elegance and simplicity on top of Backbone.js, eco, jQuery, Stitch, and Stylus.
 
-[CoffeeScript Project Template](https://github.com/fortes/coffee-script-project-template) - Build system for CoffeeScript projects compiled with Google's Closure Compiler
+[CoffeeScript Project Template](https://github.com/fortes/coffee-script-project-template) - Build system for CoffeeScript projects compiled with Google’s Closure Compiler
 
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
 
 ### Database
 [riak-js](https://github.com/frank06/riak-js) - Node.js [Riak](http://riak.basho.com) client
+
 [query-engine](https://github.com/balupton/query-engine.npm) - A NoSQL (and MongoDB compliant) Query Engine coded in CoffeeScript for Server-Side use with Node.js and Client-Side use with Web-Browsers
 
 [mongo-model](https://github.com/alexeypetrushin/mongo-model) Model for MongoDB (Node.JS) http://bit.ly/mongo-model
@@ -118,22 +119,23 @@
 
 ### Design Patterns
 [WebActors](http://github.com/mental/webactors) - Actors for JavaScript
+
 [meta_code](https://github.com/clyfe/meta_code) CoffeeScript metaprogramming tools
 
 ### Documentation Generators
-[CoffeeDoc](http://github.com/omarkhan/coffeedoc) - an API documentation generator for CoffeeScript
+[CoffeeDoc](http://github.com/omarkhan/coffeedoc) - An API documentation generator for CoffeeScript
 
-[Docco](http://jashkenas.github.com/docco/) - a quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
+[Docco](http://jashkenas.github.com/docco) - Quick-and-dirty literate-programming-style documentation generator for CoffeeScript. Used to produce the annotated source.
 
-[Codo](http://github.com/netzpirat/codo) - CoffeeScript API documentation generator. It's like YARD but for CoffeeScript!
+[Codo](http://github.com/netzpirat/codo) - CoffeeScript API documentation generator. It’s like YARD but for CoffeeScript!
 
 ### Flow Control
-[seq](http://github.com/substack/node-seq) - chainable asynchronous flow control; written in javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
+[seq](http://github.com/substack/node-seq) - Chainable asynchronous flow control; written in Javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
 [SCION](https://github.com/jbeard4/SCION) - StateCharts Interpretation and Optimization eNgine (SCION) is an implementation of SCXML/Statecharts targeting JavaScript environments.
 
 ### Module Loaders - CommonJS
-[browserify](http://github.com/substack/node-browserify) - Mix and match coffee and javascript in your browser-side require()s
+[browserify](http://github.com/substack/node-browserify) - Mix and match CoffeeScript and Javascript in your browser-side `require()`s
 
 [nibjs](http://github.com/blambeau/nib.js) - Compile and Concatenate your CoffeeScript files for the browser
 
@@ -162,13 +164,13 @@
 [Decaf](https://github.com/limadelic/decaf) - Slim in Coffeescript
 
 ### Node.js Web App Frameworks
-[Coffee4Clients](http://github.com/balupton/coffee4clients.npm) - Renders .coffee files into javascript when requested on a Express.js server
+[Coffee4Clients](http://github.com/balupton/coffee4clients.npm) - Renders Coffeescript as Javascript on Express.js 
 
 [coffeemate](http://github.com/kadirpekel/coffeemate) - the coffee creamer! Push coffeescript into web development.
 
 [CouchCover](http://github.com/zdzolton/couch-cover) - mock evironment for testing CouchDB design document functions
 
-[DocPad](http://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
+[DocPad](http://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for CoffeeScript to Javascript compilation
 
 [Kiss.js](https://github.com/stanislavfeldman/kiss.js) - Web framework for Node.js. Object-oriented, simple and sexy.
 
@@ -187,16 +189,16 @@
 
 [Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
 
-[Pixel Ping](http://documentcloud.github.com/pixel-ping/) - DocumentCloud's pixel tracker for embedded documents.
+[Pixel Ping](http://documentcloud.github.com/pixel-ping) - DocumentCloud’s pixel tracker for embedded documents.
 
-[Pow](http://pow.cx/) - Rack web server for Mac OS X, from 37signals
+[Pow](http://pow.cx) - Rack web server for Mac OS X, from 37signals
 
 ### Other Node.js Libraries
-[Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS's "Math" module
+[Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS’s “Math” module
 
 [NowPad](http://github.com/balupton/nowpad) - Realtime Text Collaboration for Node.js apps
 
-[PDFKit](http://devongovett.github.com/pdfkit/) - A powerful PDF generation library for Node.js
+[PDFKit](http://devongovett.github.com/pdfkit) - A powerful PDF generation library for Node.js
 
 ### Miscellaneous
 [Blocky](https://github.com/zmcartor/Blocky) - Clientside QR code generation
@@ -205,7 +207,7 @@
 
 [CoffeeLint](http://www.coffeelint.org) - A CoffeeScript style checker.
 
-[Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript - (package.coffee) -> (package.json)
+[Courier](http://github.com/feisty/courier) - npm packages in CoffeeScript: (package.coffee) -> (package.json)
 
 [Curator.js](https://github.com/clvv/Curator.js) - A flexible process monitoring and management framework
 
