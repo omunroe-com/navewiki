@@ -16,6 +16,8 @@
 
 [CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
 
+[CloudCad](https://github.com/G3z/CloudCad) - a CAD application in the browser. (CoffeScript + Three.js)
+
 [CyQuiz](http://www.cyquiz.com) - Quiz and Game system (CoffeeScript)
 
 [Dashku](https://dashku.com) - Dashboard tool (jQuery + underscore + hogan + SocketStream)
