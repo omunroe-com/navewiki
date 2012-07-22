@@ -172,6 +172,7 @@
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
 * [[jshaskell|http://code.google.com/p/jshaskell/]]
 * [[haste|https://github.com/valderman/haste-compiler]]
+* [[fay|http://chrisdone.com/fay/]] A proper subset of Haskell that compiles to JavaScript
 
 #### Smalltalk
 
