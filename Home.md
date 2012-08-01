@@ -19,7 +19,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 ### Coding Standards
 
-* [Polar Mobile's](https://github.com/polarmobile/coffeescript-style-guide)
+* [Polar Mobile's](https://github.com/polarmobile/coffeescript-style-guide) (idiomatic, sort of approved by Jeremy Ashkenas)
 * [Bevry's](https://github.com/bevry/community/wiki/Coding-Standards)
 
 ### In The Wild
