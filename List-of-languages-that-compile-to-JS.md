@@ -22,6 +22,7 @@
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
 * [[moescript|https://github.com/be5invis/moescript]] Indent-based language
 * [[pogoscript|http://pogoscript.org/]] language that emphasises readability, is friendly to domain specific languages and compiles to regular Javascript
+* [[LispyScript|https://github.com/santoshrajan/lispyscript]] A Javascript with Lispy syntax and Macros.
 
 #### JavaScript Parsers and Extensions
 
