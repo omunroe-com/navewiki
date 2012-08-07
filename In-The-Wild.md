@@ -131,6 +131,8 @@
 
 [Codo](http://github.com/netzpirat/codo) - CoffeeScript API documentation generator. It’s like YARD but for CoffeeScript!
 
+[CoffeeDoc.info](http://coffeedoc.info) - Online Codo documentation server.
+
 ### Flow Control
 [seq](http://github.com/substack/node-seq) - Chainable asynchronous flow control; written in Javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
