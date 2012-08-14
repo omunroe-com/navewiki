@@ -20,7 +20,7 @@
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
-* [[moescript|https://github.com/be5invis/moescript]] Indent-based language
+* [[Moescript|https://github.com/be5invis/moe]] Indent-based language
 * [[pogoscript|http://pogoscript.org/]] language that emphasises readability, is friendly to domain specific languages and compiles to regular Javascript
 * [[LispyScript|http://lispyscript.com/]] A Javascript with Lispy syntax and Macros.
 
