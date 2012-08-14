@@ -23,7 +23,7 @@
 * [[Moescript|https://github.com/be5invis/moe]] Indent-based language
 * [[pogoscript|http://pogoscript.org/]] language that emphasises readability, is friendly to domain specific languages and compiles to regular JavaScript
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
-* [[SibilantJS|http://sibilantjs.info/]] Another JavaScript Lisp.
+* [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 
 #### JavaScript Parsers and Extensions
 
@@ -153,7 +153,6 @@
 * [[Ralph|https://github.com/turbolent/ralph]] Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
 * [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript.
 * [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
-* [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 * [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
 * [[Whalesong|http://hashcollision.org/whalesong/]] Racket to JS compiler
 * [[Oppo|https://github.com/benekastah/oppo]] A javascripter's lisp. Inspired by javascript, clojure and coffeescript. Compiler built using [[Jison|http://zaach.github.com/jison/docs/]].
