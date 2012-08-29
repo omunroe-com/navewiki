@@ -76,7 +76,7 @@
 * [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.  See also apollo on that site.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] JavaScript extension with asynchronous futures and promises.
 * [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
-* [[Jscex|https://github.com/JeffreyZhao/jscex]] Write simple JavaScript code, execute it asynchronously by compiling to monadic form.
+* [[Wind.js|https://github.com/JeffreyZhao/wind]] Wind.js is an advanced library which enable us to control flow with plain JavaScript for asynchronous programming (and more) without additional pre-compiling steps.
 * [[TameJS|http://tamejs.org/]] adds new keywords 'await' and 'defer'
 * [[async.js|https://github.com/caolan/async]] Async utilities for node and the browser
 
