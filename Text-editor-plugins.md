@@ -33,7 +33,7 @@
 
 * Notepad++: **blakmatrix**'s [CoffeeScript_notepad_UDL](https://github.com/blakmatrix/CoffeeScript_notepad_UDL) - provides syntax highlighting.
 
-* Sublime Text 2: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) above provides syntax highlighting and snippet expansion.
+* Sublime Text 2: **Xavura**'s [CoffeeScript Sublime Plugin](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) Syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 
 * Textadept: **rgieseke**'s [CoffeeScript Textadept module](http://rgieseke.github.com/ta-coffeescript) — provides snippets, additional key commands and indentation support.
 
