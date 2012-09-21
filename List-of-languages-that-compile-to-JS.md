@@ -90,6 +90,7 @@
 * [[jLang|http://jlang.org/]] adds object oriented syntax, namespaces, operators overriding
 * [[Restrict Mode|http://restrictmode.org/]]
 * [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]] gentle extension of JavaScript
+* [[Six|https://github.com/matthewrobb/six]] Six is a language super-set of JavaScript that enables new syntactic features from the 6th edition of ECMAScript to be used, through a transpiler, in your scripts today.
 
 #### Ruby
 
@@ -251,6 +252,7 @@ for client-side (and server-side) web development
 * [[browserl|http://svahne.github.com/browserl/]] An Erlang Emulator written in javascript
 * [[ErlyJS|https://github.com/hassy/erlyjs]] (abandoned) Javascript to Erlang compiler
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
+* [[Little Smallscript|https://github.com/ympbyc/LittleSmallscript]] Little Smalltalk to Javascript translator.
 
 #### Tools for Compiler Writers
 
