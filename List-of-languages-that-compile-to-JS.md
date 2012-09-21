@@ -183,6 +183,7 @@
 * [[Clamato|http://clamato.net/]] a Smalltalk dialect that is designed to operate within the JavaScript runtime.
 * [[Silver Smalltalk|http://silversmalltalk.wordpress.com/]] [commercial?] Smalltalk in the browser. (Still active?)
 * [[Lively Kernel|http://www.lively-kernel.org/]] - smalltalk/squeak-like development environment in the browser.  See also [[Avocado|http://avocadojs.com/]], built on top of it.
+* [[Little Smallscript|https://github.com/ympbyc/LittleSmallscript]] Little Smalltalk to Javascript translator.
 
 #### C/C++
 
@@ -252,7 +253,6 @@ for client-side (and server-side) web development
 * [[browserl|http://svahne.github.com/browserl/]] An Erlang Emulator written in javascript
 * [[ErlyJS|https://github.com/hassy/erlyjs]] (abandoned) Javascript to Erlang compiler
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
-* [[Little Smallscript|https://github.com/ympbyc/LittleSmallscript]] Little Smalltalk to Javascript translator.
 
 #### Tools for Compiler Writers
 
