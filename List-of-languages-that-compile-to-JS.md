@@ -99,7 +99,7 @@
 * [[rb2js|http://rb2js.rubyforge.org/]] Converts Ruby to JavaScript.
 * [[RubyJS|http://www.ntecs.de/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/]] A successor to rb2js
 * [[Red|https://github.com/jessesielaff/red]] Writes like Ruby and runs like JavaScript
-* [[Quby|http://www.playmycode.com/docs/quby]] Used for game coding site, not open source.
+* [[Quby|http://www.playmycode.com/docs/quby]] Used for game coding site, [[open source|https://github.com/PlayMyCode/Quby]].
 * [[Opal|https://github.com/adambeynon/opal]] Ruby to Javascript compiler.
 * [[8ball|https://github.com/mattknox/8ball]] ruby-to-javascript source-to-source transformer
 
