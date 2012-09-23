@@ -25,27 +25,7 @@
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 
-#### JavaScript Parsers and Extensions
-
-* [[Narcissus|https://github.com/mozilla/narcissus/]] Mozilla's experimental JavaScript compiler in JavaScript by Brendan Eich and others.  
-    * [[CommonJS version in DoctorJS|https://github.com/mozilla/doctorjs/tree/master/lib/jsctags/narcissus]]
-    * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
-    * [[PyNarcissus|http://code.google.com/p/pynarcissus/]] Narcissus's parser ported to Python (used in [[pyjon|http://code.google.com/p/pyjon/]])
-    * [[rbnarcissus|http://code.google.com/p/rbnarcissus/]] Narcissus' parser ported to Ruby.
-* [[Traceur|http://code.google.com/p/traceur-compiler/]] Google's vehicle for Javascript Language Design Experimentation
-* [[EcmaScript 5 Parser (es-lab)|http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html]]
-* [[EcmaScript 5 Parser (qfox)|http://esparser.qfox.nl/]]
-* [[reflect.js|https://github.com/zaach/reflect.js]] Implementation of Mozilla's (SpiderMonkey) [[Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]] in JavaScript
-* [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
-* [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
-* [[ZeParser|https://github.com/qfox/ZeParser]]
-* [[Esprima|http://esprima.org]] Educational (but fast) ECMAScript parser with output compatible to [[Mozilla Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]]
-* [[js.js|https://github.com/jterrace/js.js]] A JavaScript JavaScript interpreter. Instead of trying to create an interpreter from scratch, SpiderMonkey is compiled into LLVM and then emscripten translates the output into JavaScript.
-
-###### Javascript Optimizers
-
-* [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
-* [[UglifyJS|https://github.com/mishoo/UglifyJS]]
+#### JavaScript Extensions
 
 ###### Security enforcing JavaScript
 
@@ -255,6 +235,28 @@ for client-side (and server-side) web development
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
 
 #### Tools for Compiler Writers
+
+#### JavaScript Parsers and Extensions
+
+* [[Narcissus|https://github.com/mozilla/narcissus/]] Mozilla's experimental JavaScript compiler in JavaScript by Brendan Eich and others.  
+    * [[CommonJS version in DoctorJS|https://github.com/mozilla/doctorjs/tree/master/lib/jsctags/narcissus]]
+    * [[Jasy: Python port of Narcissus with some enhancements|https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser]]
+    * [[PyNarcissus|http://code.google.com/p/pynarcissus/]] Narcissus's parser ported to Python (used in [[pyjon|http://code.google.com/p/pyjon/]])
+    * [[rbnarcissus|http://code.google.com/p/rbnarcissus/]] Narcissus' parser ported to Ruby.
+* [[Traceur|http://code.google.com/p/traceur-compiler/]] Google's vehicle for Javascript Language Design Experimentation
+* [[EcmaScript 5 Parser (es-lab)|http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html]]
+* [[EcmaScript 5 Parser (qfox)|http://esparser.qfox.nl/]]
+* [[reflect.js|https://github.com/zaach/reflect.js]] Implementation of Mozilla's (SpiderMonkey) [[Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]] in JavaScript
+* [[bdParse|https://github.com/altoviso/bdParse]] a JavaScript LL(1) parser in JavaScript
+* [[parse-js|http://marijnhaverbeke.nl/parse-js/]] common lisp javascript parser
+* [[ZeParser|https://github.com/qfox/ZeParser]]
+* [[Esprima|http://esprima.org]] Educational (but fast) ECMAScript parser with output compatible to [[Mozilla Parser API|https://developer.mozilla.org/en/SpiderMonkey/Parser_API]]
+* [[js.js|https://github.com/jterrace/js.js]] A JavaScript JavaScript interpreter. Instead of trying to create an interpreter from scratch, SpiderMonkey is compiled into LLVM and then emscripten translates the output into JavaScript.
+
+###### Javascript Optimizers
+
+* [[Closure Compiler|http://code.google.com/closure/compiler/]] An optimizing compiler. Can generate a (line/col)-number mappings file.
+* [[UglifyJS|https://github.com/mishoo/UglifyJS]]
 
 ###### Javascript Parser Generators
 
