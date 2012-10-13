@@ -122,6 +122,7 @@
 * [[Prefix|http://www.toptensoftware.com/prefix/]] in development
 * [[Blade|https://github.com/vannatech/blade]] Visual Studio add-on for converting C# to JavaScript
 * [[SharpKit|http://sharpkit.net/]] [commercial] C# to JavaScript Cross-Compiler
+* [[Saltarelle|http://www.saltarelle-compiler.com/]] C# to JavaScript Compiler
 
 #### Lisp, Scheme
 
