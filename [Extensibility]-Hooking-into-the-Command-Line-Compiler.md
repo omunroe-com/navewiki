@@ -20,9 +20,9 @@ Paste the following contents into `ext.coffee`:
 
 # CoffeeScript = require 'coffee-script'
 for m in module.parent.children
-  path = m.id.split("/")
-  last = path[path.length-1]
-  if last == "coffee-script.js"
+  path = m.id.split "/"
+  name = path[path.length-1]
+  if name == "coffee-script.js"
     CoffeeScript = m.exports
     break
 
