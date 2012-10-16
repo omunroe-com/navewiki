@@ -25,6 +25,12 @@ for m in module.parent.children
   if last == "coffee-script.js"
     CoffeeScript = m.exports
     break
+
+CoffeeScript.on 'success', (task) ->
+  task.output = """
+    // The MIT License
+    // Copyright (c) #{ new Date().getFullYear() } Your Name\n
+   """ + task.output
 ```
 
 ## Events
