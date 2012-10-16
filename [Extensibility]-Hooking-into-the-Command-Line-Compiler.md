@@ -14,13 +14,17 @@ Let's create a simple script that would prepend a license header when code is co
 Paste the following contents into `ext.coffee`:
 
 ```coffeescript
-# This is the file that gets required by the compiler
-CoffeeScript = require 'coffee-script'
-CoffeeScript.on 'success', (task) ->
-  task.output = """
-    // The MIT License
-    // Copyright (c) #{ new Date().getFullYear() } Your Name\n
-   """ + task.output
+# note: we cannot just require CoffeeScript here, command.js modifies returned CoffeeScript object
+#       because of http://nodejs.org/api/modules.html#modules_module_caching_caveats
+#       instead try to lookup CoffeeScript object in our parent module (which is command.js)
+
+# CoffeeScript = require 'coffee-script'
+for m in module.parent.children
+  path = m.id.split("/")
+  last = path[path.length-1]
+  if last == "coffee-script.js"
+    CoffeeScript = m.exports
+    break
 ```
 
 ## Events
