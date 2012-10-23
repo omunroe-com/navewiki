@@ -60,6 +60,7 @@
 * [[Wind.js|https://github.com/JeffreyZhao/wind]] Wind.js is an advanced library which enable us to control flow with plain JavaScript for asynchronous programming (and more) without additional pre-compiling steps.
 * [[TameJS|http://tamejs.org/]] adds new keywords 'await' and 'defer'
 * [[async.js|https://github.com/caolan/async]] Async utilities for node and the browser
+* [[Continuation.js|https://github.com/BYVoid/continuation]] A lightweight JIT compiler for simplifying asynchronous JavaScript programming with no runtime dependences. It supports both Node.js and browser-side JavaScript and is compatible with CoffeeScript (also TypeScript, and any other scripts compile to js).
 
 ###### JavaScript Language Extensions
 
