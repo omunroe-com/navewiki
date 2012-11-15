@@ -154,6 +154,8 @@
 
 [eco](http://github.com/sstephenson/eco) - Embedded CoffeeScript templates (the erb of CoffeeScript)
 
+[ECT](https://github.com/baryshev/ect) - Performance focused JavaScript template engine with embedded CoffeeScript syntax
+
 [CoffeeKup](http://github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
 
 [haml-coffee](https://github.com/9elements/haml-coffee) - Haml templates where you can write inline CoffeeScript.
