@@ -230,6 +230,7 @@ for client-side (and server-side) web development
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 * [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
+* [[XLCC|https://github.com/baxtree/xlcc]] Interpret LCC into Javascript on node
 * [[SMLtoJs|http://www.smlserver.org/smltojs/]] SML to Javascript compiler
 * [[lua.js|https://github.com/mherkender/lua.js]] Lua parser
 * [[Pygmy|http://peterolson.github.com/Pygmy/Docs/index.html]] a dynamic language that compiles to Javascript designed to be readable but concise enough to be competitive in code golf.
