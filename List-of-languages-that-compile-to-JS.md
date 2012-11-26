@@ -238,6 +238,7 @@ for client-side (and server-side) web development
 * [[browserl|http://svahne.github.com/browserl/]] An Erlang Emulator written in javascript
 * [[ErlyJS|https://github.com/hassy/erlyjs]] (abandoned) Javascript to Erlang compiler
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
+* [[go2js|https://github.com/kless/go2js]] Translator from Go to JavaScript
 
 #### Tools for Compiler Writers
 
