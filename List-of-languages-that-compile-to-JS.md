@@ -188,6 +188,10 @@
 * [[Smart Mobile Studio|http://op4js.optimalesystemer.no/]] [commercial] Object Pascal to JavaScript compiler and Delphi like IDE that brings classes, inheritance, interfaces and more to JavaScript
 * [[Elevate Web Builder|http://www.elevatesoft.com/products?category=ewb]] [commercial]  Visual development tool for web applications that compiles standard Object Pascal source code into JavaScript
 
+#### Go
+
+* [[go2js|https://github.com/kless/go2js]] Line-to-line translator from Go to JavaScript.
+
 
 #### Multitarget
 
@@ -238,7 +242,6 @@ for client-side (and server-side) web development
 * [[browserl|http://svahne.github.com/browserl/]] An Erlang Emulator written in javascript
 * [[ErlyJS|https://github.com/hassy/erlyjs]] (abandoned) Javascript to Erlang compiler
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
-* [[go2js|https://github.com/kless/go2js]] Translator from Go to JavaScript
 
 #### Tools for Compiler Writers
 
