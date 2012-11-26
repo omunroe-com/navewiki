@@ -190,7 +190,7 @@
 
 #### Go
 
-* [[go2js|https://github.com/kless/go2js]] Line-to-line translator from Go to JavaScript.
+* [[Go2js|https://github.com/kless/go2js]] Line-to-line translator from Go to JavaScript.
 
 
 #### Multitarget
