@@ -115,7 +115,7 @@
 * [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.
 * [[JavaScript as an embedded DSL in Scala|https://github.com/namin/lms-sandbox]] 
 
-#### C#, .NET
+#### C#, F#, .NET related languages
 
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[JSIL|https://github.com/kevingadd/JSIL]] MSIL (.NET bytecode) to Javascript
@@ -124,6 +124,9 @@
 * [[Blade|https://github.com/vannatech/blade]] Visual Studio add-on for converting C# to JavaScript
 * [[SharpKit|http://sharpkit.net/]] [commercial] C# to JavaScript Cross-Compiler
 * [[Saltarelle|http://www.saltarelle-compiler.com/]] C# to JavaScript Compiler
+* [[FunScript|https://github.com/ZachBray/FunScript/]] F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
+* [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
+* [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
 
 #### Lisp, Scheme
 
@@ -198,7 +201,6 @@
 
 * [[Fun|https://github.com/marcuswestin/fun]] A programming language for realtime webapps - compiles to client-side and server-side JS.
 * [[Ur|http://impredicative.com/ur/]] In the tradition of ML and Haskell.
-* [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
 * [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
 * [[E|http://wiki.erights.org/wiki/E-on-JS]] Compiles E to JS. E is a secure distributed persistent pure object language.
 * [[Sugar|https://github.com/sebastien/sugar]] new programming language designed to replace JavaScript
@@ -228,7 +230,6 @@ for client-side (and server-side) web development
 * [[phype|http://code.google.com/p/phype/]] run PHP code directly in your browser
 * [[jsForth|http://forthfreak.net/jsforth80x25.html]]
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
-* [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 * [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
 * [[XLCC|https://github.com/baxtree/xlcc]] Interpret LCC into Javascript on node
 * [[SMLtoJs|http://www.smlserver.org/smltojs/]] SML to Javascript compiler
