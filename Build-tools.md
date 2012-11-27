@@ -12,6 +12,8 @@ _What should the sorting be for this list? I'm up for alphabetic, though should 
 
 * [Coffee Script Project Template](https://github.com/fortes/coffee-script-project-template) - Build system for CoffeeScript projects compiled with Google's Closure Compiler and tested with PhantomJS
 
+* **[flour](http://ricardobeat.github.com/cake-flour)** - build system that extends Cake for front-end build tasks. Can compile CoffeeScript, LESS, Stylus, minify js, lint and bundle files.
+
 * **aergonaut**'s [heroku-buildpack-coffeescript](https://github.com/aergonaut/heroku-buildpack-coffeescript) - Heroku buildpack that supports compiling Coffeescript source files into javascript during the slug compilation phase, so you don't have to add compiled files to version control
 
 * node: **hornairs**'s [muffin](https://github.com/hornairs/muffin) - a promise based build tool on top of Cake for CoffeeScript projects featuring automatic watching, growl integration, and [snockets](https://github.com/TrevorBurnham/snockets) support.
