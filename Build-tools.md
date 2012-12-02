@@ -22,7 +22,7 @@ _What should the sorting be for this list? I'm up for alphabetic, though should 
 
 * Java: **yeungda**'s [JCoffeeScript](http://github.com/yeungda/jcoffeescript) — uses Rhino to compile CoffeeScript, allowing compilation within Java projects or on systems that Node.js doesn't support.
 
-* Java: **Web Resource Optimizer for Java** [wro4j] (https://github.com/alexo/wro4j) - uses Rhino for compilation of coffeeScript. Provides a runtime solution (using servlet filter), build time solution (maven plugin) and a command line tool. 
+* Java: **Web Resource Optimizer for Java** [wro4j] (https://github.com/alexo/wro4j) - uses Rhino for compilation of coffeeScript. Provides a runtime solution (using servlet filter), build time solution (maven plugin) and a command line tool. Latest version of wro4j detect the support of node and uses it as a faster alternative to rhino. The tool provides both: runtime and buildtime support (using maven plugin or a CLI).
 
 * Java: **talios**'s [coffee-maven-plugin](https://github.com/talios/coffee-maven-plugin) - a Maven plugin that uses Rhino to compile Coffeescript at build time. Allows compressing javascript files with Google Closure.
 
