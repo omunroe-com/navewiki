@@ -231,6 +231,8 @@
 
 [Open Tweet Filter](https://github.com/rstuven/OpenTweetFilter) - A browser extension to filter tweets. (CoffeeScript + CoffeeKup + Knockout + jQuery)
 
+[oriDomi](https://github.com/dmotz/oriDomi) - Fold up the DOM like paper 
+
 [Rollups](https://github.com/aviflax/rollups) — Tool/library to “roll up” sets of event timestamps into counts for specified windows of time
 
 [Tag](http://github.com/feisty/tag) - Simple Terminal.app window titles
