@@ -21,7 +21,7 @@
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
 * [[Moescript|https://github.com/be5invis/moe]] Indent-based language
-* [[pogoscript|http://pogoscript.org/]] language that emphasises readability, is friendly to domain specific languages and compiles to regular JavaScript
+* [[pogoscript|http://pogoscript.org/]] language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 
