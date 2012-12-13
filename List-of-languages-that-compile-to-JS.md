@@ -243,6 +243,7 @@ for client-side (and server-side) web development
 * [[browserl|http://svahne.github.com/browserl/]] An Erlang Emulator written in javascript
 * [[ErlyJS|https://github.com/hassy/erlyjs]] (abandoned) Javascript to Erlang compiler
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
+* [[NGN APL|https://github.com/ngn/apl]] an APL-to-JavaScript compiler written in CoffeeScript
 
 #### Tools for Compiler Writers
 
