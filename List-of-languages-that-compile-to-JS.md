@@ -90,6 +90,7 @@
 
 * [[PYXC-PJ|http://pyxc.org/]] [CS friend] Python to JS. Can generate a (line/col)-number mappings file.
 * [[Pyjamas|http://pyjs.org/]] Python to JS.
+* [[Pyjaco|http://pyjaco.org/demo]] Python to JavaScript compiler with module support.
 * [[Pyjs|https://github.com/anandology/pyjs]] Python to (readable) JS.
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
 * [[PyCow|https://github.com/p2k/PyCow]] Python to MooTools JS.
