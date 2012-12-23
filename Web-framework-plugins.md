@@ -28,4 +28,4 @@
 
 * Perl: [Plack::Middleware::Compile](https://metacpan.org/module/Plack::Middleware::Compile) - a Perl Plack middleware that compiles CoffeeScript to JavaScript on demand
 
-* [RSence](http://rsence.org/): The pre-releases of version 2.2 have built-in support for CoffeeScript.
+* [RSence](http://rsence.org/): RSence since version 2.2 has built-in support for compiling CoffeeScript on demand and many parts of itself are implemented in CoffeeScript.
