@@ -162,7 +162,7 @@
 
 [CoffeeKup](http://github.com/mauricemach/coffeekup) - Markaby in CoffeeScript
 
-[haml-coffee](https://github.com/9elements/haml-coffee) - Haml templates where you can write inline CoffeeScript.
+[haml-coffee](https://github.com/netzpirat/haml-coffee/) - Haml templates where you can write inline CoffeeScript.
 
 [Milk](https://github.com/pvande/Milk) - Mustache templating in CoffeeScript
 
