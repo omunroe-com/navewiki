@@ -111,6 +111,8 @@
 
 [CoffeeScript Project Template](https://github.com/fortes/coffee-script-project-template) - Build system for CoffeeScript projects compiled with Google’s Closure Compiler
 
+[Dieter](https://github.com/edgecase/dieter) - Asset pipeline for clojure, supporting CoffeeScript and HamlCoffee.
+
 [heroku-buildpack-coffeescript](https://github.com/aergonaut/heroku-buildpack-coffeescript) - Heroku buildpack that supports compiling Coffeescript source files into javascript during the slug compilation phase, so you don't have to add compiled files to version control
 
 [settings](https://github.com/mgutz/node-settings) - Simple, hierarchical environment-based app settings.
