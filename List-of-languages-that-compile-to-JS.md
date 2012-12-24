@@ -95,6 +95,7 @@
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
 * [[PyCow|https://github.com/p2k/PyCow]] Python to MooTools JS.
 * [[PyvaScript|http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser]] Python-like syntax to JavaScript.
+* [[Brython|http://brython.info/index_en.html]] browser python
 
 #### Perl
 
