@@ -14,6 +14,8 @@
 
 [BusyConf](http://busyconf.com) - Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
 
+[CircleCi](http://www.circleci.com) - Hosted Continuous Integration (CoffeeScript + HamlCoffee + Backbone)
+
 [CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
 
 [CloudCad](https://github.com/G3z/CloudCad) - a CAD application in the browser. (CoffeScript + Three.js)
