@@ -158,13 +158,13 @@
 #### Haskell
 
 * [[UHC|http://www.cs.uu.nl/wiki/bin/view/Ehc/UhcUserDocumentation#5_7_3_jscript_Core_based_JavaScr]] (Utrecht Haskell Compiler) backend converts UHC core to JavaScript, allowing the compiling of Haskell code to JS.
-* [[ghcjs|https://github.com/pedromartins/ghcjs]] Compile normal Haskell into JS
+* [[ghcjs|https://github.com/ghcjs/ghcjs]] Compile normal Haskell into JS
 * [[jmacro|http://hackage.haskell.org/package/jmacro]] Quasi-Quoted JS that you can insert Haskell values into (there is also [[shakespeare-js|http://hackage.haskell.org/package/shakespeare-js]] for that purpose), but also supports a more haskellish syntactic version of javascript.
 * [[https://github.com/aculich/lambdascript|]] Compile a subset of Haskell into JS
 * [[YHC|http://www.haskell.org/haskellwiki/Yhc/Javascript]] (York Haskell Compiler) backend, as above but with YHC core language.
 * [[jshaskell|http://code.google.com/p/jshaskell/]]
 * [[haste|https://github.com/valderman/haste-compiler]]
-* [[fay|http://chrisdone.com/fay/]] A proper subset of Haskell that compiles to JavaScript
+* [[fay|http://fay-lang.org/]] A proper subset of Haskell that compiles to JavaScript
 
 #### Smalltalk
 
