@@ -2,7 +2,7 @@
 
 * Brewer: **rbrcurtis**'s [Brewer](https://github.com/rbrcurtis/Brewer) project browser based editor uses the ace editor (which cloud9 also uses) to show the compiled JS alongside your coffeescript, much like the coffeescript homepage, and runs a simple nodejs webserver on your machine to provide file manipulation functionality.
 
-* Browser: [Fiddle Salad](http://fiddlesalad.com/) has an online IDE with CoffeeScript syntax highlighting, auto-complete, preview of compiled JS, and a CoffeeScript to JavaScript converter
+* Browser: [Fiddle Salad](http://fiddlesalad.com/) has an online IDE with CoffeeScript syntax highlighting, auto-complete, preview of compiled JS, and a JavaScript to CoffeeScript converter
 
 * Cloud9IDE: **tanepiper**'s [Cloud9IDE CoffeeScript Live extension](https://github.com/tanepiper/cloud9-livecoffee-ext) - provides a live debug environment for .coffee files in Cloud9.  Of course, written in CoffeeScript too!
 
