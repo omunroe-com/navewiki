@@ -102,7 +102,7 @@ do (staticVariable = theValueYouWant) ->
 
 ----
 
-**Q:** Why is the existantial "?" operator only checking `this.foo != null`, shouldn't it also check for `typeof === 'undefined'` ?
+**Q:** Why is the existential "?" operator only checking `this.foo != null`, shouldn't it also check for `typeof === 'undefined'` ?
 **A:** `X == null` tests that either X is null or undefined, assuming _it is in scope_. If we can't make that assumption, we need to do a `typeof` test to avoid `ReferenceError`s. See [the Abstract Equality Comparaison Algorithm (section 11.9.3)](http://es5.github.com/#x11.9.3) for more informations (especially steps 2 and 3).
 
 
