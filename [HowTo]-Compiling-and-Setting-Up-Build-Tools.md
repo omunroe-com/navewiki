@@ -27,8 +27,10 @@ Leave the file empty for the time being. Run `cake` again:
     $ cake
 
 This should return immediately stating that:
+
     Cakefile defines the following tasks:
     
+
 (No tasks should be listed)
 
 ## Hello World!
