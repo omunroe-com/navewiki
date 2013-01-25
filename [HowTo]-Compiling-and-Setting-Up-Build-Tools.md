@@ -26,7 +26,10 @@ Leave the file empty for the time being. Run `cake` again:
     $ cd ~
     $ cake
 
-This should return immediately without printing anything to `stdout`.
+This should return immediately stating that:
+    Cakefile defines the following tasks:
+    
+(No tasks should be listed)
 
 ## Hello World!
 
