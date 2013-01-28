@@ -137,6 +137,7 @@
 * [[BiwaScheme|http://www.biwascheme.org/]] Scheme(R6RS) in JavaScript
 * [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
+* [[Chlorinejs|https://github.com/chlorinejs/chlorine]] A fork of ClojureJs with a port of clojure.core library.
 * [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
 * [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
