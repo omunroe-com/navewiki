@@ -24,6 +24,7 @@
 * [[pogoscript|http://pogoscript.org/]] language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
+* [[Ham|https://github.com/jameskeane/ham-script]] looks very similar to Javascript at first, but offers (hopefully) many useful features
 
 #### JavaScript Extensions
 
