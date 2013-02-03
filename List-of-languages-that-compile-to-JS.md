@@ -51,7 +51,6 @@
 * [[Elm|http://elm-lang.org/]] type-safe functional language that compiles to HTML, CSS, and JavaScript.
 * [[JSX|http://jsx.github.com/]] a faster, safer, easier alternative to JavaScript
 * [[Este.js|https://github.com/Steida/este/]] Google Closure written in CoffeeScript statically compiled to JavaScript (and much more).
-* [[Nemerle|https://github.com/NemerleWeb/NemerleWeb/]] Nemerle language compiled to JS.
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
@@ -132,6 +131,7 @@
 * [[FunScript|https://github.com/ZachBray/FunScript/]] F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 * [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
+* [[NemerleWeb|https://github.com/NemerleWeb/NemerleWeb/]] Nemerle language compiled to JS.
 
 #### Lisp, Scheme
 
