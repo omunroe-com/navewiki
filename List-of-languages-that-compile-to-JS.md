@@ -4,6 +4,7 @@
 
 ###### Family (share genes with CoffeeScript)
 
+* [[CoffeeScript II: The Wrath of Khan|https://github.com/michaelficarra/CoffeeScriptRedux]] Rewrite of the CS compiler with a focus on robustness and extensibility; drop in replacement for CS.
 * [[Coco|https://github.com/satyr/coco]] A CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
     * [[LiveScript|http://livescript.net]] is a fork of Coco that is much more compatible with CoffeeScript, more functional, and with more features.
 * [[IcedCoffeeScript|http://maxtaco.github.com/coffee-script/]] A CoffeeScript dialect that adds support for `await` and `defer` keywords which simplify async control flow.
@@ -25,6 +26,7 @@
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 * [[Ham|https://github.com/jameskeane/ham-script]] looks very similar to Javascript at first, but offers (hopefully) many useful features
+* [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors
 
 #### JavaScript Extensions
 
