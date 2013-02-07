@@ -1,10 +1,10 @@
 #### CoffeeScript Family (& Friends)
 
 * [[CoffeeScript|http://jashkenas.github.com/coffee-script/]] Unfancy JavaScript
+* [[CoffeeScript II: The Wrath of Khan|https://github.com/michaelficarra/CoffeeScriptRedux]] Rewrite of the CS compiler
 
 ###### Family (share genes with CoffeeScript)
 
-* [[CoffeeScript II: The Wrath of Khan|https://github.com/michaelficarra/CoffeeScriptRedux]] Rewrite of the CS compiler with a focus on robustness and extensibility; drop in replacement for CS.
 * [[Coco|https://github.com/satyr/coco]] A CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript.
     * [[LiveScript|http://livescript.net]] is a fork of Coco that is much more compatible with CoffeeScript, more functional, and with more features.
 * [[IcedCoffeeScript|http://maxtaco.github.com/coffee-script/]] A CoffeeScript dialect that adds support for `await` and `defer` keywords which simplify async control flow.
