@@ -26,6 +26,8 @@
 
 [EtherCalc](http://ethercalc.org) - Massively multiplayer online spreadsheet. (CoffeeScript + Zappa.js)
 
+[Fetchnotes](http://fetchnotes.com) - Productivity as simple as a tweet.
+
 [GAMEPREZ](http://www.gameprez.com) - Cloud Gaming, HTML5 Game Publishing, and Advertising Platform with Cash Prizes for High Scores
 
 [Grifo](https://github.com/grifotv/grifotv-portfolio) - Opensource portfolio using Google Docs spreadsheet as CMS. (CoffeeScript + Backbone.js)
