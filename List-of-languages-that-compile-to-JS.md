@@ -134,6 +134,7 @@
 * [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
 * [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
 * [[NemerleWeb|https://github.com/NemerleWeb/NemerleWeb/]] Nemerle language compiled to JS.
+* [[Blue Storm|http://www.bluestormproject.org/]] F# to JavaScript (and some other languages).
 
 #### Lisp, Scheme
 
