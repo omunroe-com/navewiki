@@ -123,6 +123,12 @@ task 'build', 'Build single application file from source files', ->
 
 We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
 
+Another option would be using a tools to help you deal with your file dependencies. There are many approches to deal with file dependency order out there, so you should pick the option that makes the most sense in your scenario. A few options:
+
+* [rehab](https://github.com/Vizir/rehab)
+* [coffee-toaster](https://github.com/serpentem/coffee-toaster)
+* [coffee-graph](https://github.com/mbolt35/coffee-graph)
+
 ## Minify/Compress Your Files
 
 You can easily extend your `Cakefile` to include a task which calls to a compression utility once your `*.js` files have been generated:
