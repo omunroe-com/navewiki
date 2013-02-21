@@ -20,6 +20,8 @@ _What should the sorting be for this list? I'm up for alphabetic, though should 
 
 * **aergonaut**'s [heroku-buildpack-coffeescript](https://github.com/aergonaut/heroku-buildpack-coffeescript) - Heroku buildpack that supports compiling Coffeescript source files into javascript during the slug compilation phase, so you don't have to add compiled files to version control
 
+* **laktek**'s [punch](https://github.com/laktek/punch) - A web publishing framework will compile any CoffeeScript files to JavaScript along with concatenation and minification.
+
 * node: **hornairs**'s [muffin](https://github.com/hornairs/muffin) - a promise based build tool on top of Cake for CoffeeScript projects featuring automatic watching, growl integration, and [snockets](https://github.com/TrevorBurnham/snockets) support.
 
 * Haml: **paulnicholson**'s [coffee-haml-filter](https://github.com/paulnicholson/coffee-filter) — a custom filter for rendering CoffeeScript inline within Haml templates.
