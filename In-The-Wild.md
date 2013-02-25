@@ -48,6 +48,8 @@
 
 [PixieEngine](http://pixieengine.com) - Web based IDE focusing on HTML5 game development.
 
+[Poetry](http://www.poe3.com) - A Collaborative Poetry app using CoffeeScript, NodeJS and MongoDb.
+
 [Posterous](https://posterous.com) - Blogging platform. Used CoffeeScript to create its revamped “Spaces” front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
 
 [Sellaround](http://sellaround.net) - A social commerce widget written with CoffeeScript and jQuery.
