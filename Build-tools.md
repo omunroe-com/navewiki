@@ -2,11 +2,11 @@
 
 _What should the sorting be for this list? I'm up for alphabetic, though should it arrange by author, or by project name?_
 
+* [Brunch](http://brunch.io/) - HTML5 application assembler. One of top-CoffeeScript projects on GitHub. Supports a lot of scripting / style languages, templates etc and libnotify / OS X notifications.
+
 * **tdreyno**'s [Middleman](https://github.com/middleman/middleman) — a lightweight framework built on Sinatra that serves lives Haml, Sass and CoffeeScript during development, then compiles, concatenates and minifies them for you when you're ready to deploy.
 
 * **balupton**'s [Buildr](https://github.com/balupton/buildr.npm) - The (Java|Coffee)Script and (CSS|Less) (Builder|Bundler|Packer|Minifier|Merger|Checker)
-
-* [Brunch](http://brunch.io/) - lightweight approach to build html5 apps with emphasis on elegance and simplicity. Supports a lot of scripting / style languages, templates etc and libnotify / growl.
 
 * **bevry**'s [DocPad](https://github.com/bevry/docpad) - a language agnostic document management system, which includes built-in support for coffeescript to javascript compilation
 
