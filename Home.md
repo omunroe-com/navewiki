@@ -16,6 +16,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Text editor plugins]]
 * [[Web framework plugins]]
 * [[Build tools]] (for compiling/packaging CoffeeScript)
+* [[Browser addons]]
 
 ### Coding Standards
 
