@@ -1,0 +1,1 @@
+* [[https://github.com/paulmillr/firefox-jsterm]] - Firefox-jsterm, first-class coffeescript in your firefox console. Allows interacting with DOM and page variables unlike chrome addons.
