@@ -286,7 +286,7 @@ for lang, i in languages
 
 **Q:** What is CoffeeScript files' UTI type?
 
-**A:**: CoffeeScript files are `public.coffee-script` and they conform to `public.coffee-script`.
+**A:** CoffeeScript files are `public.coffee-script` and they conform to `public.shell-script `.
 
 
 Getting roots
