@@ -281,12 +281,3 @@ for lang, i in languages
 0. performant
 0. readable
 0. small (byte-wise)
-
----
-
-**Q:** What is CoffeeScript files' UTI type?
-
-**A:** CoffeeScript files are `public.coffee-script` and they conform to `public.shell-script `.
-
-
-Getting roots
