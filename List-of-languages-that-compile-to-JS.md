@@ -45,6 +45,7 @@
 * Some of the ones listed below are also statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
 * [[Dart|http://www.dartlang.org/]] by Google. C/Java-like syntax with optional typing.
 * [[TypeScript|http://www.typescriptlang.org/]] by Microsoft. Typed superset of JavaScript.
+* [[asm.js|http://asmjs.org/]] - subset of JavaScript that can be used as a low-level, efficient target language for compilers.  Now included in Firefox.
 * [[JavaScript++|http://jspp.javascript.am/]] adds pluggable type system and type inference, among other features
 * [[SafeJS|https://github.com/safejs/SafeJS]]
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
