@@ -80,13 +80,13 @@
 
 #### Ruby
 
+* [[Opal|http://opalrb.org]] Ruby to Javascript compiler.
 * [[HotRuby|http://hotruby.yukoba.jp/]] Runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [[ColdRuby|https://github.com/whitequark/coldruby]] Compiler of Ruby 1.9 MRI bytecode, and a runtime written in JavaScript to aid in execution of Ruby code.
 * [[rb2js|http://rb2js.rubyforge.org/]] Converts Ruby to JavaScript.
 * [[RubyJS|http://www.ntecs.de/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/]] A successor to rb2js
 * [[Red|https://github.com/jessesielaff/red]] Writes like Ruby and runs like JavaScript
 * [[Quby|http://www.playmycode.com/docs/quby]] Used for game coding site, [[open source|https://github.com/PlayMyCode/Quby]].
-* [[Opal|https://github.com/opal/opal]] Ruby to Javascript compiler.
 * [[8ball|https://github.com/mattknox/8ball]] ruby-to-javascript source-to-source transformer
 
 #### Python
