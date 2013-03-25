@@ -3,7 +3,6 @@
 _What should the sorting be for this list? I'm up for alphabetic, though should it arrange by author, or by project name?_
 
 * [Koala](http://koala-app.com/) - Koala is a cross-platform gui application for coffeescript, less and sass compilation,Features: run every platform and compile error notification supports.
-![koala](http://koala-app.com/images/screenshots/linux.png)
 
 * [Brunch](http://brunch.io/) - HTML5 application assembler. One of top-CoffeeScript projects on GitHub. Supports a lot of scripting / style languages, templates etc and libnotify / OS X notifications.
 
