@@ -48,7 +48,6 @@
 * [[TypeScript|http://www.typescriptlang.org/]] by Microsoft. Typed superset of JavaScript.
 * [[asm.js|http://asmjs.org/]] - subset of JavaScript that can be used as a low-level, efficient target language for compilers.  Now included in Firefox.
 * [[JavaScript++|http://jspp.javascript.am/]] adds pluggable type system and type inference, among other features
-* [[SafeJS|https://github.com/safejs/SafeJS]]
 * [[MileScript|http://milescript.org/]] [commercial] A strongly-typed language similar to C# and Java, but which compiles to JS. free for non-profit, educational use.
 * [[Mascara|http://www.mascaraengine.com/]] [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
 * [[Roy|http://roy.brianmckenna.org/]] tries to meld JavaScript semantics with some features common in static functional languages
