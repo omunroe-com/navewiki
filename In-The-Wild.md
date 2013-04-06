@@ -60,7 +60,7 @@
 
 [Solitr](http://www.solitr.com) - Solitaire game ([GitHub](https://github.com/joliss/solitr/tree/master/app/assets/javascripts))
 
-[Strut](http://tantaman.github.com/Strut/client/web/index.html) - ImpressJS GUI / Authoring tool
+[Strut](http://tantaman.github.io/Strut/) - ImpressJS GUI / Authoring tool
 
 [The Agile Planner](http://theagileplanner.com) - A rather visual app for agile teams to plan and track their work.
 
