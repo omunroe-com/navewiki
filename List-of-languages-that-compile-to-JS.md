@@ -138,7 +138,7 @@
 * [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
 * [[NemerleWeb|https://github.com/NemerleWeb/NemerleWeb/]] Nemerle language compiled to JS.
 * [[Blue Storm|http://www.bluestormproject.org/]] F# to JavaScript (and some other languages).
-
+* [[JScriptSuite|http://jscriptsuite.com/]] .NET to JavaScript compiler (cross browser API, client site controls and components).
 #### Lisp, Scheme
 
 * [[BiwaScheme|http://www.biwascheme.org/]] Scheme(R6RS) in JavaScript
