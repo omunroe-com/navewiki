@@ -174,6 +174,8 @@
 
 [Milk](https://github.com/pvande/Milk) - Mustache templating in CoffeeScript
 
+[Lilyturf](https://github.com/jiyinyiyong/lilyturf) - HTML and CSS templating in CoffeeScript's nice syntax.
+
 ### Testing
 [coffee-spec](https://github.com/gfxmonk/coffee-spec) - An event-driven unit testing library.
 
