@@ -186,6 +186,7 @@
 #### C/C++
 
 * [[Emscripten|http://emscripten.org/]] LLVM to JavaScript compiler.  LLVM is "an aggressive open-source compiler for C and C++," as well as other languages.
+* [[Duetto|http://leaningtech.com/duetto/]] LLVM to JavaScript compiler. "compiles C++ applications to binary code and Javascript"
 * [[maja|http://lethalman.hostei.com/maja/index.html]] vala (gobject) to javascript
 * [[Clue|http://cluecc.sourceforge.net/]] C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 * [[LLJS|http://lljs.org/]] typed dialect of JavaScript that offers a C-like type system with manual memory management
