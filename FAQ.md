@@ -148,7 +148,7 @@ These issues should cover the discussion on mixins:
 
 **Q:** Do class (static) properties get inherited?
 
-**A:** No, because Javascript doesn't work that way. Only things on the prototype get inherited. You can add a simple hook to mimic class-method inheritance, however, by defining an `extended` method on your class.
+**A:** They don't get prototypal inheritance, but CoffeeScript does copy static properties from the superclass to the subclass at the time of inheritance.
 
 **TODO:** Find the issues on static property inheritance.
 
