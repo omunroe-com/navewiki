@@ -235,6 +235,10 @@ for client-side (and server-side) web development
 * [[NoFlo|http://noflojs.org/]] JavaScript implementation of Flow-Based Programming. Programs (network graphs) can be visually created with [[DrawFBP|http://www.jpaulmorrison.com/cgi-bin/wiki.pl?DrawFBP]]
 * [[Blockly|http://code.google.com/p/google-blockly/]] web-based, graphical programming language. Users can drag blocks together to build an application
 
+#### SQL
+* [[sql-parser|https://github.com/forward/sql-parser]]
+* [[sqld3|https://github.com/steveyen/sqld3]]
+
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
