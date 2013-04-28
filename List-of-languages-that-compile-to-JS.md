@@ -235,6 +235,7 @@ for client-side (and server-side) web development
 * [[Meemoo|http://meemoo.org/]] flow-based visual programming framework for hackable web apps
 * [[NoFlo|http://noflojs.org/]] JavaScript implementation of Flow-Based Programming. Programs (network graphs) can be visually created with [[DrawFBP|http://www.jpaulmorrison.com/cgi-bin/wiki.pl?DrawFBP]]
 * [[Blockly|http://code.google.com/p/google-blockly/]] web-based, graphical programming language. Users can drag blocks together to build an application
+* [[Maeda Block|http://maedablock.com/]] - visual game programming language powered by enchant.js and Google Blockly.  See also the [[Japanese version|http://maedablock.jp/]].
 
 #### SQL
 * [[sql-parser|https://github.com/forward/sql-parser]]
