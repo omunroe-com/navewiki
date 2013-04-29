@@ -54,4 +54,6 @@
 
 * BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
 
-* Eclipse: [provided by Titanium (Aptana) Studio](http://jira.appcelerator.org/browse/APSTUD-2451). For now just syntax coloring and a basic class/method outline.
+* Eclipse-Aptana: [provided by Titanium (Aptana) Studio](http://jira.appcelerator.org/browse/APSTUD-2451). For now just syntax coloring and a basic class/method outline.
+
+* [Eclipse-Nodeclipse](https://github.com/Nodeclipse/coffeescript-eclipse) is refresh of Adam Schmideg's [coffeescript-eclipse Editor](https://github.com/adamschmideg/coffeescript-eclipse)
