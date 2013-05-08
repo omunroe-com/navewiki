@@ -51,6 +51,12 @@ This is a much clearer format. These issues highlight the primary arguments for 
 [#16](http://github.com/jashkenas/coffee-script/issues/16),
 [#92](http://github.com/jashkenas/coffee-script/issues/92)
 
+---
+
+**Q:** Fat arrow, slim arrow ... How can I keep my context ? What's best for me to use, when ?
+**A:** Use a fat arrow if you need to preserve context, unless you also need the new given context. In this case, bind the context yourself. You can regen to [this gist](https://gist.github.com/Nami-Doc/5541389) for detailed examples.
+
+
 ----
 
 **Q:** Is there any way to name functions, for reflection and recursion?
