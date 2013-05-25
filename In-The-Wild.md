@@ -216,6 +216,8 @@
 [Pow](http://pow.cx) - Rack web server for Mac OS X, from 37signals
 
 ### Other Node.js Libraries
+[Daonode](http://github.com/chaosim/daonode) - functional logic solver with built in parser
+
 [Math](http://github.com/feisty/math) - high performance 2D/3D extensions for CommonJS’s “Math” module
 
 [NowPad](http://github.com/balupton/nowpad) - Realtime Text Collaboration for Node.js apps
