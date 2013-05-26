@@ -1,0 +1,1 @@
+If you write in Literate CoffeeScript and you are like me, occasionally you might want to see a complete, uninterrupted view of your source code without any comments.  [This simple tool](https://github.com/derekchiang/LitToCoffee) compiles `.litcoffee` to `.coffee`, for your reading pleasure.
