@@ -36,7 +36,6 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [Nodetuts in Coffeescript](http://jaigouk.com/blog/2011/07/07/intro/)
 * [[Hacking on the CoffeeScript compiler|[Howto] Hacking on the CoffeeScript Compiler]]
 * [[Using CS with Java/Rhino]]
-* [[Compile .litcoffee to .coffee]]
 
 ### Extensibility
 
