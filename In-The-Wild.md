@@ -148,6 +148,8 @@
 [CoffeeDoc.info](http://coffeedoc.info) - Online Codo documentation server.
 
 ### Flow Control
+[yuemeng](https://github.com/uxnow/yuemeng) - A design pattern from top to bottom; A choice for coffeescript of control flow with syntax: go -> fisrt -> auto(second1, second2) -> three. beautiful async and parellel style!
+
 [seq](http://github.com/substack/node-seq) - Chainable asynchronous flow control; written in Javascript, works with coffee (methods ending in underscores added specifically to work with coffee to thread along `this` explicitly)
 
 [SCION](https://github.com/jbeard4/SCION) - StateCharts Interpretation and Optimization eNgine (SCION) is an implementation of SCXML/Statecharts targeting JavaScript environments.
