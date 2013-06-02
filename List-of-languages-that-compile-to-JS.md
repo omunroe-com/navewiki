@@ -103,6 +103,7 @@
 * [[PyvaScript|http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser]] Python-like syntax to JavaScript.
 * [[RapydScript|https://bitbucket.org/pyjeon/rapydscript]] Improved PyvaScript
 * [[Brython|http://brython.info/index_en.html]] browser python
+* [[PythonScript|http://apppyjs.appspot.com/]] Python-like compiled to Javascript
 
 #### Perl
 
