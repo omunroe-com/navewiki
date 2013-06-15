@@ -1,7 +1,7 @@
 This page lists common gotchas you may encounter when working with CoffeeScript.
-You can refer to this page for general answers on "why does CoffeeScript acts that way"
+You can refer to this page for general answers on "why does CoffeeScript act that way"
 
-**Q:** Why does CoffeeScript requires "foo" to be defined when doing `foo ?= value` or `foo ||= value`
+**Q:** Why does CoffeeScript require "foo" to be defined when doing `foo ?= value` or `foo ||= value`
 
 **A:** Otherwise, it'd create a global, which is not what we want (if that *is* what you want, use `window.foo ?= value`)
  If you're declaring the variable in the current scope, you know for sure it doesn't exist - Javascript has no mechanic like PHP's static keyword.
@@ -19,7 +19,7 @@ class Foo
 ```coffee
 do (staticVariable = theValueYouWant) ->
  (args...) ->
-  #you now have a "static"-like access to "staticVariable"
+  #you now have "static"-like access to "staticVariable"
 ```
 
 ----
