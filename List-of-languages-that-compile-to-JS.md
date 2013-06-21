@@ -104,6 +104,7 @@
 * [[RapydScript|https://bitbucket.org/pyjeon/rapydscript]] Improved PyvaScript
 * [[Brython|http://brython.info/]] browser python
 * [[PythonScript|http://apppyjs.appspot.com/]] Python-like compiled to Javascript
+* [[pythonscript|https://github.com/DenerosArmy/pythonscript]] Python compiled to readable Javascript using  the AST. (proof of concept) 
 
 #### Perl
 
