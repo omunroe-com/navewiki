@@ -24,6 +24,7 @@
 * [[Moescript|https://github.com/be5invis/moe]] Indent-based language
 * [[pogoscript|http://pogoscript.org/]] language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
+* [[Hot Cocoa Lisp|https://github.com/olleicua/hcl]] A Lisp-like language that compiles to JavaScript.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 * [[Ham|https://github.com/jameskeane/ham-script]] looks very similar to Javascript at first, but offers (hopefully) many useful features
 * [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors
