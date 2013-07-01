@@ -18,7 +18,7 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Web framework plugins]]
 * [[Build tools]] (for compiling/packaging CoffeeScript)
 * [[Browser addons]]
-* (Literate CoffeeScript to CoffeeScript compiler)[https://github.com/derekchiang/LitToCoffee]
+* [Literate CoffeeScript to CoffeeScript compiler](https://github.com/derekchiang/LitToCoffee)
 
 ### Coding Standards
 
