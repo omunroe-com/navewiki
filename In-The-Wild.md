@@ -178,6 +178,8 @@
 
 [Lilyturf](https://github.com/jiyinyiyong/lilyturf) - HTML and CSS templating in CoffeeScript's nice syntax.
 
+[reactive.coffee](http://yang.github.io/reactive-coffee/) - A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building dynamic web UIs, focusing on simplicity and scalability
+
 ### Testing
 [coffee-spec](https://github.com/gfxmonk/coffee-spec) - An event-driven unit testing library.
 
