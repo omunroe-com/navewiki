@@ -182,6 +182,7 @@
 * [[jshaskell|http://code.google.com/p/jshaskell/]]
 * [[haste|https://github.com/valderman/haste-compiler]]
 * [[fay|http://fay-lang.org/]] A proper subset of Haskell that compiles to JavaScript
+* [[forml|http://texodus.github.io/forml/index.html]] A contemporary programming language intended to approximate the safety of Haskell and the expressiveness of Ruby.
 
 #### Smalltalk
 
