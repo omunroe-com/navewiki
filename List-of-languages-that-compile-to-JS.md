@@ -275,6 +275,7 @@ for client-side (and server-side) web development
 * [[Topaz|https://github.com/giesse/Project-SnowBall]] Rebol inspired language on top of Javascript
 * [[NGN APL|https://github.com/ngn/apl]] an APL-to-JavaScript compiler written in CoffeeScript
 * [[CobolScript|https://github.com/ajlopez/CobolScript]] COBOL language compiler to Javascript.
+* [[Idris|https://github.com/edwinb/Idris-dev]] Dependently typed functional language with a JavaScript backend.
 
 #### Tools for Compiler Writers
 
