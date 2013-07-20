@@ -28,7 +28,7 @@
 * [[Hot Cocoa Lisp|https://github.com/olleicua/hcl]] A Lisp-like language that compiles to JavaScript.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
 * [[Ham|https://github.com/jameskeane/ham-script]] looks very similar to Javascript at first, but offers (hopefully) many useful features
-* [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors
+* [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors, offers Macros and optional Typing
 * [[RedScript|https://github.com/AdamBrodzinski/RedScript]] Ruby flavored JavaScript.
 
 #### JavaScript Extensions
