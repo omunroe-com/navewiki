@@ -127,7 +127,7 @@
 
 #### Scala
 
-* [[Scala.js|http://lampwww.epfl.ch/~doeraene/scala-js/]] A JavaScript backend for Scala
+* [[Scala.js|http://lampwww.epfl.ch/~doeraene/scala-js/]] A Scala to JavaScript compiler
 * [[js-scala|https://github.com/js-scala/js-scala]] JavaScript as an embedded DSL in Scala 
 * [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.
 
