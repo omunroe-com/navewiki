@@ -66,6 +66,8 @@
 
 [Trello](https://trello.com) - Trello is a collaboration tool that organizes your projects into boards.
 
+[Twisted Life](http://www.automatous-monk.com/twistedlife/) A video game based on Conway's Life.  [Source code](https://github.com/paul-reiners/twisted-life)
+
 [Tzigla](http://tzigla.com) - Collaborative drawing application. Includes a [pixel art editor](http://tzigla.com/editor).
 
 [WebGLCraft](https://github.com/danielribeiro/WebGLCraft) - WebGL implementation of Minecraft written in Three.js and Coffeescript.
