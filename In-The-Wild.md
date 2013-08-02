@@ -133,6 +133,8 @@
 [mongo-model](https://github.com/alexeypetrushin/mongo-model) Model for MongoDB (Node.JS) http://bit.ly/mongo-model
 
 ### Debugging
+[amCoffee](https://github.com/auiWorks/amCoffee) CoffeeScript version of the Chrome Console
+
 [CoffeeScriptLineMatcher](https://github.com/showell/CoffeeScriptLineMatcher) Line mappings for CoffeeScript
 
 ### Design Patterns
