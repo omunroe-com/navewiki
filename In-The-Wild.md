@@ -158,6 +158,10 @@
 
 [SCION](https://github.com/jbeard4/SCION) - StateCharts Interpretation and Optimization eNgine (SCION) is an implementation of SCXML/Statecharts targeting JavaScript environments.
 
+### Game Development
+
+[chem](https://github.com/superjoe30/chem/) - 2D canvas-based game engine and toolchain optimized for rapid development. Supports coffee-script out of the box.
+
 ### Module Loaders - CommonJS
 [browserify](http://github.com/substack/node-browserify) - Mix and match CoffeeScript and Javascript in your browser-side `require()`s
 
