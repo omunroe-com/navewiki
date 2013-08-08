@@ -16,6 +16,9 @@
   * **defunkt**'s [CoffeeScript Major Mode](http://github.com/defunkt/coffee-mode) — provides syntax highlighting, indentation support, and some bonus commands.
   * [coffeelintnode](https://github.com/ajkavanagh/coffeelintnode) - provides on-the-fly coffeelint-ing of a coffee-script buffer using node.js, coffeelint and flymake-mode.
 
+* Espresso:
+  * [CoffeeScript.sugar](https://github.com/artisonian/CoffeeScript.sugar) – port of the CoffeeScript Textmate Bundle, provides syntax highlighting. 
+
 * gedit: 
   * **wavded**'s [gedit-coffeescript](http://github.com/wavded/gedit-coffeescript) — provides syntax highlighting.
   * **multiple authors**'s [coffeescript ctags definitions](https://gist.github.com/2901844) — provides outline view with **MicahCarrick**'s [gedit-source-code-browser](https://github.com/Quixotix/gedit-source-code-browser)
