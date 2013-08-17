@@ -71,6 +71,7 @@
 * [[TameJS|http://tamejs.org/]] adds new keywords 'await' and 'defer'
 * [[async.js|https://github.com/caolan/async]] Async utilities for node and the browser
 * [[Continuation.js|https://github.com/BYVoid/continuation]] A lightweight JIT compiler for simplifying asynchronous JavaScript programming with no runtime dependences. It supports both Node.js and browser-side JavaScript and is compatible with CoffeeScript (also TypeScript, and any other scripts compile to js).
+* [[Kal|http://rzimmerman.github.io/kal/]] makes asynchronous programming easy and clean by allowing functions to pause and wait for I/O, replacing an awkward callback syntax with a clean, simple syntax
 
 ###### JavaScript Language Extensions
 
