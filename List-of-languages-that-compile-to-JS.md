@@ -84,6 +84,7 @@
 * [[Restrict Mode|http://restrictmode.org/]]
 * [[TIScript|http://www.codeproject.com/KB/recipes/TIScript.aspx]] gentle extension of JavaScript
 * [[Six|https://github.com/matthewrobb/six]] Six is a language super-set of JavaScript that enables new syntactic features from the 6th edition of ECMAScript to be used, through a transpiler, in your scripts today.
+* [[js--|https://github.com/janpaul123/jsdares/tree/master/app/jsmm-applet/jsmm]] Javascript subset for [[interactive/visual programming|http://www.jsdares.com/blindfold]].
 
 #### Ruby
 
