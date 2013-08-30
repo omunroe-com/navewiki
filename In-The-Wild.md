@@ -217,6 +217,8 @@
 ### Node.js Server Apps
 [camo](https://github.com/atmos/camo) - Asset Proxy for Secure Embedding (used internally by GitHub)
 
+[cruds](https://github.com/ksnabb/cruds) - Create, Read, Update, Delete, Subscribe and unsubscribe with REST, WebSockets and MongoDB.
+
 [diaspora-x2](http://github.com/bnolan/diaspora-x2) - Diaspora ported to XMPP and CoffeeScript.
 
 [Groove Basin](https://github.com/superjoe30/groovebasin) - no-nonsense music client and server based on mpd and socket.io
