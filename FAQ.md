@@ -55,7 +55,7 @@ This is a much clearer format. These issues highlight the primary arguments for 
 
 **Q:** Fat arrow, slim arrow ... How can I keep my context ? What's best for me to use, when ?
 
-**A:** Use a fat arrow if you need to preserve context, unless you also need the new given context. In this case, bind the context yourself. You can regen to [this gist](https://gist.github.com/Nami-Doc/5541389) for detailed examples.
+**A:** Use a fat arrow if you need to preserve context, unless you also need the new given context. In this case, bind the context yourself. You can refer to [this gist](https://gist.github.com/Nami-Doc/5541389) for detailed examples.
 
 
 ----
