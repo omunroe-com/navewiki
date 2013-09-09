@@ -157,7 +157,6 @@
 * [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[clojurejs|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
 * [[Chlorinejs|https://github.com/chlorinejs/chlorine]] A fork of ClojureJs with a port of clojure.core library.
-* [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
 * [[wisp|https://github.com/Gozala/wisp]] Homoiconic JS with clojure syntax, s-expressions & macros.
 * [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
 * [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
