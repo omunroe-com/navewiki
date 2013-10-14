@@ -20,6 +20,9 @@
 * Espresso:
   * [CoffeeScript.sugar](https://github.com/artisonian/CoffeeScript.sugar) – port of the CoffeeScript Textmate Bundle, provides syntax highlighting. 
 
+* [Far Manager](http://www.farmanager.com/index.php?l=en):
+  * [Far Manager Colorer scheme for CoffeeScript](https://github.com/dzhariy/far-manager-colorer-coffee-script) — provides syntax highlighting (hrc-file) for built-in Far Manager Editor
+
 * gedit: 
   * **wavded**'s [gedit-coffeescript](http://github.com/wavded/gedit-coffeescript) — provides syntax highlighting.
   * **multiple authors**'s [coffeescript ctags definitions](https://gist.github.com/2901844) — provides outline view with **MicahCarrick**'s [gedit-source-code-browser](https://github.com/Quixotix/gedit-source-code-browser)
