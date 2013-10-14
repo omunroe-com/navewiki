@@ -139,13 +139,13 @@
 
 * [[jsc|http://jsc.sourceforge.net/]] [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [[JSIL|https://github.com/kevingadd/JSIL]] MSIL (.NET bytecode) to Javascript
-* [[Script#|http://projects.nikhilk.net/ScriptSharp]] Compiles C# to JS.
+* [[Script#|http://scriptsharp.com]] Compiles C# to JS.
 * [[Prefix|http://www.toptensoftware.com/prefix/]] in development
 * [[Blade|https://github.com/vannatech/blade]] Visual Studio add-on for converting C# to JavaScript
 * [[SharpKit|http://sharpkit.net/]] [commercial] C# to JavaScript Cross-Compiler
 * [[Saltarelle|http://www.saltarelle-compiler.com/]] C# to JavaScript Compiler
 * [[FunScript|https://github.com/ZachBray/FunScript/]] F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
-* [[Pit|http://pitfw.posterous.com/]] F# to Javascript compiler
+* [[Pit|https://github.com/fsharp/pitfw]] F# to Javascript compiler
 * [[WebSharper|http://www.websharper.com/]] Lets you compile F# to JS.
 * [[NemerleWeb|https://github.com/NemerleWeb/NemerleWeb/]] Nemerle language compiled to JS.
 * [[Blue Storm|http://www.bluestormproject.org/]] F# to JavaScript (and some other languages).
