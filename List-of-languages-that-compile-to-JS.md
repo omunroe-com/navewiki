@@ -64,7 +64,7 @@
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
 * [[mobl|http://www.mobl-lang.org]] The new language for programming the mobile web.
-* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.  See also apollo on that site.
+* [[StratifiedJS|http://onilabs.com/stratifiedjs/]] JavaScript + structured concurrency.
 * [[NarrativeJS|http://www.neilmix.com/narrativejs/doc/]] JavaScript extension with asynchronous futures and promises.
 * [[jwacs|http://chumsley.org/jwacs/]] JavaScript With Advanced Continuation Support.
 * [[Wind.js|https://github.com/JeffreyZhao/wind]] Wind.js is an advanced library which enable us to control flow with plain JavaScript for asynchronous programming (and more) without additional pre-compiling steps.
