@@ -230,6 +230,7 @@
 * Clue and jsc above target multiple runtimes in addition to javascript
 * [[Hence|http://hence-lang.org/]] stack-oriented programming language with an English-like syntax
 * [[Nimrod|http://nimrod-code.org]] compiles to C and JavaScript
+* [[Monkey|http://monkeycoder.co.nz/]] compiles to several platforms (JavaScript, ActionScript 3, C++, Java, CSharp).
 
 #### Tierless languages (produce both client & server)
 
