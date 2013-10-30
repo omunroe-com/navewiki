@@ -127,6 +127,7 @@
 * [[Kotlin|http://confluence.jetbrains.net/display/Kotlin/Welcome]] has a nascent JavaScript backend.
 * [[Ceylon|http://ceylon-lang.org/]] a modular static-typed JVM language compilable to JavaScript.
 * [[GrooScript|http://grooscript.org/]] a framework to convert Groovy code to Javascript.
+* [[node-jvm|https://github.com/YaroslavGaponov/node-jvm]] java virtual machine in pure node.js
 
 #### Scala
 
