@@ -65,4 +65,4 @@
 
 * Eclipse-Aptana: [provided by Titanium (Aptana) Studio](http://jira.appcelerator.org/browse/APSTUD-2451). For now just syntax coloring and a basic class/method outline.
 
-* [Eclipse-Nodeclipse](https://github.com/Nodeclipse/coffeescript-eclipse) is refresh of Adam Schmideg's [coffeescript-eclipse Editor](https://github.com/adamschmideg/coffeescript-eclipse). It is expected to be optimized for Node.js development. Quick installer is on [Marketplace](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer)
+* [Nodeclipse CoffeeScript Editor (Eclipse)](https://github.com/Nodeclipse/coffeescript-eclipse) is refresh of Adam Schmideg's [coffeescript-eclipse Editor](https://github.com/adamschmideg/coffeescript-eclipse). http://marketplace.eclipse.org/content/nodeclipse-coffeescript-editor or Quick installer is on [Marketplace](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer). Status: project is looking for owner/contributors
