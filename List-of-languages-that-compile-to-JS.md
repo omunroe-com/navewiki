@@ -229,7 +229,7 @@
 * [[LZX (Laszlo XML)|http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes]] LZX is [[OpenLaszlo's|http://www.openlaszlo.org]] declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3.
 * Clue and jsc above target multiple runtimes in addition to javascript
 * [[Nimrod|http://nimrod-code.org]] compiles to C and JavaScript
-* [[Monkey|http://monkeycoder.co.nz/]] [[commercial]] compiles to several platforms (JavaScript, ActionScript 3, C++, Java, CSharp).
+* [[Monkey|http://monkeycoder.co.nz/]] [commercial] compiles to several platforms (JavaScript, ActionScript 3, C++, Java, CSharp).
 
 #### Tierless languages (produce both client & server)
 
