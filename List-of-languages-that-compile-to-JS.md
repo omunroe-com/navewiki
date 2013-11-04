@@ -282,6 +282,7 @@ for client-side (and server-side) web development
 * [[NGN APL|https://github.com/ngn/apl]] an APL-to-JavaScript compiler written in CoffeeScript
 * [[CobolScript|https://github.com/ajlopez/CobolScript]] COBOL language compiler to Javascript.
 * [[Idris|https://github.com/edwinb/Idris-dev]] Dependently typed functional language with a JavaScript backend.
+* [[dogescript|http://zachbruggeman.me/dogescript/]]
 
 #### Tools for Compiler Writers
 
