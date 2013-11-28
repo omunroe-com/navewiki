@@ -17,7 +17,6 @@
 
 ###### Friends (philosophically related)
 
-* [[JS11|http://js11.org/]] JavaScript with augmented semicolon insertion, reduced punctuation, and limited sugar. Debugs line-for-line.
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
@@ -337,5 +336,4 @@ for client-side (and server-side) web development
 
 #### See Also
 
-* [[altJS|http://altjs.org/]] a [[Google group|http://groups.google.com/group/altjs]] and #altjs IRC channel for those interested in alternative languages for javascript  ('transpilers').  There is a [[Try altJS|http://altjs.org/try/]] feature, too, to test out various compilers in the browser.
 * [[jswiki|https://github.com/bebraw/jswiki/wiki]] another github wiki with listings of various javascript libraries
