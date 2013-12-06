@@ -128,6 +128,8 @@
 * [[Ceylon|http://ceylon-lang.org/]] a modular static-typed JVM language compilable to JavaScript.
 * [[GrooScript|http://grooscript.org/]] a framework to convert Groovy code to Javascript.
 * [[node-jvm|https://github.com/YaroslavGaponov/node-jvm]] java virtual machine in pure node.js
+* [[st-js|http://st-js.github.io/]] Strongly Typed JavaScript
+* [[Bck2Brwsr|http://wiki.apidesign.org/wiki/Bck2Brwsr]] Run "browserified" Java Code in, well, the browser.
 
 #### Scala
 
