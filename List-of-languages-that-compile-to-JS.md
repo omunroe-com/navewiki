@@ -60,6 +60,7 @@
 * [[Este.js|https://github.com/Steida/este/]] Google Closure written in CoffeeScript statically compiled to JavaScript (and much more).
 * [[Swym|http://cheersgames.com/swym/wiki/index.php?title=Main_Page]] - statically typed, with type inference and generics
 * [[Typecast.js|http://typecastjs.org]] - Javascript platform for statically typed variables without a custom compiler.
+* [[purescript|https://github.com/paf31/purescript]] - statically typed compile-to-JS language with basic extensible records and type-safe block
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [[Streamline.js|https://github.com/Sage/streamlinejs]] Uses underscore (_) to stand for callbacks. This [[fork|https://github.com/willconant/streamlinejs]] preserves line numbers for debugging.
