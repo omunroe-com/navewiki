@@ -42,6 +42,8 @@
 
 * Sublime Text 2: **Xavura**'s [CoffeeScript Sublime Plugin](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) Syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 
+* Sublime Text 2/3: **aponxi**'s [Better CoffeeScript](https://github.com/aponxi/sublime-better-coffeescript) Syntax highlighting, snippets, and many commands.
+
 * Textadept: **rgieseke**'s [CoffeeScript Textadept module](http://rgieseke.github.com/ta-coffeescript) — provides snippets, additional key commands and indentation support.
 
 * TextMate: **jashkenas**'s [CoffeeScript TextMate bundle](http://github.com/jashkenas/coffee-script-tmbundle) — provides syntax highlighting, snippet expansion, and the ability to run bits of CoffeeScript from within TextMate itself.
