@@ -286,6 +286,7 @@ for client-side (and server-side) web development
 * [[CobolScript|https://github.com/ajlopez/CobolScript]] COBOL language compiler to Javascript.
 * [[Idris|https://github.com/edwinb/Idris-dev]] Dependently typed functional language with a JavaScript backend.
 * [[dogescript|http://zachbruggeman.me/dogescript/]]
+* [[Wortel|https://github.com/atennapel/Wortel]] J/APL inspired language with Polish Notation, compiles to JavaScript.
 
 #### Tools for Compiler Writers
 
