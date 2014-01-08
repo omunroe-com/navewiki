@@ -113,7 +113,7 @@
 * [[pythonscript|https://github.com/DenerosArmy/pythonscript]] Python compiled to readable Javascript using  the AST. (proof of concept) 
 
 #### Erlang
-* [[LuvvieScript|http://luvv.ie]] a browser-based dom-scripting languages that is a strict sub-set of Erlang ([[code |https://github.com/hypernumbers/luvviescript]])
+* [[LuvvieScript|http://luvv.ie]] a browser-based dom-scripting language which is a strict sub-set of Erlang which is AST-to-AST transpiled to Javascript ([[code |https://github.com/hypernumbers/luvviescript]])
 
 #### Perl
 
