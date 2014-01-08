@@ -112,6 +112,9 @@
 * [[PythonScript|http://apppyjs.appspot.com/]] Python-like compiled to Javascript
 * [[pythonscript|https://github.com/DenerosArmy/pythonscript]] Python compiled to readable Javascript using  the AST. (proof of concept) 
 
+#### Erlang
+* [[LuvvieScript|http://luvv.ie]] a browser-based dom-scripting languages that is a strict sub-set of Erlang [[source |https://github.com/hypernumbers/luvviescript]]
+
 #### Perl
 
 * [[Perlito|https://github.com/fglock/Perlito]] Project to compile Perl 5/6 to JavaScript, Ruby, SBCL, and Go.
