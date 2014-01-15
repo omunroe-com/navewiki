@@ -14,6 +14,7 @@
 * [[ToffeeScript|https://github.com/jiangmiao/toffee-script]] A dialect of CoffeeScript that support Asynchronous Syntax and Regexp operator =~
 * [[Caffeine|https://github.com/ich/caffeine]] A dialect of CoffeeScript that support packages and classes import, useful for browser applications
 * [[heap.coffee|https://github.com/syg/heap.coffee]] A dialect of CoffeeScript that offers a C-like type system with manual memory management
+* [[EmberScript|http://emberscript.com]] Ember.js-infused CoffeeScript.
 
 ###### Friends (philosophically related)
 
