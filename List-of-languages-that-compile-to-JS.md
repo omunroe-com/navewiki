@@ -342,7 +342,3 @@ for client-side (and server-side) web development
 * [[Zeon|https://github.com/qfox/Zeon]] A static visual JavaScript analyzer / editor.  See also [[ZeParser|https://github.com/qfox/ZeParser]].
 * [[escodegen|https://github.com/Constellation/escodegen]] - Javascript code generator
 * [[esmangler|https://github.com/Constellation/esmangle]] mangler / minifier for Mozilla Parser API AST
-
-#### See Also
-
-* [[jswiki|https://github.com/bebraw/jswiki/wiki]] another github wiki with listings of various javascript libraries
