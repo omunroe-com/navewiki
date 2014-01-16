@@ -330,6 +330,7 @@ for client-side (and server-side) web development
 * [[JSGLR|http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right]] Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript
 * [[antlr|https://github.com/antlr/examples-v3]] has a javascript target
 * [[Cruiser.Parse|http://code.google.com/p/cruiser/wiki/Parse]] LL(k) parser
+* [[MetaCoffee|https://github.com/xixixao/meta-coffee]] PEG parser using CoffeeScript and white-space-significant syntax
 
 ###### Javascript AST, Semantics
 * [[Closure Compiler AST Documentation|https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf]]
