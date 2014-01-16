@@ -21,7 +21,7 @@
 * [[Kaffeine|https://github.com/weepy/kaffeine]] Enhanced Syntax for JavaScript.
 * [[Jack|https://github.com/creationix/jack]] Making programming playful.
 * [[move|https://github.com/rsms/move]] A simpler and cleaner programming language.
-* [[Moescript|https://github.com/be5invis/moe]] Indent-based language
+* [[Moescript|https://github.com/moescript/moescript]] Indent-based language
 * [[pogoscript|http://pogoscript.org/]] language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript
 * [[LispyScript|http://lispyscript.com/]] A JavaScript with Lispy syntax and Macros.
 * [[Wisp|http://github.com/Gozala/wisp]] Wisp is a homoiconic JavaScript dialect with clojure syntax, s-expressions and macros.
