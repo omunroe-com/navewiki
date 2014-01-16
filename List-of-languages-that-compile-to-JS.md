@@ -264,6 +264,10 @@ for client-side (and server-side) web development
 * [[sql-parser|https://github.com/forward/sql-parser]]
 * [[sqld3|https://github.com/steveyen/sqld3]]
 
+#### PHP
+* [[phype|http://code.google.com/p/phype/]] run PHP code directly in your browser
+* [[uniter|https://github.com/asmblah/uniter]] run PHP code in Node.js or the browser
+
 #### Others
 
 * [[Oia|https://github.com/stevedekorte/oia]] A port of Io to JavaScript.
@@ -274,7 +278,6 @@ for client-side (and server-side) web development
 * [[p2js|https://github.com/urandom/p2js]] perl to javascript converter
 * [[Reb2Static|https://github.com/jankom/RebToStatic]] Rebol to Javascript
 * [[RPN|https://github.com/adrusi/rpn]] Interpreter for a language with a Reverse Polish Notation syntax.
-* [[phype|http://code.google.com/p/phype/]] run PHP code directly in your browser
 * [[jsForth|http://forthfreak.net/jsforth80x25.html]]
 * [[wForth|http://solidcoding.blogspot.com/2008/12/wforth-javascript-forth-interpreter.html]]
 * [[Agda|http://wiki.portal.chalmers.se/agda/pmwiki.php]] a dependently typed functional programming language and mechanized proof assistant
