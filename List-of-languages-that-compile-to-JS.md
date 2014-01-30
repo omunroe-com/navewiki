@@ -295,6 +295,7 @@ for client-side (and server-side) web development
 * [[Idris|https://github.com/edwinb/Idris-dev]] Dependently typed functional language with a JavaScript backend.
 * [[dogescript|http://zachbruggeman.me/dogescript/]]
 * [[Wortel|https://github.com/atennapel/Wortel]] J/APL inspired language with Polish Notation, compiles to JavaScript.
+* [[JEnglish|http://jenglish.org/]] interprets regular English statements into HTML/CSS
 
 #### Tools for Compiler Writers
 
