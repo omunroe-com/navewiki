@@ -159,6 +159,7 @@
 * [[NemerleWeb|https://github.com/NemerleWeb/NemerleWeb/]] Nemerle language compiled to JS.
 * [[Blue Storm|https://www.assembla.com/spaces/bluestorm/wiki/]] F# to JavaScript (and some other languages).
 * [[JScriptSuite|http://jscriptsuite.com/]] .NET to JavaScript compiler (cross browser API, client site controls and components).
+* [[DotNetWebToolkit|https://github.com/chrisdunelm/DotNetWebToolkit]] Toolkit providing a .NET CIL to JavaScript transcoder and Visual Studio project/debugging integration
 
 #### Lisp, Scheme
 
