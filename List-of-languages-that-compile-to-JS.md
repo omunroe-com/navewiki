@@ -31,6 +31,7 @@
 * [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors, offers Macros and optional Typing
 * [[RedScript|https://github.com/AdamBrodzinski/RedScript]] Ruby flavored JavaScript.
 * [[Daonode|https://github.com/chaosim/daonode]] functional logic solver, compiler.
+* [[LiteScript|https://github.com/luciotato/LiteScript]] Literate, highly-readable, type annotated, imperative language that compiles to javascript. 
 
 #### JavaScript Extensions
 
