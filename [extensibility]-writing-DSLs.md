@@ -8,7 +8,7 @@ Implicit objects can be nested below a function call. Let's look at an example o
 
 ```coffeescript
 # DSL
-describe 'Whiskey'
+describe 'Whiskey',
   age: 18
   brand: 'Jack'
 
