@@ -51,7 +51,6 @@
 * Some of the ones listed below are also statically typed, such as mobl, GWT, JSIL, NS Basic, and Haxe.
 * [[Dart|http://www.dartlang.org/]] by Google. C/Java-like syntax with optional typing.
 * [[TypeScript|http://www.typescriptlang.org/]] by Microsoft. Typed superset of JavaScript.
-* [[Smart Mobile Studio|http://www.smartmobilestudio.com/]] by Optimale Systemer. Transcompiles Delphi Web Script / Object Pascal to JavaScript.
 * [[TeJaS|http://www.jswebtools.org/]] from Brown PLT. Types for JavaScript (itself).
 * [[asm.js|http://asmjs.org/]] - subset of JavaScript that can be used as a low-level, efficient target language for compilers.  Now included in Firefox.
 * [[JavaScript++|http://jspp.javascript.am/]] adds pluggable type system and type inference, among other features
