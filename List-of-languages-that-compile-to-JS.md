@@ -299,6 +299,7 @@ for client-side (and server-side) web development
 * [[dogescript|http://zachbruggeman.me/dogescript/]]
 * [[Wortel|https://github.com/atennapel/Wortel]] J/APL inspired language with Polish Notation, compiles to JavaScript.
 * [[JEnglish|http://jenglish.org/]] interprets regular English statements into HTML/CSS
+* [[Jotlin|https://github.com/dnlo/jotlin]] a small programming language in Kotlin
 
 #### Tools for Compiler Writers
 
