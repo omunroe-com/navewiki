@@ -208,6 +208,8 @@
 
 [Kiss.js](https://github.com/stanislavfeldman/kiss.js) - Web framework for Node.js. Object-oriented, simple and sexy.
 
+[Node Simple Router](https://github.com/sandy98/node-simple-router) - routing library that features a Sinatra-like DSL for defining routes, session handling, template rendering and other goodies.
+
 [SocketStream](https://github.com/socketstream/socketstream) - real-time web framework developed by AOL
 
 [Tower](http://github.com/viatropos/tower) - Full Stack Web Framework for Node.js and the Browser.
