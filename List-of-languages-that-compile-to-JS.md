@@ -2,7 +2,6 @@
 
 * [[CoffeeScript|http://jashkenas.github.com/coffee-script/]] Unfancy JavaScript
 * [[CoffeeScript II: The Wrath of Khan|https://github.com/michaelficarra/CoffeeScriptRedux]] Rewrite of the CS compiler
-* [BrewScript](https://github.com/XenocideTimeGuy/BrewScript) A new language that uses CoffeeScript with some added things.
 
 ###### Family (share genes with CoffeeScript)
 
