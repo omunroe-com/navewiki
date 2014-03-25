@@ -243,6 +243,7 @@
 * Clue and jsc above target multiple runtimes in addition to javascript
 * [[Nimrod|http://nimrod-lang.org]] compiles to C and JavaScript
 * [[Monkey|http://monkeycoder.co.nz/]] [commercial] compiles to several platforms (JavaScript, ActionScript 3, C++, Java, CSharp).
+* [[defrac|https://www.defrac.com/]] compiles Java bytecode to several platforms (including JavaScript)
 
 #### Tierless languages (produce both client & server)
 
