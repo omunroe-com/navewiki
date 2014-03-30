@@ -114,7 +114,8 @@
 * [[RapydScript|https://bitbucket.org/pyjeon/rapydscript]] Improved PyvaScript
 * [[Brython|http://brython.info/]] browser python
 * [[PythonScript|http://apppyjs.appspot.com/]] Python-like compiled to Javascript
-* [[pythonscript|https://github.com/DenerosArmy/pythonscript]] Python compiled to readable Javascript using  the AST. (proof of concept) 
+* [[pythonscript|https://github.com/DenerosArmy/pythonscript]] Python compiled to readable Javascript using  the AST. (proof of concept)
+* [[PythonJS|https://github.com/PythonJS/PythonJS]] Integrates several python to js methods into one project. Very Active. 
 
 #### Erlang
 * [[LuvvieScript|http://luvv.ie]] a browser-based dom-scripting language that is a strict sub-set of Erlang which is AST-to-AST transpiled to Javascript ([[code |https://github.com/hypernumbers/luvviescript]])
