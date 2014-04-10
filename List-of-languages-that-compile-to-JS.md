@@ -163,7 +163,7 @@
 * [[Blue Storm|https://www.assembla.com/spaces/bluestorm/wiki/]] F# to JavaScript (and some other languages).
 * [[JScriptSuite|http://jscriptsuite.com/]] .NET to JavaScript compiler (cross browser API, client site controls and components).
 * [[DotNetWebToolkit|https://github.com/chrisdunelm/DotNetWebToolkit]] Toolkit providing a .NET CIL to JavaScript transcoder and Visual Studio project/debugging integration
-* [[Netjs|https://github.com/praeclarum/Netjs] .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
+* [[Netjs|https://github.com/praeclarum/Netjs]] .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
 
 #### Lisp, Scheme
 
