@@ -32,7 +32,7 @@
 * [[RedScript|https://github.com/AdamBrodzinski/RedScript]] Ruby flavored JavaScript.
 * [[Daonode|https://github.com/chaosim/daonode]] functional logic solver, compiler.
 * [[LiteScript|https://github.com/luciotato/LiteScript]] Literate, highly-readable, type annotated, imperative language that compiles to javascript. 
-* [[PyScript|https://github.com/pyscript/pyscript]] small, empirical programming language.
+* [[Coca|https://github.com/dnlo/coca]] A programming language with design of syntax and simplicity as a big focus.
 
 #### JavaScript Extensions
 
