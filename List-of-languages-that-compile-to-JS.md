@@ -144,7 +144,7 @@
 
 * [[Scala.js|http://www.scala-js.org/]] A Scala to JavaScript compiler
 * [[js-scala|https://github.com/js-scala/js-scala]] JavaScript as an embedded DSL in Scala 
-* [[scalagwt|http://code.google.com/p/scalagwt/]] enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.
+* [[scalagwt|http://scalagwt.github.io/]] enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.
 * [[JScala|http://jscala.org]] Scala macro that produces JavaScript from Scala code.
 
 #### C#, F#, .NET related languages
