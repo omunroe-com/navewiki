@@ -22,10 +22,11 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 ### Coding Standards
 
-* [Polar Mobile's](https://github.com/polarmobile/coffeescript-style-guide) (idiomatic, sort of approved by Jeremy Ashkenas)
+* [Polar Mobile's](https://github.com/polarmobile/coffeescript-style-guide)
 * [Bevry's](https://github.com/bevry/community/wiki/Coding-Standards)
 
 ### In The Wild
+
 * [[CoffeeScript in real projects|In The Wild]]
 * [[List of languages that compile to JS]]
 
