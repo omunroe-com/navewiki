@@ -259,7 +259,7 @@ for client-side (and server-side) web development
 
 #### Visual programming tools
 * [[Waterbear|http://waterbearlang.com/]]
-* [[Snap|http://snap.berkeley.edu/snapsource/snap.html]] - Javascript of BYOB, which is a fork of [[Scratch|http://alpha.scratch.mit.edu/]]
+* [[Snap|http://snap.berkeley.edu/snapsource/snap.html]] - Javascript of BYOB, which is a fork of [[Scratch|http://scratch.mit.edu/]]
 * [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
 * [[Illumination|http://radicalbreeze.com/]] [Commercial] Visual, cross-platform tool creates apps for Android, iPhone, iPad, Desktops and HTML5 or Flash websites.  [[The I language|http://blog.radicalbreeze.com/?p=213]] underlies the tool.
 * [[JsMaker|http://jsmaker.com/jsmaker/]] visual JavaScript programming
