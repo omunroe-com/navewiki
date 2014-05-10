@@ -332,6 +332,7 @@ for client-side (and server-side) web development
 ###### Javascript Parser Generators
 
 * [[jison|https://github.com/zaach/jison]] Bison in javascript, used by Coffeescript
+* [[nearley|https://github.com/hardmath123/nearley]] A fast, lightweight Earley parser generator
 * [[OMeta/JS|http://tinlizzie.org/ometa-js/#Sample_Project]] ([[source|https://github.com/veged/ometa-js]]) metacompiler for many languages to many targets, including js.
 * [[PEG.js|http://pegjs.majda.cz/]] parser generator for JavaScript based on the parsing expression grammar formalism
 * [[languagejs|https://github.com/tolmasky/language]] - PEG parser written in JavaScript with first class errors
