@@ -126,7 +126,7 @@
 
 #### Java/JVM
 
-* [[GWT|http://code.google.com/webtoolkit/]] Google Web Toolkit, compiles Java to JavaScript.
+* [[GWT|http://www.gwtproject.org/]] Google Web Toolkit, compiles Java to JavaScript.
 * [[Java2Script|http://j2s.sourceforge.net/]] Eclipse Java to JavaScript compiler plugin and JavaScript version of SWT.
 * [[j2js|http://www.j2js.com/]] Java bytecode to JavaScript.
 * [[Strongly-Typed JavaScript (STJS)|http://st-js.sourceforge.net/]] - JavaScript code generator from Java source. It is built as a Maven plugin.
