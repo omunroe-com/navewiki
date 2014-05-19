@@ -185,6 +185,7 @@
 * [[Whalesong|http://hashcollision.org/whalesong/]] Racket to JS compiler
 * [[Oppo|https://github.com/benekastah/oppo]] A javascripter's lisp. Inspired by javascript, clojure and coffeescript. Compiler built using [[Jison|http://zaach.github.com/jison/docs/]].
 * [[Outlet|https://github.com/jlongster/outlet]] A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development.
+* [[ki|http://ki-lang.org]] Clojure-like syntax, [[mori|http://swannodette.github.io/mori/]]'s immutable data structures in a few [[sweet.js|http://sweetjs.org]] macros. Can be intermixed with JavaScript.
 
 #### OCaml
 
