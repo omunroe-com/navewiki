@@ -18,10 +18,9 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 * [[Build tools]] (for compiling/packaging CoffeeScript)
 * [Literate CoffeeScript to CoffeeScript compiler](https://github.com/derekchiang/LitToCoffee)
 
-### Coding Standards
+### Style Guides
 
 * [Polar Mobile's](https://github.com/polarmobile/coffeescript-style-guide)
-* [Bevry's](https://github.com/bevry/community/wiki/Coding-Standards)
 
 ### In The Wild
 
