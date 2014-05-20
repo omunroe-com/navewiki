@@ -10,7 +10,6 @@ To stay up-to-date with CoffeeScript, follow [[@coffeescript|http://twitter.com/
 
 * [[The CoffeeScript FAQ|FAQ]]
 * [[Common Gotchas]]
-* [[User Groups]]
 
 ### Tools
 
