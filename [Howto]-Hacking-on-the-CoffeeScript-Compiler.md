@@ -121,68 +121,7 @@ If you would like to make your compiler the official CoffeeScript compiler on yo
 
 ought to do the trick.  A word of caution, though: only do this when you're sure your compiler is in a stable state.  Otherwise you will have to reinstall your official version.
 
-## 10. A Rakefile, too??
-
-You've probably noticed that there is a Rakefile in addition to the Cakefile.  The Rakefile serves two purposes:
-
-1. It builds the main index.html page (the page that you see when you go to the CoffeeScript home page) from the `documentation/index.html.erb` template
-2. It creates (but does not publish) the CoffeeScript Ruby Gem
-
-If you don't need to do either of these things, then you don't have to worry about the Rakefile.  If you would like to change the documentation, however, read on...
-
-## 11. Changing and Building the Documentation
-
-The documentation for CoffeeScript is a bit more complex to build and requires a few more dependencies than those listed in the prerequisites section.
-
-### Ruby
-
-This should be on your system already.
-
-### [Homebrew](https://github.com/mxcl/homebrew/wiki/installation)
-
-Homebrew is the new package manager for OS X that's taken the world by storm.  Much better than MacPorts or Fink.  Try it, you'll like it!
-
-### RubyGems
-
-You already have RubyGems on your system, but it may be out of date.  To check, run
-
-    sudo gem update --system
-
-If it needs updating, it will take care of itself.
-
-### [Oniguruma](http://www.geocities.jp/kosako3/oniguruma/)
-
-Oniguruma is a regular expressions library with nice Ruby bindings.  It's needed by Ultraviolet.
-
-    brew install oniguruma
-
-### [Ultraviolet](http://ultraviolet.rubyforge.org/)
-
-Ultraviolet is a syntax highlighter that uses TextMate bundles as specification files.  The CoffeeScript documentation is run through this to produce the pretty syntax highlighting you see on the introduction page.
-
-    sudo gem install ultraviolet
-
-### Installing the CoffeeScript Ultraviolet Syntax
-
-Now that Ultraviolet is installed, run
-
-    cake build:ultraviolet
-
-To install the syntax file into the Ultraviolet gem location.
-
-*Note: The path to the gem is hard-coded in the Cakefile.  You may have to update the Cakefile to point to your installation of Ultraviolet.  In my case, the gem is installed in...*
-
-    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/user-gems/1.8/gems/ultraviolet-0.10.2/
-
-### Running the documentation task
-
-If all the prerequisites are met, you should be able to run 
-
-    cake doc:site
-
-To build the documentation from the source templates.  Note that this spawns a continuous Rake task that watches the file system for changes to the documentation template and rebuilds the target HTML on demand.  You can always call `cake doc:site`, wait a few seconds, and then `ctrl+c` out of it if you just want to call it to build it once.
-
-## 12. Guidelines for submitting changes back to the master repository
+## 10. Guidelines for submitting changes back to the master repository
 
 1. Don't submit the `extras/coffee-script.js` file.  It will be rebuilt by the CoffeeScript team when a release is tagged
 2. Similarly, don't submit the `index.html` documentation file.  It will also be built when a release is tagged
