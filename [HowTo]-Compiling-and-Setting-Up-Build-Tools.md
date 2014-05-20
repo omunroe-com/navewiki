@@ -129,25 +129,6 @@ Another option would be using a tools to help you deal with your file dependenci
 * [coffee-toaster](https://github.com/serpentem/coffee-toaster)
 * [coffee-graph](https://github.com/mbolt35/coffee-graph)
 
-### Concatenate Files with **-j** or **--join** flag of the coffeescript compiler
-
-A simple way to concatenate coffee files into a single javascript file in a specific order can be done with a Cakefile:
-
-```coffeescript
-
-{exec} = require "child_process"
-
-listOfFiles = "src/main.coffee src/littleTest.coffee src/outro.coffee"
-
-task "watch", "Build project from src/*.coffee to lib/*.js", ->
-  exec " coffee -w -j app.js -c -o lib/ " + listOfFiles, (err, stdout, stderr) ->
-    throw err if err
-    console.log stdout + stderr
-
-```
-
-Simply enter your list of coffee files in your desired order as a string (in this case *listOfFiles*) and invoke the *watch* task and your coffee files are concatenated into a single file *app.js* (which you can change of course) in the order you specified.
-
 ## Minify/Compress Your Files
 
 You can easily extend your `Cakefile` to include a task which calls to a compression utility once your `*.js` files have been generated:
