@@ -1,1 +1,0 @@
-The unofficial list of CoffeeScript bug bounties [lives elsewhere](https://github.com/TrevorBurnham/coffee-script/wiki/CoffeeScript-Bug-Bounties).
