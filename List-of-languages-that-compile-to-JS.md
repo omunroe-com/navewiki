@@ -112,7 +112,7 @@
 * [[Skulpt|http://www.skulpt.org/]] Python. Client side.
 * [[PyCow|https://github.com/p2k/PyCow]] Python to MooTools JS.
 * [[PyvaScript|http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser]] Python-like syntax to JavaScript.
-* [[RapydScript|https://bitbucket.org/pyjeon/rapydscript]] Improved PyvaScript
+* [[RapydScript|https://github.com/atsepkov/RapydScript]] JavaScript with a Pythonic syntax.
 * [[Brython|http://brython.info/]] browser python
 * [[PythonScript|http://apppyjs.appspot.com/]] Python-like compiled to Javascript
 * [[pythonscript|https://github.com/DenerosArmy/pythonscript]] Python compiled to readable Javascript using  the AST. (proof of concept)
