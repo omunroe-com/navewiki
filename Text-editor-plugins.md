@@ -68,3 +68,13 @@
 * Eclipse-Aptana: [provided by Titanium (Aptana) Studio](http://jira.appcelerator.org/browse/APSTUD-2451). For now just syntax coloring and a basic class/method outline.
 
 * [Nodeclipse CoffeeScript Editor (Eclipse)](https://github.com/Nodeclipse/coffeescript-eclipse) is refresh of Adam Schmideg's [coffeescript-eclipse Editor](https://github.com/adamschmideg/coffeescript-eclipse). http://marketplace.eclipse.org/content/nodeclipse-coffeescript-editor or Quick installer is on [Marketplace](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer). Status: project is looking for owner/contributors
+
+* ATOM: [language-coffee-script](https://atom.io/packages/language-coffee-script) - CoffeeScript language support in Atom
+
+* ATOM: [linter-coffeelint](https://atom.io/packages/linter-coffeelint) - Lint CoffeeScript on the fly, using coffeelint
+
+* ATOM: [coffee-lint](https://atom.io/packages/coffee-lint) - CoffeeScript linter
+
+* ATOM: [coffee-compile](https://atom.io/packages/coffee-compile) - Preview/save compiled Javascript in Atom
+
+* ATOM: [coffee-refactor](https://atom.io/packages/coffee-refactor) - CoffeeScript refactoring package for Atom
