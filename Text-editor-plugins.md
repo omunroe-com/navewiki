@@ -69,7 +69,7 @@
 
 * [Nodeclipse CoffeeScript Editor (Eclipse)](https://github.com/Nodeclipse/coffeescript-eclipse) is refresh of Adam Schmideg's [coffeescript-eclipse Editor](https://github.com/adamschmideg/coffeescript-eclipse). http://marketplace.eclipse.org/content/nodeclipse-coffeescript-editor or Quick installer is on [Marketplace](http://marketplace.eclipse.org/content/coffeescript-editor-quick-installer). Status: project is looking for owner/contributors
 
-* [Atom](https://atom.io/)
+* [Atom](https://atom.io/):
   * [language-coffee-script](https://atom.io/packages/language-coffee-script) — CoffeeScript language support in Atom
   * [linter-coffeelint](https://atom.io/packages/linter-coffeelint) — Lint CoffeeScript on the fly, using coffeelint
   * [coffee-lint](https://atom.io/packages/coffee-lint) — CoffeeScript linter
