@@ -34,6 +34,7 @@
 * [[LiteScript|https://github.com/luciotato/LiteScript]] Literate, highly-readable, type annotated, imperative language that compiles to javascript. 
 * [[Coca|https://github.com/dnlo/coca]] A programming language with design of syntax and simplicity as a big focus.
 * [[ki|http://ki-lang.org]] Clojure-like syntax, [[mori|http://swannodette.github.io/mori/]]'s immutable data structures in a few [[sweet.js|http://sweetjs.org]] macros. Can be intermixed with JavaScript.
+* [[ColaScript|https://github.com/TrigenSoftware/ColaScript]] similar to Dart, CoffeeScript, Python and PHP
 
 #### JavaScript Extensions
 
