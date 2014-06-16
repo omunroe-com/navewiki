@@ -303,7 +303,7 @@ for client-side (and server-side) web development
 * [[NGN APL|https://github.com/ngn/apl]] an APL-to-JavaScript compiler written in CoffeeScript
 * [[CobolScript|https://github.com/ajlopez/CobolScript]] COBOL language compiler to Javascript.
 * [[Idris|https://github.com/edwinb/Idris-dev]] Dependently typed functional language with a JavaScript backend.
-* [[dogescript|http://zachbruggeman.me/dogescript/]]
+* [[Dogescript|http://dogescript.com]] JavaScript for the moon; so syntax very doge much future.
 * [[Wortel|https://github.com/atennapel/Wortel]] J/APL inspired language with Polish Notation, compiles to JavaScript.
 * [[JEnglish|http://jenglish.org/]] interprets regular English statements into HTML/CSS
 * [[Jotlin|https://github.com/dnlo/jotlin]] a small programming language in Kotlin
