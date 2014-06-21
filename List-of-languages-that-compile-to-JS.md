@@ -156,7 +156,7 @@
 * [[Script#|http://scriptsharp.com]] Compiles C# to JS.
 * [[Prefix|http://www.toptensoftware.com/prefix/]] in development
 * [[Blade|https://github.com/vannatech/blade]] Visual Studio add-on for converting C# to JavaScript
-* [[SharpKit|http://sharpkit.net/]] [commercial] C# to JavaScript Cross-Compiler
+* [[SharpKit|https://github.com/SharpKit/SharpKit]] C# to JavaScript Cross-Compiler
 * [[Saltarelle|http://www.saltarelle-compiler.com/]] C# to JavaScript Compiler
 * [[FunScript|https://github.com/ZachBray/FunScript/]] F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
 * [[Pit|https://github.com/fsharp/pitfw]] F# to Javascript compiler
