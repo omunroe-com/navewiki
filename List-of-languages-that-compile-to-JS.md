@@ -1,6 +1,6 @@
 #### CoffeeScript Family (& Friends)
 
-* [[CoffeeScript|http://jashkenas.github.com/coffee-script/]] Unfancy JavaScript
+* [[CoffeeScript|http://coffeescript.org/]] Unfancy JavaScript
 * [[CoffeeScript II: The Wrath of Khan|https://github.com/michaelficarra/CoffeeScriptRedux]] Rewrite of the CS compiler
 
 ###### Family (share genes with CoffeeScript)
