@@ -31,6 +31,7 @@
 * [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors, offers Macros and optional Typing
 * [[RedScript|https://github.com/AdamBrodzinski/RedScript]] Ruby flavored JavaScript.
 * [[Daonode|https://github.com/chaosim/daonode]] functional logic solver, compiler.
+* [[Taijilang|https://github.com/taijiweb/taijilang]] a customizable and extensible language with dynamic parser and meta language.
 * [[LiteScript|https://github.com/luciotato/LiteScript]] Literate, highly-readable, type annotated, imperative language that compiles to javascript. 
 * [[Coca|https://github.com/dnlo/coca]] A programming language with design of syntax and simplicity as a big focus.
 * [[ki|http://ki-lang.org]] Clojure-like syntax, [[mori|http://swannodette.github.io/mori/]]'s immutable data structures in a few [[sweet.js|http://sweetjs.org]] macros. Can be intermixed with JavaScript.
