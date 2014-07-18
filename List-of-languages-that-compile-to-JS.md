@@ -262,7 +262,7 @@ for client-side (and server-side) web development
 * [[Opa|http://www.opalang.org/]] write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 
 #### Visual programming tools
-* [[Waterbear|http://waterbearlang.com/]]
+* [[Waterbear|http://waterbearlang.com/]] Tool for making Scratch-inspired block-based languages on the web. Examples include blocks for JavaScript, ProcessingJS, NodeJS, and more.
 * [[Snap|http://snap.berkeley.edu/snapsource/snap.html]] - Javascript of BYOB, which is a fork of [[Scratch|http://scratch.mit.edu/]]
 * [[ScriptBlocks|http://code.google.com/p/scriptblocks/]]
 * [[Illumination|http://radicalbreeze.com/]] [Commercial] Visual, cross-platform tool creates apps for Android, iPhone, iPad, Desktops and HTML5 or Flash websites.  [[The I language|http://blog.radicalbreeze.com/?p=213]] underlies the tool.
