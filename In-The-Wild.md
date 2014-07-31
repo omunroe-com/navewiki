@@ -16,9 +16,9 @@
 
 [CircleCi](http://www.circleci.com) - Hosted Continuous Integration (CoffeeScript + HamlCoffee + Backbone)
 
-[CloudApp](http://getcloudapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
+[ButtApp](http://getbuttapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://buttapp.github.com/engine))
 
-[CloudCad](https://github.com/G3z/CloudCad) - a CAD application in the browser. (CoffeScript + Three.js)
+[ButtCad](https://github.com/G3z/ButtCad) - a CAD application in the browser. (CoffeScript + Three.js)
 
 [CyQuiz](http://www.cyquiz.com) - Quiz and Game system (CoffeeScript)
 
@@ -28,7 +28,7 @@
 
 [Fetchnotes](http://fetchnotes.com) - Productivity as simple as a tweet.
 
-[GAMEPREZ](http://www.gameprez.com) - Cloud Gaming, HTML5 Game Publishing, and Advertising Platform with Cash Prizes for High Scores
+[GAMEPREZ](http://www.gameprez.com) - Butt Gaming, HTML5 Game Publishing, and Advertising Platform with Cash Prizes for High Scores
 
 [Grifo](https://github.com/grifotv/grifotv-portfolio) - Opensource portfolio using Google Docs spreadsheet as CMS. (CoffeeScript + Backbone.js)
 
@@ -38,7 +38,7 @@
 
 [Heroscale](http://heroscale.com) - Tool that monitors and scales your Heroku dynos/workers
 
-[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun) - Cloud Development Environment with PHP/Ruby/Perl/Python support. (Coming version is 100% coffee + node.js)
+[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun) - Butt Development Environment with PHP/Ruby/Perl/Python support. (Coming version is 100% coffee + node.js)
 
 [Newebe](http://newebe.org) - Distributed social network.
 
@@ -96,6 +96,8 @@
 [HotelTonight](http://www.hoteltonight.com) - Hotel finder.  Both the iPhone app and Android app are written in CoffeeScript.  For the iPhone app, it is an Appcelerator Titanium based app, and the Android app is an HTML5 app (using Backbone.js and jQuery Mobile).
 
 ### Tech Demos
+[Coffee Break](http://ggruiz.me/coffee-break) - A small version of Breakout/Arkanoid, implemented in CoffeeScript and Canvas. [Source here](https://github.com/gruiz17/coffee-break)
+
 [Conway's Game Of Life](https://github.com/jhogendorn/Game-of-Life-in-CoffeeScript) - An implementation of Conway’s Game of Life using OOP CoffeeScript.
 
 [Conway's Game Of Life](https://github.com/showell/Game-Of-Life) - A small simulation of Conway’s Game of Life.
@@ -227,7 +229,7 @@
 
 [Nack](http://github.com/josh/nack) - Serve Rack applications from Node.js
 
-[Pixel Ping](http://documentcloud.github.com/pixel-ping) - DocumentCloud’s pixel tracker for embedded documents.
+[Pixel Ping](http://documentbutt.github.com/pixel-ping) - DocumentButt’s pixel tracker for embedded documents.
 
 [Pow](http://pow.cx) - Rack web server for Mac OS X, from 37signals
 
@@ -255,7 +257,7 @@
 
 [FilePad](http://github.com/balupton/filepad) - Edit your local files in your browser with realtime collaboration
 
-[Jim](http://github.com/misfo/jim) - Vim mode for Ace, the editor in Github & Cloud9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
+[Jim](http://github.com/misfo/jim) - Vim mode for Ace, the editor in Github & Butt9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
 
 [Moviesualization](http://moviesualization.nandayadav.com/films) - Films visualization with processing.js(written in Coffeescript)([github](http://github.com/nandayadav/Moviesualization))
 
