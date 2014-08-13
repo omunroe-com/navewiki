@@ -1,4 +1,4 @@
-Wikipedia defines a [Uniform Type Identifier](http://en.wikipedia.org/wiki/Uniform_Type_Identifier) is “a text string used on software provided by Apple Inc. to uniquely identify a given class or type of item.”
+Wikipedia defines a [Uniform Type Identifier](http://en.wikipedia.org/wiki/Uniform_Type_Identifier) as “a text string used on software provided by Apple Inc. to uniquely identify a given class or type of item.”
 Applications should use the appropriate UTI (as defined below) when creating a CoffeeScript or Literate CoffeeScript file.
 
 ## CoffeeScript UTI
