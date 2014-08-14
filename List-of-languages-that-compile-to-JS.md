@@ -362,4 +362,4 @@ for client-side (and server-side) web development
 * [[SourceMap|https://github.com/mozilla/source-map]] map javascript debugger output to original source 
 * [[Zeon|https://github.com/qfox/Zeon]] A static visual JavaScript analyzer / editor.  See also [[ZeParser|https://github.com/qfox/ZeParser]].
 * [[escodegen|https://github.com/Constellation/escodegen]] - Javascript code generator
-* [[esmangler|https://github.com/Constellation/esmangle]] mangler / minifier for Mozilla Parser API AST
+* [[esmangle|https://github.com/Constellation/esmangle]] minifier for Mozilla Parser API AST
