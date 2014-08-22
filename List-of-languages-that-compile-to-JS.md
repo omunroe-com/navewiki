@@ -137,7 +137,8 @@
 * [[BicaJVM|https://github.com/nurv/BicaVM]] JavaScript implementation of JVM.
 * [[Doppio|http://int3.github.com/doppio/about.html]] JVM interpreter on Coffeescript.
 * [[Processing|http://processingjs.org/]], a Java-based visualization language that interprets to JavaScript.
-* [[Kotlin|http://confluence.jetbrains.net/display/Kotlin/Welcome]] has a nascent JavaScript backend.
+* [[Kotlin|http://kotlinlang.org]] Statically typed programming language
+targeting the JVM and JavaScript.
 * [[Ceylon|http://ceylon-lang.org/]] a modular static-typed JVM language compilable to JavaScript.
 * [[GrooScript|http://grooscript.org/]] a framework to convert Groovy code to Javascript.
 * [[node-jvm|https://github.com/YaroslavGaponov/node-jvm]] java virtual machine in pure node.js
