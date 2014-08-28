@@ -14,11 +14,13 @@
 
 [BusyConf](http://busyconf.com) - Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
 
-[CircleCi](http://www.circleci.com) - Hosted Continuous Integration (CoffeeScript + HamlCoffee + Backbone)
-
 [ButtApp](http://getbuttapp.com) - Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://buttapp.github.com/engine))
 
-[ButtCad](https://github.com/G3z/ButtCad) - a CAD application in the browser. (CoffeScript + Three.js)
+[ButtCad](https://github.com/G3z/ButtCad) - A CAD application in the browser. (CoffeScript + Three.js)
+
+[CircleCi](http://www.circleci.com) - Hosted Continuous Integration (CoffeeScript + HamlCoffee + Backbone)
+
+[CoffeeShop](https://shell-cosh.appspot.com) - A CoffeeScript shell with docs and Gist integration. *Currently Requires Blink* (Chrome or Opera).
 
 [CyQuiz](http://www.cyquiz.com) - Quiz and Game system (CoffeeScript)
 
