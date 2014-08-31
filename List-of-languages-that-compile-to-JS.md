@@ -122,6 +122,8 @@
 * [[PythonJS|https://github.com/PythonJS/PythonJS]] Integrates several python to js methods into one project. Very Active. 
 
 #### Erlang
+* First and Smallest Erlang JavaScript Compiler based on Erlang AST [[Shen|http://synrc.github.io/shen/]]
+allows you to translate Elixir, Joxa, [[Lol|https://github.com/b0oh/lol]] and Erlang programs to JavaScript with erlc. JavaScript subset.
 * [[LuvvieScript|http://luvv.ie]] a browser-based dom-scripting language that is a strict sub-set of Erlang which is AST-to-AST transpiled to Javascript ([[code |https://github.com/hypernumbers/luvviescript]])
 
 #### Perl
