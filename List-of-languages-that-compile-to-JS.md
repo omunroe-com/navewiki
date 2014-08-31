@@ -122,7 +122,7 @@
 * [[PythonJS|https://github.com/PythonJS/PythonJS]] Integrates several python to js methods into one project. Very Active. 
 
 #### Erlang
-* [[Shen|https://synrc.com/apps/n2o/doc/web/macros.htm]] is the first and yet smallest Erlang JavaScript Compiler based on Erlang AST. It allows you to translate Elixir, Joxa, [[Lol|https://github.com/b0oh/lol]] and Erlang programs to JavaScript with erlc. [[JavaScript/OTP subset|http://synrc.github.io/shen/]]. Has nom package called [[erlang-shen-js|https://www.npmjs.org/package/erlang-shen-js]].
+* [[Shen|https://synrc.com/apps/n2o/doc/web/macros.htm]] is the first and yet smallest Erlang JavaScript Compiler based on Erlang AST. It allows you to translate Elixir, Joxa, [[Lol|https://github.com/b0oh/lol]] and Erlang programs to JavaScript with erlc. [[JavaScript/OTP subset|http://synrc.github.io/shen/]]. Has node npm package called [[erlang-shen-js|https://www.npmjs.org/package/erlang-shen-js]].
 * [[LuvvieScript|http://luvv.ie]] a browser-based dom-scripting language that is a strict sub-set of Erlang which is AST-to-AST transpiled to Javascript ([[code |https://github.com/hypernumbers/luvviescript]])
 
 #### Perl
