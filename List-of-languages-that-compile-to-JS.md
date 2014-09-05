@@ -312,6 +312,7 @@ for client-side (and server-side) web development
 * [[Wortel|https://github.com/atennapel/Wortel]] J/APL inspired language with Polish Notation, compiles to JavaScript.
 * [[JEnglish|http://jenglish.org/]] interprets regular English statements into HTML/CSS
 * [[Jotlin|https://github.com/dnlo/jotlin]] a small programming language in Kotlin
+* [[uilang|https://github.com/bendc/uilang]] and [[uiscript|https://github.com/qweek/uiscript]] simple UI-focused script languages for web designers 
 
 #### Tools for Compiler Writers
 
