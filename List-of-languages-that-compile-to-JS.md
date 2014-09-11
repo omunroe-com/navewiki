@@ -201,7 +201,7 @@ targeting the JVM and JavaScript.
 * [Outlet](https://github.com/jlongster/outlet) A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development.
 * [Hot Cocoa Lisp](https://github.com/olleicua/hcl) A Lisp-like language that compiles to JavaScript.
 * [Sibilant](http://sibilantjs.info) JavaScript with a lisp.
-* [jisp](http://jisp.io/) A “JS-native and axiomatic” Lisp that “focuses on the core ideas of code-as-data, S-expressions, [and] macros”, “introducing as few new concepts as possible”.
+* [jisp](http://jisp.io/) A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible.
 
 #### OCaml
 
