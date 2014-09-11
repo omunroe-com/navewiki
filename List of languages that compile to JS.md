@@ -353,7 +353,7 @@ for client-side (and server-side) web development
 * [[ReParse|https://github.com/weaver/ReParse]] parser combinator library for JavaScript like Haskell's Parsec
 * [[p4js|https://github.com/asmyczek/p4js]] Monadic parser library for JavaScript
 * [[JSGLR|http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right]] Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript
-* [[antlr|https://github.com/antlr/examples-v3]] has a JavaScript target
+* [[ANTLR 3|https://github.com/antlr/examples-v3]] has a JavaScript target. ANTLR 4 has [not implemented its JavaScript target yet](https://theantlrguy.atlassian.net/wiki/display/ANTLR4/Runtime+Libraries+and+Code+Generation+Targets).
 * [[Cruiser.Parse|http://code.google.com/p/cruiser/wiki/Parse]] LL(k) parser
 * [[MetaCoffee|https://github.com/xixixao/meta-coffee]] PEG parser using CoffeeScript and white-space-significant syntax
 
