@@ -174,6 +174,8 @@
 [Stitch](http://github.com/sstephenson/stitch) – Stitch CommonJS modules together for the browser. Includes support for CoffeeScript and Eco modules.
 
 ### Templating
+[CoffeeKup](http://github.com/mauricemach/coffeekup) – Markaby in CoffeeScript
+
 [Cupcake](http://github.com/twilson63/cupcake) – Web App Template Generator for CoffeeScript
 
 [DOMBrew](http://github.com/glebm/DOMBrew) – Eloquent DOM Builder
@@ -182,13 +184,11 @@
 
 [ECT](https://github.com/baryshev/ect) – Performance focused JavaScript template engine with embedded CoffeeScript syntax
 
-[CoffeeKup](http://github.com/mauricemach/coffeekup) – Markaby in CoffeeScript
-
 [haml-coffee](https://github.com/netzpirat/haml-coffee/) – Haml templates where you can write inline CoffeeScript.
 
-[Milk](https://github.com/pvande/Milk) – Mustache templating in CoffeeScript
-
 [Lilyturf](https://github.com/jiyinyiyong/lilyturf) – HTML and CSS templating in CoffeeScript's nice syntax.
+
+[Milk](https://github.com/pvande/Milk) – Mustache templating in CoffeeScript
 
 [reactive.coffee](http://yang.github.io/reactive-coffee/) – A lightweight CoffeeScript library/DSL for reactive programming and for declaratively building dynamic web UIs, focusing on simplicity and scalability
 
