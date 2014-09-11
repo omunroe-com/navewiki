@@ -30,7 +30,7 @@
 * [[ki|http://ki-lang.org]] Clojure-like syntax, [[mori|http://swannodette.github.io/mori/]]'s immutable data structures in a few [[sweet.js|http://sweetjs.org]] macros. Can be intermixed with JavaScript.
 * [[Ham|https://github.com/jameskeane/ham-script]] looks very similar to JavaScript at first, but offers (hopefully) many useful features
 * [[GorillaScript|http://ckknight.github.com/gorillascript/]]  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors, offers Macros and optional Typing
-* [[RedScript|https://github.com/AdamBrodzinski/RedScript]] Ruby flavored JavaScript.
+* [[RedScript|https://github.com/AdamBrodzinski/RedScript]] Ruby-flavored JavaScript.
 * [[Daonode|https://github.com/chaosim/daonode]] functional logic solver, compiler.
 * [[LiteScript|https://github.com/luciotato/LiteScript]] Literate, highly-readable, type annotated, imperative language that compiles to JavaScript.
 * [[Radium|https://github.com/RadiumLang/radium]] A programming language with design of syntax and simplicity as a big focus.
