@@ -23,12 +23,12 @@
 * [move](https://github.com/rsms/move) A simpler and cleaner programming language.
 * [Moescript](https://github.com/moescript/moescript) Indent-based language
 * [pogoscript](http://pogoscript.org/) language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript
-* [LispyScript](http://lispyscript.com/) A JavaScript with Lispy syntax and Macros.
-* [wisp](http://github.com/Gozala/wisp) A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript.
-* [Hot Cocoa Lisp](https://github.com/olleicua/hcl) A Lisp-like language that compiles to JavaScript.
-* [Sibilant](http://sibilantjs.info) JavaScript with a lisp.
-* [ki](http://ki-lang.org) Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript.
-* [jisp](http://jisp.io/) A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible.
+* [LispyScript](http://lispyscript.com/) A JavaScript with Lispy syntax and Macros. (*[also in Lisp](#other)*)
+* [wisp](http://github.com/Gozala/wisp) A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript. (*[also in Lisp](#clojure-like)*)
+* [Hot Cocoa Lisp](https://github.com/olleicua/hcl) A Lisp-like language that compiles to JavaScript. (*[also in Lisp](#other)*)
+* [Sibilant](http://sibilantjs.info) JavaScript with a lisp. (*[also in Lisp](#other)*)
+* [ki](http://ki-lang.org) Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. (*[also in Lisp](#clojure-like)*)
+* [jisp](http://jisp.io/) A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. (*[also in Lisp](#other)*)
 * [Ham](https://github.com/jameskeane/ham-script) looks very similar to JavaScript at first, but offers (hopefully) many useful features
 * [GorillaScript](http://ckknight.github.com/gorillascript/)  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors, offers Macros and optional Typing
 * [RedScript](https://github.com/AdamBrodzinski/RedScript) Ruby-flavored JavaScript.
@@ -179,9 +179,9 @@ targeting the JVM and JavaScript.
 * [ClojureScript](https://github.com/clojure/clojurescript) Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [ClojureJS](https://github.com/kriyative/clojurejs) Subset of Clojure to JS.
 * [Chlorinejs](https://github.com/chlorinejs/chlorine) A fork of ClojureJS with a port of clojure.core library.
-* [wisp](https://github.com/Gozala/wisp) A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript.
+* [wisp](https://github.com/Gozala/wisp) A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript. (*[also in Friends](#friends-philosophically-related)*)
 * [Scriptjure](https://github.com/arohner/scriptjure) Library for generating JavaScript from Clojure forms.
-* [ki](http://ki-lang.org) Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript.
+* [ki](http://ki-lang.org) Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. (*[also in Friends](#friends-philosophically-related)*)
 
 ###### Scheme-like
 * [BiwaScheme](http://www.biwascheme.org/) Scheme(R6RS) in JavaScript
@@ -197,11 +197,11 @@ targeting the JVM and JavaScript.
 * [Parenscript](http://common-lisp.net/project/parenscript/) Subset of Common Lisp to JS.
 * [Ralph](https://github.com/turbolent/ralph) Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
 * [Oppo](https://github.com/benekastah/oppo) A JavaScripter’s lisp. Inspired by JavaScript, Clojure and CoffeeScript. Compiler built using [Jison](http://zaach.github.com/jison/docs/).
-* [LispyScript](http://lispyscript.com/) A JavaScript with Lispy syntax and Macros.
+* [LispyScript](http://lispyscript.com/) A JavaScript with Lispy syntax and Macros. (*[also in Friends](#friends-philosophically-related)*)
 * [Outlet](https://github.com/jlongster/outlet) A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development.
-* [Hot Cocoa Lisp](https://github.com/olleicua/hcl) A Lisp-like language that compiles to JavaScript.
-* [Sibilant](http://sibilantjs.info) JavaScript with a lisp.
-* [jisp](http://jisp.io/) A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible.
+* [Hot Cocoa Lisp](https://github.com/olleicua/hcl) A Lisp-like language that compiles to JavaScript. (*[also in Friends](#friends-philosophically-related)*)
+* [Sibilant](http://sibilantjs.info) JavaScript with a lisp. (*[also in Friends](#friends-philosophically-related)*)
+* [jisp](http://jisp.io/) A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. (*[also in Friends](#friends-philosophically-related)*)
 
 #### OCaml
 
