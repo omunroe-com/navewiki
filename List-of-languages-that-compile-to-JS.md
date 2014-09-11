@@ -174,26 +174,31 @@ targeting the JVM and JavaScript.
 
 #### Lisp, Scheme
 
-* [[BiwaScheme|http://www.biwascheme.org/]] Scheme(R6RS) in JavaScript
+###### Clojure-like
 * [[ClojureScript|https://github.com/clojure/clojurescript]] Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [[ClojureJS|https://github.com/kriyative/clojurejs]] Subset of Clojure to JS.
 * [[Chlorinejs|https://github.com/chlorinejs/chlorine]] A fork of ClojureJS with a port of clojure.core library.
 * [[wisp|https://github.com/Gozala/wisp]] A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript.
-* [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
+* [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
+* [[ki|http://ki-lang.org]] Clojure-like syntax, [[mori|http://swannodette.github.io/mori/]]'s immutable data structures in a few [[sweet.js|http://sweetjs.org]] macros. Can be intermixed with JavaScript.
+
+###### Scheme-like
+* [[BiwaScheme|http://www.biwascheme.org/]] Scheme(R6RS) in JavaScript
 * [[Fargo|https://github.com/jcoglan/fargo]] Scheme in JavaScript  
 * [[Moby Scheme|https://github.com/dyoo/moby-scheme]] A Scheme running in JS.
 * [[nconc|https://github.com/patrickdlogan/nconc]] Scheme interpreter in JavaScript with stack-friendly tail calls and full call/cc
-* [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
-* [[Ralph|https://github.com/turbolent/ralph]] Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
 * [[scheme2js|http://www-sop.inria.fr/indes/scheme2js/]] Scheme to JavaScript.
-* [[Scriptjure|https://github.com/arohner/scriptjure]] Library for generating JavaScript from Clojure forms.
 * [[Spock|http://wiki.call-cc.org/eggref/4/spock]] A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
 * [[Whalesong|http://hashcollision.org/whalesong/]] Racket to JS compiler
+
+###### Other
+* [[EdgeLisp|https://github.com/manuel/edgelisp]] A Lisp in the tradition of Common Lisp
+* [[Parenscript|http://common-lisp.net/project/parenscript/]] Subset of Common Lisp to JS.
+* [[Ralph|https://github.com/turbolent/ralph]] Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
 * [[Oppo|https://github.com/benekastah/oppo]] A JavaScripter’s lisp. Inspired by JavaScript, Clojure and CoffeeScript. Compiler built using [[Jison|http://zaach.github.com/jison/docs/]].
 * [[Outlet|https://github.com/jlongster/outlet]] A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development.
 * [[Sibilant|http://sibilantjs.info]] JavaScript with a lisp.
-* [[ki|http://ki-lang.org]] Clojure-like syntax, [[mori|http://swannodette.github.io/mori/]]'s immutable data structures in a few [[sweet.js|http://sweetjs.org]] macros. Can be intermixed with JavaScript.
-* [[jisp|http://jisp.io/]] a “JS-native and axiomatic” Lisp that “focuses on the core ideas of code-as-data, S-expressions, [and] macros”, “introducing as few new concepts as possible”.
+* [[jisp|http://jisp.io/]] A “JS-native and axiomatic” Lisp that “focuses on the core ideas of code-as-data, S-expressions, [and] macros”, “introducing as few new concepts as possible”.
 
 #### OCaml
 
