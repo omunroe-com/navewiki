@@ -233,12 +233,11 @@ targeting the JVM and JavaScript.
 #### C/C++
 
 * [Emscripten](http://emscripten.org/) LLVM to JavaScript compiler.  LLVM is "an aggressive open-source compiler for C and C++," as well as other languages.
-* [Duetto](http://leaningtech.com/duetto/) LLVM to JavaScript compiler. “compiles C++ applications to binary code and JavaScript”
+* [Cheerp](http://leaningtech.com/cheerp/) (former Duetto) “compiles C++ applications to binary code and JavaScript. Based and integrated into the LLVM/clang infrastructure”
 * [maja](http://lethalman.hostei.com/maja/index.html) vala (gobject) to JavaScript
 * [Clue](http://cluecc.sourceforge.net/) C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 * [LLJS](http://lljs.org/) typed dialect of JavaScript that offers a C-like type system with manual memory management
 * [Mandreel](http://mandreel.com/)  Can convert C++ and Objective-C applications based on OpenGL ES to JavaScript or Action Script 3 web application.
-* [Cheerp](http://www.leaningtech.com/cheerp/) C++ compiler for the Web, based and integrated into the LLVM/clang infrastructure. You can write Web applications in pure C++ code, or port existing C++ code to the Web 
 
 #### Basic
 
