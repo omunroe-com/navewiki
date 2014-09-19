@@ -173,6 +173,7 @@ targeting the JVM and JavaScript.
 * [JScriptSuite](http://jscriptsuite.com/) .NET to JavaScript compiler (cross browser API, client site controls and components).
 * [DotNetWebToolkit](https://github.com/chrisdunelm/DotNetWebToolkit) Toolkit providing a .NET CIL to JavaScript transcoder and Visual Studio project/debugging integration
 * [Netjs](https://github.com/praeclarum/Netjs) .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
+* [WootzJs](https://github.com/kswoll/WootzJs) C# to Javascript cross-compiler built on top of Microsoft Roslyn, which handles the complex process of converting your C# code into syntax trees with symbol information
 
 #### Lisp, Scheme
 
