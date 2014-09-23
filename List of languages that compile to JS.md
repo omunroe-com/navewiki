@@ -38,6 +38,7 @@
 * [ColaScript](https://github.com/TrigenSoftware/ColaScript) similar to Dart, CoffeeScript, Python and PHP
 * [Taijilang](https://github.com/taijiweb/taijilang) a customizable and extensible language with dynamic parser and meta language.
 * [MoonScript](http://moonscript.org/) MoonScript is a dynamic scripting language that compiles into Lua. The syntax of MoonScript has been heavily inspired by the syntax of CoffeeScript.
+* [Earl Grey](http://breuleux.github.io/earl-grey/repl/) An extensible language with pattern matching, hygienic macros and a syntax similar to Python.
 
 #### JavaScript Extensions
 
