@@ -149,7 +149,7 @@ targeting the JVM and JavaScript.
 * [Bck2Brwsr](http://wiki.apidesign.org/wiki/Bck2Brwsr) Run "browserified" Java Code in, well, the browser.
 * [QWT](http://qooxdoo.org/contrib/project/qwt) QWT consists of a Java-to-JavaScript compiler, a prepared library of Qooxdoo componente (version 0.7.x) and some other tools. Similar to GWT
 * [TeaVM](https://github.com/konsoletyper/teavm) is an ahead-of-time transpiler that takes JVM bytecode and produces JavaScript.
-* [Dragome](http://www.dragome.com/) Dragome SDK, compiles JVM Bytecode to JavaScript.
+* [Dragome SDK](http://www.dragome.com/) compiles JVM bytecode to Javascript.
 
 #### Scala
 
