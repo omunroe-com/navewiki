@@ -130,9 +130,9 @@
 [settings](https://github.com/mgutz/node-settings) – Simple, hierarchical environment-based app settings.
 
 ### Database
-[CouchDB](http://couchdb.apache.org/) A database for the web
+[CouchDB](http://couchdb.apache.org/) - A database for the web
 
-[mongo-model](https://github.com/alexeypetrushin/mongo-model) Model for MongoDB (Node.JS). [Presentation](http://alexeypetrushin.github.io/mongo-model/presentations/introduction/index.html#/main)
+[mongo-model](https://github.com/alexeypetrushin/mongo-model) - Model for MongoDB (Node.JS). [Presentation](http://alexeypetrushin.github.io/mongo-model/presentations/introduction/index.html#/main)
 
 [query-engine](https://github.com/balupton/query-engine.npm) – A NoSQL (and MongoDB compliant) Query Engine coded in CoffeeScript for Server-Side use with Node.js and Client-Side use with Web-Browsers
 
