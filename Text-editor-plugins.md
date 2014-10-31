@@ -62,6 +62,7 @@
 * Visual Studio: 
   * [CoffeeLite](https://github.com/chrisdunelm/CoffeeLite)
   * [Mindscape Web Workbench](http://www.mindscapehq.com/products/web-workbench) - works with CoffeeScript, Sass, and LESS. Free version provides syntax highlighting and compiles CoffeeScript files automatically on save. Pro version adds automatic minification of JavaScript files.
+  * [Web Essentials](http://vswebessentials.com/features/coffeescript) - includes a preview window, compilation, minification, and syntax highlighting. 
 
 * BBEdit: **pmuellr**'s [CoffeeScript BBEdit Language Module / plist](https://gist.github.com/1004413) - not perfect, but seems to handle most things in an acceptable fashion.
 
