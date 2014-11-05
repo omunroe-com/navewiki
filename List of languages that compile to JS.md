@@ -293,6 +293,7 @@ for client-side (and server-side) web development
 #### SQL
 * [sql-parser](https://github.com/forward/sql-parser)
 * [sqld3](https://github.com/steveyen/sqld3)
+* [Alasql](https://github.com/agershun/alasql) - SQL to JavaScript parser and compiler
 
 #### PHP
 * [phype](http://code.google.com/p/phype/) run PHP code directly in your browser
