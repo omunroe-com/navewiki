@@ -1,10 +1,10 @@
-<font color="#888888">**What is this page about?**</font> In this article you will learn how to set up your own build tools for either the server- or client-side. In the process we will automate the task of compiling your `*.js` files from `*.coffee`. You will also learn how to concatenate, compile and minify your application so it results in one very optimised file you can serve to browsers.</font> 
+<font color="#888888">**What is this page about?**</font> In this article you will learn how to set up your own build tools for either the server or client side. In the process we will automate the task of compiling your `*.js` files from `*.coffee`. You will also learn how to concatenate, compile and minify your application so it results in one very optimised file you can serve to browsers.</font> 
 
 ## Prerequisites
 
-`cake` is `coffee`'s little sister (or so I picture things). If you installed CoffeeScript using `npm` then you should already have access to it. If you used `cake install` you have in fact had first-hand experience with the tool.
+`cake` is `coffee`'s little sister (or so I picture things). If you installed CoffeeScript using `npm`, then you should already have access to it. If you used `cake install`, you have in fact had first-hand experience with the tool.
 
-If you have symlinked `bin/coffee` to a new location on your `$PATH` then you should also symlink `bin/cake`:
+If you have symlinked `bin/coffee` to a new location on your `$PATH`, then you should also symlink `bin/cake`:
 
     $ ln -s /home/stan/public/coffee-script/bin/cake /usr/local/bin/cake
 
@@ -35,7 +35,7 @@ This should return immediately stating that:
 
 ## Hello World!
 
-Yes, we are doing the infamous *Hello World* example but with a spin -- inside a `Cakefile`. If you have worked with `rake` or `make` then you should already have an idea of how things work. You define a task and use `cake [task name]` to execute it. Let's get started:
+Yes, we are doing the infamous *Hello World* example, but with a spin -- inside a `Cakefile`. If you have worked with `rake` or `make`, then you should already have an idea of how things work. You define a task and use `cake [task name]` to execute it. Let's get started:
 
     $ cd ~
     $ vim Cakefile
@@ -52,22 +52,22 @@ Save and exit back to the shell. Next, let's run our newly created task:
     $ cake say:hello
     Hello World!
 
-Running `cake` again but without any arguments, you get a list of all available tasks and their description:
+Running `cake` again, but without any arguments, you get a list of all available tasks and their description:
 
     $ cake
 
     cake say:hello             # Description of task
 
-Try running `cake` inside CoffeeScript's main directory, observe the output.
+Try running `cake` inside CoffeeScript's main directory, and observe the output.
 
 ## Setting Up a Task to Compile Scripts (server-side applications)
 
-Using `coffee` on the command-line allows you to compile a directory recursively and output all resulting JavaScript files to another directory while preserving the structure. Let's see how we can do that:
+Using `coffee` on the command line allows you to compile a directory recursively and output all resulting JavaScript files to another directory while preserving the structure. Let's see how we can do that:
 
     $ cd ~/public/coffee-script
     $ coffee --compile --output lib/ src/
 
-The above command will compile all `src/*.coffee` files to `lib/*.js`. While working on your application you may have different directories from the ones used above, but for the sake of this example we will assume `src` and `lib`. Caveat: None of the compiled files will be executable and none will have shebangs.
+The above command will compile all `src/*.coffee` files to `lib/*.js`. Your application may have different directories from the ones used above, but for the sake of this example we will assume `src` and `lib`. Caveat: None of the compiled files will be executable and none will have shebangs.
 
 Let's move on. Create our compile task inside a new `Cakefile` under our project's main directory:
 
@@ -84,13 +84,13 @@ task 'build', 'Build project from src/*.coffee to lib/*.js', ->
     console.log stdout + stderr
 ```
 
-The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (nothing usually so add your own indicators) or throws an exception should `coffee` have exited with a status code greater than *0* indicating a compilation failure.
+The `build` task launches the command we used earlier and waits for it to complete. Upon successful compilation it prints any output (nothing usually so add your own indicators) or throws an exception, should `coffee` have exited with a status code greater than *0*, indicating a compilation failure.
 
 ## Concatenating Files (client-side applications)
 
-If you are working on a browser application you may want to concatenate all your files into one and serve that instead. The caveat here is you should concatenate all your source `*.coffee` files before you compile them. If you simply concatenate the resulting `*.js` files, you end up with a closure for each file and duplication of utility functions (CoffeeScript produces these when extending classes, binding functions, etc.)
+If you are working on a browser application, you may want to concatenate all your files into one and serve that instead. The caveat here is that you should concatenate all your source `*.coffee` files before you compile them. If you simply concatenate the resulting `*.js` files, you end up with a closure for each file and duplication of utility functions (CoffeeScript produces these when extending classes, binding functions, etc.)
 
-When we are dealing with multiple files, ordering usually matters unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define an ordered list of files we want to process to build our application file:
+When we are dealing with multiple files, ordering usually matters, unfortunately. We could iterate the `src/` directory looking for all `*.coffee` files using node.js, but the API is asynchronous and the results we get back are not ordered in any way. Instead, we should define an ordered list of files we want to process to build our application file:
 
 ```coffeescript
 fs     = require 'fs'
@@ -121,9 +121,9 @@ task 'build', 'Build single application file from source files', ->
           console.log 'Done.'
 ```
 
-We start off by defining our `appFiles` which we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
+We start off by defining the `appFiles` we want to concatenate and then process. The `build` task starts by reading all of the files asynchronously and calls `process()` when all files have been read. `process()` in turn writes a temporary file under `lib/` and compiles that to `lib/app.js`. Study the source and modify it as you see fit for your own needs.
 
-Another option would be using a tools to help you deal with your file dependencies. There are many approches to deal with file dependency order out there, so you should pick the option that makes the most sense in your scenario. A few options:
+Another option would be to use a tool to help you deal with your file dependencies. There are many approaches to dealing with file-dependency order out there, so you should pick the option that makes the most sense in your scenario. A few options:
 
 * [rehab](https://github.com/Vizir/rehab)
 * [coffee-toaster](https://github.com/serpentem/coffee-toaster)
@@ -131,7 +131,7 @@ Another option would be using a tools to help you deal with your file dependenci
 
 ## Minify/Compress Your Files
 
-You can easily extend your `Cakefile` to include a task which calls to a compression utility once your `*.js` files have been generated:
+You can easily extend your `Cakefile` to include a task that calls to a compression utility, once your `*.js` files have been generated:
 
 ```coffeescript
 task 'minify', 'Minify the resulting application file after build', ->
