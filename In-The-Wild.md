@@ -64,8 +64,6 @@
 
 [Strut](http://tantaman.github.io/Strut/) – ImpressJS GUI / Authoring tool
 
-[Strut](http://tantaman.github.io/Strut/) – ImpressJS GUI / Authoring tool
-
 [Swipes](http://swipesapp.com/) - Simple and powerful daily task planner
 
 [The Agile Planner](http://theagileplanner.com) – A rather visual app for agile teams to plan and track their work.
