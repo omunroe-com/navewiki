@@ -350,7 +350,6 @@ for client-side (and server-side) web development
 * [Esprima](http://esprima.org) Educational (but fast) ECMAScript parser with output compatible to [Mozilla Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API)
 * [js.js](https://github.com/jterrace/js.js) A JavaScript JavaScript interpreter. Instead of trying to create an interpreter from scratch, SpiderMonkey is compiled into LLVM and then emscripten translates the output into JavaScript.
 * [sweet.js](http://sweetjs.org/) Brings hygienic macros to JavaScript. Lets you write extensions to JavaScript that must be invoked by the user.
-* [Bennu](http://bennu-js.com) Parsec inspired Javascript parser combinator library.
 
 ###### JavaScript Optimizers
 
@@ -373,6 +372,7 @@ for client-side (and server-side) web development
 * [ANTLR 3](https://github.com/antlr/examples-v3) has a JavaScript target. ANTLR 4 has [not implemented its JavaScript target yet](https://theantlrguy.atlassian.net/wiki/display/ANTLR4/Runtime+Libraries+and+Code+Generation+Targets).
 * [Cruiser.Parse](http://code.google.com/p/cruiser/wiki/Parse) LL(k) parser
 * [MetaCoffee](https://github.com/xixixao/meta-coffee) PEG parser using CoffeeScript and white-space-significant syntax
+* [Bennu](http://bennu-js.com) Parsec inspired Javascript parser combinator library.
 
 ###### JavaScript AST, Semantics
 * [Closure Compiler AST Documentation](https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf)
