@@ -350,6 +350,7 @@ for client-side (and server-side) web development
 * [Esprima](http://esprima.org) Educational (but fast) ECMAScript parser with output compatible to [Mozilla Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API)
 * [js.js](https://github.com/jterrace/js.js) A JavaScript JavaScript interpreter. Instead of trying to create an interpreter from scratch, SpiderMonkey is compiled into LLVM and then emscripten translates the output into JavaScript.
 * [sweet.js](http://sweetjs.org/) Brings hygienic macros to JavaScript. Lets you write extensions to JavaScript that must be invoked by the user.
+* [Bennu](http://bennu-js.com) Parsec inspired Javascript parser combinator library.
 
 ###### JavaScript Optimizers
 
@@ -385,3 +386,4 @@ for client-side (and server-side) web development
 * [Zeon](https://github.com/qfox/Zeon) A static visual JavaScript analyzer / editor.  See also [ZeParser](https://github.com/qfox/ZeParser).
 * [escodegen](https://github.com/Constellation/escodegen) – JavaScript code generator
 * [esmangle](https://github.com/Constellation/esmangle) minifier for Mozilla Parser API AST
+* [ecma-ast](https://github.com/mattbierner/ecma-ast) AST node data structures for ECMAScript 5.1 based on the [SpiderMonkey Parser API](https://developer.mozilla.org/en-US/docs/SpiderMonkey/Parser_API)
