@@ -386,4 +386,5 @@ for client-side (and server-side) web development
 * [Zeon](https://github.com/qfox/Zeon) A static visual JavaScript analyzer / editor.  See also [ZeParser](https://github.com/qfox/ZeParser).
 * [escodegen](https://github.com/Constellation/escodegen) – JavaScript code generator
 * [esmangle](https://github.com/Constellation/esmangle) minifier for Mozilla Parser API AST
+* [estraverse](https://github.com/estools/estraverse) ECMAScript traversal functions from esmangle project
 * [ecma-ast](https://github.com/mattbierner/ecma-ast) AST node data structures for ECMAScript 5.1 based on the [SpiderMonkey Parser API](https://developer.mozilla.org/en-US/docs/SpiderMonkey/Parser_API)
