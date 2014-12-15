@@ -71,7 +71,8 @@
 * [Swym](http://cheersgames.com/swym/wiki/index.php?title=Main_Page) – statically typed, with type inference and generics
 * [Typecast.js](http://typecastjs.org) – JavaScript platform for statically typed variables without a custom compiler.
 * [purescript](https://github.com/paf31/purescript) – statically typed compile-to-JS language with basic extensible records and type-safe block
-* [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) – project to improve JavaScript by adding type annotations and other features
+* [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) by Google – project to improve JavaScript by adding type annotations and other features on top of TypeScript
+* [Flow](http://flowtype.org) by FaceBook - static type checker for JavaScript, supports optional types and null checks
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [Streamline.js](https://github.com/Sage/streamlinejs) Uses underscore (_) to stand for callbacks. This [fork](https://github.com/willconant/streamlinejs) preserves line numbers for debugging.
@@ -127,6 +128,7 @@
 * [PythonJS](https://github.com/PythonJS/PythonJS) Integrates several python to js methods into one project. Very Active. 
 
 #### Erlang
+
 * [Shen](https://synrc.com/apps/n2o/doc/web/macros.htm) is the first and yet smallest Erlang JavaScript Compiler based on Erlang AST. It allows you to translate Elixir, Joxa, [Lol](https://github.com/b0oh/lol) and Erlang programs to JavaScript with erlc. [JavaScript/OTP subset](http://synrc.github.io/shen/). Has node npm package called [erlang-shen-js](https://www.npmjs.org/package/erlang-shen-js).
 * [LuvvieScript](http://luvv.ie) a browser-based dom-scripting language that is a strict sub-set of Erlang which is AST-to-AST transpiled to JavaScript ([code ](https://github.com/hypernumbers/luvviescript))
 
@@ -182,6 +184,7 @@ targeting the JVM and JavaScript.
 #### Lisp, Scheme
 
 ###### Clojure-like
+
 * [ClojureScript](https://github.com/clojure/clojurescript) Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures.
 * [ClojureJS](https://github.com/kriyative/clojurejs) Subset of Clojure to JS.
 * [Chlorinejs](https://github.com/chlorinejs/chlorine) A fork of ClojureJS with a port of clojure.core library.
@@ -190,6 +193,7 @@ targeting the JVM and JavaScript.
 * [ki](http://ki-lang.org) Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")*
 
 ###### Scheme-like
+
 * [BiwaScheme](http://www.biwascheme.org/) Scheme(R6RS) in JavaScript
 * [Fargo](https://github.com/jcoglan/fargo) Scheme in JavaScript  
 * [Moby Scheme](https://github.com/dyoo/moby-scheme) A Scheme running in JS.
@@ -199,6 +203,7 @@ targeting the JVM and JavaScript.
 * [Whalesong](http://hashcollision.org/whalesong/) Racket to JS compiler
 
 ###### Other
+
 * [EdgeLisp](https://github.com/manuel/edgelisp) A Lisp in the tradition of Common Lisp
 * [Parenscript](http://common-lisp.net/project/parenscript/) Subset of Common Lisp to JS.
 * [Ralph](https://github.com/turbolent/ralph) Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
@@ -282,6 +287,7 @@ for client-side (and server-side) web development
 * [Opa](http://www.opalang.org/) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 
 #### Visual programming tools
+
 * [Waterbear](http://waterbearlang.com/) Tool for making Scratch-inspired block-based languages on the web. Examples include blocks for JavaScript, ProcessingJS, NodeJS, and more.
 * [Snap](http://snap.berkeley.edu/snapsource/snap.html) – JavaScript of BYOB, which is a fork of [Scratch](http://scratch.mit.edu/)
 * [ScriptBlocks](http://code.google.com/p/scriptblocks/)
@@ -293,11 +299,13 @@ for client-side (and server-side) web development
 * [Maeda Block](http://maedablock.com/) – visual game programming language powered by enchant.js and Google Blockly.  See also the [Japanese version](http://maedablock.jp/).
 
 #### SQL
+
 * [sql-parser](https://github.com/forward/sql-parser)
 * [sqld3](https://github.com/steveyen/sqld3)
 * [Alasql](https://github.com/agershun/alasql) - SQL to JavaScript parser and compiler
 
 #### PHP
+
 * [phype](http://code.google.com/p/phype/) run PHP code directly in your browser
 * [uniter](https://github.com/asmblah/uniter) run PHP code in Node.js or the browser
 
@@ -375,6 +383,7 @@ for client-side (and server-side) web development
 * [Bennu](http://bennu-js.com) Parsec inspired Javascript parser combinator library.
 
 ###### JavaScript AST, Semantics
+
 * [Closure Compiler AST Documentation](https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf)
 * [Spidermonkey Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) – see also reflect.js above
 * [JsonML AST](http://code.google.com/p/es-lab/wiki/JsonMLASTFormat) format used by the es5 parser 
