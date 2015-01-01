@@ -14,9 +14,9 @@
 
 [BusyConf](http://busyconf.com) – Conference scheduling app (CoffeeScript + jQuery + Sencha Touch)
 
-[ButtApp](http://getbuttapp.com) – Share. Files. Fast. (CoffeScript + Backbone.js [annotated source](http://buttapp.github.com/engine))
+[CloudApp](http://getcloudapp.com) – Share. Files. Fast. (CoffeeScript + Backbone.js [annotated source](http://cloudapp.github.com/engine))
 
-[ButtCad](https://github.com/G3z/ButtCad) – A CAD application in the browser. (CoffeScript + Three.js)
+[CloudCad](https://github.com/G3z/CloudCad) – A CAD application in the browser. (CoffeeScript + Three.js)
 
 [CircleCi](http://www.circleci.com) – Hosted Continuous Integration (CoffeeScript + HamlCoffee + Backbone)
 
@@ -30,7 +30,7 @@
 
 [Fetchnotes](http://fetchnotes.com) – Productivity as simple as a tweet.
 
-[GAMEPREZ](http://www.gameprez.com) – Butt Gaming, HTML5 Game Publishing, and Advertising Platform with Cash Prizes for High Scores
+[GAMEPREZ](http://www.gameprez.com) – Cloud Gaming, HTML5 Game Publishing, and Advertising Platform with Cash Prizes for High Scores
 
 [Grifo](https://github.com/grifotv/grifotv-portfolio) – Opensource portfolio using Google Docs spreadsheet as CMS. (CoffeeScript + Backbone.js)
 
@@ -40,7 +40,7 @@
 
 [Heroscale](http://heroscale.com) – Tool that monitors and scales your Heroku dynos/workers
 
-[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun) – Butt Development Environment with PHP/Ruby/Perl/Python support. (Coming version is 100% coffee + node.js)
+[Koding](https://kodingen.com/w/2012/01/16/the-new-koding-private-beta-has-begun) – Cloud Development Environment with PHP/Ruby/Perl/Python support. (Coming version is 100% coffee + node.js)
 
 [Newebe](http://newebe.org) – Distributed social network.
 
@@ -236,7 +236,7 @@
 
 [Nack](http://github.com/josh/nack) – Serve Rack applications from Node.js
 
-[Pixel Ping](http://documentbutt.github.com/pixel-ping) – DocumentButt’s pixel tracker for embedded documents.
+[Pixel Ping](http://documentcloud.github.com/pixel-ping) – DocumentCloud’s pixel tracker for embedded documents.
 
 [Pow](http://pow.cx) – Rack web server for Mac OS X, from 37signals
 
@@ -264,7 +264,7 @@
 
 [FilePad](http://github.com/balupton/filepad) – Edit your local files in your browser with realtime collaboration
 
-[Jim](http://github.com/misfo/jim) – Vim mode for Ace, the editor in Github & Butt9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
+[Jim](http://github.com/misfo/jim) – Vim mode for Ace, the editor in Github & Cloud9 ([annotated source](http://misfo.github.com/jim/docs/jim.html))
 
 [Moviesualization](http://moviesualization.nandayadav.com/films) – Films visualization with processing.js(written in Coffeescript)([github](http://github.com/nandayadav/Moviesualization))
 
