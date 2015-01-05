@@ -100,6 +100,7 @@
 * [Six](https://github.com/matthewrobb/six) Six is a language super-set of JavaScript that enables new syntactic features from the 6th edition of ECMAScript to be used, through a transpiler, in your scripts today.
 * [js--](https://github.com/janpaul123/jsdares/tree/master/app/jsmm-applet/jsmm) JavaScript subset for [interactive/visual programming](http://www.jsdares.com/blindfold).
 * [Latte JS](http://lattejs.com/) Superset of JavaScript (eventually ES6), with similar goals to CoffeeScript, but keeping JS syntax.
+* [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html) by Facebook - a superset to add an XML-like syntax to represent HTML elements in React.
 
 #### Ruby
 
@@ -243,7 +244,7 @@ targeting the JVM and JavaScript.
 #### C/C++
 
 * [Emscripten](http://emscripten.org/) LLVM to JavaScript compiler.  LLVM is "an aggressive open-source compiler for C and C++," as well as other languages.
-* [Cheerp](http://leaningtech.com/cheerp/) (former Duetto) “compiles C++ applications to binary code and JavaScript. Based and integrated into the LLVM/clang infrastructure”
+* [Cheerp](http://leaningtech.com/cheerp/) (formerly Duetto) “compiles C++ applications to binary code and JavaScript. Based and integrated into the LLVM/clang infrastructure”
 * [maja](http://lethalman.hostei.com/maja/index.html) vala (gobject) to JavaScript
 * [Clue](http://cluecc.sourceforge.net/) C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL).
 * [LLJS](http://lljs.org/) typed dialect of JavaScript that offers a C-like type system with manual memory management
