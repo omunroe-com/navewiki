@@ -39,3 +39,13 @@ do (staticVariable = theValueYouWant) ->
 ##### **Q:** Why is `foo +a` different from `foo + a` ?
 
 **A:** CoffeeScript is a whitespace-significant language. `foo<space>` starts an implicit call, you must either dually-space your operator or dually-unspace it.
+
+----
+
+##### **Q:** Why is `foo / a/g` or `foo /= a/g` different from `foo /a/g` or `foo /=a/g` ?
+
+**A:** All four cases may look like calling a function named `foo` with a regex as the argument. However, the first two are division: They compile to `foo / a / g` and `foo /= a / g`. To make them compile into regexes instead, you can use escapes (`foo /\ a/g`, `foo /\= a/g`, `foo /=\ a/g`) or parentheses (`foo(/ a/g)`, `foo(/= a/g)`) to disambiguate. You can also assign the regex to a variable: `regex = / a/g; foo regex`.
+
+On the other hand, if you want the two latter cases to compile to division you must either dually-space your operator or dually-unspace it (`foo/a/g`, `foo/=a/g`, `foo / a/g`, `foo /= a/g`). Again, CoffeeScript is a whitespace-significant language.
+
+In summary, if your regex starts with `/ ` or `/= ` and there’s something that’s both callable and divisible before it, then the regex will be treated as division instead. In all other cases there should be no trouble. This is an unfortunate clash between parentheses-less calls, JavaScript’s regex syntax and the `/` and `/=` operators.
