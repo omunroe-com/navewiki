@@ -391,6 +391,8 @@ for client-side (and server-side) web development
 * [treehugger](https://github.com/zefhemel/treehugger) JavaScript AST transformation tools
 * [JavaScript Shaper](http://jsshaper.org/) JavaScript syntax tree shaping
 * [burrito](https://github.com/substack/node-burrito) & [js-traverse](https://github.com/substack/js-traverse) – see [this post](http://substack.net/posts/eed898) for more info, as well as [node-stackedy](https://github.com/substack/node-stackedy) for an example and [node-browserify](https://github.com/substack/node-browserify) for running it in a browser instead of node
+* [falafel](https://github.com/substack/node-falafel) - transform the ast on a recursive walk
+* [rocambole](https://github.com/millermedeiros/rocambole) - inspired by burrito & falafel, recursively walk and transform EcmaScript AST
 * [JavaScript types](http://cs.brown.edu/~joe/public/types/types.html) – lambdajs, flow typing
 * [SourceMap](https://github.com/mozilla/source-map) map JavaScript debugger output to original source 
 * [Zeon](https://github.com/qfox/Zeon) A static visual JavaScript analyzer / editor.  See also [ZeParser](https://github.com/qfox/ZeParser).
