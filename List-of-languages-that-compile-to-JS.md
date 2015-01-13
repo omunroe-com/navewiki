@@ -359,6 +359,7 @@ for client-side (and server-side) web development
 * [Esprima](http://esprima.org) Educational (but fast) ECMAScript parser with output compatible to [Mozilla Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API)
 * [js.js](https://github.com/jterrace/js.js) A JavaScript JavaScript interpreter. Instead of trying to create an interpreter from scratch, SpiderMonkey is compiled into LLVM and then emscripten translates the output into JavaScript.
 * [sweet.js](http://sweetjs.org/) Brings hygienic macros to JavaScript. Lets you write extensions to JavaScript that must be invoked by the user.
+* [acorn](https://github.com/marijnh/acorn/) A small, fast, JavaScript-based JavaScript parser
 
 ###### JavaScript Optimizers
 
