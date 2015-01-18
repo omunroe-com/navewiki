@@ -389,6 +389,7 @@ for client-side (and server-side) web development
 
 * [Closure Compiler AST Documentation](https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf)
 * [Spidermonkey Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) – see also reflect.js above
+* [Shift JavaScript AST Specification](https://github.com/shapesecurity/shift-spec) - see this [blog post](http://engineering.shapesecurity.com/2014/12/announcing-shift-javascript-ast.html) with more information
 * [JsonML AST](http://code.google.com/p/es-lab/wiki/JsonMLASTFormat) format used by the es5 parser 
 * [treehugger](https://github.com/zefhemel/treehugger) JavaScript AST transformation tools
 * [JavaScript Shaper](http://jsshaper.org/) JavaScript syntax tree shaping
