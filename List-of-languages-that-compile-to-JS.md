@@ -102,6 +102,7 @@
 * [js--](https://github.com/janpaul123/jsdares/tree/master/app/jsmm-applet/jsmm) JavaScript subset for [interactive/visual programming](http://www.jsdares.com/blindfold).
 * [Latte JS](http://lattejs.com/) Superset of JavaScript (eventually ES6), with similar goals to CoffeeScript, but keeping JS syntax.
 * [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html) by Facebook - a superset to add an XML-like syntax to represent HTML elements in React.
+* [oj](https://github.com/musictheory/oj) Objective-C inspired superset of JavaScript with a tiny runtime, built-in obfuscator, and experimental type checker (courtesy of Typescript).
 
 #### Ruby
 
