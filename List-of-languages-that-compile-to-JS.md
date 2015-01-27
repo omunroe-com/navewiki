@@ -1,5 +1,5 @@
 #### CoffeeScript Family (& Friends)
-
+php
 * [CoffeeScript](http://coffeescript.org/) Unfancy JavaScript
 * [CoffeeScript II: The Wrath of Khan](https://github.com/michaelficarra/CoffeeScriptRedux) Rewrite of the CS compiler
 
@@ -312,6 +312,7 @@ for client-side (and server-side) web development
 
 * [phype](http://code.google.com/p/phype/) run PHP code directly in your browser
 * [uniter](https://github.com/asmblah/uniter) run PHP code in Node.js or the browser
+* [php.js](https://github.com/niklasvh/php.js) run PHP code in Node.js or the browser 
 
 #### Others
 
