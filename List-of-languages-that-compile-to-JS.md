@@ -279,6 +279,7 @@ targeting the JVM and JavaScript.
 * [Nimrod](http://nimrod-lang.org) compiles to C and JavaScript
 * [Monkey](http://monkeycoder.co.nz/) [commercial] compiles to several platforms (JavaScript, ActionScript 3, C++, Java, CSharp).
 * [defrac](https://www.defrac.com/) compiles Java bytecode to several platforms (including JavaScript)
+* [Ć Programming Language](http://cito.sourceforge.net/) is automatically translated to C, Java, C#, JavaScript, ActionScript, Perl and D.
 
 #### Tierless languages (produce both client & server)
 
@@ -343,7 +344,6 @@ for client-side (and server-side) web development
 * [JEnglish](http://jenglish.org/) interprets regular English statements into HTML/CSS
 * [Jotlin](https://github.com/dnlo/jotlin) a small programming language in Kotlin
 * [uilang](https://github.com/bendc/uilang) and [uiscript](https://github.com/qweek/uiscript) simple UI-focused script languages for web designers 
-* [Ć Programming Language](http://cito.sourceforge.net/) is automatically translated to C, Java, C#, JavaScript, ActionScript, Perl and D.
 
 ### Tools for Compiler Writers
 
