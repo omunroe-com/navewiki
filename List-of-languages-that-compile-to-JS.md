@@ -74,7 +74,6 @@
 * [purescript](https://github.com/paf31/purescript) – statically typed compile-to-JS language with basic extensible records and type-safe block
 * [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) by Google – project to improve JavaScript by adding type annotations and other features on top of TypeScript
 * [Flow](http://flowtype.org) by FaceBook - static type checker for JavaScript, supports optional types and null checks
-* [DuoCode](http://duoco.de/) by Microsoft - C#-to-JavaScript compiler powered by [Microsoft Roslyn](https://github.com/dotnet/roslyn)
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [Streamline.js](https://github.com/Sage/streamlinejs) Uses underscore (_) to stand for callbacks. This [fork](https://github.com/willconant/streamlinejs) preserves line numbers for debugging.
@@ -184,6 +183,7 @@ targeting the JVM and JavaScript.
 * [DotNetWebToolkit](https://github.com/chrisdunelm/DotNetWebToolkit) Toolkit providing a .NET CIL to JavaScript transcoder and Visual Studio project/debugging integration
 * [Netjs](https://github.com/praeclarum/Netjs) .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
 * [WootzJs](https://github.com/kswoll/WootzJs) C# to Javascript cross-compiler built on top of Microsoft Roslyn, which handles the complex process of converting your C# code into syntax trees with symbol information
+* [DuoCode](http://duoco.de/) by Microsoft - C#-to-JavaScript compiler powered by [Microsoft Roslyn](https://github.com/dotnet/roslyn)
 
 #### Lisp, Scheme
 
