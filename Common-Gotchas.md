@@ -14,14 +14,6 @@ class Foo
   @cache ?= "value"
 ```
 
- If you want an alternative to PHP's `static` keyword, you can use a closure : 
-
-```coffee
-do (staticVariable = theValueYouWant) ->
- (args...) ->
-  #you now have "static"-like access to "staticVariable"
-```
-
 ----
 
 ##### **Q:** Why is CoffeeScript sometimes using `["bar"]` notation over `.bar` ?
