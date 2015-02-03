@@ -30,7 +30,7 @@ class Foo
 
 ##### **Q:** Why is `foo +a` different from `foo + a` ?
 
-**A:** CoffeeScript is a whitespace-significant language. `foo<space>` starts an implicit call, you must either dually-space your operator or dually-unspace it.
+**A:** CoffeeScript is a whitespace-significant language. `foo something` is an implicit call. For it to be arithmetic, put consistent spacing around your operands.
 
 ----
 
