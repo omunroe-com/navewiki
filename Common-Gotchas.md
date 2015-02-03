@@ -1,6 +1,12 @@
 This page lists common gotchas you may encounter when working with CoffeeScript.
 You can refer to this page for general answers on "why does CoffeeScript act that way"
 
+##### **Q:** Why is the existential "?" operator only checking `this.foo != null`, shouldn't it also check for `typeof === 'undefined'` ?
+
+**A:** `X == null` tests that either X is null or undefined, assuming _it is in scope_. If we can't make that assumption, we need to do a `typeof` test to avoid `ReferenceError`s. See [the Abstract Equality Comparaison Algorithm (section 11.9.3)](http://es5.github.com/#x11.9.3) for more information (especially steps 2 and 3).
+
+----
+
 ##### **Q:** Why does CoffeeScript require "foo" to be defined when doing `foo ?= value` or `foo ||= value`
 
 **A:** Otherwise, it'd create a global, which is not what we want (if that *is* what you want, use `window.foo ?= value`)
@@ -19,12 +25,6 @@ class Foo
 ##### **Q:** Why is CoffeeScript sometimes using `["bar"]` notation over `.bar` ?
 
 **A:** CoffeeScript detects reserved keywords (as the auto-quoting of keywords in array notation) and prefer to use the array-access syntax (`[]`), because in ES3, reserved keywords (`throw`, `class`, ...) were not allowed as the right operand in a member access. See [this comment](https://github.com/jashkenas/coffee-script/issues/2314#issuecomment-5654411) for more information.
-
-----
-
-##### **Q:** Why is the existential "?" operator only checking `this.foo != null`, shouldn't it also check for `typeof === 'undefined'` ?
-
-**A:** `X == null` tests that either X is null or undefined, assuming _it is in scope_. If we can't make that assumption, we need to do a `typeof` test to avoid `ReferenceError`s. See [the Abstract Equality Comparaison Algorithm (section 11.9.3)](http://es5.github.com/#x11.9.3) for more information (especially steps 2 and 3).
 
 ----
 
