@@ -160,7 +160,7 @@ targeting the JVM and JavaScript.
 
 #### Scala
 
-* [Scala.js](http://www.scala-js.org/) A Scala to JavaScript compiler
+* [Scala.js](http://www.scala-js.org/) the official Scala to JavaScript compiler
 * [js-scala](https://github.com/js-scala/js-scala) JavaScript as an embedded DSL in Scala 
 * [scalagwt](http://scalagwt.github.io/) enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.
 * [JScala](http://jscala.org) Scala macro that produces JavaScript from Scala code.
