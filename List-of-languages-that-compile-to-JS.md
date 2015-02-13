@@ -243,6 +243,7 @@ targeting the JVM and JavaScript.
 * [Silver Smalltalk](http://silversmalltalk.wordpress.com/) [commercial?] Smalltalk in the browser. (Still active?)
 * [Lively Kernel](http://www.lively-kernel.org/) – smalltalk/squeak-like development environment in the browser.  See also [Avocado](http://avocadojs.com/), built on top of it.
 * [Little Smallscript](https://github.com/ympbyc/LittleSmallscript) Little Smalltalk to JavaScript translator.
+* [SqueakJS](https://bertfreudenberg.github.io/SqueakJS/) Squeak VM in Javascript
 
 #### C/C++
 
