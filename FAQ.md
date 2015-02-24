@@ -171,7 +171,7 @@ These issues should cover the discussion on mixins:
 
 **Q:** Will you add feature **X** where feature **X** depends on a platform?
 
-**A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters, `yield`
+**A:** No, implementation-specific features are not allowed as a policy. Everything that you write in CoffeeScript should be supported and runnable on any current JavaScript implementation (in practice, this means the lowest common denominator is IE6). Thus, features such as the following will not be implemented: getters & setters
 
 ----
 
