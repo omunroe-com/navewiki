@@ -129,6 +129,7 @@
 * [PythonScript](http://apppyjs.appspot.com/) Python-like compiled to JavaScript
 * [pythonscript](https://github.com/DenerosArmy/pythonscript) Python compiled to readable JavaScript using  the AST. (proof of concept)
 * [PythonJS](https://github.com/PythonJS/PythonJS) Integrates several python to js methods into one project. Very Active. 
+* [PyPyJS](https://github.com/rfk/pypyjs) PyPy. Compiled into JavaScript using Emscripten. JIT-compiling to JavaScript at runtime. 
 
 #### Erlang
 
