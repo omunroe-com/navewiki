@@ -41,6 +41,7 @@
 * [Earl Grey](http://breuleux.github.io/earl-grey/repl/) An extensible language with pattern matching, hygienic macros and a syntax similar to Python.
 * [Khepri](http://khepri-lang.com) Lightweight language that reworks Javascript's syntax to be better for untyped functional-style programming.
 * [Spider](https://github.com/alongubkin/spider) Spider is a programming language that compiles to JavaScript (ES5 and ES6 targets). It takes the best ideas of Go, Swift, Python, C# and CoffeeScript.
+* [CirruScript](https://github.com/Cirru/cirru-script) JavaScript in Cirru Grammar(is like Lisp but with far less parentheses, and is simplified for AST manipulations).
 
 #### JavaScript Extensions
 
