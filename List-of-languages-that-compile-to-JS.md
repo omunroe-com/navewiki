@@ -88,6 +88,7 @@
 * [Continuation.js](https://github.com/BYVoid/continuation) A lightweight JIT compiler for simplifying asynchronous JavaScript programming with no runtime dependences. It supports both Node.js and browser-side JavaScript and is compatible with CoffeeScript (also TypeScript, and any other scripts compile to js).
 * [Kal](http://rzimmerman.github.io/kal/) makes asynchronous programming easy and clean by allowing functions to pause and wait for I/O, replacing an awkward callback syntax with a clean, simple syntax
 * [JSPipe](http://jspipe.org) provides JavaScript primitives to write async code without callbacks or chained functions. Inspired by Goroutines and Channels found in Go and in Clojure. For Web and NodeJS. ES5 and ES6. 
+* [promiseLand](http://promise-land.net) promiseLand is a very promising Language. It includes ES5 strict mode, uses the * dereferencing operator to access promise results and introduces additional features designed to let you focus on your program logic. Such as dynamic typesafety, frame addressing, generic load and safe features. 
 
 ###### JavaScript Language Extensions
 
