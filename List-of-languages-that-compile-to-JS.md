@@ -395,7 +395,8 @@ for client-side (and server-side) web development
 ###### JavaScript AST, Semantics
 
 * [Closure Compiler AST Documentation](https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf)
-* [Spidermonkey Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) – see also reflect.js above
+* [SpiderMonkey Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) - see also reflect.js above. The AST interface specification is succeeded by the ESTree specification effort.
+* [ESTree Specification](https://github.com/estree/estree) - An effort to better standardize an AST specification based on the original Spidermonkey Parser API. It is used by Acorn, Esprima, and SpiderMonkey's own parser. This succeeds the original SpiderMonkey Parser API's AST specification.
 * [Shift JavaScript AST Specification](https://github.com/shapesecurity/shift-spec) - see this [blog post](http://engineering.shapesecurity.com/2014/12/announcing-shift-javascript-ast.html) with more information
 * [JsonML AST](http://code.google.com/p/es-lab/wiki/JsonMLASTFormat) format used by the es5 parser 
 * [treehugger](https://github.com/zefhemel/treehugger) JavaScript AST transformation tools
