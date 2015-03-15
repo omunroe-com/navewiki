@@ -250,6 +250,8 @@
 [PDFKit](http://devongovett.github.com/pdfkit) – A powerful PDF generation library for Node.js
 
 ### Miscellaneous
+[Atom](https://atom.io) – A hackable text editor for the 21st Century
+
 [Blocky](https://github.com/zmcartor/Blocky) – Clientside QR code generation
 
 [coffeecoffee](https://github.com/showell/CoffeeCoffee) – CoffeeScript interpreter (no JS compilation required)
