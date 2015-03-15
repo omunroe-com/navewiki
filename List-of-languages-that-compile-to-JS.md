@@ -74,7 +74,7 @@
 * [Typecast.js](http://typecastjs.org) – JavaScript platform for statically typed variables without a custom compiler.
 * [purescript](https://github.com/paf31/purescript) – statically typed compile-to-JS language with basic extensible records and type-safe block
 * [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) by Google – project to improve JavaScript by adding type annotations and other features on top of TypeScript
-* [Flow](http://flowtype.org) by FaceBook - static type checker for JavaScript, supports optional types and null checks
+* [Flow](http://flowtype.org) by Facebook - static type checker for JavaScript, supports optional types and null checks
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [Streamline.js](https://github.com/Sage/streamlinejs) Uses underscore (_) to stand for callbacks. This [fork](https://github.com/willconant/streamlinejs) preserves line numbers for debugging.
