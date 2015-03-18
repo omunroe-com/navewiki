@@ -42,6 +42,7 @@
 * [Khepri](http://khepri-lang.com) Lightweight language that reworks Javascript's syntax to be better for untyped functional-style programming.
 * [Spider](https://github.com/alongubkin/spider) Spider is a programming language that compiles to JavaScript (ES5 and ES6 targets). It takes the best ideas of Go, Swift, Python, C# and CoffeeScript.
 * [CirruScript](https://github.com/Cirru/cirru-script) JavaScript in Cirru Grammar(is like Lisp but with far less parentheses, and is simplified for AST manipulations).
+* [Stripes](https://github.com/danilolekovic/stripes) Stripes is a innovative, modern programming language with a nice syntax, and optional functional programming and loose variable type checking.
 
 #### JavaScript Extensions
 
