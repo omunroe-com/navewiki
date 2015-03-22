@@ -50,7 +50,7 @@
 
 * TideBrewer: **haroldo-ok**'s [TideBrewer](https://github.com/haroldo-ok/TideBrewer) is a quick-and-dirty standalone CoffeeScript editor for desktops, adapted from **rbrcurtis**'s [Brewer](https://github.com/rbrcurtis/Brewer). It uses [TideSdk](http://www.tidesdk.org/) for integrating with the OS.
 
-* Vim: **kchmck**'s [Vim CoffeeScript](http://github.com/kchmck/vim-coffee-script) — adds Vim syntax highlighting and indentation support.
+* Vim: **kchmck**'s [Vim CoffeeScript](http://github.com/kchmck/vim-coffee-script) — adds Vim syntax highlighting, linting, indentation support. See also [syntax-only fork](https://github.com/strogonoff/vim-coffee-script) without coffee compiler dependency.
 
 * Vim snippets collections **carlosvillu**'s [CoffeeScript Vim Snippets](https://github.com/carlosvillu/coffeScript-VIM-Snippets) - add snippets to be used with the snippets vim plugin.
 
