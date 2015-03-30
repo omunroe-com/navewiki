@@ -261,6 +261,7 @@ targeting the JVM and JavaScript.
 
 * [NS Basic/App Studio](http://www.nsbasic.com/app/) [commercial] Visual Basic-style BASIC to JavaScript compiler. Includes IDE. Targets iOS and Android
 * [qb.js](http://stevehanov.ca/blog/index.php?id=92/) An implementation of QBASIC in JavaScript
+* [Spiderbasic](http://www.spiderbasic.com) [commercial] SpiderBasic is new web client-side programming language based on established BASIC rules. Its main purpose is to allow development of very complex, windowed based web applications. It provides a large commandset to handle complex and reactive GUI, 2D games, and many more in a coherent manner. 
 
 #### Pascal
 
