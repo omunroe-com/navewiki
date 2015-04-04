@@ -112,7 +112,7 @@
 * [HotRuby](http://hotruby.yukoba.jp/) Runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [ColdRuby](https://github.com/whitequark/coldruby) Compiler of Ruby 1.9 MRI bytecode, and a runtime written in JavaScript to aid in execution of Ruby code.
 * [rb2js](http://rb2js.rubyforge.org/) Converts Ruby to JavaScript.
-* [RubyJS](http://www.ntecs.de/blog/articles/2007/01/08/rubyjs-javascript-no-thank-you/) A successor to rb2js
+* [RubyJS](http://rubyjs.org/) A successor to rb2js
 * [Red](https://github.com/jessesielaff/red) Writes like Ruby and runs like JavaScript
 * [Quby](http://www.playmycode.com/docs/quby) Used for game coding site, [open source](https://github.com/PlayMyCode/Quby).
 * [8ball](https://github.com/mattknox/8ball) Ruby-to-JavaScript source-to-source transformer
@@ -340,7 +340,7 @@ for client-side (and server-side) web development
 * [Brozula](https://github.com/creationix/brozula) Lua bytecode interpreter
 * [Pygmy](http://peterolson.github.com/Pygmy/Docs/index.html) a dynamic language that compiles to JavaScript designed to be readable but concise enough to be competitive in code golf.
 * [browserl](http://svahne.github.com/browserl/) An Erlang Emulator written in JavaScript
-* [ErlyJS](https://github.com/hassy/erlyjs) (abandoned) JavaScript to Erlang compiler
+* [ErlyJS](https://github.com/baryluk/erlyjs) JavaScript to Erlang compiler
 * [Topaz](https://github.com/giesse/Project-SnowBall) Rebol inspired language on top of JavaScript
 * [NGN APL](https://github.com/ngn/apl) an APL-to-JavaScript compiler written in CoffeeScript
 * [CobolScript](https://github.com/ajlopez/CobolScript) COBOL language compiler to JavaScript.
@@ -386,7 +386,7 @@ for client-side (and server-side) web development
 * [PEG.js](http://pegjs.majda.cz/) parser generator for JavaScript based on the parsing expression grammar formalism
 * [languagejs](https://github.com/tolmasky/language) – PEG parser written in JavaScript with first class errors
 * [Canopy](https://github.com/jcoglan/canopy) Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus
-* [JS/CC](http://jscc.jmksf.com/) LALR(1) parser generator
+* [JS/CC](http://jscc.phorward-software.com/) LALR(1) parser generator
 * [jsparse](https://github.com/doublec/jsparse) PEG by Grandmaster Chris Double
 * [ReParse](https://github.com/weaver/ReParse) parser combinator library for JavaScript like Haskell's Parsec
 * [p4js](https://github.com/asmyczek/p4js) Monadic parser library for JavaScript
@@ -403,7 +403,7 @@ for client-side (and server-side) web development
 * [ESTree Specification](https://github.com/estree/estree) - An effort to better standardize an AST specification based on the original Spidermonkey Parser API. It is used by Acorn, Esprima, and SpiderMonkey's own parser. This succeeds the original SpiderMonkey Parser API's AST specification.
 * [Shift JavaScript AST Specification](https://github.com/shapesecurity/shift-spec) - see this [blog post](http://engineering.shapesecurity.com/2014/12/announcing-shift-javascript-ast.html) with more information
 * [JsonML AST](http://code.google.com/p/es-lab/wiki/JsonMLASTFormat) format used by the es5 parser 
-* [treehugger](https://github.com/zefhemel/treehugger) JavaScript AST transformation tools
+* [treehugger](https://github.com/ajaxorg/treehugger) JavaScript AST transformation tools
 * [JavaScript Shaper](http://jsshaper.org/) JavaScript syntax tree shaping
 * [burrito](https://github.com/substack/node-burrito) & [js-traverse](https://github.com/substack/js-traverse) – see [this post](http://substack.net/posts/eed898) for more info, as well as [node-stackedy](https://github.com/substack/node-stackedy) for an example and [node-browserify](https://github.com/substack/node-browserify) for running it in a browser instead of node
 * [falafel](https://github.com/substack/node-falafel) - transform the ast on a recursive walk
