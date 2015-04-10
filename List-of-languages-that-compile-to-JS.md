@@ -186,7 +186,7 @@ targeting the JVM and JavaScript.
 * [DotNetWebToolkit](https://github.com/chrisdunelm/DotNetWebToolkit) Toolkit providing a .NET CIL to JavaScript transcoder and Visual Studio project/debugging integration
 * [Netjs](https://github.com/praeclarum/Netjs) .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
 * [WootzJs](https://github.com/kswoll/WootzJs) C# to Javascript cross-compiler built on top of Microsoft Roslyn, which handles the complex process of converting your C# code into syntax trees with symbol information
-* [DuoCode](http://duoco.de/) by Microsoft - C#-to-JavaScript compiler powered by [Microsoft Roslyn](https://github.com/dotnet/roslyn)
+* [DuoCode](http://duoco.de/) C#-to-JavaScript compiler powered by [Microsoft Roslyn](https://github.com/dotnet/roslyn)
 * [Bridge.NET](http://bridge.net/) - Open Source C#-to-JavaScript compiler. Includes jQuery + many other frameworks. Developed and well supported by a professional team.  
 
 #### Lisp, Scheme
