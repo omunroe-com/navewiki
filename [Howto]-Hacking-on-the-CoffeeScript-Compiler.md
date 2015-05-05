@@ -28,7 +28,7 @@ npm is like Ruby Gems for Node.  It will let us download the rest of the package
 
 ### The CoffeeScript Compiler
 
-CoffeeScript is *self-hosting*.  This means that the CoffeeScript compiler is written in.... CoffeeScript.  If that makes your head hurt, welcome to the world of compilers and language translators :)
+CoffeeScript is *self-hosting*.  This means that the CoffeeScript compiler is written in.... CoffeeScript.  If that makes your head hurt, welcome to the world of compilers and transpilers :)
 
     npm install -g coffee-script
 
