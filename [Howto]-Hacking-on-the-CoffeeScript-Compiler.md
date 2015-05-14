@@ -151,7 +151,7 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
    to copy the previous entry and then adjust it.
 
    It is handy to base the change log entry on the commit log since the last
-   version. If the last version is `1.9.0` you may run the following:
+   version. If the last version is `1.9.9` you may run the following:
 
    ```sh
    git log 1.9.9.. --reverse --no-merges --pretty=medium >changes
