@@ -126,3 +126,57 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
 1. Don't submit the `extras/coffee-script.js` file.  It will be rebuilt by the CoffeeScript team when a release is tagged
 2. Similarly, don't submit the `index.html` documentation file.  It will also be built when a release is tagged
 3. Changes without tests will generally not be accepted unless it's a fix to a regression or you can make the argument that a test is more trouble than it's worth
+
+# 11. Preparing a new release
+
+1. Update the version number in the following files:
+
+   - package.json
+   - bower.json
+   - src/coffee-script.coffee
+   - documentation/index.html.js (in the “Latest version” link)
+
+   A handy way of doing that is using `sed`. For example, to update from `1.9.9`
+   to `2.0.0`:
+
+   ```sh
+   sed -i 0,/1\.9\.9/s//2.0.0/g package.json bower.json src/coffee-script.coffee documentation/index.html.js
+   ```
+
+2. Write a change log entry in documentation/index.html.js. The easiest way is
+   to copy the previous entry and then adjust it.
+
+   It is handy to base the change log entry on the commit log since the last
+   version. If the last version is `1.9.0` you may run the following:
+
+   ```sh
+   git log 1.9.9.. --reverse --no-merges --pretty=medium >changes
+   ```
+
+   That’ll give you a nice little list of things that has happened since `1.9.9`
+   in chronological order. Edit the `changes` file to remove commits that do not
+   need to be mentioned explicitly in the change log and reduce related commits
+   to single entries. Then turn them into nice little summarizing bullet points
+   and move them over to `documentation/index.html.js`. It helps visiting
+   related issues and PRs on github while doing this.
+
+3. Run `cake build:full` to rebuild the JavaScript files from the CoffeeScript
+   source, which should include the new version number. It also runs the tests
+   just to make sure that everything is good to go.
+
+4. Run `cake build:browser` to build the browser version.
+
+5. Run `cake doc:site` to build the documentation for the website. (This
+   actually starts a watch mode. You may kill it when it has finished building
+   once.)
+
+6. Run `cake doc:source` to build the annotated source code documentation.
+
+7. Make sure that you haven’t forgot to update the version number somewhere. If
+   you update from `1.9.9`, `git grep '1\.9\.9'` should only find matches in the
+   change log.
+
+8. Commit all the changes. If you’re updating to `2.0.0`, `CoffeeScript 2.0.0`
+   is a good commit message.
+
+9. Send a PR! (Amend and force-push changes requested by reviewers if needed.)
