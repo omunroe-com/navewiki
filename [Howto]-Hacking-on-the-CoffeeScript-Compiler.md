@@ -127,7 +127,7 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
 2. Similarly, don't submit the `index.html` documentation file.  It will also be built when a release is tagged
 3. Changes without tests will generally not be accepted unless it's a fix to a regression or you can make the argument that a test is more trouble than it's worth
 
-# 11. Preparing a new release
+## 11. Preparing a new release
 
 1. Update the version number in the following files:
 
