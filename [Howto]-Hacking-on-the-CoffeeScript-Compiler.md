@@ -129,6 +129,10 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
 
 ## 11. Preparing a new release
 
+0. Make sure that new features are properly documented. If not, try to do so
+   by sending PRs. After those have been merged or otherwise fixed, proceed
+   with the following steps.
+
 1. Update the version number in the following files:
 
    - package.json
