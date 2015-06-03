@@ -144,6 +144,15 @@ Button = implementing Options, Events, class _Button
   onClick: -> # do stuff
 ```
 
+Solution (3) courtesy of [arximboldi](http://github.com/arximboldi), Using the [heterarchy module](http://github.com/arximboldi/heterarchy):
+
+```coffee
+{multi} = require 'heterarchy'
+
+class Button extends multi Options, Events
+  onClick: -> # do stuff
+```
+
 These issues should cover the discussion on mixins:
 [#218](http://github.com/jashkenas/coffee-script/issues/218),
 [#327](http://github.com/jashkenas/coffee-script/issues/327),
