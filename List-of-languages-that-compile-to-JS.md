@@ -127,6 +127,7 @@
 * [PyCow](https://github.com/p2k/PyCow) Python to MooTools JS.
 * [PyvaScript](http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser) Python-like syntax to JavaScript.
 * [RapydScript](https://github.com/atsepkov/RapydScript) JavaScript with a Pythonic syntax.
+* [Bulbul](https://github.com/ahmedaliadeel/bulbul) Python3 to JavaScript/ES6/ES7 compiler. Apparently the only Python-to-JS compiler intended to provide support for AngularJS, React, Aurelia and other modern JS libs.
 * [Brython](http://brython.info/) browser python
 * [PythonScript](http://apppyjs.appspot.com/) Python-like compiled to JavaScript
 * [pythonscript](https://github.com/DenerosArmy/pythonscript) Python compiled to readable JavaScript using  the AST. (proof of concept)
