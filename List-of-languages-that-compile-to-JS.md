@@ -274,12 +274,12 @@ targeting the JVM and JavaScript.
 
 * [Go2js](https://github.com/kless/go2js) Line-to-line translator from Go to JavaScript.
 * [GopherJS](https://github.com/neelance/gopherjs) A transpiler from Go to JavaScript.
-* [TARDISgo](https://tardisgo.github.io) Compile Golang to Haxe (then on to JavaScript, Flash, Java, C++, C#, PHP & Neko)
+* [TARDISgo](https://tardisgo.github.io) Compile Golang to Haxe (then on to JavaScript, Flash, Java, C++, C#, PHP, Python & Neko)
 
 
 #### Multitarget
 
-* [Haxe](http://haxe.org/) compiles to several platforms (C++, Flash, JS, Neko, PHP).
+* [Haxe](http://haxe.org/) compiles to several platforms (C++, Flash, JS, Neko, PHP, Java, C#, Python).
 * [Fantom](http://fantom.org/) Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 * [LZX (Laszlo XML)](http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes) LZX is [OpenLaszlo's](http://www.openlaszlo.org) declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3.
 * Clue and jsc above target multiple runtimes in addition to JavaScript
