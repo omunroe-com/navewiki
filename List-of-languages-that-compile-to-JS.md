@@ -116,6 +116,7 @@
 * [Red](https://github.com/jessesielaff/red) Writes like Ruby and runs like JavaScript
 * [Quby](http://www.playmycode.com/docs/quby) Used for game coding site, [open source](https://github.com/PlayMyCode/Quby).
 * [8ball](https://github.com/mattknox/8ball) Ruby-to-JavaScript source-to-source transformer
+* [Ruby2JS](https://github.com/rubys/ruby2js#readme) Minimal yet extensible Ruby to JavaScript conversion.
 
 #### Python
 
