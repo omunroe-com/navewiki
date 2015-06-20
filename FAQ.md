@@ -34,7 +34,7 @@ Read the following issues for earlier discussion:
 
 ## Functions
 
-*CoffeeScript's syntax is big on reducing the size of function declarations, as evidenced by the replacing of the `function` keyword with the much shorter `->` glyph. Take this into consideration if you plan to propose anything around this declaration syntax.*
+*CoffeeScript's syntax is big on reducing the size of function expressions, as evidenced by the replacing of the `function` keyword with the much shorter `->` glyph. Take this into consideration if you plan to propose anything around this declaration syntax.*
 
 ----
 
