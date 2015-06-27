@@ -192,9 +192,9 @@ These issues should cover the discussion on mixins:
 # Code:
 #
 namespace = (target, name, block) ->
-  [target, name, block] = [(if typeof exports isnt 'undefined' then exports else window), arguments...] if arguments.length < 3
+  [target, name, block] = [(exports ? window), arguments...] if arguments.length < 3
   top    = target
-  target = target[item] or= {} for item in name.split '.'
+  target = target[item] ?= {} for item in name.split '.'
   block target, top
 
 # Usage:
@@ -260,7 +260,7 @@ See discussion at issue [1036](https://github.com/jashkenas/coffee-script/issues
   {
     foo: 0
     bar: 1
-  },
+  }
   {
     baz: 2
   }
