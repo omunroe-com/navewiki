@@ -178,7 +178,7 @@ targeting the JVM and JavaScript.
 * [Prefix](http://www.toptensoftware.com/prefix/) in development
 * [Blade](https://github.com/vannatech/blade) Visual Studio add-on for converting C# to JavaScript
 * [SharpKit](https://github.com/SharpKit/SharpKit) C# to JavaScript Cross-Compiler
-* [Saltarelle](http://www.saltarelle-compiler.com/) C# to JavaScript Compiler
+* [Saltarelle](http://www.saltarelle-compiler.com/) C# to JavaScript Compiler. Saltarelle is now part of [Bridge.NET](http://bridge.net/).
 * [FunScript](https://github.com/ZachBray/FunScript/) F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
 * [Pit](https://github.com/fsharp/pitfw) F# to JavaScript compiler
 * [WebSharper](http://www.websharper.com/) Lets you compile F# to JS.
@@ -189,7 +189,7 @@ targeting the JVM and JavaScript.
 * [Netjs](https://github.com/praeclarum/Netjs) .NET to TypeScript and JavaScript compiler. It uses multiple stages to produce JavaScript for your web apps.
 * [WootzJs](https://github.com/kswoll/WootzJs) C# to Javascript cross-compiler built on top of Microsoft Roslyn, which handles the complex process of converting your C# code into syntax trees with symbol information
 * [DuoCode](http://duoco.de/) C#-to-JavaScript compiler powered by [Microsoft Roslyn](https://github.com/dotnet/roslyn)
-* [Bridge.NET](http://bridge.net/) - Open Source C#-to-JavaScript compiler. Includes jQuery + many other frameworks. Developed and well supported by a professional team.  
+* [Bridge.NET](http://bridge.net/) - Open Source C#-to-JavaScript compiler. Includes jQuery + many other frameworks. Developed and well supported by a professional team. 
 
 #### Lisp, Scheme
 
