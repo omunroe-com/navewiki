@@ -75,7 +75,7 @@
 * [Swym](http://cheersgames.com/swym/wiki/index.php?title=Main_Page) – statically typed, with type inference and generics
 * [Typecast.js](http://typecastjs.org) – JavaScript platform for statically typed variables without a custom compiler.
 * [PureScript](http://purescript.org) – a small, strongly typed programming language that compiles to JavaScript, featuring extensible records and effects, and type classes.
-* [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) by Google – project to improve JavaScript by adding type annotations and other features on top of TypeScript. Now **defunct**, will be merged(https://youtu.be/ihAeffWJEIc) into Microsoft's Typescript.
+* [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) by Google – project to improve JavaScript by adding type annotations and other features on top of TypeScript. Now **defunct**, will be [merged](https://youtu.be/ihAeffWJEIc) into Microsoft's TypeScript.
 * [Flow](http://flowtype.org) by Facebook - static type checker for JavaScript, supports optional types and null checks
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
