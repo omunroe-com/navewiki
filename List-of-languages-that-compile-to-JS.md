@@ -298,6 +298,7 @@ targeting the JVM and JavaScript.
 * [Sugar](https://github.com/sebastien/sugar) new programming language designed to replace JavaScript
 for client-side (and server-side) web development
 * [Opa](http://www.opalang.org/) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
+* [STIP.js](http://soft.vub.ac.be/~lphilips/jspdg/stip/stip-web/stip.html) Slicing Tierless Programs in JavaScript
 
 #### Visual programming tools
 
