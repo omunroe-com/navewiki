@@ -43,7 +43,7 @@
 * [CirruScript](https://github.com/Cirru/cirru-script) JavaScript in Cirru Grammar(is like Lisp but with far less parentheses, and is simplified for AST manipulations).
 * [Stripes](https://github.com/danilolekovic/stripes) Stripes is a innovative, modern programming language with a nice syntax, and optional functional programming and loose variable type checking.
 * [TLC](https://github.com/michaelchance/tlc) Tag Line Commands is a inline macro language for calling+formatting javascript/coffeescript/livescript json output into HTML.
-* [CokeScript](https://github.com/batiste/CokeScript) is a inspired by Python and Ruby that integrate natively with the [Virutal-DOM library](https://github.com/Matt-Esch/virtual-dom)
+* [CokeScript](https://github.com/batiste/CokeScript) is a inspired by Python and Ruby that integrate natively with the [Virtual-DOM library](https://github.com/Matt-Esch/virtual-dom)
 
 #### JavaScript Extensions
 
