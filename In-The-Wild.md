@@ -20,7 +20,7 @@
 
 [CircleCi](http://www.circleci.com) – Hosted Continuous Integration (CoffeeScript + HamlCoffee + Backbone)
 
-[CoffeeShop](https://shell-cosh.appspot.com) – A CoffeeScript shell with docs and Gist integration.
+[CoffeeShop](https://coshmain.github.io) – A CoffeeScript shell with docs and Gist integration.
 
 [CyQuiz](http://www.cyquiz.com) – Quiz and Game system (CoffeeScript)
 
