@@ -357,6 +357,7 @@ for client-side (and server-side) web development
 * [Jotlin](https://github.com/dnlo/jotlin) a small programming language in Kotlin
 * [uilang](https://github.com/bendc/uilang) and [uiscript](https://github.com/qweek/uiscript) simple UI-focused script languages for web designers 
 * [Hodor](http://www.hodor-lang.org/) - Hodor programming language
+* [Mason](http://mason-lang.org)
 
 ### Tools for Compiler Writers
 
