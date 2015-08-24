@@ -424,3 +424,4 @@ for client-side (and server-side) web development
 * [esmangle](https://github.com/Constellation/esmangle) minifier for Mozilla Parser API AST
 * [estraverse](https://github.com/estools/estraverse) ECMAScript traversal functions from esmangle project
 * [ecma-ast](https://github.com/mattbierner/ecma-ast) AST node data structures for ECMAScript 5.1 based on the [SpiderMonkey Parser API](https://developer.mozilla.org/en-US/docs/SpiderMonkey/Parser_API)
+* [esast](https://github.com/mason-lang/esast) Slow compilation? Use typed data for fast AST construction and rendering. Compatible with JSON trees following [estree](https://github.com/estree/estree). 
