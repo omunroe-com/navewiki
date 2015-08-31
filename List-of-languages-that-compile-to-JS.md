@@ -41,7 +41,7 @@
 * [Khepri](http://khepri-lang.com) Lightweight language that reworks Javascript's syntax to be better for untyped functional-style programming.
 * [Spider](https://github.com/alongubkin/spider) Spider is a programming language that compiles to JavaScript (ES5 and ES6 targets). It takes the best ideas of Go, Swift, Python, C# and CoffeeScript.
 * [CirruScript](http://script.cirru.org/) write JavaScript with indentations and polish notations, similar to S-Expression but with fewer parentheses.
-* [Stripes](https://github.com/danilolekovic/stripes) Stripes is a innovative, modern programming language with a nice syntax, and optional functional programming and loose variable type checking.
+* [Pallet](https://github.com/PalletLang/Pallet) Pallet is a innovative, modern programming language with a nice syntax, and optional functional programming and loose variable type checking.
 * [TLC](https://github.com/michaelchance/tlc) Tag Line Commands is a inline macro language for calling+formatting javascript/coffeescript/livescript json output into HTML.
 * [CokeScript](https://github.com/batiste/CokeScript) is a inspired by Python and Ruby that integrate natively with the [Virtual-DOM library](https://github.com/Matt-Esch/virtual-dom)
 * [imba](http://imba.io/) compiles to performant and readable JavaScript
