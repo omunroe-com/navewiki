@@ -284,49 +284,9 @@ for lang, i in languages
   alert "#{i} = #{lang}"
 ```
 
-## Tools
-
-**Q:** Is there a lint tool for CoffeeScript?
-
-**A:** Try [CoffeeLint](http://www.coffeelint.org). The [Polar Mobile Style Guide](https://github.com/polarmobile/coffeescript-style-guide) comes with reasonable settings.
-
----
-
-**Q:** Are there any other tools I should be aware of?
-
-**A:** You can, and should, use all the amazing tools in the blossoming Javascript ecosystem. You can even [generate source maps](http://coffeescript.org/#source-maps) in order to debug CoffeeScript code with most Javascript debuggers.
-
-## ECMAScript 6 support
-
-**Q:** What is the roadmap for EC6 support?
-
-**A:** ES6 features, just like ES5 features, and ES3 features, are supported on a case-by-case basis. Ideally, they should be added as soon as they're widely supported in shipping JavaScript implementations.
-
----
-
-**Q:** When will my favorite EC6 feature be supported?
-
-**A:** Many of the new EC6 features were already available to CoffeeScript users years ago, like classes, fat arrows, destructuring assignment, optional function arguments, and so on. Others will be supported on a case-by-case basis:
-
-*Modules* and *tail call optimization* are not yet supported by any Javascript implementation.
-
-`const` will never be supported. `let` might be supported one day, but recall that CoffeeScript doesn't even have `var`.
-
----
-
-**Q:** CoffeeScript emulates my favorite EC6 feature with EC5 code. Will it ever emit "native" EC6 code for it?
-
-Yes, once it's supported across the board. Arrow function don't exist in IE11, for example. Destructuring doesn't even exist in IE edge.
-
-In some cases, the EC6 feature has slightly different semantics and there isn't any benefit in breaking backwards compatibility, so the implementation is staying the same for the moment. This is the case for classes: EC6 classes do not have *executable bodies*, which is very useful and used in many production CoffeeScript codebases, and a very compelling case would have to be made before it is dropped.
-
 ## Miscellaneous
 
-**Q:** Should I use `coffeescript` or `CoffeScriptRedux`?
-
-**A:** CoffeScriptRedux is almost compatible with the official implementation, and is said to be easier to extend. Both projects are quite stable and don't change much. However, right now it seems to be unmaintained. See [CoffeeScriptRedux/issues/336](https://github.com/michaelficarra/CoffeeScriptRedux/issues/336#issuecomment-70210965).
-
----
+--
 
 **Q:** What are CoffeeScript's compilation priorities?
 
