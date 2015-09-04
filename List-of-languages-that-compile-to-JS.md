@@ -177,6 +177,7 @@ targeting the JVM and JavaScript.
 * [jsc](http://jsc.sourceforge.net/) [experimental] Recompile your .NET assembly to JavaScript, ActionScript, PHP or Java.
 * [JSIL](https://github.com/kevingadd/JSIL) MSIL (.NET bytecode) to JavaScript
 * [Script#](http://scriptsharp.com) Compiles C# to JS.
+* [CilJs](https://github.com/markusjohnsson/cil.js) Translates CIL/MSIL (.NET bytecode) (C#) to JavaScript
 * [Prefix](http://www.toptensoftware.com/prefix/) in development
 * [Blade](https://github.com/vannatech/blade) Visual Studio add-on for converting C# to JavaScript
 * [SharpKit](https://github.com/SharpKit/SharpKit) C# to JavaScript Cross-Compiler
