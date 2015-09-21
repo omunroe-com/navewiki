@@ -71,8 +71,6 @@
 * [Mascara](http://www.mascaraengine.com/) [commercial] Enhances JavaScript with powerful features like classes, namespaces and type-checking.
 * [Roy](http://roy.brianmckenna.org/) tries to meld JavaScript semantics with some features common in static functional languages
 * [Elm](http://elm-lang.org/) type-safe functional language that compiles to HTML, CSS, and JavaScript.
-* [JSX](http://jsx.github.com/) a faster, safer, easier alternative to JavaScript
-* [Este.js](https://github.com/Steida/este/) Google Closure written in CoffeeScript statically compiled to JavaScript (and much more).
 * [Swym](http://cheersgames.com/swym/wiki/index.php?title=Main_Page) – statically typed, with type inference and generics
 * [Typecast.js](http://typecastjs.org) – JavaScript platform for statically typed variables without a custom compiler.
 * [PureScript](http://purescript.org) – a small, strongly typed programming language that compiles to JavaScript, featuring extensible records and effects, and type classes.
