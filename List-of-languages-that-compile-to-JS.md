@@ -215,6 +215,7 @@ targeting the JVM and JavaScript.
 
 ###### Other
 
+* [eslisp](https://github.com/anko/eslisp) An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros that are just JS functions. Aims to be very close to JS, and highly experimental.
 * [EdgeLisp](https://github.com/manuel/edgelisp) A Lisp in the tradition of Common Lisp
 * [Parenscript](http://common-lisp.net/project/parenscript/) Subset of Common Lisp to JS.
 * [Ralph](https://github.com/turbolent/ralph) Lisp-1 dialect that compiles to JavaScript, inspired by Dylan
