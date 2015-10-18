@@ -359,6 +359,7 @@ for client-side (and server-side) web development
 * [uilang](https://github.com/bendc/uilang) and [uiscript](https://github.com/qweek/uiscript) simple UI-focused script languages for web designers 
 * [Hodor](http://www.hodor-lang.org/) - Hodor programming language
 * [Mason](http://mason-lang.org)
+* [Skew](https://github.com/evanw/skew) a web-first, cross-platform programming language with an optimizing compiler (compiles to JS and C#)
 
 ### Tools for Compiler Writers
 
