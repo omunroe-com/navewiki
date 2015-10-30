@@ -253,6 +253,7 @@ targeting the JVM and JavaScript.
 * [Lively Kernel](http://www.lively-kernel.org/) – smalltalk/squeak-like development environment in the browser.  See also [Avocado](http://avocadojs.com/), built on top of it.
 * [Little Smallscript](https://github.com/ympbyc/LittleSmallscript) Little Smalltalk to JavaScript translator.
 * [SqueakJS](https://bertfreudenberg.github.io/SqueakJS/) Squeak VM in Javascript
+* [PharoJS](https://github.com/bouraqadi/PharoJS) PharoJS is a [Pharo](http://pharo.org/) to JavaScript compiler and infrastructure for remote test and debugging. The goal is to enable developing apps in [Pharo](http://pharo.org/) while deploying them on top of a JavaScript engine.
 
 #### C/C++
 
