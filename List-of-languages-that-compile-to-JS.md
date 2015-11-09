@@ -45,6 +45,7 @@
 * [TLC](https://github.com/michaelchance/tlc) Tag Line Commands is a inline macro language for calling+formatting javascript/coffeescript/livescript json output into HTML.
 * [CokeScript](https://github.com/batiste/CokeScript) is a inspired by Python and Ruby that integrate natively with the [Virtual-DOM library](https://github.com/Matt-Esch/virtual-dom)
 * [imba](http://imba.io/) compiles to performant and readable JavaScript
+* [Cor](http://yosbelms.github.io/cor) The Language of the Web
 
 #### JavaScript Extensions
 
