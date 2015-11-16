@@ -145,6 +145,7 @@
 #### Perl
 
 * [Perlito](https://github.com/fglock/Perlito) Project to compile Perl 5/6 to JavaScript, Ruby, SBCL, and Go.
+* [p2js](https://github.com/urandom/p2js) Perl to JavaScript converter
 
 #### Java/JVM
 
@@ -337,7 +338,6 @@ for client-side (and server-side) web development
 * [Quixe](https://github.com/erkyrath/quixe) a Glulx VM interpreter written in JavaScript
 * [Gnusto](https://github.com/curiousdannii/gnusto) a Z-Machine VM interpreter written in JavaScript
 * [Logo Interpreter](http://www.calormen.com/logo/)
-* [p2js](https://github.com/urandom/p2js) Perl to JavaScript converter
 * [Reb2Static](https://github.com/jankom/RebToStatic) Rebol to JavaScript
 * [RPN](https://github.com/adrusi/rpn) Interpreter for a language with a Reverse Polish Notation syntax.
 * [jsForth](http://forthfreak.net/jsforth80x25.html)
