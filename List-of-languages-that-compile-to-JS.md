@@ -165,6 +165,7 @@ targeting the JVM and JavaScript.
 * [QWT](http://qooxdoo.org/contrib/project/qwt) QWT consists of a Java-to-JavaScript compiler, a prepared library of Qooxdoo componente (version 0.7.x) and some other tools. Similar to GWT
 * [TeaVM](https://github.com/konsoletyper/teavm) is an ahead-of-time transpiler that takes JVM bytecode and produces JavaScript.
 * [Dragome SDK](http://www.dragome.com/) compiles JVM bytecode to Javascript.
+* [JSweet](http://www.jsweet.org/) a Java to JavaScript transpiler built on top of TypeScript and giving access to hundreds of JavaScript libraries in Java.
 
 #### Scala
 
