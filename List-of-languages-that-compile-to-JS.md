@@ -292,7 +292,7 @@ targeting the JVM and JavaScript.
 * [Fantom](http://fantom.org/) Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS).
 * [LZX (Laszlo XML)](http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes) LZX is [OpenLaszlo's](http://www.openlaszlo.org) declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3.
 * Clue and jsc above target multiple runtimes in addition to JavaScript
-* [Nim](http://nim-lang.org) compiles to C, C++ and JavaScript
+* [Nim](http://nim-lang.org) compiles to C, C++, Objective-C, and JavaScript
 * [Monkey](http://monkeycoder.co.nz/) [commercial] compiles to several platforms (JavaScript, ActionScript 3, C++, Java, CSharp).
 * [defrac](https://www.defrac.com/) compiles Java bytecode to several platforms (including JavaScript)
 * [Ć Programming Language](http://cito.sourceforge.net/) is automatically translated to C, Java, C#, JavaScript, ActionScript, Perl and D.
