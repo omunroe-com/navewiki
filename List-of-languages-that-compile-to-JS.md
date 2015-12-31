@@ -46,6 +46,7 @@
 * [imba](http://imba.io/) compiles to performant and readable JavaScript
 * [Cor](http://yosbelms.github.io/cor) The Language of the Web
 * [Iode](https://github.com/iode-lang/Iode) a language inspired by Swift
+* [FutureScript](http://futurescript.org/) a more radical, but more readable, different new language.
 
 #### JavaScript Extensions
 
