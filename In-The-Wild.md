@@ -56,6 +56,8 @@
 
 [Posterous](https://posterous.com) – Blogging platform. Used CoffeeScript to create its revamped “Spaces” front-end. ([source](http://twitter.com/#!/adamsingy/status/114760397982146560))
 
+[Repo Health Check](http://repocheck.com) – A client-side repo analyzer writting with CoffeeScript and jQuery.
+
 [Sellaround](http://sellaround.net) – A social commerce widget written with CoffeeScript and jQuery.
 
 [ShareLaTeX](https://www.sharelatex.com) – A real time collaborative LaTeX editor inside the browser
