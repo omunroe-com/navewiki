@@ -137,6 +137,7 @@
 * [Rusthon](https://github.com/rusthon/Rusthon) Integrates several python to js methods into one project. Very Active. Not only for JS & Py, but also Go, C, Nim, etc.
 * [PyPyJS](https://github.com/pypyjs/pypyjs) PyPy. Compiled into JavaScript using Emscripten. JIT-compiling to JavaScript at runtime. 
 * [Batavia](https://github.com/pybee/batavia) run Python bytecode in the browser
+* [Transcrypt](https://pypi.python.org/pypi/Transcrypt) Project in early stages of development. Supports multiple inheritance, bound function assignment, recursive tuple assignment and readable JS output. Integrated with closure compiler.
 
 #### Erlang
 
