@@ -24,7 +24,6 @@
 * [Moescript](https://github.com/moescript/moescript) Indent-based language
 * [pogoscript](http://pogoscript.org/) language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript
 * [LispyScript](http://lispyscript.com/) A JavaScript with Lispy syntax and Macros. *[○](#other "this item appears twice in this list; jump to its other instance")*
-* [wisp](http://github.com/Gozala/wisp) A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript. *[○](#clojure-like "this item appears twice in this list; jump to its other instance")*
 * [Hot Cocoa Lisp](https://github.com/olleicua/hcl) A Lisp-like language that compiles to JavaScript. *[○](#other "this item appears twice in this list; jump to its other instance")*
 * [Sibilant](http://sibilantjs.info) JavaScript with a lisp. *[○](#other "this item appears twice in this list; jump to its other instance")*
 * [ki](http://ki-lang.org) Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#clojure-like "this item appears twice in this list; jump to its other instance")*
