@@ -102,7 +102,7 @@
 * [TIScript](http://www.codeproject.com/KB/recipes/TIScript.aspx) gentle extension of JavaScript
 * [Six](https://github.com/matthewrobb/six) Six is a language super-set of JavaScript that enables new syntactic features from the 6th edition of ECMAScript to be used, through a transpiler, in your scripts today.
 * [js--](https://github.com/janpaul123/jsdares/tree/master/app/jsmm-applet/jsmm) JavaScript subset for [interactive/visual programming](http://www.jsdares.com/blindfold).
-* [Latte JS](http://lattejs.com/) Superset of JavaScript (eventually ES6), with similar goals to CoffeeScript, but keeping JS syntax.
+* [Latte JS](https://github.com/tehsenaus/latte-js/) Superset of JavaScript (eventually ES6), with similar goals to CoffeeScript, but keeping JS syntax.
 * [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html) by Facebook - a superset to add an XML-like syntax to represent HTML elements in React.
 * [oj](https://github.com/musictheory/oj) Objective-C inspired superset of JavaScript with a tiny runtime, built-in obfuscator, and experimental type checker (courtesy of Typescript).
 
@@ -274,6 +274,7 @@ targeting the JVM and JavaScript.
 * [qb.js](http://stevehanov.ca/blog/index.php?id=92/) An implementation of QBASIC in JavaScript
 * [Spiderbasic](http://www.spiderbasic.com) [commercial] SpiderBasic is new web client-side programming language based on established BASIC rules. Its main purpose is to allow development of very complex, windowed based web applications. It provides a large commandset to handle complex and reactive GUI, 2D games, and many more in a coherent manner. 
 * Monkey (see below)
+
 #### Pascal
 
 * [Smart Mobile Studio](http://op4js.optimalesystemer.no/) [commercial] Object Pascal to JavaScript compiler and Delphi like IDE that brings classes, inheritance, interfaces and more to JavaScript
