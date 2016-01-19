@@ -627,10 +627,11 @@
 * [Spiderbasic](http://www.spiderbasic.com) [commercial] SpiderBasic is new web client-side programming language based on established BASIC rules. Its main purpose is to allow development of very complex, windowed based web applications. It provides a large commandset to handle complex and reactive GUI, 2D games, and many more in a coherent manner.
 * Monkey (see below)
 
-#### Pascal
+#### Pascal, Modula, Oberon
 
 * [Smart Mobile Studio](http://op4js.optimalesystemer.no/) [commercial] Object Pascal to JavaScript compiler and Delphi like IDE that brings classes, inheritance, interfaces and more to JavaScript
 * [Elevate Web Builder](http://www.elevatesoft.com/products?category=ewb) [commercial]  Visual development tool for web applications that compiles standard Object Pascal source code into JavaScript
+* [Oberon 07](https://github.com/vladfolts/oberonjs) Translates Oberon to JavaScript code ready to be run in web browser or nodejs. Compiler itself is written in Oberon (with extensions) and compiled to JavaScript.
 
 #### Go
 
