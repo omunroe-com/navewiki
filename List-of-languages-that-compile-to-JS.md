@@ -456,10 +456,10 @@
   ![(GH-issues)](https://img.shields.io/github/issues/SharpKit/SharpKit.svg?style=flat-square)
 * [Saltarelle](http://www.saltarelle-compiler.com/) C# to JavaScript Compiler. Saltarelle is now part of [Bridge.NET](http://bridge.net/).
 * [FunScript](https://github.com/ZachBray/FunScript/) F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider
-* [Pit](https://github.com/fsharp/pitfw) F# to JavaScript compiler  
-  ![(GH-stars)](https://img.shields.io/github/stars/fsharp/pitfw.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/fsharp/pitfw.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/fsharp/pitfw.svg?style=flat-square)
+* [Pit](https://github.com/tpetricek/pitfw) F# to JavaScript compiler  
+  ![(GH-stars)](https://img.shields.io/github/stars/tpetricek/pitfw.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/tpetricek/pitfw.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/tpetricek/pitfw.svg?style=flat-square)
 * [WebSharper](http://www.websharper.com/) Lets you compile F# to JS.
 * [NemerleWeb](https://github.com/NemerleWeb/NemerleWeb/) Nemerle language compiled to JS.
 * [Blue Storm](https://www.assembla.com/spaces/bluestorm/wiki/) F# to JavaScript (and some other languages).
@@ -793,10 +793,6 @@ for client-side (and server-side) web development
   ![(GH-forks)](https://img.shields.io/github/forks/atennapel/Wortel.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/atennapel/Wortel.svg?style=flat-square)
 * [JEnglish](http://jenglish.org/) interprets regular English statements into HTML/CSS
-* [Jotlin](https://github.com/dnlo/jotlin) a small programming language in Kotlin  
-  ![(GH-stars)](https://img.shields.io/github/stars/dnlo/jotlin.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/dnlo/jotlin.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/dnlo/jotlin.svg?style=flat-square)
 * [uilang](https://github.com/bendc/uilang) and [uiscript](https://github.com/qweek/uiscript) simple UI-focused script languages for web designers  
   ![(GH-stars)](https://img.shields.io/github/stars/bendc/uilang.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/bendc/uilang.svg?style=flat-square)
