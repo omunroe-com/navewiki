@@ -357,7 +357,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/pybee/batavia.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/pybee/batavia.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/pybee/batavia.svg?style=flat-square)
-* [Transcrypt](https://pypi.python.org/pypi/Transcrypt) Supports multiple inheritance, bound function assignment and readable JS output. Integrated with closure compiler. Project in early stages of development.
+* [Transcrypt](https://www.transcrypt.org) Supports multiple inheritance, bound function assignment, highly readable JS output and small downloads. Integrated with closure compiler.
 
 #### Erlang
 
