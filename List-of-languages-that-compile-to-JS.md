@@ -223,7 +223,7 @@
   ![(GH-forks)](https://img.shields.io/github/forks/LaurieCheers/Swym.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/LaurieCheers/Swym.svg?style=flat-square)
 * [Typecast.js](http://typecastjs.org) – JavaScript platform for statically typed variables without a custom compiler.
-* [PureScript](http://purescript.org) – a small, strongly typed programming language that compiles to JavaScript, featuring extensible records and effects, and type classes.  
+* [PureScript](http://purescript.org) – a small, strongly typed programming language that compiles to JavaScript and C++, featuring extensible records and effects, and type classes.  
   ![(GH-stars)](https://img.shields.io/github/stars/purescript/purescript.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/purescript/purescript.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/purescript/purescript.svg?style=flat-square)
