@@ -166,6 +166,10 @@
   ![(GH-stars)](https://img.shields.io/github/stars/zhanzhenzhen/futurescript.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/zhanzhenzhen/futurescript.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/zhanzhenzhen/futurescript.svg?style=flat-square)
+* [PearScript](https://github.com/kocisov/pearscript) shorthanding JavaScript one more time.  
+  ![(GH-stars)](https://img.shields.io/github/stars/kocisov/pearscript.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/kocisov/pearscript.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/kocisov/pearscript.svg?style=flat-square)
 
 #### JavaScript Extensions
 
