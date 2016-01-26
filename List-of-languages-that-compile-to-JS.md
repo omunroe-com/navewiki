@@ -159,9 +159,9 @@
   ![(GH-forks)](https://img.shields.io/github/forks/yosbelms/cor.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/yosbelms/cor.svg?style=flat-square)
 * [Iode](https://github.com/iode-lang/iode-js) a language inspired by Swift  
-  ![(GH-stars)](https://img.shields.io/github/stars/iode-lang/Iode.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/iode-lang/Iode.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/iode-lang/Iode.svg?style=flat-square)
+  ![(GH-stars)](https://img.shields.io/github/stars/iode-lang/iode-js.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/iode-lang/iode-js.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/iode-lang/iode-js.svg?style=flat-square)
 * [FutureScript](http://futurescript.org/) a more radical, but more readable, different new language.  
   ![(GH-stars)](https://img.shields.io/github/stars/zhanzhenzhen/futurescript.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/zhanzhenzhen/futurescript.svg?style=flat-square)
