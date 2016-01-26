@@ -158,7 +158,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/yosbelms/cor.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/yosbelms/cor.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/yosbelms/cor.svg?style=flat-square)
-* [Iode](https://github.com/iode-lang/Iode) a language inspired by Swift  
+* [Iode](https://github.com/iode-lang/iode-js) a language inspired by Swift  
   ![(GH-stars)](https://img.shields.io/github/stars/iode-lang/Iode.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/iode-lang/Iode.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/iode-lang/Iode.svg?style=flat-square)
