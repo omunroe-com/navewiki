@@ -361,7 +361,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/pybee/batavia.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/pybee/batavia.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/pybee/batavia.svg?style=flat-square)
-* [Transcrypt](http://www.transcrypt.org) Supports multiple inheritance, bound function assignment, highly readable JS output and small downloads. Integrated with closure compiler.
+* [Transcrypt](http://www.transcrypt.org) Supports multiple inheritance, bound function assignment, highly readable JS output and small downloads. Integrated with closure compiler and fabric.js graphics lib for HTML5 canvas.
 
 #### Erlang
 
