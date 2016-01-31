@@ -681,7 +681,7 @@
   ![(GH-forks)](https://img.shields.io/github/forks/sebastien/sugar.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/sebastien/sugar.svg?style=flat-square)
 for client-side (and server-side) web development
-* [Opa](http://www.opalang.org/) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
+* [Opa](http://opalang.org/) write your complete application in just one language, and the compiler will transform it into a self-sufficient executable
 * [STIP.js](http://soft.vub.ac.be/~lphilips/jspdg/stip/stip-web/stip.html) Slicing Tierless Programs in JavaScript
 
 #### Visual programming tools
