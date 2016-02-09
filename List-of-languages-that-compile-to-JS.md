@@ -296,6 +296,9 @@
 #### Ruby
 
 * [Opal](http://opalrb.org) Ruby to JavaScript compiler.
+  ![(GH-stars)](https://img.shields.io/github/stars/opal/opal.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/opal/opal.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/opal/opal.svg?style=flat-square)
 * [HotRuby](http://hotruby.yukoba.jp/) Runs opcode, compiled by YARV on Ruby inside a web browser or in Flash.
 * [ColdRuby](https://github.com/whitequark/coldruby) Compiler of Ruby 1.9 MRI bytecode, and a runtime written in JavaScript to aid in execution of Ruby code.  
   ![(GH-stars)](https://img.shields.io/github/stars/whitequark/coldruby.svg?style=flat-square)
