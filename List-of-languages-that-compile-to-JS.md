@@ -374,6 +374,13 @@
 * [Shen](https://synrc.com/apps/n2o/doc/web/macros.htm) is the first and yet smallest Erlang JavaScript Compiler based on Erlang AST. It allows you to translate Elixir, Joxa, [Lol](https://github.com/b0oh/lol) and Erlang programs to JavaScript with erlc. [JavaScript/OTP subset](http://synrc.github.io/shen/). Has node npm package called [erlang-shen-js](https://www.npmjs.org/package/erlang-shen-js).
 * [LuvvieScript](http://luvv.ie) a browser-based dom-scripting language that is a strict sub-set of Erlang which is AST-to-AST transpiled to JavaScript ([code ](https://github.com/hypernumbers/luvviescript))
 
+#### Elixir
+
+[ElixirScript](https://github.com/bryanjos/elixirscript) converts Elixir AST to JavaScript AST to JavaScript code.
+![(GH-stars)](https://img.shields.io/github/stars/bryanjos/elixirscript.svg?style=flat-square)
+![(GH-forks)](https://img.shields.io/github/forks/bryanjos/elixirscript.svg?style=flat-square)
+![(GH-issues)](https://img.shields.io/github/issues/bryanjos/elixirscript.svg?style=flat-square)
+
 #### Perl
 
 * [Perlito](https://github.com/fglock/Perlito) Project to compile Perl 5/6 to JavaScript, Ruby, SBCL, and Go.  
