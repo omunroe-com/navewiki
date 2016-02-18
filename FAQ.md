@@ -1,6 +1,6 @@
 Considering proposing a feature for CoffeeScript? Great! We'd love to hear your thoughts on how the language could be improved.
 
-However, it's important that you make nasure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
+However, it's important that you make sure the proposal hasn't already been raised. This FAQ should contain most of the questions and suggestions that have come up multiple times, so have a read through them first. If you can't find it here, have a quick search through the Issue Tracker just to be totally sure, then go ahead.
 
 
 ## Static Analysis
