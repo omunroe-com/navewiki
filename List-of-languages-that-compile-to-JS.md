@@ -494,7 +494,11 @@
   ![(GH-forks)](https://img.shields.io/github/forks/kswoll/WootzJs.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/kswoll/WootzJs.svg?style=flat-square)
 * [DuoCode](http://duoco.de/) C#-to-JavaScript compiler powered by [Microsoft Roslyn](https://github.com/dotnet/roslyn)
-* [Bridge.NET](http://bridge.net/) - Open Source C#-to-JavaScript compiler. Includes jQuery + many other frameworks. Developed and well supported by a professional team.
+* [Bridge.NET](http://bridge.net/) - Open Source C#-to-JavaScript compiler. Includes jQuery + many other frameworks. 
+  ![(GH-stars)](https://img.shields.io/github/stars/bridgedotnet/bridge.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/bridgedotnet/bridge.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/bridgedotnet/bridge.svg.svg?style=flat-square)
+Developed and well supported by a professional team.
 
 #### Lisp, Scheme
 
