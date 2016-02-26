@@ -53,7 +53,10 @@
   ![(GH-issues)](https://img.shields.io/github/issues/ghempton/ember-script.svg?style=flat-square)
 
 ###### Friends (philosophically related)
-
+* [Bizubee](https://github.com/bizubee/bizubee) The World's Most Intense Programming Language!  
+  ![(GH-stars)](https://img.shields.io/github/stars/bizubee/bizubee.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/bizubee/bizubee.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/bizubee/bizubee.svg?style=flat-square)
 * [Kaffeine](https://github.com/weepy/kaffeine) Enhanced Syntax for JavaScript.  
   ![(GH-stars)](https://img.shields.io/github/stars/weepy/kaffeine.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/weepy/kaffeine.svg?style=flat-square)
