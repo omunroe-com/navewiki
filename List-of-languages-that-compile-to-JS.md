@@ -543,6 +543,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/patrickdlogan/nconc.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/patrickdlogan/nconc.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/patrickdlogan/nconc.svg?style=flat-square)
+* [Scheje](http://github.com/turbopape/scheje) A Little Scheme on Top of Clojure - compiles on Node.js and the Browser.
 * [scheme2js](http://www-sop.inria.fr/indes/scheme2js/) Scheme to JavaScript.
 * [Spock](http://wiki.call-cc.org/eggref/4/spock) A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy  
 * [Whalesong](http://hashcollision.org/whalesong/) Racket to JS compiler
