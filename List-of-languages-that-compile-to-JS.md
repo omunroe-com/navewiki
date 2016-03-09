@@ -368,6 +368,7 @@
   ![(GH-forks)](https://img.shields.io/github/forks/pybee/batavia.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/pybee/batavia.svg?style=flat-square)
 * [Transcrypt](http://www.transcrypt.org) New Python 3.5 to JavaScript transpiler. Supports multiple inheritance, bound function assignment, selective operator overloading, highly readable JS output, small downloads, fast execution using call memoizing. Integrated with closure compiler / minifier, optional static checker and fabric.js graphics lib for HTML5 canvas.
+
   ![(GH-stars)](https://img.shields.io/github/stars/JdeH/Transcrypt.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/JdeH/Transcrypt.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/JdeH/Transcrypt.svg?style=flat-square)
