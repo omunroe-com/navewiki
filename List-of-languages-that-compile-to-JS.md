@@ -239,6 +239,10 @@
   ![(GH-stars)](https://img.shields.io/github/stars/facebook/flow.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/facebook/flow.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/facebook/flow.svg?style=flat-square)
+* [ActionScript](http://flex.apache.org/download-flexjs.html) with Apache FlexJS - Based on ECMAScript 4, ActionScript provides typing and can be compiled to JavaScript.
+  ![(GH-stars)](https://img.shields.io/github/stars/apache/flex-asjs.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/apache/flex-asjs.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/apache/flex-asjs.svg?style=flat-square)
 
 ###### Synchronous to Asynchronous JavaScript Compilers (CPS)
 * [Streamline.js](https://github.com/Sage/streamlinejs) Uses underscore (\_) to stand for callbacks. This [fork](https://github.com/willconant/streamlinejs) preserves line numbers for debugging.  
