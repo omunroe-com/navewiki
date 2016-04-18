@@ -592,6 +592,7 @@
   ![(GH-issues)](https://img.shields.io/github/issues/jaked/ocamljs.svg?style=flat-square)
 * [O'Browser](http://www.pps.jussieu.fr/~canou/obrowser/tutorial/) OCaml bytecode interpreter in JS.
 * [Js_of_ocaml](http://ocsigen.org/js_of_ocaml/) OCaml bytecode to JS compiler.
+* [Bucklescript](https://github.com/bloomberg/bucklescript) OCaml to readable JS
 
 #### Haskell
 
