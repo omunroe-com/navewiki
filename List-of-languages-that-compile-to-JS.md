@@ -865,6 +865,7 @@ for client-side (and server-side) web development
   ![(GH-forks)](https://img.shields.io/github/forks/jterrace/js.js.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/jterrace/js.js.svg?style=flat-square)
 * [sweet.js](http://sweetjs.org/) Brings hygienic macros to JavaScript. Lets you write extensions to JavaScript that must be invoked by the user.
+* [smpl.js](http://github.com/jasuperior/smpl/) The first compiler built for the purpose of transpiling first.
 * [acorn](https://github.com/marijnh/acorn/) A small, fast, JavaScript-based JavaScript parser
 * [Babel](https://babeljs.io/) turn your ES6+ code into ES5 friendly code  
   ![(GH-stars)](https://img.shields.io/github/stars/babel/babel.svg?style=flat-square)
