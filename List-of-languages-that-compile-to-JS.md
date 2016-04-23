@@ -1,5 +1,5 @@
 #### CoffeeScript Family (& Friends)
-s
+
 * [CoffeeScript](http://coffeescript.org/) Unfancy JavaScript  
   ![(GH-stars)](https://img.shields.io/github/stars/jashkenas/coffeescript.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/jashkenas/coffeescript.svg?style=flat-square)
