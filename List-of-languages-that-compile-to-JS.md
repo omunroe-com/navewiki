@@ -591,7 +591,10 @@
   ![(GH-forks)](https://img.shields.io/github/forks/jaked/ocamljs.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/jaked/ocamljs.svg?style=flat-square)
 * [O'Browser](http://www.pps.jussieu.fr/~canou/obrowser/tutorial/) OCaml bytecode interpreter in JS.
-* [Js_of_ocaml](http://ocsigen.org/js_of_ocaml/) OCaml bytecode to JS compiler.
+* [Js_of_ocaml](http://ocsigen.org/js_of_ocaml/) OCaml bytecode to JS compiler.  
+  ![(GH-stars)](https://img.shields.io/github/stars/ocsigen/js_of_ocaml.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/ocsigen/js_of_ocaml.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/ocsigen/js_of_ocaml.svg?style=flat-square)
 * [Bucklescript](https://github.com/bloomberg/bucklescript) OCaml to readable JS
 
 #### Haskell
