@@ -376,6 +376,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/JdeH/Transcrypt.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/JdeH/Transcrypt.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/JdeH/Transcrypt.svg?style=flat-square)
+* [pseudo-python](https://github.com/alehander42/pseudo-python) a restricted python to javascript/c#/go/ruby compiler
 
 #### Erlang
 
