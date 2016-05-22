@@ -455,8 +455,6 @@
   ![(GH-forks)](https://img.shields.io/github/forks/js-scala/js-scala.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/js-scala/js-scala.svg?style=flat-square)
 * [scalagwt](http://scalagwt.github.io/) enhanced GWT (accepts jribble as well as Java) plus Scala to jribble.  
-  ![(GH-stars)](https://img.shields.io/github/stars/scalagwt.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/scalagwt.svg?style=flat-square)
 * [JScala](http://jscala.org) Scala macro that produces JavaScript from Scala code.
 
 #### C#, F#, .NET related languages
