@@ -675,10 +675,10 @@
   ![(GH-stars)](https://img.shields.io/github/stars/kless/go2js.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/kless/go2js.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/kless/go2js.svg?style=flat-square)
-* [GopherJS](https://github.com/neelance/gopherjs) A transpiler from Go to JavaScript.  
-  ![(GH-stars)](https://img.shields.io/github/stars/neelance/gopherjs.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/neelance/gopherjs.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/neelance/gopherjs.svg?style=flat-square)
+* [GopherJS](https://github.com/gopherjs/gopherjs) A compiler from Go to JavaScript.  
+  ![(GH-stars)](https://img.shields.io/github/stars/gopherjs/gopherjs.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/gopherjs/gopherjs.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/gopherjs/gopherjs.svg?style=flat-square)
 * [TARDISgo](https://tardisgo.github.io) Compile Golang to Haxe (then on to JavaScript, Flash, Java, C++, C#, PHP, Python & Neko)
 
 
