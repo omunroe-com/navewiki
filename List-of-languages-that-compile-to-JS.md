@@ -299,6 +299,10 @@
   ![(GH-stars)](https://img.shields.io/github/stars/musictheory/oj.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/musictheory/oj.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/musictheory/oj.svg?style=flat-square)
+* [mfjs](https://github.com/awto/mfjs-compiler) Adds arbitrary side effects not already available in JavaScript. They may include but not limited to delimited continuations, asynchronous, logic, reactive, parallel, distributed and probabilistic programming. It doesn't extend syntax so it may be used with any other language compiling to JavaScript.
+  ![(GH-stars)](https://img.shields.io/github/stars/awto/mfjs-compiler.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/awto/mfjs-compiler.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/awto/mfjs-compiler.svg?style=flat-square)
 
 #### Ruby
 
