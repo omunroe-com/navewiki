@@ -183,15 +183,11 @@
   ![(GH-forks)](https://img.shields.io/github/forks/google/caja.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/google/caja.svg?style=flat-square)
 * [ADsafe](http://www.adsafe.org/) Client-side static verifier and API, making third party scripts safe.
-* [FBJS](http://developers.facebook.com/docs/fbjs) Facebook JavaScript, used for scripting FBML (Facebook Markup Language) gadgets.
 * [Jacaranda](http://jacaranda.org/) Static verifier supporting object-capabilities.
-* [Microsoft Web Sandbox](http://websandbox.livelabs.com/) Technology preview of securing web content through isolation.
-* [Gatekeeper](http://research.microsoft.com/en-us/projects/gatekeeper/) Microsoft Research project.
 * [Dojo Secure](http://www.sitepen.com/blog/2008/08/01/secure-mashups-with-dojoxsecure/) Framework for building secure mashups.  
   ![(GH-stars)](https://img.shields.io/github/stars/dojo/dojox.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/dojo/dojox.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/dojo/dojox.svg?style=flat-square)
-* [Local.js](http://grimwire.com/local/) uses Web Workers to sandbox applications and a RESTful messaging protocol called HTTPL (HTTP Local) to communicate between them
 
 ###### Static typing
 
