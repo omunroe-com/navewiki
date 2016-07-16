@@ -586,6 +586,10 @@
   ![(GH-issues)](https://img.shields.io/github/issues/olleicua/hcl.svg?style=flat-square)
 * [Sibilant](http://sibilantjs.info) JavaScript with a lisp. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")*
 * [jisp](http://jisp.io/) A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")*
+* [JSCL](https://github.com/davazp/jscl) *A Lisp-to-Javascript compiler bootstrapped from Common Lisp*
+  ![(GH-stars)](https://img.shields.io/github/stars/davazp/jscl.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/davazp/jscl.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/davazp/jscl.svg?style=flat-square)
 
 #### OCaml
 
