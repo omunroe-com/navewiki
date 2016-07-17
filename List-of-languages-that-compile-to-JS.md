@@ -701,6 +701,10 @@
 * [Monkey](http://www.monkey-x.com/) is a Basic-like programming language that compiles to several platforms (JavaScript, ActionScript 3, C++, Java, C#). The main application/game framework is [commercial].
 * [defrac](https://www.defrac.com/) compiles Java bytecode to several platforms (including JavaScript)
 * [Ć Programming Language](http://cito.sourceforge.net/) is automatically translated to C, Java, C#, JavaScript, ActionScript, Perl and D.
+* [Skew](https://github.com/evanw/skew) a web-first, cross-platform programming language with an optimizing compiler (compiles to JS and C++)
+  ![(GH-stars)](https://img.shields.io/github/stars/evanw/skew.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/evanw/skew.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/evanw/skew.svg?style=flat-square)
 
 #### Tierless languages (produce both client & server)
 
@@ -839,10 +843,6 @@ for client-side (and server-side) web development
   ![(GH-issues)](https://img.shields.io/github/issues/bendc/uilang.svg?style=flat-square)
 * [Hodor](http://www.hodor-lang.org/) - Hodor programming language
 * [Mason](http://mason-lang.org)
-* [Skew](https://github.com/evanw/skew) a web-first, cross-platform programming language with an optimizing compiler (compiles to JS and C#)  
-  ![(GH-stars)](https://img.shields.io/github/stars/evanw/skew.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/evanw/skew.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/evanw/skew.svg?style=flat-square)
 
 ### Tools for Compiler Writers
 
