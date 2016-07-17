@@ -230,7 +230,6 @@
   ![(GH-stars)](https://img.shields.io/github/stars/purescript/purescript.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/purescript/purescript.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/purescript/purescript.svg?style=flat-square)
-* [AtScript](https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/mobilebasic?viewopt=127&pli=1) by Google – project to improve JavaScript by adding type annotations and other features on top of TypeScript. Now **defunct**, will be [merged](https://youtu.be/ihAeffWJEIc) into Microsoft's TypeScript.
 * [Flow](http://flowtype.org) by Facebook - static type checker for JavaScript, supports optional types and null checks  
   ![(GH-stars)](https://img.shields.io/github/stars/facebook/flow.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/facebook/flow.svg?style=flat-square)
