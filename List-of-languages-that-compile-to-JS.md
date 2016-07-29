@@ -352,7 +352,10 @@
   ![(GH-stars)](https://img.shields.io/github/stars/ahmedaliadeel/bulbul.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/ahmedaliadeel/bulbul.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/ahmedaliadeel/bulbul.svg?style=flat-square)
-* [Brython](http://brython.info/) browser python
+* [Brython](https://github.com/brython-dev/brython) Browser Python.
+  ![(GH-stars)](https://img.shields.io/github/stars/brython-dev/brython.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/brython-dev/brython.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/brython-dev/brython.svg?style=flat-square)
 * [PythonScript](http://apppyjs.appspot.com/) Python-like compiled to JavaScript
 * [pythonscript](https://github.com/DenerosArmy/pythonscript) Python compiled to readable JavaScript using  the AST. (proof of concept)  
   ![(GH-stars)](https://img.shields.io/github/stars/DenerosArmy/pythonscript.svg?style=flat-square)
