@@ -39,7 +39,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/jiangmiao/toffee-script.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/jiangmiao/toffee-script.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/jiangmiao/toffee-script.svg?style=flat-square)
-* [Caffeine](https://github.com/ich/caffeine) A dialect of CoffeeScript that support packages and classes import, useful for browser applications  
+* [Caffeine](https://github.com/ich/caffeine) A dialect of CoffeeScript that supports packages and classes import, useful for browser applications  
   ![(GH-stars)](https://img.shields.io/github/stars/ich/caffeine.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/ich/caffeine.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/ich/caffeine.svg?style=flat-square)
@@ -149,7 +149,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/michaelchance/tlc.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/michaelchance/tlc.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/michaelchance/tlc.svg?style=flat-square)
-* [CokeScript](https://github.com/batiste/CokeScript) is a inspired by Python and Ruby that integrate natively with the [Virtual-DOM library](https://github.com/Matt-Esch/virtual-dom)  
+* [CokeScript](https://github.com/batiste/CokeScript) is inspired by Python and Ruby that integrates natively with the [Virtual-DOM library](https://github.com/Matt-Esch/virtual-dom)  
   ![(GH-stars)](https://img.shields.io/github/stars/batiste/CokeScript.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/batiste/CokeScript.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/batiste/CokeScript.svg?style=flat-square)
@@ -423,7 +423,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/int3/doppio.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/int3/doppio.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/int3/doppio.svg?style=flat-square)
-* [Processing](http://processingjs.org/), a Java-based visualization language that interprets to JavaScript.
+* [Processing.js](http://processingjs.org/), a Java-based visualization language that interprets to JavaScript.
 * [Kotlin](http://kotlinlang.org) Statically typed programming language targeting the JVM and JavaScript.  
   ![(GH-stars)](https://img.shields.io/github/stars/JetBrains/kotlin.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/JetBrains/kotlin.svg?style=flat-square)
