@@ -352,7 +352,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/ahmedaliadeel/bulbul.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/ahmedaliadeel/bulbul.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/ahmedaliadeel/bulbul.svg?style=flat-square)
-* [Brython](https://github.com/brython-dev/brython) Browser Python.
+* [Brython](https://github.com/brython-dev/brython) Browser Python. Embed Python 3 scripts in <script type="text/python">
   ![(GH-stars)](https://img.shields.io/github/stars/brython-dev/brython.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/brython-dev/brython.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/brython-dev/brython.svg?style=flat-square)
