@@ -847,7 +847,7 @@ for client-side (and server-side) web development
   ![(GH-issues)](https://img.shields.io/github/issues/bendc/uilang.svg?style=flat-square)
 * [Hodor](http://www.hodor-lang.org/) - Hodor programming language
 * [Mason](http://mason-lang.org)
-* [L2](http://gjmcn.github.io/L2/builds/L2-env/ide.html) a simple, table-based language for data analysis  
+* [L2](https://github.com/gjmcn/L2) a simple, table-based language for data analysis  
   ![(GH-stars)](https://img.shields.io/github/stars/gjmcn/l2.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/gjmcn/l2.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/gjmcn/l2.svg?style=flat-square)
