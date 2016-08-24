@@ -157,7 +157,7 @@
   ![(GH-stars)](https://img.shields.io/github/stars/somebee/imba.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/somebee/imba.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/somebee/imba.svg?style=flat-square)
-* [Cor](http://yosbelms.github.io/cor) The Language of the Web  
+* [Cor](http://yosbelms.github.io/cor) Straightforward language for the Web  
   ![(GH-stars)](https://img.shields.io/github/stars/yosbelms/cor.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/yosbelms/cor.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/yosbelms/cor.svg?style=flat-square)
