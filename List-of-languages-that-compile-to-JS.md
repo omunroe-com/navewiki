@@ -446,6 +446,7 @@
   ![(GH-issues)](https://img.shields.io/github/issues/konsoletyper/teavm.svg?style=flat-square)
 * [Dragome SDK](http://www.dragome.com/) compiles JVM bytecode to Javascript.
 * [JSweet](http://www.jsweet.org/) a Java to JavaScript transpiler built on top of TypeScript and giving access to hundreds of JavaScript libraries in Java.
+* [Fantom](http://fantom.org/) Write code portable to the Java VM, .NET CLR, and JavaScript in the browser.
 
 #### Scala
 
