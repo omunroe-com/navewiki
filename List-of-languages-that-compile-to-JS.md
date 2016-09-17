@@ -321,10 +321,10 @@
   ![(GH-stars)](https://img.shields.io/github/stars/mattknox/8ball.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/mattknox/8ball.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/mattknox/8ball.svg?style=flat-square)
-* [Ruby2JS](https://github.com/rubys/ruby2js#readme) Minimal yet extensible Ruby to JavaScript conversion.  
-  ![(GH-stars)](https://img.shields.io/github/stars/rubys/ruby2js#readme.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/rubys/ruby2js#readme.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/rubys/ruby2js#readme.svg?style=flat-square)
+* [Ruby2JS](https://github.com/rubys/ruby2js) Minimal yet extensible Ruby to JavaScript conversion.  
+  ![(GH-stars)](https://img.shields.io/github/stars/rubys/ruby2js.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/rubys/ruby2js.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/rubys/ruby2js.svg?style=flat-square)
 
 #### Python
 
