@@ -753,6 +753,7 @@ for client-side (and server-side) web development
   ![(GH-stars)](https://img.shields.io/github/stars/agershun/alasql.svg?style=flat-square)
   ![(GH-forks)](https://img.shields.io/github/forks/agershun/alasql.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/agershun/alasql.svg?style=flat-square)
+* [sql.js](https://github.com/kripken/sql.js) - SQLite compiled to javascript
 
 #### PHP
 
