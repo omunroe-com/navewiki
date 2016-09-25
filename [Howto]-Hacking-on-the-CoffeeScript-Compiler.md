@@ -77,7 +77,7 @@ When you make changes to the CoffeeScript source, it's a good idea to do a
 
     cake build:full
 
-What this does is run `cake build` twice so that the compiler compiles itself with all your latest changes, then runs the CoffeeScript test suite.  If you have broken something (and the test suite has adequate coverage), this should tell you.
+What this does is run `cake build` twice so that the compiler compiles itself with all your latest changes, then runs the CoffeeScript test suite.  If you have broken something (and the test suite has adequate coverage), this should tell you. Note that this does *not* rebuild the parser; you need to also run `cake build:parser` to trigger that.
 
 ## 6. Backing out bad changes
 
