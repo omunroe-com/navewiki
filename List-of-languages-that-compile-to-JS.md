@@ -606,6 +606,9 @@
   ![(GH-forks)](https://img.shields.io/github/forks/ocsigen/js_of_ocaml.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/ocsigen/js_of_ocaml.svg?style=flat-square)
 * [Bucklescript](https://github.com/bloomberg/bucklescript) OCaml to readable JS
+  ![(GH-stars)](https://img.shields.io/github/stars/bloomberg/bucklescript.svg?style=flat-square)
+  ![(GH-forks)](https://img.shields.io/github/forks/bloomberg/bucklescript.svg?style=flat-square)
+  ![(GH-issues)](https://img.shields.io/github/issues/bloomberg/bucklescript.svg?style=flat-square)
 
 #### Haskell
 
