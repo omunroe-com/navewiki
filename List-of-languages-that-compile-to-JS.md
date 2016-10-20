@@ -513,13 +513,6 @@
   ![(GH-forks)](https://img.shields.io/github/forks/fsprojects/Fable.svg?style=flat-square)
   ![(GH-issues)](https://img.shields.io/github/issues/fsprojects/Fable.svg?style=flat-square)
 
-| Name | Description | Other |
-| ---- | ---- | ---- |
-| [Bridge.NET](http://bridge.net/) | Open Source C#-to-JavaScript compiler. Includes jQuery + many other frameworks. Developed and well supported by a professional team. |   ![(GH-stars)](https://img.shields.io/github/stars/bridgedotnet/bridge.svg?style=flat-square)
-  ![(GH-forks)](https://img.shields.io/github/forks/bridgedotnet/bridge.svg?style=flat-square)
-  ![(GH-issues)](https://img.shields.io/github/issues/bridgedotnet/bridge.svg?style=flat-square) |
-
-
 #### Lisp, Scheme
 
 ###### Clojure-like
