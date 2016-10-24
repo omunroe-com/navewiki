@@ -10,3 +10,18 @@ Per the [ES2015 spec regarding default parameters](https://developer.mozilla.org
 f = (a = 1) -> a
 f(null) # Returns 1 in CoffeeScript 1.x, null in CoffeeScript 2
 ```
+
+### Bound generator functions
+
+Bound generator functions, a.k.a. generator arrow functions, [aren’t allowed in ECMAScript](http://stackoverflow.com/questions/27661306/can-i-use-es6s-arrow-function-syntax-with-generators-arrow-notation). You can write `function*` or `=>`, but not both. Therefore, CoffeeScript code like this:
+
+```coffee
+f = => yield this
+```
+
+Needs to be rewritten the old-fashioned way:
+
+```coffee
+self = this
+f = -> yield self
+```
