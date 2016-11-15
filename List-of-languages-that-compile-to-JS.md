@@ -156,6 +156,7 @@
 | [Batavia](https://github.com/pybee/batavia) | Run Python bytecode in the browser |
 | [Transcrypt](http://www.transcrypt.org) | New Python 3.5 to JavaScript transpiler. Supports multiple inheritance, bound function assignment, selective operator overloading, highly readable JS output, sourcemaps, small downloads, fast execution using call memoizing. Integrated with closure compiler / minifier, optional static checker and fabric.js graphics lib for HTML5 canvas. |
 | [pseudo-python](https://github.com/alehander42/pseudo-python) | A restricted python to javascript/c#/go/ruby compiler |
+|[JavaScripthon](https://github.com/azazel75/metapensiero.pj)|Transpile Python3.5 to ES6 and to ES5 (with the help of BabelJS, but w/o the need for nodejs). Supports classes, generators, async functions.
 
 ### Erlang
 
