@@ -54,6 +54,7 @@
 | [Iode](https://github.com/iode-lang/iode-js) | A language inspired by Swift |
 | [FutureScript](http://futurescript.org/) | A more radical, but more readable, different new language. |
 | [PearScript](https://github.com/kocisov/pearscript) | Shorthanding JavaScript one more time. |
+| [RamdaScript](https://github.com/yosbelms/ramdascript) | JavaScript in the Ramda way. |
 
 ### JavaScript Extensions
 
