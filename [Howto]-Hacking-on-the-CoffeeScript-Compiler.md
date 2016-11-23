@@ -136,7 +136,6 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
 1. Update the version number in the following files:
 
    - package.json
-   - bower.json
    - src/coffee-script.coffee
    - documentation/index.html.js (in the “Latest version” link)
 
@@ -144,7 +143,7 @@ ought to do the trick.  A word of caution, though: only do this when you're sure
    to `2.0.0`:
 
    ```sh
-   sed -i 0,/1\.9\.9/s//2.0.0/g package.json bower.json src/coffee-script.coffee documentation/index.html.js
+   sed -i 0,/1\.9\.9/s//2.0.0/g package.json src/coffee-script.coffee documentation/index.html.js
    ```
 
 2. Write a change log entry in documentation/index.html.js. The easiest way is
