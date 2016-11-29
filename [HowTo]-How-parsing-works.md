@@ -1,4 +1,4 @@
-The core of parsing CoffeeScript syntax into generated output JavaScript happens in three files: `lexer.coffee`, `grammar.coffee` and `nodes.coffee`. When we implemented modules, we added support for new keywords `import` and `from` and `as`, among others. Below is a walkthrough of how support for these new keywords was added.
+The core of parsing CoffeeScript syntax into generated output JavaScript happens in four files: `lexer.coffee`, `rewriter.coffee`, `grammar.coffee` and `nodes.coffee`. When we implemented modules, we added support for new keywords `import` and `from` and `as`, among others. Below is a walkthrough of how support for these new keywords was added.
 
 ### `lexer.coffee`
 
