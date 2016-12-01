@@ -123,7 +123,7 @@ ought to do the trick.  A word of caution, though: only do this when you’re su
    and move them over to `documentation/index.html`. It helps visiting
    related issues and PRs on github while doing this.
 
-3. Run `cake build:full` to rebuild the JavaScript files from the CoffeeScript
+3. Run `cake build:parser && cake build:full` to rebuild the JavaScript files from the CoffeeScript
    source, which should include the new version number. It also runs the tests
    just to make sure that everything is good to go.
 
