@@ -439,6 +439,7 @@
 | [Hodor](http://www.hodor-lang.org/) | Hodor programming language |
 | [Mason](http://mason-lang.org) | |
 | [L2](https://github.com/gjmcn/L2) | A simple, table-based language for data analysis |
+| [YoptaScript](https://github.com/samgozman/YoptaScript) | Language for gopniks (post-Soviet aggressive young lower-class suburban male dwellers coming from families of poor education and income) |
 
 ### Tools for Compiler Writers
 
