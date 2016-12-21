@@ -55,6 +55,7 @@
 | [FutureScript](http://futurescript.org/) | A more radical, but more readable, different new language. |
 | [PearScript](https://github.com/kocisov/pearscript) | Shorthanding JavaScript one more time. |
 | [RamdaScript](https://github.com/yosbelms/ramdascript) | JavaScript in the Ramda way. |
+| [RoyalScript](https://github.com/jweinst1/Royalscript) | A functional language that has loops, types, structs, and much more. |
 
 ### JavaScript Extensions
 
