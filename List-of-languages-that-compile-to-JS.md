@@ -407,6 +407,13 @@
 | [uniter](https://github.com/asmblah/uniter) | Run PHP code in Node.js or the browser |
 | [php.js](https://github.com/niklasvh/php.js) | PHP VM with JavaScript, allow to run PHP code in Node.js or the browser |
 
+### Prolog
+
+| Name | Description |
+| :---- | :---- |
+| [prolog.js](https://github.com/jldupont/prolog.js) | Prolog parser, compiler, and interpreter in JavaScript |
+| [Yield Prolog](http://yieldprolog.sourceforge.net/) | Compiles Prolog into JavaScript, C#, and Python |
+
 ### Others
 
 | Name | Description |
