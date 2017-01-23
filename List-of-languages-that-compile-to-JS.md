@@ -12,7 +12,7 @@
 | [Coco](https://github.com/satyr/coco) | A CoffeeScript dialect that aims to be more radical and practical, also acts as a test bed for features that get imported in CoffeeScript. |
 | [LiveScript](http://livescript.net) | A fork of Coco that is much more compatible with CoffeeScript, more functional, and with more features. |
 | [IcedCoffeeScript](http://maxtaco.github.com/coffee-script/) | A CoffeeScript dialect that adds support for `await` and `defer` keywords which simplify async control flow. |
-| [Parsec CoffeeScript](https://github.com/fab13n/parsec-coffee-script) | CS based on parser combinators. The project's aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it. |
+| [Parsec CoffeeScript](https://github.com/fab13n/parsec-coffee-script) | CS based on parser combinators. The project’s aim is to add static metaprogramming (i.e. macros + syntax extensibility) to Coffee Script (CS), similar to how Metalua adds such features to Lua. The resulting compiler, once merged with the official compiler, should be usable as a drop-in replacement for it. |
 | [Contracts.coffee](https://github.com/disnet/contracts.coffee) | A dialect of CoffeeScript that adds built-in support for contracts. |
 | [Uberscript](https://github.com/jstrachan/coffee-script/blob/master/TypeAnnotations.md) | A CoffeeScript fork that adds type annotations which are compiled to Google closure compiler type annotation comments. |
 | [ToffeeScript](https://github.com/jiangmiao/toffee-script) | A dialect of CoffeeScript that support Asynchronous Syntax and Regexp operator =~ |
@@ -24,17 +24,17 @@
 
 | Name | Description |
 | :---- | :---- |
-| [Bizubee](https://github.com/bizubee/bizubee) | The World's Most Intense Programming Language! |
+| [Bizubee](https://github.com/bizubee/bizubee) | The World’s Most Intense Programming Language! |
 | [Kaffeine](https://github.com/weepy/kaffeine) | Enhanced Syntax for JavaScript. |
 | [Jack](https://github.com/creationix/jack) | Making programming playful. |
 | [move](https://github.com/rsms/move) | A simpler and cleaner programming language. |
 | [Moescript](https://github.com/moescript/moescript) | Indent-based language |
 | [pogoscript](http://pogoscript.org/) | Language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript |
-| [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#other "this item appears twice in this list; jump to its other instance")* |
-| [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#other "this item appears twice in this list; jump to its other instance")* |
-| [Sibilant](http://sibilantjs.info) | JavaScript with a lisp. *[○](#other "this item appears twice in this list; jump to its other instance")* |
-| [ki](http://ki-lang.org) | Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#clojure-like "this item appears twice in this list; jump to its other instance")* |
-| [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#other "this item appears twice in this list; jump to its other instance")* |
+| [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
+| [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
+| [Sibilant](http://sibilantjs.info) | JavaScript with a lisp. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
+| [ki](http://ki-lang.org) | Clojure-like syntax, [mori](http://swannodette.github.io/mori/)’s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#clojure-like “this item appears twice in this list; jump to its other instance”)* |
+| [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
 | [Ham](https://github.com/jameskeane/ham-script) | Looks very similar to JavaScript at first, but offers (hopefully) many useful features |
 | [GorillaScript](http://ckknight.github.com/gorillascript/) |  Compile-to-JavaScript language designed to empower the user while attempting to prevent some common errors, offers Macros and optional Typing |
 | [RedScript](https://github.com/AdamBrodzinski/RedScript) | Ruby-flavored JavaScript. |
@@ -44,7 +44,7 @@
 | [Taijilang](https://github.com/taijiweb/taijilang) | A customizable and extensible language with dynamic parser and meta language. |
 | [MoonScript](http://moonscript.org/) | MoonScript is a dynamic scripting language that compiles into Lua. The syntax of MoonScript has been heavily inspired by the syntax of CoffeeScript. |
 | [Earl Grey](http://breuleux.github.io/earl-grey/repl/) | An extensible language with pattern matching, hygienic macros and a syntax similar to Python. |
-| [Khepri](http://khepri-lang.com) | Lightweight language that reworks Javascript's syntax to be better for untyped functional-style programming. |
+| [Khepri](http://khepri-lang.com) | Lightweight language that reworks Javascript’s syntax to be better for untyped functional-style programming. |
 | [Spider](https://github.com/alongubkin/spider) | Spider is a programming language that compiles to JavaScript (ES5 and ES6 targets). It takes the best ideas of Go, Swift, Python, C# and CoffeeScript. |
 | [CirruScript](http://script.cirru.org/) | Write JavaScript with indentations and polish notations, similar to S-Expression but with fewer parentheses. |
 | [TLC](https://github.com/michaelchance/tlc) | Tag Line Commands is a inline macro language for calling+formatting javascript/coffeescript/livescript json output into HTML. |
@@ -98,7 +98,7 @@
 | [NarrativeJS](http://www.neilmix.com/narrativejs/doc/) | JavaScript extension with asynchronous futures and promises. |
 | [jwacs](http://chumsley.org/jwacs/) | JavaScript With Advanced Continuation Support. |
 | [Wind.js](https://github.com/JeffreyZhao/wind) | Wind.js is an advanced library which enable us to control flow with plain JavaScript for asynchronous programming (and more) without additional pre-compiling steps. |
-| [TameJS](http://tamejs.org/) | Adds new keywords 'await' and 'defer' |
+| [TameJS](http://tamejs.org/) | Adds new keywords ‘await’ and ‘defer’ |
 | [Continuation.js](https://github.com/BYVoid/continuation) | A lightweight JIT compiler for simplifying asynchronous JavaScript programming with no runtime dependences. It supports both Node.js and browser-side JavaScript and is compatible with CoffeeScript (also TypeScript, and any other scripts compile to js). |
 | [Kal](http://rzimmerman.github.io/kal/) | Makes asynchronous programming easy and clean by allowing functions to pause and wait for I/O, replacing an awkward callback syntax with a clean, simple syntax |
 | [JSPipe](http://jspipe.org) | Provides JavaScript primitives to write async code without callbacks or chained functions. Inspired by Goroutines and Channels found in Go and in Clojure. For Web and NodeJS. ES5 and ES6. |
@@ -121,7 +121,7 @@
 | [Latte JS](https://github.com/tehsenaus/latte-js/) | Superset of JavaScript (eventually ES6), with similar goals to CoffeeScript, but keeping JS syntax. |
 | [JSX](http://facebook.github.io/react/docs/jsx-in-depth.html) | A superset to add an XML-like syntax to represent HTML elements in React by Facebook |
 | [oj](https://github.com/musictheory/oj) | Objective-C inspired superset of JavaScript with a tiny runtime, built-in obfuscator, and experimental type checker (courtesy of Typescript). |
-| [mfjs](https://github.com/awto/mfjs-compiler) | Adds arbitrary side effects not already available in JavaScript. They may include but not limited to delimited continuations, asynchronous, logic, reactive, parallel, distributed and probabilistic programming. It doesn't extend syntax so it may be used with any other language compiling to JavaScript. |
+| [mfjs](https://github.com/awto/mfjs-compiler) | Adds arbitrary side effects not already available in JavaScript. They may include but not limited to delimited continuations, asynchronous, logic, reactive, parallel, distributed and probabilistic programming. It doesn’t extend syntax so it may be used with any other language compiling to JavaScript. |
 
 ### Ruby
 
@@ -150,7 +150,7 @@
 | [PyvaScript](http://www.allbuttonspressed.com/blog/django/2010/07/PyvaScript-Pythonic-syntax-for-your-browser) | Python-like syntax to JavaScript. |
 | [RapydScript](https://github.com/atsepkov/RapydScript) | JavaScript with a Pythonic syntax. |
 | [Bulbul](https://github.com/ahmedaliadeel/bulbul) | Python3 to JavaScript/ES6/ES7 compiler. Apparently the only Python-to-JS compiler intended to provide support for AngularJS, React, Aurelia and other modern JS libs. |
-| [Brython](https://github.com/brython-dev/brython) | Browser Python. Embed Python 3 in &lt;script type="text/python"&gt; |
+| [Brython](https://github.com/brython-dev/brython) | Browser Python. Embed Python 3 in &lt;script type=”text/python”&gt; |
 | [PythonScript](http://apppyjs.appspot.com/) | Python-like compiled to JavaScript |
 | [pythonscript](https://github.com/DenerosArmy/pythonscript) | Python compiled to readable JavaScript using  the AST. (proof of concept) |
 | [Rusthon](https://github.com/rusthon/Rusthon) | Integrates several python to js methods into one project. Very Active. Not only for JS & Py, but also Go, C, Nim, etc. |
@@ -195,7 +195,7 @@
 | [Ceylon](http://ceylon-lang.org/) | A modular static-typed JVM language compilable to JavaScript. |
 | [GrooScript](http://grooscript.org/) | A framework to convert Groovy code to JavaScript. |
 | [node-jvm](https://github.com/YaroslavGaponov/node-jvm) | Java virtual machine in pure node.js |
-| [Bck2Brwsr](http://wiki.apidesign.org/wiki/Bck2Brwsr) | Run "browserified" Java Code in, well, the browser. |
+| [Bck2Brwsr](http://wiki.apidesign.org/wiki/Bck2Brwsr) | Run “browserified” Java Code in, well, the browser. |
 | [QWT](http://qooxdoo.org/contrib/project/qwt) | QWT consists of a Java-to-JavaScript compiler, a prepared library of Qooxdoo componente (version 0.7.x) and some other tools. Similar to GWT |
 | [TeaVM](https://github.com/konsoletyper/teavm) | An ahead-of-time transpiler that takes JVM bytecode and produces JavaScript. |
 | [Dragome SDK](http://www.dragome.com/) | Compiles JVM bytecode to Javascript. |
@@ -244,9 +244,9 @@
 | [ClojureScript](https://github.com/clojure/clojurescript) | Clojure to JS, the official version. Supports the majority of Clojure including persistent datastructures. |
 | [ClojureJS](https://github.com/kriyative/clojurejs) | Subset of Clojure to JS. |
 | [Chlorinejs](https://github.com/chlorinejs/chlorine) | A fork of ClojureJS with a port of clojure.core library. |
-| [wisp](https://github.com/Gozala/wisp) | A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")* |
+| [wisp](https://github.com/Gozala/wisp) | A homoiconic JavaScript dialect with Clojure syntax, S-expressions and macros. Aims to be rich subset of Clojure(Script) that seamlessly interops with both Clojure(Script) and JavaScript. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [Scriptjure](https://github.com/arohner/scriptjure) | Library for generating JavaScript from Clojure forms. |
-| [ki](http://ki-lang.org) | Clojure-like syntax, [mori](http://swannodette.github.io/mori/)'s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")* |
+| [ki](http://ki-lang.org) | Clojure-like syntax, [mori](http://swannodette.github.io/mori/)’s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 
 #### Scheme-like
 
@@ -258,7 +258,7 @@
 | [nconc](https://github.com/patrickdlogan/nconc) | Scheme interpreter in JavaScript with stack-friendly tail calls and full call/cc |
 | [Scheje](http://github.com/turbopape/scheje) | A Little Scheme on Top of Clojure - compiles on Node.js and the Browser. |
 | [scheme2js](http://www-sop.inria.fr/indes/scheme2js/) | Scheme to JavaScript. |
-| [Spock](http://wiki.call-cc.org/eggref/4/spock) | A Scheme to JavaScript compiler that uses Henry Baker's Cheney-on-the-MTA compilation strategy |
+| [Spock](http://wiki.call-cc.org/eggref/4/spock) | A Scheme to JavaScript compiler that uses Henry Baker’s Cheney-on-the-MTA compilation strategy |
 | [Whalesong](http://hashcollision.org/whalesong/) | Racket to JS compiler |
 
 #### Other
@@ -270,11 +270,11 @@
 | [Parenscript](http://common-lisp.net/project/parenscript/) | Subset of Common Lisp to JS. |
 | [Ralph](https://github.com/turbolent/ralph) | Lisp-1 dialect that compiles to JavaScript, inspired by Dylan |
 | [Oppo](https://github.com/benekastah/oppo) | A JavaScripter’s lisp. Inspired by JavaScript, Clojure and CoffeeScript. Compiler built using [Jison](http://zaach.github.com/jison/docs/). |
-| [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")* |
+| [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [Outlet](https://github.com/jlongster/outlet) | A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development. |
-| [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")* |
-| [Sibilant](http://sibilantjs.info) | JavaScript with a lisp. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")* |
-| [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#friends-philosophically-related "this item appears twice in this list; jump to its other instance")* |
+| [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
+| [Sibilant](http://sibilantjs.info) | JavaScript with a lisp. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
+| [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [JSCL](https://github.com/davazp/jscl) | A Lisp-to-Javascript compiler bootstrapped from Common Lisp |
 
 ### OCaml
@@ -282,7 +282,7 @@
 | Name | Description |
 | :---- | :---- |
 | [Ocamljs](https://github.com/jaked/ocamljs) | OCaml to JS. |
-| [O'Browser](http://www.pps.jussieu.fr/~canou/obrowser/tutorial/) | OCaml bytecode interpreter in JS. |
+| [O’Browser](http://www.pps.jussieu.fr/~canou/obrowser/tutorial/) | OCaml bytecode interpreter in JS. |
 | [Js_of_ocaml](http://ocsigen.org/js_of_ocaml/) | OCaml bytecode to JS compiler. |
 | [Bucklescript](https://github.com/bloomberg/bucklescript) | OCaml to readable JS |
 
@@ -316,7 +316,7 @@
 
 | Name | Description |
 | :---- | :---- |
-| [Emscripten](http://emscripten.org/) | LLVM to JavaScript compiler.  LLVM is "an aggressive open-source compiler for C and C++," as well as other languages. |
+| [Emscripten](http://emscripten.org/) | LLVM to JavaScript compiler.  LLVM is “an aggressive open-source compiler for C and C++,” as well as other languages. |
 | [Cheerp](http://leaningtech.com/cheerp/) | (formerly Duetto) “compiles C++ applications to binary code and JavaScript. Based and integrated into the LLVM/clang infrastructure” |
 | [maja](http://lethalman.hostei.com/maja/index.html) | Vala (gobject) to JavaScript |
 | [Clue](http://cluecc.sourceforge.net/) | C language compiler to different runtimes (Lua, JS, Perl 5, C, Java, CL). |
@@ -356,7 +356,7 @@
 | :---- | :---- |
 | [Haxe](http://haxe.org/) | Compiles to several platforms (C++, Flash, JS, Neko, PHP, Java, C#, Python). |
 | [Fantom](http://fantom.org/) | Evolutionary object-oriented language emphasizing succinct and effective APIs (JVM, CLR, JS). |
-| [LZX (Laszlo XML)](http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes) | LZX is [OpenLaszlo's](http://www.openlaszlo.org) declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3. |
+| [LZX (Laszlo XML)](http://labs.openlaszlo.org/trunk-nightly/laszlo-explorer/index.html?lzr=swf10#_lzbookmark=Laszlo%20in%2010%20Minutes) | LZX is [OpenLaszlo’s](http://www.openlaszlo.org) declarative user interface language, which is compiled into JavaScript 2 as an intermediary format, and further compiled into either JavaScript 1.5 or ActionScript 3. |
 | Clue and jsc | Target multiple runtimes in addition to JavaScript |
 | [Nim](http://nim-lang.org) | Compiles to C, C++, Objective-C, and JavaScript |
 | [Monkey](http://www.monkey-x.com/) | A Basic-like programming language that compiles to several platforms (JavaScript, ActionScript 3, C++, Java, C#). The main application/game framework is [commercial]. |
@@ -388,7 +388,7 @@
 | [Meemoo](http://meemoo.org/) | Flow-based visual programming framework for hackable web apps |
 | [NoFlo](http://noflojs.org/) | JavaScript implementation of Flow-Based Programming. Programs (network graphs) can be visually created with [DrawFBP](http://www.jpaulmorrison.com/cgi-bin/wiki.pl?DrawFBP) |
 | [Blockly](http://code.google.com/p/google-blockly/) | Web-based, graphical programming language. Users can drag blocks together to build an application |
-| [Maeda Block](http://maedablock.com/) | Visual game programming language powered by enchant.js and Google Blockly.  See also the [Japanese version](http://maedablock.jp/). |
+| [Maeda Block](http://junk.wise9.jp/maeda/) | Visual game programming language powered by enchant.js and Google Blockly.  See also the [Japanese version](http://maedablock.jp/). |
 
 ### SQL
 
@@ -455,15 +455,15 @@
 
 | Name | Description |
 | :---- | :---- |
-| [Narcissus](https://github.com/mozilla/narcissus/) | Mozilla's experimental JavaScript compiler in JavaScript by Brendan Eich and others. |
+| [Narcissus](https://github.com/mozilla/narcissus/) | Mozilla’s experimental JavaScript compiler in JavaScript by Brendan Eich and others. |
 | [CommonJS version in DoctorJS](https://github.com/mozilla/doctorjs/tree/master/lib/jsctags/narcissus) | |
 | [Jasy: Python port of Narcissus with some enhancements](https://github.com/wpbasti/jasy/tree/master/lib/jasy/parser) | |
-| [PyNarcissus](http://code.google.com/p/pynarcissus/) | Narcissus's parser ported to Python (used in [pyjon](http://code.google.com/p/pyjon/)) |
-| [rbnarcissus](http://code.google.com/p/rbnarcissus/) | Narcissus' parser ported to Ruby. |
-| [Traceur](http://code.google.com/p/traceur-compiler/) | Google's vehicle for JavaScript Language Design Experimentation |
+| [PyNarcissus](http://code.google.com/p/pynarcissus/) | Narcissus’s parser ported to Python (used in [pyjon](http://code.google.com/p/pyjon/)) |
+| [rbnarcissus](http://code.google.com/p/rbnarcissus/) | Narcissus’ parser ported to Ruby. |
+| [Traceur](http://code.google.com/p/traceur-compiler/) | Google’s vehicle for JavaScript Language Design Experimentation |
 | [EcmaScript 5 Parser (es-lab)](http://es-lab.googlecode.com/svn/trunk/site/esparser/index.html) | |
 | [EcmaScript 5 Parser (qfox)](http://esparser.qfox.nl/) | |
-| [reflect.js](https://github.com/zaach/reflect.js) | Implementation of Mozilla's (SpiderMonkey) [Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) in JavaScript |
+| [reflect.js](https://github.com/zaach/reflect.js) | Implementation of Mozilla’s (SpiderMonkey) [Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) in JavaScript |
 | [bdParse](https://github.com/altoviso/bdParse) | A JavaScript LL(1) parser in JavaScript |
 | [parse-js](http://marijnhaverbeke.nl/parse-js/) | Common Lisp JavaScript parser |
 | [ZeParser](https://github.com/qfox/ZeParser) | |
@@ -493,7 +493,7 @@
 | [Canopy](https://github.com/jcoglan/canopy) | Self-hosting PEG parser compiler for JavaScript, influenced by Ruby parser generators such as Treetop and Citrus |
 | [JS/CC](http://jscc.phorward-software.com/) | LALR(1) parser generator |
 | [jsparse](https://github.com/doublec/jsparse) | PEG by Grandmaster Chris Double |
-| [ReParse](https://github.com/weaver/ReParse) | Parser combinator library for JavaScript like Haskell's Parsec |
+| [ReParse](https://github.com/weaver/ReParse) | Parser combinator library for JavaScript like Haskell’s Parsec |
 | [p4js](https://github.com/asmyczek/p4js) | Monadic parser library for JavaScript |
 | [JSGLR](http://blog.kalleberg.org/post/1256702765/prototype-of-a-scannerless-generalized-left-to-right) | Scannerless, Generalized Left-to-right Rightmost (SGLR) derivation parser for JavaScript |
 | [ANTLR 3](https://github.com/antlr/examples-v3) | Has a JavaScript target. ANTLR 4 has [not implemented its JavaScript target yet](https://theantlrguy.atlassian.net/wiki/display/ANTLR4/Runtime+Libraries+and+Code+Generation+Targets). |
@@ -508,7 +508,7 @@
 | [WebAssembly](https://www.w3.org/community/webassembly/) | W3C cross-browser collaboration on a new, portable, size- and load-time-efficient format suitable for compilation to the web. |
 | [Closure Compiler AST Documentation](https://docs.google.com/viewer?url=http%3A%2F%2Fclosure-compiler.googlecode.com%2Ffiles%2Fclosure-compiler-ast.pdf) | |
 | [SpiderMonkey Parser API](https://developer.mozilla.org/en/SpiderMonkey/Parser_API) | See also reflect.js above. The AST interface specification is succeeded by the ESTree specification effort. |
-| [ESTree Specification](https://github.com/estree/estree) | An effort to better standardize an AST specification based on the original Spidermonkey Parser API. It is used by Acorn, Esprima, and SpiderMonkey's own parser. This succeeds the original SpiderMonkey Parser API's AST specification. |
+| [ESTree Specification](https://github.com/estree/estree) | An effort to better standardize an AST specification based on the original Spidermonkey Parser API. It is used by Acorn, Esprima, and SpiderMonkey’s own parser. This succeeds the original SpiderMonkey Parser API’s AST specification. |
 | [Shift JavaScript AST Specification](https://github.com/shapesecurity/shift-spec) | See this [blog post](http://engineering.shapesecurity.com/2014/12/announcing-shift-javascript-ast.html) with more information |
 | [JsonML AST](http://code.google.com/p/es-lab/wiki/JsonMLASTFormat) | Format used by the es5 parser |
 | [treehugger](https://github.com/ajaxorg/treehugger) | JavaScript AST transformation tools |
