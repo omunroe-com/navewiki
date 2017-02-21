@@ -24,6 +24,7 @@
 
 | Name | Description |
 | :---- | :---- |
+| [NodeScript](https://github.com/nodescript/nodescript) | JavaScript without the Variable Declarations and Semicolons |
 | [Bizubee](https://github.com/bizubee/bizubee) | The World’s Most Intense Programming Language! |
 | [Kaffeine](https://github.com/weepy/kaffeine) | Enhanced Syntax for JavaScript. |
 | [Jack](https://github.com/creationix/jack) | Making programming playful. |
