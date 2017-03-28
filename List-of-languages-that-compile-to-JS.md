@@ -501,6 +501,7 @@
 | [Cruiser.Parse](http://code.google.com/p/cruiser/wiki/Parse) | LL(k) parser |
 | [MetaCoffee](https://github.com/xixixao/meta-coffee) | PEG parser using CoffeeScript and white-space-significant syntax |
 | [Bennu](http://bennu-js.com) | Parsec inspired Javascript parser combinator library. |
+| [bison-lalr1.js](https://github.com/peter-leonov/bison-lalr1.js) | JavaScript skeleton for Bison GNU Parser Generator |
 
 #### JavaScript AST, Semantics
 
