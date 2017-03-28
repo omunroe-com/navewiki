@@ -137,6 +137,7 @@
 | [Quby](http://www.playmycode.com/docs/quby) | Used for game coding site, [open source](https://github.com/PlayMyCode/Quby). |
 | [8ball](https://github.com/mattknox/8ball) | Ruby-to-JavaScript source-to-source transformer |
 | [Ruby2JS](https://github.com/rubys/ruby2js) | Minimal yet extensible Ruby to JavaScript conversion. |
+| [ruby-parser.js](https://github.com/peter-leonov/ruby-parser.js) | Original Ruby 2.0 parser ported to pure JavaScript, produces AST |
 
 ### Python
 
