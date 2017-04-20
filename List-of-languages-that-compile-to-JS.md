@@ -19,7 +19,7 @@
 | [Caffeine](https://github.com/ich/caffeine) | A dialect of CoffeeScript that supports packages and classes import, useful for browser applications |
 | [heap.coffee](https://github.com/syg/heap.coffee) | A dialect of CoffeeScript that offers a C-like type system with manual memory management |
 | [EmberScript](http://emberscript.com) | Ember.js-infused CoffeeScript. |
-| [BlackCoffee](https://github.com/paiq/blackcoffee) | CoffeeScript with hygienic macros. |
+| [BlackCoffee](https://github.com/paiq/blackcoffee) | CoffeeScript with hygienic macros. See also [#3171](https://github.com/jashkenas/coffeescript/pull/3171) |
 
 #### Friends (philosophically related)
 
