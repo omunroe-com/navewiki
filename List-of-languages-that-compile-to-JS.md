@@ -263,6 +263,7 @@
 | [scheme2js](http://www-sop.inria.fr/indes/scheme2js/) | Scheme to JavaScript. |
 | [Spock](http://wiki.call-cc.org/eggref/4/spock) | A Scheme to JavaScript compiler that uses Henry Baker’s Cheney-on-the-MTA compilation strategy |
 | [Whalesong](http://hashcollision.org/whalesong/) | Racket to JS compiler |
+| [RacketScript](https://github.com/vishesh/racketscript) | Lightweight Racket to JavaScript compiler. The generated code is ES6, which can be translated to ES5 using Babel or Traceur. |
 
 #### Other
 
