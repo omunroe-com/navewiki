@@ -45,7 +45,7 @@
 | [ColaScript](https://github.com/TrigenSoftware/ColaScript) | Similar to Dart, CoffeeScript, Python and PHP |
 | [Taijilang](https://github.com/taijiweb/taijilang) | A customizable and extensible language with dynamic parser and meta language. |
 | [MoonScript](http://moonscript.org/) | MoonScript is a dynamic scripting language that compiles into Lua. The syntax of MoonScript has been heavily inspired by the syntax of CoffeeScript. |
-| [Earl Grey](http://breuleux.github.io/earl-grey/repl/) | An extensible language with pattern matching, hygienic macros and a syntax similar to Python. |
+| [Earl Grey](http://www.earl-grey.io/) | An extensible language with pattern matching, hygienic macros and a syntax similar to Python. |
 | [Khepri](http://khepri-lang.com) | Lightweight language that reworks Javascript’s syntax to be better for untyped functional-style programming. |
 | [Spider](https://github.com/alongubkin/spider) | Spider is a programming language that compiles to JavaScript (ES5 and ES6 targets). It takes the best ideas of Go, Swift, Python, C# and CoffeeScript. |
 | [CirruScript](http://script.cirru.org/) | Write JavaScript with indentations and polish notations, similar to S-Expression but with fewer parentheses. |
