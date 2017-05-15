@@ -113,21 +113,13 @@ ought to do the trick.  A word of caution, though: only do this when you’re su
    and move them over to `documentation/sections/changelog.md`. It helps visiting
    related issues and PRs on github while doing this.
 
-3. Run `cake build:parser && cake build:full` to rebuild the JavaScript files from the CoffeeScript
+3. Run `cake release` to rebuild the JavaScript files from the CoffeeScript
    source, which should include the new version number. It also runs the tests
-   just to make sure that everything is good to go.
+   just to make sure that everything is good to go. It also rebuilds the
+   documentation, including test.html and the annotated source. In short,
+   everything.
 
-4. Run `cake build:browser` to build the browser version.
-
-5. Run `cake doc:site` to build the documentation for the website. (This
-   actually starts a watch mode. You may kill it when it has finished building
-   once.)
-
-6. Run `cake doc:test` to build the browser-based tests for the website.
-
-7. Run `cake doc:source` to build the annotated source code documentation.
-
-8. Commit all the changes. If you’re updating to `2.0.0`, `CoffeeScript 2.0.0`
+4. Commit all the changes. If you’re updating to `2.0.0`, `CoffeeScript 2.0.0`
    is a good commit message.
 
-9. Send a PR! (Amend and force-push changes requested by reviewers if needed.)
+5. Send a PR! (Amend and force-push changes requested by reviewers if needed.)
