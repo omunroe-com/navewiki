@@ -64,7 +64,7 @@ No going back after you type this:
 npm publish --tag next
 ```
 
-This publishes the current folder to NPM as the version in `package.json`, and updates the `next` tag to point to it. (The `latest` tag should still point to the latest 1.x version). You can type `npm dist-tag ls coffee-script` to confirm.
+This publishes the current folder to NPM as the version in `package.json`, and updates the `next` tag to point to it. (The `latest` tag should still point to the latest 1.x version). You can type `npm dist-tag ls coffeescript` to confirm.
 
 Let’s tag this commit so that we know exactly which commit was published:
 
