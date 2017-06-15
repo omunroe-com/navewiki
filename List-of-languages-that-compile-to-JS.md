@@ -34,7 +34,7 @@
 | [pogoscript](http://pogoscript.org/) | Language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript |
 | [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
 | [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
-| [Sibilant](http://sibilantjs.info) | JavaScript with a lisp. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
+| [Sibilant](https://sibilant.org/) | JavaScript with a lisp. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
 | [ki](http://ki-lang.org) | Clojure-like syntax, [mori](http://swannodette.github.io/mori/)’s immutable data structures in a few [sweet.js](http://sweetjs.org) macros. Can be intermixed with JavaScript. *[○](#clojure-like “this item appears twice in this list; jump to its other instance”)* |
 | [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
 | [Ham](https://github.com/jameskeane/ham-script) | Looks very similar to JavaScript at first, but offers (hopefully) many useful features |
@@ -277,7 +277,7 @@
 | [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [Outlet](https://github.com/jlongster/outlet) | A simple Lisp that supports CPS and in-browser stepping debugging, and other things. In development. |
 | [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
-| [Sibilant](http://sibilantjs.info) | JavaScript with a lisp. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
+| [Sibilant](https://sibilant.org/) | JavaScript with a lisp. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [JSCL](https://github.com/davazp/jscl) | A Lisp-to-Javascript compiler bootstrapped from Common Lisp |
 
