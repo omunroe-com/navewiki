@@ -89,6 +89,7 @@
 | [PureScript](http://purescript.org) | A small, strongly typed programming language that compiles to JavaScript and C++, featuring extensible records and effects, and type classes. |
 | [Flow](http://flowtype.org) | Static type checker for JavaScript, supports optional types and null checks by Facebook. |
 | [ActionScript](http://flex.apache.org/download-flexjs.html) | With Apache FlexJS - Based on ECMAScript 4, ActionScript provides typing and can be compiled to JavaScript. |
+| [BuckleScript](https://github.com/BuckleScript/bucklescript) | OCaml compiled to readable JavaScript. |
 
 #### Synchronous to Asynchronous JavaScript Compilers (CPS)
 
