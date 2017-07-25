@@ -448,7 +448,6 @@
 | [JEnglish](http://jenglish.org/) | Interprets regular English statements into HTML/CSS |
 | [uilang](https://github.com/bendc/uilang) & [uiscript](https://github.com/qweek/uiscript) | Simple UI-focused script languages for web designers |
 | [Hodor](http://www.hodor-lang.org/) | Hodor programming language |
-| [Mason](http://mason-lang.org) | |
 | [L2](https://github.com/gjmcn/L2) | A simple, table-based language for data analysis |
 | [YoptaScript](https://github.com/samgozman/YoptaScript) | Language for gopniks (post-Soviet aggressive young lower-class suburban male dwellers coming from families of poor education and income) |
 
