@@ -51,7 +51,7 @@
 | [CokeScript](https://github.com/batiste/CokeScript) | Inspired by Python and Ruby that integrates natively with the [Virtual-DOM library](https://github.com/Matt-Esch/virtual-dom) |
 | [imba](http://imba.io/) | Compiles to performant and readable JavaScript |
 | [Cor](http://yosbelms.github.io/cor) | Straightforward language for the Web |
-| [Iode](https://github.com/iode-lang/iode-js) | A language inspired by Swift |
+| [Iode](https://github.com/iode-lang/iode) | A language inspired by Swift |
 | [FutureScript](http://futurescript.org/) | A more radical, but more readable, different new language. |
 | [PearScript](https://github.com/kocisov/pearscript) | Shorthanding JavaScript one more time. |
 | [RamdaScript](https://github.com/yosbelms/ramdascript) | JavaScript in the Ramda way. |
