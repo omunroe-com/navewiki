@@ -47,6 +47,8 @@ fn = (arg = 'default value') ->
   console.log arg
 ```
 
+Note: this has now changed in version 2: http://coffeescript.org/#breaking-changes-default-values
+
 This is a much clearer format. These issues highlight the primary arguments for and against:
 [#16](http://github.com/jashkenas/coffee-script/issues/16),
 [#92](http://github.com/jashkenas/coffee-script/issues/92)
