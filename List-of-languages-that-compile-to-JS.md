@@ -28,7 +28,7 @@
 | [NodeScript](https://github.com/nodescript/nodescript) | JavaScript without the Variable Declarations and Semicolons |
 | [Bizubee](https://github.com/bizubee/bizubee) | The World’s Most Intense Programming Language! |
 | [Kaffeine](https://github.com/weepy/kaffeine) | Enhanced Syntax for JavaScript. |
-| [Moescript](https://github.com/moescript/moescript) | Indent-based language |
+| Moescript (dead link (https://github.com/moescript/moescript)) | Indent-based language |
 | [pogoscript](http://pogoscript.org/) | Language that emphasises readability, handles async control flow nicely, is friendly to domain specific languages and compiles to regular JavaScript |
 | [LispyScript](http://lispyscript.com/) | A JavaScript with Lispy syntax and Macros. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
 | [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#other “this item appears twice in this list; jump to its other instance”)* |
