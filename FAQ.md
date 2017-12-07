@@ -20,6 +20,22 @@ last = array[index]
 
   Every time this kind of property access appears, we would need to do: `array[index < 0 ? array.length + index : index]`, which is unacceptable, especially because we don't even know if `array` is an Array or not.
 
+  Also, wrapping Array::slice in a friendly utility function is usually good enough:
+
+```coffeescript
+tail = (arr, idx = 1, len = 1) -> arr.slice (from = arr.length - idx), from + len
+
+array = [5..10]
+last = tail array
+# => 10
+
+penultimate = tail array, 2
+# => 9
+
+lastTwo = tail array, 2, 2
+# => [9, 10]
+```
+
 ----
 
 **Q:** What about only when the specifically passed a negative value, like this: `array[-index]`?
