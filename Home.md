@@ -24,7 +24,7 @@ To stay up-to-date with CoffeeScript, follow [@coffeescript](http://twitter.com/
 
 ### In The Wild
 
-* [CoffeeScript in real projects](In The Wild)
+* [CoffeeScript in real projects](In-The-Wild)
 * [[List of languages that compile to JS]]
 
 ### How-Tos
