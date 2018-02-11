@@ -278,7 +278,7 @@
 | [Hot Cocoa Lisp](https://github.com/olleicua/hcl) | A Lisp-like language that compiles to JavaScript. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [Sibilant](https://sibilant.org/) | JavaScript with a lisp. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
 | [jisp](http://jisp.io/) | A JS-native and axiomatic Lisp that focuses on the core ideas of code-as-data, S-expressions, and macros, introducing as few new concepts as possible. *[○](#friends-philosophically-related “this item appears twice in this list; jump to its other instance”)* |
-| [JSCL](https://github.com/davazp/jscl) | A Lisp-to-Javascript compiler bootstrapped from Common Lisp |
+| [JSCL](https://github.com/jscl-project/jscl) | A Lisp-to-Javascript compiler bootstrapped from Common Lisp |
 
 ### OCaml
 
