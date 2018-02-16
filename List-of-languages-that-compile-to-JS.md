@@ -480,7 +480,7 @@
 | Name | Description |
 | :---- | :---- |
 | [Closure Compiler](http://code.google.com/closure/compiler/) | An optimizing compiler. Can generate a (line/col)-number mappings file. |
-| [UglifyJS](https://github.com/mishoo/UglifyJS) | |
+| [UglifyJS](https://github.com/mishoo/UglifyJS2) | |
 
 #### JavaScript Parser Generators
 
