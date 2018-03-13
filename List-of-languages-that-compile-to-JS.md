@@ -416,6 +416,7 @@
 | :---- | :---- |
 | [prolog.js](https://github.com/jldupont/prolog.js) | Prolog parser, compiler, and interpreter in JavaScript |
 | [Yield Prolog](http://yieldprolog.sourceforge.net/) | Compiles Prolog into JavaScript, C#, and Python |
+| [Tau Prolog](http://tau-prolog.org/) | Prolog interpreter in JavaScript |
 
 ### Others
 
