@@ -168,6 +168,7 @@
 | :---- | :---- |
 | [Shen](https://synrc.com/apps/n2o/doc/web/macros.htm) | First and yet smallest Erlang JavaScript Compiler based on Erlang AST. It allows you to translate Elixir, Joxa, [Lol](https://github.com/b0oh/lol) and Erlang programs to JavaScript with erlc. [JavaScript/OTP subset](http://synrc.github.io/shen/). Has node npm package called [erlang-shen-js](https://www.npmjs.org/package/erlang-shen-js). |
 | [LuvvieScript](http://luvv.ie) | A browser-based dom-scripting language that is a strict sub-set of Erlang which is AST-to-AST transpiled to JavaScript ([code ](https://github.com/hypernumbers/luvviescript)) |
+| [browserl](http://svahne.github.com/browserl/) | Erlang Emulator written in JavaScript |
 
 ### Elixir
 
@@ -437,7 +438,6 @@
 | [lua.js](https://github.com/mherkender/lua.js) | Lua parser |
 | [Brozula](https://github.com/creationix/brozula) | Lua bytecode interpreter |
 | [Pygmy](http://peterolson.github.com/Pygmy/Docs/index.html) | A dynamic language that compiles to JavaScript designed to be readable but concise enough to be competitive in code golf. |
-| [browserl](http://svahne.github.com/browserl/) | Erlang Emulator written in JavaScript |
 | [ErlyJS](https://github.com/baryluk/erlyjs) | JavaScript to Erlang compiler |
 | [Topaz](https://github.com/giesse/Project-SnowBall) | Rebol inspired language on top of JavaScript |
 | [NGN APL](https://github.com/ngn/apl) | APL-to-JavaScript compiler written in CoffeeScript |
