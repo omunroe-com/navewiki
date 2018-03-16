@@ -445,7 +445,7 @@
 | [Idris](https://github.com/idris-lang/idris-dev) | Dependently typed functional language with a JavaScript backend. |
 | [Wortel](https://github.com/atennapel/Wortel) | J/APL inspired language with Polish Notation, compiles to JavaScript. |
 | [oK](https://github.com/JohnEarnest/ok) | K5 implementation on top of Javascript. |
-| [JEnglish](http://jenglish.org/) | Interprets regular English statements into HTML/CSS |
+| [JEnglish](https://github.com/JEnglishOrg/JEnglish/) | Interprets regular English statements into HTML/CSS |
 | [uilang](https://github.com/bendc/uilang) & [uiscript](https://github.com/qweek/uiscript) | Simple UI-focused script languages for web designers |
 | [Hodor](http://www.hodor-lang.org/) | Hodor programming language |
 | [L2](https://github.com/gjmcn/L2) | A simple, table-based language for data analysis |
