@@ -424,6 +424,7 @@
 
 | Name | Description |
 | :---- | :---- |
+| [Pyret](https://www.pyret.org/) | A teaching language that runs in the browser. |
 | [Oia](https://github.com/stevedekorte/oia) | A port of Io to JavaScript. |
 | [Plaid](http://www.plaid-lang.org) | A gradually-typed, typestate-oriented language designed as a better Java. |
 | [Quixe](https://github.com/erkyrath/quixe) | A Glulx VM interpreter written in JavaScript |
