@@ -4,9 +4,9 @@ If you would like to help with CoffeeScript development, or would just like to p
 
 ## Quick Start
 
-    git clone git://github.com/jashkenas/coffee-script.git
-    cd coffee-script
-    …make your changes
+    git clone git://github.com/jashkenas/coffeescript.git
+    cd coffeescript
+    # …make your changes
     bin/cake build:full
     bin/coffee <your testing sample code>
 
@@ -24,14 +24,14 @@ You need Node to run the CoffeeScript compiler.
 
 CoffeeScript is *self-hosting*.  This means that the CoffeeScript compiler is written in.... CoffeeScript.  If that makes your head hurt, welcome to the world of compilers and transpilers :)
 
-    npm install -g coffee-script
+    npm install -g coffeescript
 
 *Note: You don’t technically need this, as CoffeeScript’s git repository includes a version of its own compiler in the bin directory that it uses during the build process.  However, installing this puts CoffeeScript on your path and gives you the “official” version for playing around with things outside of the source directory.*
 
 ## 2. Fetch the source
 
     cd your_projects_dir
-    git clone git://github.com/jashkenas/coffee-script.git
+    git clone git://github.com/jashkenas/coffeescript.git
 
 ## 3. Build the JavaScript files from the CoffeeScript source
 
@@ -111,7 +111,7 @@ ought to do the trick.  A word of caution, though: only do this when you’re su
    need to be mentioned explicitly in the change log and reduce related commits
    to single entries. Then turn them into nice little summarizing bullet points
    and move them over to `documentation/sections/changelog.md`. It helps visiting
-   related issues and PRs on github while doing this.
+   related issues and PRs on GitHub while doing this.
 
 3. Run `cake release` to rebuild the JavaScript files from the CoffeeScript
    source, which should include the new version number. It also runs the tests
@@ -119,7 +119,7 @@ ought to do the trick.  A word of caution, though: only do this when you’re su
    documentation, including test.html and the annotated source. In short,
    everything.
 
-4. Commit all the changes. If you’re updating to `2.0.0`, `CoffeeScript 2.0.0`
+4. Commit all the changes. If you’re updating to `9.0.0`, `CoffeeScript 9.0.0`
    is a good commit message.
 
 5. Send a PR! (Amend and force-push changes requested by reviewers if needed.)
