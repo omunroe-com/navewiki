@@ -403,6 +403,7 @@
 | [sqld3](https://github.com/steveyen/sqld3) | |
 | [Alasql](https://github.com/agershun/alasql) | SQL to JavaScript parser and compiler |
 | [sql.js](https://github.com/kripken/sql.js) | SQLite compiled to javascript |
+| [RBQL](https://rbql.org) | SQL-like language that compiles to JavaScript and Python |
 
 ### PHP
 
