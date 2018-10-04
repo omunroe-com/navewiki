@@ -385,6 +385,7 @@
 
 | Name | Description |
 | :---- | :---- |
+| [SCION SCXML](http://scion.scxml.io/) | Tools for W3C [State Chart XML](https://www.w3.org/TR/scxml/), a state machine language. Tools include an SCXML-to-JS compiler and graphical debugger. |
 | [Waterbear](http://waterbearlang.com/) | Tool for making Scratch-inspired block-based languages on the web. Examples include blocks for JavaScript, ProcessingJS, NodeJS, and more. |
 | [Snap](http://snap.berkeley.edu/snapsource/snap.html) | JavaScript of BYOB, which is a fork of [Scratch](http://scratch.mit.edu/) |
 | [ScriptBlocks](http://code.google.com/p/scriptblocks/) | |
